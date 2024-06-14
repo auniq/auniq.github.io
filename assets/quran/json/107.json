@@ -1,0 +1,352 @@
+{
+  "code": 200,
+  "status": "OK.",
+  "message": "Success fetching surah.",
+  "data": {
+    "number": 107,
+    "sequence": 17,
+    "numberOfVerses": 7,
+    "name": {
+      "short": "\u0637\u00A7\u0638\u201E\u0638\u2026\u0637\u00A7\u0637\u00B9\u0638\u02C6\u0638\u2020",
+      "long": "\u0637\u00B3\u0638\u02C6\u0637\u00B1\u0637\u00A9 \u0637\u00A7\u0638\u201E\u0638\u2026\u0637\u00A7\u0637\u00B9\u0638\u02C6\u0638\u2020",
+      "transliteration": {
+        "en": "Al-Maa\u0027un",
+        "id": "Al-Ma\u0027un"
+      },
+      "translation": {
+        "en": "Almsgiving",
+        "id": "Barang Yang Berguna"
+      }
+    },
+    "revelation": {
+      "arab": "\u0638\u2026\u0638\u0192\u0637\u00A9",
+      "en": "Meccan",
+      "id": "Makkiyyah"
+    },
+    "tafsir": {
+      "id": "Surat ini terdiri atas 7 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat At Taakatsur. Nama Al Maa\u0027uun diambil dari kata Al Maa\u0027uun yang terdapat pada ayat 7, artinya barang-barang yang berguna."
+    },
+    "preBismillah": {
+      "text": {
+        "arab": "\u0637\u00A8\u0638\u06AF\u0637\u00B3\u0638\u2019\u0638\u2026\u0638\u06AF \u0637\u00A7\u0638\u201E\u0638\u201E\u0638\u2018\u0638\u0698\u0638\u2021\u0638\u06AF \u0637\u00A7\u0638\u201E\u0637\u00B1\u0638\u2018\u0638\u0698\u0637\u00AD\u0638\u2019\u0638\u2026\u0638\u0698\u0638\u00B0\u0638\u2020\u0638\u06AF \u0637\u00A7\u0638\u201E\u0637\u00B1\u0638\u2018\u0638\u0698\u0637\u00AD\u0638\u06AF\u0638\u0679\u0638\u2026\u0638\u06AF",
+        "transliteration": {
+          "en": "Bismillaahir Rahmaanir Raheem"
+        }
+      },
+      "translation": {
+        "en": "In the name of Allah, the Entirely Merciful, the Especially Merciful.",
+        "id": "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang."
+      },
+      "audio": {
+        "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1",
+        "secondary": [
+          "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1.mp3",
+          "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1.mp3"
+        ]
+      }
+    },
+    "verses": [
+      {
+        "number": {
+          "inQuran": 6198,
+          "inSurah": 1,
+          "Jommal_classic": " 5436 4518 6318 6327",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 602,
+          "manzil": 7,
+          "ruku": 549,
+          "hizbQuarter": 240,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0637\u00A3\u0638\u0698\u0637\u00B1\u0638\u0698\u0637\u00A3\u0638\u0698\u0638\u0679\u0638\u2019\u0637\u06BE\u0638\u0698 \u0637\u00A7\u0638\u201E\u0638\u2018\u0638\u0698\u0637\u00B0\u0638\u06AF\u0638\u0679 \u0638\u0679\u0638\u0688\u0638\u0192\u0638\u0698\u0637\u00B0\u0638\u2018\u0638\u06AF\u0637\u00A8\u0638\u0688 \u0637\u00A8\u0638\u06AF\u0637\u00A7\u0638\u201E\u0637\u00AF\u0638\u2018\u0638\u06AF\u0638\u0679\u0638\u2020\u0638\u06AF",
+          "transliteration": {
+            "en": "Ara-aital lazee yu kazzibu bid deen",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "Have you seen the one who denies the Recompense?",
+          "id": "Tahukah kamu (orang) yang mendustakan agama?"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6198",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6198.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6198.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Tahukah kamu, wahai Rasul, orang yang mendustakan agama dan mengingkari hisab serta hari pembalasan di akhirat nanti?",
+            "long": "Dalam ayat ini, Allah menghadapkan pertanyaan kepada Nabi Muhammad, \u0022Apakah engkau mengetahui orang yang mendustakan agama dan yang dimaksud dengan orang yang mendustakan agama?\u0022 Pertanyaan ini dijawab pada ayat-ayat berikut."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 6199,
+          "inSurah": 2,
+          "Jommal_classic": " 7209 4518 4518 7218",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 602,
+          "manzil": 7,
+          "ruku": 549,
+          "hizbQuarter": 240,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u067E\u0638\u0698\u0637\u00B0\u0638\u0698\u0638\u00B0\u0638\u201E\u0638\u06AF\u0638\u0192\u0638\u0698 \u0637\u00A7\u0638\u201E\u0638\u2018\u0638\u0698\u0637\u00B0\u0638\u06AF\u0638\u0679 \u0638\u0679\u0638\u0698\u0637\u00AF\u0638\u0688\u0637\u00B9\u0638\u2018\u0638\u0688 \u0637\u00A7\u0638\u201E\u0638\u2019\u0638\u0679\u0638\u0698\u0637\u06BE\u0638\u06AF\u0638\u0679\u0638\u2026\u0638\u0698",
+          "transliteration": {
+            "en": "Fa zaalikal lazi yadu\u0027ul-yateem",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "For that is the one who drives away the orphan",
+          "id": "Maka itulah orang yang menghardik anak yatim,"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6199",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6199.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6199.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Jika engkau ingin tahu, maka para pendusta agama, hisab, dan hari pembalasan itulah orang yang menghardik anak yatim, menyakiti hatinya, dan berbuat zalim kepadanya dengan menahan haknya. Dia tidak lagi peduli terhadap anak yang sudah kehilangan tumpuan hidupnya itu.",
+            "long": "Allah lalu menjelaskan bahwa sebagian dari sifat-sifat orang yang mendustakan agama ialah orang-orang yang menolak dan membentak anak-anak yatim yang datang kepadanya untuk memohon belas-kasihnya demi kebutuhan hidupnya. Penolakannya itu sebagai penghinaan dan takabur terhadap anak-anak yatim itu."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 6200,
+          "inSurah": 3,
+          "Jommal_classic": " 3609 4518 4509 3627 9018",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 602,
+          "manzil": 7,
+          "ruku": 549,
+          "hizbQuarter": 240,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u02C6\u0638\u0698\u0638\u201E\u0638\u0698\u0637\u00A7 \u0638\u0679\u0638\u0698\u0637\u00AD\u0638\u0688\u0637\u00B6\u0638\u2018\u0638\u0688 \u0637\u00B9\u0638\u0698\u0638\u201E\u0638\u0698\u0638\u2030\u0638\u00B0 \u0637\u00B7\u0638\u0698\u0637\u00B9\u0638\u0698\u0637\u00A7\u0638\u2026\u0638\u06AF \u0637\u00A7\u0638\u201E\u0638\u2019\u0638\u2026\u0638\u06AF\u0637\u00B3\u0638\u2019\u0638\u0192\u0638\u06AF\u0638\u0679\u0638\u2020\u0638\u06AF",
+          "transliteration": {
+            "en": "Wa la ya huddu \u0027alaa ta\u0027amil miskeen",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "And does not encourage the feeding of the poor.",
+          "id": "dan tidak mendorong memberi makan orang miskin."
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6200",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6200.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6200.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "dan dia tidak mendorong orang lain untuk memberi makan orang miskin yang tidak mempunyai kecukupan untuk memenuhi keperluan hidupnya sehari-hari. Bila dia enggan mendorong orang lain untuk memberi makan dan memperhatikan kesejahteraan anak yatim, bagaimana mungkin dia, dengan kekikiran dan kecintaannya pada harta, mendorong dirinya sendiri untuk berbuat demikian?",
+            "long": "Allah menegaskan lebih lanjut sifat pendusta itu, yaitu dia tidak mengajak orang lain untuk membantu dan memberi makan orang miskin. Bila tidak mau mengajak orang memberi makan dan membantu orang miskin berarti ia tidak melakukannya sama sekali. Berdasarkan keterangan di atas, bila seorang tidak sanggup membantu orang-orang miskin maka hendaklah ia menganjurkan orang lain agar melakukan usaha yang mulia itu."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 6201,
+          "inSurah": 4,
+          "Jommal_classic": " 7200 12609",
+          "Jommal_Moderen": "9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 602,
+          "manzil": 7,
+          "ruku": 549,
+          "hizbQuarter": 240,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u067E\u0638\u0698\u0638\u02C6\u0638\u0698\u0638\u0679\u0638\u2019\u0638\u201E\u0638\u0152 \u0638\u201E\u0638\u2018\u0638\u06AF\u0638\u201E\u0638\u2019\u0638\u2026\u0638\u0688\u0637\u00B5\u0638\u0698\u0638\u201E\u0638\u2018\u0638\u06AF\u0638\u0679\u0638\u2020\u0638\u0698",
+          "transliteration": {
+            "en": "Fa wai lul-lil mu salleen",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "So woe to those who pray",
+          "id": "Maka celakalah orang yang salat,"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6201",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6201.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6201.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Maka binasa dan celakalah orang yang salat yang memiliki sifat-sifat tercela berikut.",
+            "long": "Dalam ayat-ayat ini, Allah mengungkapkan satu ancaman yaitu celakalah orang-orang yang mengerjakan salat dengan tubuh dan lidahnya, tidak sampai ke hatinya. Dia lalai dan tidak menyadari apa yang diucapkan lidahnya dan yang dikerjakan oleh anggota tubuhnya. Ia rukuk dan sujud dalam keadaan lalai, ia mengucapkan takbir tetapi tidak menyadari apa yang diucapkannya. Semua itu adalah hanya gerak biasa dan kata-kata hafalan semata-mata yang tidak mempengaruhi apa-apa, tidak ubahnya seperti robot.\n\nPerilaku tersebut ditujukan kepada orang-orang yang mendustakan agama, yaitu orang munafik. Ancaman itu tidak ditujukan kepada orang-orang muslim yang awam, tidak mengerti bahasa Arab, dan tidak tahu tentang arti dari apa yang dibacanya. Jadi orang-orang awam yang tidak memahami makna dari apa yang dibacanya dalam salat tidak termasuk orang-orang yang lalai seperti yang disebut dalam ayat ini."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 6202,
+          "inSurah": 5,
+          "Jommal_classic": " 6318 3600 1809 7227 5418",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 602,
+          "manzil": 7,
+          "ruku": 549,
+          "hizbQuarter": 240,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0637\u00A7\u0638\u201E\u0638\u2018\u0638\u0698\u0637\u00B0\u0638\u06AF\u0638\u0679\u0638\u2020\u0638\u0698 \u0638\u2021\u0638\u0688\u0638\u2026\u0638\u2019 \u0637\u00B9\u0638\u0698\u0638\u2020 \u0637\u00B5\u0638\u0698\u0638\u201E\u0638\u0698\u0637\u00A7\u0637\u06BE\u0638\u06AF\u0638\u2021\u0638\u06AF\u0638\u2026\u0638\u2019 \u0637\u00B3\u0638\u0698\u0637\u00A7\u0638\u2021\u0638\u0688\u0638\u02C6\u0638\u2020\u0638\u0698",
+          "transliteration": {
+            "en": "Al lazeena hum \u0027an salaatihim sahoon",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "[But] who are heedless of their prayer -",
+          "id": "(yaitu) orang-orang yang lalai terhadap salatnya,"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6202",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6202.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6202.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Yaitu orang-orang yang lalai terhadap salatnya, di antaranya dengan tidak memenuhi ketentuannya, mengerjakannya di luar waktunya, bermalas-malasan, dan lalai akan tujuan pelaksanaanya.",
+            "long": "Dalam ayat-ayat ini, Allah mengungkapkan satu ancaman yaitu celakalah orang-orang yang mengerjakan salat dengan tubuh dan lidahnya, tidak sampai ke hatinya. Dia lalai dan tidak menyadari apa yang diucapkan lidahnya dan yang dikerjakan oleh anggota tubuhnya. Ia rukuk dan sujud dalam keadaan lalai, ia mengucapkan takbir tetapi tidak menyadari apa yang diucapkannya. Semua itu adalah hanya gerak biasa dan kata-kata hafalan semata-mata yang tidak mempengaruhi apa-apa, tidak ubahnya seperti robot.\n\nPerilaku tersebut ditujukan kepada orang-orang yang mendustakan agama, yaitu orang munafik. Ancaman itu tidak ditujukan kepada orang-orang muslim yang awam, tidak mengerti bahasa Arab, dan tidak tahu tentang arti dari apa yang dibacanya. Jadi orang-orang awam yang tidak memahami makna dari apa yang dibacanya dalam salat tidak termasuk orang-orang yang lalai seperti yang disebut dalam ayat ini."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 6203,
+          "inSurah": 6,
+          "Jommal_classic": " 6318 3600 6327",
+          "Jommal_Moderen": "9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 602,
+          "manzil": 7,
+          "ruku": 549,
+          "hizbQuarter": 240,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0637\u00A7\u0638\u201E\u0638\u2018\u0638\u0698\u0637\u00B0\u0638\u06AF\u0638\u0679\u0638\u2020\u0638\u0698 \u0638\u2021\u0638\u0688\u0638\u2026\u0638\u2019 \u0638\u0679\u0638\u0688\u0637\u00B1\u0638\u0698\u0637\u00A7\u0637\u060C\u0638\u0688\u0638\u02C6\u0638\u2020\u0638\u0698",
+          "transliteration": {
+            "en": "Al lazeena hum yuraa-oon",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "Those who make show [of their deeds]",
+          "id": "yang berbuat ria,"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6203",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6203.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6203.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Tidak hanya itu, mereka jugalah orang-orang yang berbuat ria, baik dalam salatnya maupun semua perbuatan baiknya. Dia beramal tanpa rasa ikhlas, melainkan demi mendapat pujian dan penilaian baik dari orang lain.",
+            "long": "Allah selanjutnya menambah penjelasan tentang sifat orang pendusta agama, yaitu mereka melakukan perbuatan-perbuatan lahir hanya semata karena ria, tidak terkesan pada jiwanya untuk meresapi rahasia dan hikmahnya."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 6204,
+          "inSurah": 7,
+          "Jommal_classic": " 10809 7227",
+          "Jommal_Moderen": "9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 602,
+          "manzil": 7,
+          "ruku": 549,
+          "hizbQuarter": 240,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u02C6\u0638\u0698\u0638\u0679\u0638\u0698\u0638\u2026\u0638\u2019\u0638\u2020\u0638\u0698\u0637\u00B9\u0638\u0688\u0638\u02C6\u0638\u2020\u0638\u0698 \u0637\u00A7\u0638\u201E\u0638\u2019\u0638\u2026\u0638\u0698\u0637\u00A7\u0637\u00B9\u0638\u0688\u0638\u02C6\u0638\u2020\u0638\u0698",
+          "transliteration": {
+            "en": "Wa yamna\u0027oonal ma\u0027oon",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "And withhold [simple] assistance.",
+          "id": "dan enggan (memberikan) bantuan."
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6204",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6204.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6204.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Dan di samping itu, mereka juga enggan memberikan bantuan kepada sesama, bahkan untuk sekadar meminjamkan barang keperluan sehari-hari yang sepele. Hal ini mengindikasikan buruknya akhlak mereka kepada orang lain. Dengan begitu, lengkaplah keburukan mereka. Selain tidak beridabah kepada Tuhan dengan sempurna, mereka pun tidak berbuat baik kepada manusia.",
+            "long": "Allah menambahkan lagi dalam ayat ini sifat pendusta itu, yaitu mereka tidak mau memberikan barang-barang yang diperlukan oleh orang-orang yang membutuhkannya, sedang barang itu tak pantas ditahan, seperti periuk, kapuk, cangkul, dan lain-lain. \n\nKeadaan orang yang membesarkan agama berbeda dengan keadaan orang yang mendustakan agama, karena yang pertama tampak dalam tata hidupnya yang jujur, adil, kasih sayang, pemurah, dan lain-lain. Sedangkan sifat pendusta agama ialah ria, curang, aniaya, takabur, kikir, memandang rendah orang lain, tidak mementingkan yang lain kecuali dirinya sendiri, bangga dengan harta dan kedudukan, serta tidak mau mengeluarkan sebahagian dari hartanya, baik untuk keperluan perseorangan maupun untuk masyarakat."
+          }
+        }
+      }
+    ]
+  }
+}

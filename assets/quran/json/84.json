@@ -1,0 +1,1126 @@
+{
+  "code": 200,
+  "status": "OK.",
+  "message": "Success fetching surah.",
+  "data": {
+    "number": 84,
+    "sequence": 83,
+    "numberOfVerses": 25,
+    "name": {
+      "short": "\u0637\u00A7\u0638\u201E\u0637\u00A5\u0638\u2020\u0637\u00B4\u0638\u201A\u0637\u00A7\u0638\u201A",
+      "long": "\u0637\u00B3\u0638\u02C6\u0637\u00B1\u0637\u00A9 \u0637\u00A7\u0638\u201E\u0637\u00A5\u0638\u2020\u0637\u00B4\u0638\u201A\u0637\u00A7\u0638\u201A",
+      "transliteration": {
+        "en": "Al-Inshiqaaq",
+        "id": "Al-Insyiqaq"
+      },
+      "translation": {
+        "en": "The Splitting Open",
+        "id": "Terbelah"
+      }
+    },
+    "revelation": {
+      "arab": "\u0638\u2026\u0638\u0192\u0637\u00A9",
+      "en": "Meccan",
+      "id": "Makkiyyah"
+    },
+    "tafsir": {
+      "id": "Surat Al Insyiqaaq, terdiri atas 25 ayat, termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat Al Infithaarr. Dinamai Al Insyiqaaq (terbelah), diambil dari perkataan Insyaqqat yang terdapat pada permulaan surat ini, yang pokok katanya ialah insyiqaaq."
+    },
+    "preBismillah": {
+      "text": {
+        "arab": "\u0637\u00A8\u0638\u06AF\u0637\u00B3\u0638\u2019\u0638\u2026\u0638\u06AF \u0637\u00A7\u0638\u201E\u0638\u201E\u0638\u2018\u0638\u0698\u0638\u2021\u0638\u06AF \u0637\u00A7\u0638\u201E\u0637\u00B1\u0638\u2018\u0638\u0698\u0637\u00AD\u0638\u2019\u0638\u2026\u0638\u0698\u0638\u00B0\u0638\u2020\u0638\u06AF \u0637\u00A7\u0638\u201E\u0637\u00B1\u0638\u2018\u0638\u0698\u0637\u00AD\u0638\u06AF\u0638\u0679\u0638\u2026\u0638\u06AF",
+        "transliteration": {
+          "en": "Bismillaahir Rahmaanir Raheem"
+        }
+      },
+      "translation": {
+        "en": "In the name of Allah, the Entirely Merciful, the Especially Merciful.",
+        "id": "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang."
+      },
+      "audio": {
+        "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1",
+        "secondary": [
+          "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1.mp3",
+          "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1.mp3"
+        ]
+      }
+    },
+    "verses": [
+      {
+        "number": {
+          "inQuran": 5885,
+          "inSurah": 1,
+          "Jommal_classic": " 1827 5436 5427",
+          "Jommal_Moderen": "9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 589,
+          "manzil": 7,
+          "ruku": 526,
+          "hizbQuarter": 236,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0637\u00A5\u0638\u06AF\u0637\u00B0\u0638\u0698\u0637\u00A7 \u0637\u00A7\u0638\u201E\u0637\u00B3\u0638\u2018\u0638\u0698\u0638\u2026\u0638\u0698\u0637\u00A7\u0637\u060C\u0638\u0688 \u0637\u00A7\u0638\u2020\u0637\u00B4\u0638\u0698\u0638\u201A\u0638\u2018\u0638\u0698\u0637\u06BE\u0638\u2019",
+          "transliteration": {
+            "en": "Izas samaaa\u0027un shaqqat",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "When the sky has split [open]",
+          "id": "Apabila langit terbelah,"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5885",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5885.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5885.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Apabila langit yang kukuh itu terbelah ketika Allah menghilangkan keseimbangan di antara benda-benda langit. Terjadilah tabrakan antarbenda langit. Langit pun terbelah lalu digulung dan akhirnya terempas tidak berbekas.",
+            "long": "Dalam ayat-ayat ini, Allah menerangkan bahwa apabila langit terbelah karena telah rusak hubungan bagian-bagiannya dengan rusaknya peraturan alam semesta pada hari Kiamat nanti, disebabkan perbenturan bintang-bintang di langit karena masing-masing mempunyai daya tarik tersendiri. Oleh karena itu, rusaklah peraturan alam semesta dan terjadilah gumpalan-gumpalan awan yang gelap gulita yang timbul di beberapa tempat di angkasa luar, dan langit itu akan patuh kepada apa-apa yang diperintahkan Allah. Ia pantas menjadi patuh karena dialah makhluk Tuhan yang senantiasa berada dalam kekuasaan-Nya."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5886,
+          "inSurah": 2,
+          "Jommal_classic": " 6327 6327 6318",
+          "Jommal_Moderen": "9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 589,
+          "manzil": 7,
+          "ruku": 526,
+          "hizbQuarter": 236,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u02C6\u0638\u0698\u0637\u00A3\u0638\u0698\u0637\u00B0\u0638\u06AF\u0638\u2020\u0638\u0698\u0637\u06BE\u0638\u2019 \u0638\u201E\u0638\u06AF\u0637\u00B1\u0638\u0698\u0637\u00A8\u0638\u2018\u0638\u06AF\u0638\u2021\u0638\u0698\u0637\u00A7 \u0638\u02C6\u0638\u0698\u0637\u00AD\u0638\u0688\u0638\u201A\u0638\u2018\u0638\u0698\u0637\u06BE\u0638\u2019",
+          "transliteration": {
+            "en": "Wa azinat li Rabbihaa wa huqqat",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "And has responded to its Lord and was obligated [to do so]",
+          "id": "dan patuh kepada Tuhannya, dan sudah semestinya patuh,"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5886",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5886.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5886.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Dan langit pada saat itu patuh kepada Tuhan Pencipta dan Pengatur-nya, dan sudah semestinya langit itu patuh, demikian pula alam raya, kepada Tuhan (Lihat: Surah Fussilat/41: 11).",
+            "long": "Dalam ayat-ayat ini, Allah menerangkan bahwa apabila langit terbelah karena telah rusak hubungan bagian-bagiannya dengan rusaknya peraturan alam semesta pada hari Kiamat nanti, disebabkan perbenturan bintang-bintang di langit karena masing-masing mempunyai daya tarik tersendiri. Oleh karena itu, rusaklah peraturan alam semesta dan terjadilah gumpalan-gumpalan awan yang gelap gulita yang timbul di beberapa tempat di angkasa luar, dan langit itu akan patuh kepada apa-apa yang diperintahkan Allah. Ia pantas menjadi patuh karena dialah makhluk Tuhan yang senantiasa berada dalam kekuasaan-Nya."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5887,
+          "inSurah": 3,
+          "Jommal_classic": " 3627 4536 4518",
+          "Jommal_Moderen": "9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 589,
+          "manzil": 7,
+          "ruku": 526,
+          "hizbQuarter": 236,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u02C6\u0638\u0698\u0637\u00A5\u0638\u06AF\u0637\u00B0\u0638\u0698\u0637\u00A7 \u0637\u00A7\u0638\u201E\u0638\u2019\u0637\u00A3\u0638\u0698\u0637\u00B1\u0638\u2019\u0637\u00B6\u0638\u0688 \u0638\u2026\u0638\u0688\u0637\u00AF\u0638\u2018\u0638\u0698\u0637\u06BE\u0638\u2019",
+          "transliteration": {
+            "en": "Wa izal ardu muddat",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "And when the earth has been extended",
+          "id": "dan apabila bumi diratakan,"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5887",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5887.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5887.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Dan apabila bumi diratakan setelah gunung-gunung tersapu dari tempatnya akibat dahsyatnya kekuatan yang menghempaskannya. Gunung yang besar dan kekar berubah menjadi pasir yang kemudian diterbangkan oleh tiupan angin yang dahsyat, menjadi abu yang beterbangan.",
+            "long": "Selanjutnya Allah menerangkan bahwa bila bumi dan gunung-gunung hancur berkeping-keping sehingga menjadi rata dan mengeluarkan apa yang ada di dalam \u0022perut\u0022-nya, maka hal itu adalah karena ketundukannya pada perintah Allah dan kepatuhan melakukan kehendak-Nya.\n\nDalam ayat-ayat lain, Allah berfirman:\n\nApabila bumi diguncangkan dengan guncangan yang dahsyat, dan bumi telah mengeluarkan beban-beban berat (yang dikandung)nya. (az-Zalzalah/99: 1-2)\n\nDan apabila kuburan-kuburan dibongkar. (al-Infithar/82: 4)\n\nMaka tidakkah dia mengetahui apabila apa yang di dalam kubur dikeluarkan. (al-\u0027Adiyat/100: 9)\n\nUntuk tafsir pada kalimat \u0022langit terbelah\u0022 di atas, dapat dilihat kembali pada telaah ilmiah Surah al-Insyiqaq/84:1-5, lihat pula telaah ilmiah Surah al-haqqah/69:16 dan Surah al-Infithar/82:1. Kemudian, kalimat yang mengikutinya: \u0022\u0622\u00A6dan patuh kepada Tuhannya, dan sudah semestinya langit itu patuh\u0022, mengandung pengertian bahwa kejadian itu berlangsung menurut sunatullah, yaitu menurut hukum-hukum Allah yang ada di alam semesta ini. Pengertian \u0022bumi diratakan, dan memuntahkan apa yang ada di dalamnya dan menjadi kosong\u0022 adalah bahwa bumi benar-benar luluh lantak, baik terjadinya benturan dengan planet atau benda langit lainnya, karena hilang atau kacaunya gaya gravitasi. Luluh lantaknya bumi inilah yang juga menyebabkan seluruh isi bumi dimuntahkan dan menjadikan isi bumi kosong. Kemudian, kalimat yang mengikutinya: \u0022\u0622\u00A6dan patuh kepada Tuhannya, dan sudah semestinya bumi itu patuh\u0022, mengandung pengertian bahwa kejadian itu berlangsung menurut sunatullah, yaitu menurut hukum-hukum Allah yang ada di alam semesta ini."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5888,
+          "inSurah": 4,
+          "Jommal_classic": " 7218 1809 4509 7227",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 589,
+          "manzil": 7,
+          "ruku": 526,
+          "hizbQuarter": 236,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u02C6\u0638\u0698\u0637\u00A3\u0638\u0698\u0638\u201E\u0638\u2019\u0638\u201A\u0638\u0698\u0637\u06BE\u0638\u2019 \u0638\u2026\u0638\u0698\u0637\u00A7 \u0638\u067E\u0638\u06AF\u0638\u0679\u0638\u2021\u0638\u0698\u0637\u00A7 \u0638\u02C6\u0638\u0698\u0637\u06BE\u0638\u0698\u0637\u00AE\u0638\u0698\u0638\u201E\u0638\u2018\u0638\u0698\u0637\u06BE\u0638\u2019",
+          "transliteration": {
+            "en": "Wa alqat maa feehaa wa takhallat",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "And has cast out that within it and relinquished [it]",
+          "id": "dan memuntahkan apa yang ada di dalamnya dan menjadi kosong,"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5888",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5888.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5888.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Dan apabila bumi memuntahkan apa saja yang ada di dalamnya, seperti manusia yang terkubur, batuan, dan sebagainya, dan karenanya menjadi kosong bagaikan ibu hamil yang telah melahirkan janinnya.",
+            "long": "Selanjutnya Allah menerangkan bahwa bila bumi dan gunung-gunung hancur berkeping-keping sehingga menjadi rata dan mengeluarkan apa yang ada di dalam \u0022perut\u0022-nya, maka hal itu adalah karena ketundukannya pada perintah Allah dan kepatuhan melakukan kehendak-Nya.\n\nDalam ayat-ayat lain, Allah berfirman:\n\nApabila bumi diguncangkan dengan guncangan yang dahsyat, dan bumi telah mengeluarkan beban-beban berat (yang dikandung)nya. (az-Zalzalah/99: 1-2)\n\nDan apabila kuburan-kuburan dibongkar. (al-Infithar/82: 4)\n\nMaka tidakkah dia mengetahui apabila apa yang di dalam kubur dikeluarkan. (al-\u0027Adiyat/100: 9)\n\nUntuk tafsir pada kalimat \u0022langit terbelah\u0022 di atas, dapat dilihat kembali pada telaah ilmiah Surah al-Insyiqaq/84:1-5, lihat pula telaah ilmiah Surah al-haqqah/69:16 dan Surah al-Infithar/82:1. Kemudian, kalimat yang mengikutinya: \u0022\u0622\u00A6dan patuh kepada Tuhannya, dan sudah semestinya langit itu patuh\u0022, mengandung pengertian bahwa kejadian itu berlangsung menurut sunatullah, yaitu menurut hukum-hukum Allah yang ada di alam semesta ini. Pengertian \u0022bumi diratakan, dan memuntahkan apa yang ada di dalamnya dan menjadi kosong\u0022 adalah bahwa bumi benar-benar luluh lantak, baik terjadinya benturan dengan planet atau benda langit lainnya, karena hilang atau kacaunya gaya gravitasi. Luluh lantaknya bumi inilah yang juga menyebabkan seluruh isi bumi dimuntahkan dan menjadikan isi bumi kosong. Kemudian, kalimat yang mengikutinya: \u0022\u0622\u00A6dan patuh kepada Tuhannya, dan sudah semestinya bumi itu patuh\u0022, mengandung pengertian bahwa kejadian itu berlangsung menurut sunatullah, yaitu menurut hukum-hukum Allah yang ada di alam semesta ini."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5889,
+          "inSurah": 5,
+          "Jommal_classic": " 6327 6327 6318",
+          "Jommal_Moderen": "9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 589,
+          "manzil": 7,
+          "ruku": 526,
+          "hizbQuarter": 236,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u02C6\u0638\u0698\u0637\u00A3\u0638\u0698\u0637\u00B0\u0638\u06AF\u0638\u2020\u0638\u0698\u0637\u06BE\u0638\u2019 \u0638\u201E\u0638\u06AF\u0637\u00B1\u0638\u0698\u0637\u00A8\u0638\u2018\u0638\u06AF\u0638\u2021\u0638\u0698\u0637\u00A7 \u0638\u02C6\u0638\u0698\u0637\u00AD\u0638\u0688\u0638\u201A\u0638\u2018\u0638\u0698\u0637\u06BE\u0638\u2019",
+          "transliteration": {
+            "en": "Wa azinat li Rabbihaa wa huqqat",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "And has responded to its Lord and was obligated [to do so] -",
+          "id": "dan patuh kepada Tuhannya, dan sudah semestinya patuh."
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5889",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5889.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5889.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Dan apabila bumi patuh kepada Tuhan yang telah menciptakan-nya, dan sudah semestinya bumi itu dan alam semesta tunduk patuh dalam kekuasaan dan genggaman-Nya. Ketika kejadian-kejadian luar biasa ini tiba, manusia akan mengetahui balasan atas semua perbuatannya.",
+            "long": "Selanjutnya Allah menerangkan bahwa bila bumi dan gunung-gunung hancur berkeping-keping sehingga menjadi rata dan mengeluarkan apa yang ada di dalam \u0022perut\u0022-nya, maka hal itu adalah karena ketundukannya pada perintah Allah dan kepatuhan melakukan kehendak-Nya.\n\nDalam ayat-ayat lain, Allah berfirman:\n\nApabila bumi diguncangkan dengan guncangan yang dahsyat, dan bumi telah mengeluarkan beban-beban berat (yang dikandung)nya. (az-Zalzalah/99: 1-2)\n\nDan apabila kuburan-kuburan dibongkar. (al-Infithar/82: 4)\n\nMaka tidakkah dia mengetahui apabila apa yang di dalam kubur dikeluarkan. (al-\u0027Adiyat/100: 9)\n\nUntuk tafsir pada kalimat \u0022langit terbelah\u0022 di atas, dapat dilihat kembali pada telaah ilmiah Surah al-Insyiqaq/84:1-5, lihat pula telaah ilmiah Surah al-haqqah/69:16 dan Surah al-Infithar/82:1. Kemudian, kalimat yang mengikutinya: \u0022\u0622\u00A6dan patuh kepada Tuhannya, dan sudah semestinya langit itu patuh\u0022, mengandung pengertian bahwa kejadian itu berlangsung menurut sunatullah, yaitu menurut hukum-hukum Allah yang ada di alam semesta ini. Pengertian \u0022bumi diratakan, dan memuntahkan apa yang ada di dalamnya dan menjadi kosong\u0022 adalah bahwa bumi benar-benar luluh lantak, baik terjadinya benturan dengan planet atau benda langit lainnya, karena hilang atau kacaunya gaya gravitasi. Luluh lantaknya bumi inilah yang juga menyebabkan seluruh isi bumi dimuntahkan dan menjadikan isi bumi kosong. Kemudian, kalimat yang mengikutinya: \u0022\u0622\u00A6dan patuh kepada Tuhannya, dan sudah semestinya bumi itu patuh\u0022, mengandung pengertian bahwa kejadian itu berlangsung menurut sunatullah, yaitu menurut hukum-hukum Allah yang ada di alam semesta ini."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5890,
+          "inSurah": 6,
+          "Jommal_classic": " 1809 5418 6336 5409 3627 4509 4518 3627 9909",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 589,
+          "manzil": 7,
+          "ruku": 526,
+          "hizbQuarter": 236,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u0679\u0638\u0698\u0637\u00A7 \u0637\u00A3\u0638\u0698\u0638\u0679\u0638\u2018\u0638\u0688\u0638\u2021\u0638\u0698\u0637\u00A7 \u0637\u00A7\u0638\u201E\u0638\u2019\u0637\u00A5\u0638\u06AF\u0638\u2020\u0637\u00B3\u0638\u0698\u0637\u00A7\u0638\u2020\u0638\u0688 \u0637\u00A5\u0638\u06AF\u0638\u2020\u0638\u2018\u0638\u0698\u0638\u0192\u0638\u0698 \u0638\u0192\u0638\u0698\u0637\u00A7\u0637\u00AF\u0638\u06AF\u0637\u00AD\u0638\u0152 \u0637\u00A5\u0638\u06AF\u0638\u201E\u0638\u0698\u0638\u2030\u0638\u00B0 \u0637\u00B1\u0638\u0698\u0637\u00A8\u0638\u2018\u0638\u06AF\u0638\u0192\u0638\u0698 \u0638\u0192\u0638\u0698\u0637\u00AF\u0638\u2019\u0637\u00AD\u0638\u2039\u0637\u00A7 \u0638\u067E\u0638\u0698\u0638\u2026\u0638\u0688\u0638\u201E\u0638\u0698\u0637\u00A7\u0638\u201A\u0638\u06AF\u0638\u0679\u0638\u2021\u0638\u06AF",
+          "transliteration": {
+            "en": "Yaaa ayyuhal insaanu innaka kaadihun ilaa Rabbika kad han famulaaqeeh",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "O mankind, indeed you are laboring toward your Lord with [great] exertion and will meet it.",
+          "id": "Wahai manusia! Sesungguhnya kamu telah bekerja keras menuju Tuhanmu, maka kamu akan menemui-Nya."
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5890",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5890.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5890.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Wahai manusia! Sesungguhnya kamu ketika di dunia telah bekerja keras siang dan malam untuk terus berbuat baik maupun buruk guna menuju kepada Tuhanmu, maka pada akhirnya pasti kamu akan menemui-Nya. Tiap hari yang seseorang lalui pada hakikatnya adalah langkah menuju kematian, menuju pertemuan dengan Tuhannya, berbekal amal masing-masing, lalu Tuhan akan memberinya balasan yang setimpal.",
+            "long": "Dalam ayat ini, Allah mengungkapkan bahwa manusia dalam masa hidupnya bekerja dengan sungguh-sungguh untuk mencapai cita-citanya. Setiap langkah manusia sesungguhnya menuju kepada akhir hidupnya, yaitu mati. Hal ini berarti kembali kepada Allah. Oleh karena itu, manusia akan mengetahui tentang baik buruk pekerjaan yang telah mereka kerjakan."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5891,
+          "inSurah": 7,
+          "Jommal_classic": " 5418 3600 4518 5427 9009",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 589,
+          "manzil": 7,
+          "ruku": 526,
+          "hizbQuarter": 236,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u067E\u0638\u0698\u0637\u00A3\u0638\u0698\u0638\u2026\u0638\u2018\u0638\u0698\u0637\u00A7 \u0638\u2026\u0638\u0698\u0638\u2020\u0638\u2019 \u0637\u00A3\u0638\u0688\u0638\u02C6\u0637\u06BE\u0638\u06AF\u0638\u0679\u0638\u0698 \u0638\u0192\u0638\u06AF\u0637\u06BE\u0638\u0698\u0637\u00A7\u0637\u00A8\u0638\u0698\u0638\u2021\u0638\u0688 \u0637\u00A8\u0638\u06AF\u0638\u0679\u0638\u0698\u0638\u2026\u0638\u06AF\u0638\u0679\u0638\u2020\u0638\u06AF\u0638\u2021\u0638\u06AF",
+          "transliteration": {
+            "en": "Fa ammaa man ootiya kitaabahoo biyameenih",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "Then as for he who is given his record in his right hand,",
+          "id": "Maka adapun orang yang catatannya diberikan dari sebelah kanannya,"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5891",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5891.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5891.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Di hadapan Allah manusia akan terbagi menjadi dua kelompok: kelompok yang berbahagia dan kelompok yang sengsara. Maka adapun orang yang catatan amal-nya diberikan dari sebelah kanannya\u00E2\u20AC\u201Dmereka adalah orang yang beriman dan berbuat baik,",
+            "long": "Dalam ayat-ayat ini diterangkan golongan yang menerima catatan dengan tangan kanannya yang berisi apa-apa yang telah dikerjakannya, maka ia akan dihisab dengan mudah dan ringan. Dipaparkanlah semua perbuatannya yang baik dan yang buruk, kemudian diberi ganjaran atas perbuatannya yang baik dan dimaafkanlah perbuatannya yang buruk.\n\nDalam sebuah hadis Nabi saw dijelaskan:\n\nDari \u0027Aisyah, ia berkata, \u0022Aku mendengar Rasulullah saw. berdoa dalam sebagian salat yang dilakukannya, \u0022Wahai Allah, hisablah aku dengan hisab yang mudah\u0022. Ketika Rasul selesai salat, aku berkata: \u0022Wahai Nabi Allah, apakah hisab yang mudah itu? Rasulullah menjawab, \u0022Hisab yang mudah adalah ketika Allah memeriksa catatan amal seseorang, Dia memaafkan. Wahai \u0027Aisyah, orang yang diinterogasi pada perhitungan amalnya di hari itu (Hari Kiamat), maka ia celaka. Dan setiap musibah yang menimpa seorang mukmin, Allah akan mengampuni (dosanya) dengan musibah itu, walau hanya sekedar tertusuk duri.\u0022 (Riwayat Ahmad)\n\nMaksud Rasulullah dengan perhitungan yang mudah ialah dimaafkan segala kesalahannya, sedangkan orang yang diperiksa catatannya dengan teliti adalah orang yang mendapat malapetaka. Barang siapa mendapat perhitungan yang mudah dan ringan, ia akan kembali kepada keluarganya yang mukmin dengan gembira sebagaimana firman Allah:\n\nAdapun orang yang kitabnya diberikan di tangan kanannya, maka dia berkata, \u0022Ambillah, bacalah kitabku (ini). Sesungguhnya aku yakin bahwa (suatu saat) aku akan menerima perhitungan terhadap diriku.\u0022 Maka orang itu berada dalam kehidupan yang diridai. (al-haqqah/69: 19-21)"
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5892,
+          "inSurah": 8,
+          "Jommal_classic": " 6309 4536 2745 4527",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 589,
+          "manzil": 7,
+          "ruku": 526,
+          "hizbQuarter": 236,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u067E\u0638\u0698\u0637\u00B3\u0638\u0698\u0638\u02C6\u0638\u2019\u0638\u067E\u0638\u0698 \u0638\u0679\u0638\u0688\u0637\u00AD\u0638\u0698\u0637\u00A7\u0637\u00B3\u0638\u0698\u0637\u00A8\u0638\u0688 \u0637\u00AD\u0638\u06AF\u0637\u00B3\u0638\u0698\u0637\u00A7\u0637\u00A8\u0638\u2039\u0637\u00A7 \u0638\u0679\u0638\u0698\u0637\u00B3\u0638\u06AF\u0638\u0679\u0637\u00B1\u0638\u2039\u0637\u00A7",
+          "transliteration": {
+            "en": "Fasawfa yuhaasabu hi saabai yaseeraa",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "He will be judged with an easy account",
+          "id": "maka dia akan diperiksa dengan pemeriksaan yang mudah,"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5892",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5892.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5892.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "maka dia akan diperiksa dengan pemeriksaan yang mudah. Amal mereka akan ditampilkan secara sekilas, dan kesalahan mereka tertutup oleh kebaikan.",
+            "long": "Dalam ayat-ayat ini diterangkan golongan yang menerima catatan dengan tangan kanannya yang berisi apa-apa yang telah dikerjakannya, maka ia akan dihisab dengan mudah dan ringan. Dipaparkanlah semua perbuatannya yang baik dan yang buruk, kemudian diberi ganjaran atas perbuatannya yang baik dan dimaafkanlah perbuatannya yang buruk.\n\nDalam sebuah hadis Nabi saw dijelaskan:\n\nDari \u0027Aisyah, ia berkata, \u0022Aku mendengar Rasulullah saw. berdoa dalam sebagian salat yang dilakukannya, \u0022Wahai Allah, hisablah aku dengan hisab yang mudah\u0022. Ketika Rasul selesai salat, aku berkata: \u0022Wahai Nabi Allah, apakah hisab yang mudah itu? Rasulullah menjawab, \u0022Hisab yang mudah adalah ketika Allah memeriksa catatan amal seseorang, Dia memaafkan. Wahai \u0027Aisyah, orang yang diinterogasi pada perhitungan amalnya di hari itu (Hari Kiamat), maka ia celaka. Dan setiap musibah yang menimpa seorang mukmin, Allah akan mengampuni (dosanya) dengan musibah itu, walau hanya sekedar tertusuk duri.\u0022 (Riwayat Ahmad)\n\nMaksud Rasulullah dengan perhitungan yang mudah ialah dimaafkan segala kesalahannya, sedangkan orang yang diperiksa catatannya dengan teliti adalah orang yang mendapat malapetaka. Barang siapa mendapat perhitungan yang mudah dan ringan, ia akan kembali kepada keluarganya yang mukmin dengan gembira sebagaimana firman Allah:\n\nAdapun orang yang kitabnya diberikan di tangan kanannya, maka dia berkata, \u0022Ambillah, bacalah kitabku (ini). Sesungguhnya aku yakin bahwa (suatu saat) aku akan menerima perhitungan terhadap diriku.\u0022 Maka orang itu berada dalam kehidupan yang diridai. (al-haqqah/69: 19-21)"
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5893,
+          "inSurah": 9,
+          "Jommal_classic": " 9009 4509 6309 5436",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 589,
+          "manzil": 7,
+          "ruku": 526,
+          "hizbQuarter": 236,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u02C6\u0638\u0698\u0638\u0679\u0638\u0698\u0638\u2020\u0638\u201A\u0638\u0698\u0638\u201E\u0638\u06AF\u0637\u00A8\u0638\u0688 \u0637\u00A5\u0638\u06AF\u0638\u201E\u0638\u0698\u0638\u2030\u0638\u00B0 \u0637\u00A3\u0638\u0698\u0638\u2021\u0638\u2019\u0638\u201E\u0638\u06AF\u0638\u2021\u0638\u06AF \u0638\u2026\u0638\u0698\u0637\u00B3\u0638\u2019\u0637\u00B1\u0638\u0688\u0638\u02C6\u0637\u00B1\u0638\u2039\u0637\u00A7",
+          "transliteration": {
+            "en": "Wa yanqalibu ilaaa ahlihee masrooraa",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "And return to his people in happiness.",
+          "id": "dan dia akan kembali kepada keluarganya (yang sama-sama beriman) dengan gembira."
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5893",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5893.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5893.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Dan dia akan kembali kepada keluarganya yang sama-sama beriman dengan riang gembira. Segala kecemasan yang mereka rasakan sebelum itu akan sirna. Mereka berbahagia bagaikan pahlawan yang memenangkan peperangan (Lihat: Surah al-H\u0623\u00A0qqah/69: 19\u00E2\u20AC\u201C20).",
+            "long": "Dalam ayat-ayat ini diterangkan golongan yang menerima catatan dengan tangan kanannya yang berisi apa-apa yang telah dikerjakannya, maka ia akan dihisab dengan mudah dan ringan. Dipaparkanlah semua perbuatannya yang baik dan yang buruk, kemudian diberi ganjaran atas perbuatannya yang baik dan dimaafkanlah perbuatannya yang buruk.\n\nDalam sebuah hadis Nabi saw dijelaskan:\n\nDari \u0027Aisyah, ia berkata, \u0022Aku mendengar Rasulullah saw. berdoa dalam sebagian salat yang dilakukannya, \u0022Wahai Allah, hisablah aku dengan hisab yang mudah\u0022. Ketika Rasul selesai salat, aku berkata: \u0022Wahai Nabi Allah, apakah hisab yang mudah itu? Rasulullah menjawab, \u0022Hisab yang mudah adalah ketika Allah memeriksa catatan amal seseorang, Dia memaafkan. Wahai \u0027Aisyah, orang yang diinterogasi pada perhitungan amalnya di hari itu (Hari Kiamat), maka ia celaka. Dan setiap musibah yang menimpa seorang mukmin, Allah akan mengampuni (dosanya) dengan musibah itu, walau hanya sekedar tertusuk duri.\u0022 (Riwayat Ahmad)\n\nMaksud Rasulullah dengan perhitungan yang mudah ialah dimaafkan segala kesalahannya, sedangkan orang yang diperiksa catatannya dengan teliti adalah orang yang mendapat malapetaka. Barang siapa mendapat perhitungan yang mudah dan ringan, ia akan kembali kepada keluarganya yang mukmin dengan gembira sebagaimana firman Allah:\n\nAdapun orang yang kitabnya diberikan di tangan kanannya, maka dia berkata, \u0022Ambillah, bacalah kitabku (ini). Sesungguhnya aku yakin bahwa (suatu saat) aku akan menerima perhitungan terhadap diriku.\u0022 Maka orang itu berada dalam kehidupan yang diridai. (al-haqqah/69: 19-21)"
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5894,
+          "inSurah": 10,
+          "Jommal_classic": " 5418 3600 4518 5427 3627 5418",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 589,
+          "manzil": 7,
+          "ruku": 526,
+          "hizbQuarter": 236,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u02C6\u0638\u0698\u0637\u00A3\u0638\u0698\u0638\u2026\u0638\u2018\u0638\u0698\u0637\u00A7 \u0638\u2026\u0638\u0698\u0638\u2020\u0638\u2019 \u0637\u00A3\u0638\u0688\u0638\u02C6\u0637\u06BE\u0638\u06AF\u0638\u0679\u0638\u0698 \u0638\u0192\u0638\u06AF\u0637\u06BE\u0638\u0698\u0637\u00A7\u0637\u00A8\u0638\u0698\u0638\u2021\u0638\u0688 \u0638\u02C6\u0638\u0698\u0637\u00B1\u0638\u0698\u0637\u00A7\u0637\u060C\u0638\u0698 \u0637\u00B8\u0638\u0698\u0638\u2021\u0638\u2019\u0637\u00B1\u0638\u06AF\u0638\u2021\u0638\u06AF",
+          "transliteration": {
+            "en": "Wa ammaa man ootiya kitaabahoo waraaa\u0027a zahrih",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "But as for he who is given his record behind his back,",
+          "id": "Dan adapun orang yang catatannya diberikan dari sebelah belakang,"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5894",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5894.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5894.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Dan adapun orang yang catatan amal-nya diberikan dari sebelah belakang sebagai tanda ketidaksenangan kepada mereka,",
+            "long": "Dalam ayat-ayat ini, Allah menerangkan bahwa golongan kedua adalah mereka yang banyak mengerjakan perbuatan maksiat, durhaka, dan tidak diridai Allah. Mereka akan menerima catatan perbuatan mereka dengan tangan kiri, dan dari belakang, kemudian mereka dimasukkan ke dalam neraka.\n\nDan adapun orang yang kitabnya diberikan di tangan kirinya, maka dia berkata, \u0022Alangkah baiknya jika kitabku (ini) tidak diberikan kepadaku. Sehingga aku tidak mengetahui bagaimana perhitunganku. Wahai, kiranya (kematian) itulah yang menyudahi segala sesuatu. Hartaku sama sekali tidak berguna bagiku. Kekuasaanku telah hilang dariku.\u0022 (al-haqqah/69: 25-29)"
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5895,
+          "inSurah": 11,
+          "Jommal_classic": " 6309 4518 3636",
+          "Jommal_Moderen": "9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 589,
+          "manzil": 7,
+          "ruku": 526,
+          "hizbQuarter": 236,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u067E\u0638\u0698\u0637\u00B3\u0638\u0698\u0638\u02C6\u0638\u2019\u0638\u067E\u0638\u0698 \u0638\u0679\u0638\u0698\u0637\u00AF\u0638\u2019\u0637\u00B9\u0638\u0688\u0638\u02C6 \u0637\u00AB\u0638\u0688\u0637\u00A8\u0638\u0688\u0638\u02C6\u0637\u00B1\u0638\u2039\u0637\u00A7",
+          "transliteration": {
+            "en": "Fasawfa yad\u0027oo subooraa",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "He will cry out for destruction",
+          "id": "maka dia akan berteriak, \u00E2\u20AC\u0153Celakalah aku!\u00E2\u20AC\u200C"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5895",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5895.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5895.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "maka dia akan berteriak, \u00E2\u20AC\u0153Celakalah aku!\u00E2\u20AC\u200C (Lihat: Surah al-H\u0623\u00A0qqah/69: 25\u00E2\u20AC\u201C29). Dia merasa lebih baik mati daripada harus merasakan menghadapi azab yang akan menimpanya. Itulah balasan bagi mereka yang telah mendustakan rasul, mengingkari Allah, dan berbuat maksiat.",
+            "long": "Dalam ayat-ayat ini, Allah menerangkan bahwa golongan kedua adalah mereka yang banyak mengerjakan perbuatan maksiat, durhaka, dan tidak diridai Allah. Mereka akan menerima catatan perbuatan mereka dengan tangan kiri, dan dari belakang, kemudian mereka dimasukkan ke dalam neraka.\n\nDan adapun orang yang kitabnya diberikan di tangan kirinya, maka dia berkata, \u0022Alangkah baiknya jika kitabku (ini) tidak diberikan kepadaku. Sehingga aku tidak mengetahui bagaimana perhitunganku. Wahai, kiranya (kematian) itulah yang menyudahi segala sesuatu. Hartaku sama sekali tidak berguna bagiku. Kekuasaanku telah hilang dariku.\u0022 (al-haqqah/69: 25-29)"
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5896,
+          "inSurah": 12,
+          "Jommal_classic": " 8109 3636",
+          "Jommal_Moderen": "9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 589,
+          "manzil": 7,
+          "ruku": 526,
+          "hizbQuarter": 236,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u02C6\u0638\u0698\u0638\u0679\u0638\u0698\u0637\u00B5\u0638\u2019\u0638\u201E\u0638\u0698\u0638\u2030\u0638\u00B0 \u0637\u00B3\u0638\u0698\u0637\u00B9\u0638\u06AF\u0638\u0679\u0637\u00B1\u0638\u2039\u0637\u00A7",
+          "transliteration": {
+            "en": "Wa yaslaa sa\u0027eeraa",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "And [enter to] burn in a Blaze.",
+          "id": "Dan dia akan masuk ke dalam api yang menyala-nyala (neraka)."
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5896",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5896.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5896.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Dan tidak hanya itu, dia juga akan masuk ke dalam api neraka yang menyala-nyala dan kadar panasnya jauh lebih tinggi daripada api dunia.",
+            "long": "Dalam ayat-ayat ini, Allah menerangkan bahwa golongan kedua adalah mereka yang banyak mengerjakan perbuatan maksiat, durhaka, dan tidak diridai Allah. Mereka akan menerima catatan perbuatan mereka dengan tangan kiri, dan dari belakang, kemudian mereka dimasukkan ke dalam neraka.\n\nDan adapun orang yang kitabnya diberikan di tangan kirinya, maka dia berkata, \u0022Alangkah baiknya jika kitabku (ini) tidak diberikan kepadaku. Sehingga aku tidak mengetahui bagaimana perhitunganku. Wahai, kiranya (kematian) itulah yang menyudahi segala sesuatu. Hartaku sama sekali tidak berguna bagiku. Kekuasaanku telah hilang dariku.\u0022 (al-haqqah/69: 25-29)"
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5897,
+          "inSurah": 13,
+          "Jommal_classic": " 5409 3609 2700 6309 5436",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 589,
+          "manzil": 7,
+          "ruku": 526,
+          "hizbQuarter": 236,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0637\u00A5\u0638\u06AF\u0638\u2020\u0638\u2018\u0638\u0698\u0638\u2021\u0638\u0688 \u0638\u0192\u0638\u0698\u0637\u00A7\u0638\u2020\u0638\u0698 \u0638\u067E\u0638\u06AF\u0638\u0679 \u0637\u00A3\u0638\u0698\u0638\u2021\u0638\u2019\u0638\u201E\u0638\u06AF\u0638\u2021\u0638\u06AF \u0638\u2026\u0638\u0698\u0637\u00B3\u0638\u2019\u0637\u00B1\u0638\u0688\u0638\u02C6\u0637\u00B1\u0638\u2039\u0637\u00A7",
+          "transliteration": {
+            "en": "Innahoo kaana feee ahlihee masrooraa",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "Indeed, he had [once] been among his people in happiness;",
+          "id": "Sungguh, dia dahulu (di dunia) bergembira di kalangan keluarganya (yang sama-sama kafir)."
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5897",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5897.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5897.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Sungguh, dia yang menerima catatan amalnya dari arah belakang dahulu di dunia bergembira di kalangan keluarganya yang kafir. Mereka melampiaskan hawa nafsu dengan kufur dan berbuat maksiat, seakan mereka akan hidup selamanya.",
+            "long": "Dalam ayat-ayat ini, Allah menjelaskan bahwa ada dua hal yang menjadi sebab mengapa mereka menerima catatan amalnya dengan tangan kiri, yaitu: pertama, mereka berbuat sekehendak hatinya, mengerjakan kejahatan dan kemaksiatan dengan tidak memikirkan akibat buruk yang akan menimpa mereka di akhirat kelak.\n\nKedua, mereka menyangka bahwa mereka tidak akan kembali kepada Tuhannya dan tidak akan dibangkitkan kembali untuk dihisab dan menerima hasil perbuatan mereka di dunia."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5898,
+          "inSurah": 14,
+          "Jommal_classic": " 5409 3609 1809 3600 4518",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 589,
+          "manzil": 7,
+          "ruku": 526,
+          "hizbQuarter": 236,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0637\u00A5\u0638\u06AF\u0638\u2020\u0638\u2018\u0638\u0698\u0638\u2021\u0638\u0688 \u0637\u00B8\u0638\u0698\u0638\u2020\u0638\u2018\u0638\u0698 \u0637\u00A3\u0638\u0698\u0638\u2020 \u0638\u201E\u0638\u2018\u0638\u0698\u0638\u2020 \u0638\u0679\u0638\u0698\u0637\u00AD\u0638\u0688\u0638\u02C6\u0637\u00B1\u0638\u0698",
+          "transliteration": {
+            "en": "Innahoo zanna al lai yahoor",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "Indeed, he had thought he would never return [to Allah].",
+          "id": "Sesungguhnya dia mengira bahwa dia tidak akan kembali (kepada Tuhannya)."
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5898",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5898.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5898.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Sesungguhnya dia menikmati kekafirannya, merasa leluasa berbuat maksiat, dan mengira bahwa dia tidak akan kembali kepada Tuhan untuk dimintai pertanggungjawaban.",
+            "long": "Dalam ayat-ayat ini, Allah menjelaskan bahwa ada dua hal yang menjadi sebab mengapa mereka menerima catatan amalnya dengan tangan kiri, yaitu: pertama, mereka berbuat sekehendak hatinya, mengerjakan kejahatan dan kemaksiatan dengan tidak memikirkan akibat buruk yang akan menimpa mereka di akhirat kelak.\n\nKedua, mereka menyangka bahwa mereka tidak akan kembali kepada Tuhannya dan tidak akan dibangkitkan kembali untuk dihisab dan menerima hasil perbuatan mereka di dunia."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5899,
+          "inSurah": 15,
+          "Jommal_classic": " 4509 3609 4518 3609 2709 3636",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 589,
+          "manzil": 7,
+          "ruku": 526,
+          "hizbQuarter": 236,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0637\u00A8\u0638\u0698\u0638\u201E\u0638\u0698\u0638\u2030\u0638\u00B0 \u0637\u00A5\u0638\u06AF\u0638\u2020\u0638\u2018\u0638\u0698 \u0637\u00B1\u0638\u0698\u0637\u00A8\u0638\u2018\u0638\u0698\u0638\u2021\u0638\u0688 \u0638\u0192\u0638\u0698\u0637\u00A7\u0638\u2020\u0638\u0698 \u0637\u00A8\u0638\u06AF\u0638\u2021\u0638\u06AF \u0637\u00A8\u0638\u0698\u0637\u00B5\u0638\u06AF\u0638\u0679\u0637\u00B1\u0638\u2039\u0637\u00A7",
+          "transliteration": {
+            "en": "Balaaa inna Rabbahoo kaana bihee baseeraa",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "But yes! Indeed, his Lord was ever of him, Seeing.",
+          "id": "Tidak demikian, sesungguhnya Tuhannya selalu melihatnya."
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5899",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5899.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5899.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Tidak demikian. Mereka pasti akan kembali kepada Allah untuk mempertanggungjawabkan semua perbuatannya. Sesungguhnya Tuhannya selalu melihat dan mencatat perbuatan-nya, lalu Dia akan membalasnya dengan sangat adil. Perbuatan baik dibalas kebaikan dan perbuatan buruk dibalas dengan siksa.",
+            "long": "Dalam ayat ini, Allah menegaskan bahwa mereka sesungguhnya akan kembali kepada-Nya dan akan menerima hasil perbuatan mereka di dunia. Orang yang saleh dan patuh mengerjakan perintah-Nya akan dimasukkan ke dalam surga, sedang orang yang durhaka dan banyak berbuat maksiat akan dimasukkan ke dalam neraka."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5900,
+          "inSurah": 16,
+          "Jommal_classic": " 3609 5418 7227",
+          "Jommal_Moderen": "9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 589,
+          "manzil": 7,
+          "ruku": 526,
+          "hizbQuarter": 236,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u067E\u0638\u0698\u0638\u201E\u0638\u0698\u0637\u00A7 \u0637\u00A3\u0638\u0688\u0638\u201A\u0638\u2019\u0637\u00B3\u0638\u06AF\u0638\u2026\u0638\u0688 \u0637\u00A8\u0638\u06AF\u0637\u00A7\u0638\u201E\u0637\u00B4\u0638\u2018\u0638\u0698\u0638\u067E\u0638\u0698\u0638\u201A\u0638\u06AF",
+          "transliteration": {
+            "en": "Falaaa uqsimu bishshafaq",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "So I swear by the twilight glow",
+          "id": "Maka Aku bersumpah demi cahaya merah pada waktu senja,"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5900",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5900.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5900.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Tuhan Mahakuasa di alam semesta. Maka Aku bersumpah demi cahaya merah pada waktu senja, saat matahari akan terbenam dan cahayanya yang tampak kemerahan masih pendar ke sebagian penjuru langit.",
+            "long": "Dalam ayat-ayat ini, Allah bersumpah dengan cahaya merah pada waktu senja, dengan malam dan apa-apa yang diselubunginya dan dengan bulan apabila jadi purnama bahwa sesungguhnya manusia melalui tahap demi tahap dalam kehidupan, dari setetes air mani sampai dilahirkan.\n\nKemudian melalui masa kanak-kanak, remaja dan dewasa sampai tua. Kemudian dari hidup sampai mati, lalu dibangkitkan kembali, hidup kembali di surga atau neraka setelah melalui ujian dan perhitungan yang sangat teliti."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5901,
+          "inSurah": 17,
+          "Jommal_classic": " 9009 3609 4509",
+          "Jommal_Moderen": "9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 589,
+          "manzil": 7,
+          "ruku": 526,
+          "hizbQuarter": 236,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u02C6\u0638\u0698\u0637\u00A7\u0638\u201E\u0638\u201E\u0638\u2018\u0638\u0698\u0638\u0679\u0638\u2019\u0638\u201E\u0638\u06AF \u0638\u02C6\u0638\u0698\u0638\u2026\u0638\u0698\u0637\u00A7 \u0638\u02C6\u0638\u0698\u0637\u00B3\u0638\u0698\u0638\u201A\u0638\u0698",
+          "transliteration": {
+            "en": "Wallaili wa maa wasaq",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "And [by] the night and what it envelops",
+          "id": "demi malam dan apa yang diselubunginya,"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5901",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5901.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5901.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Dan Aku pun bersumpah demi malam dan apa yang diselubunginya dengan kegelapan akibat hilangnya cahaya matahari.",
+            "long": "Dalam ayat-ayat ini, Allah bersumpah dengan cahaya merah pada waktu senja, dengan malam dan apa-apa yang diselubunginya dan dengan bulan apabila jadi purnama bahwa sesungguhnya manusia melalui tahap demi tahap dalam kehidupan, dari setetes air mani sampai dilahirkan.\n\nKemudian melalui masa kanak-kanak, remaja dan dewasa sampai tua. Kemudian dari hidup sampai mati, lalu dibangkitkan kembali, hidup kembali di surga atau neraka setelah melalui ujian dan perhitungan yang sangat teliti."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5902,
+          "inSurah": 18,
+          "Jommal_classic": " 8118 1827 4527",
+          "Jommal_Moderen": "9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 589,
+          "manzil": 7,
+          "ruku": 526,
+          "hizbQuarter": 236,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u02C6\u0638\u0698\u0637\u00A7\u0638\u201E\u0638\u2019\u0638\u201A\u0638\u0698\u0638\u2026\u0638\u0698\u0637\u00B1\u0638\u06AF \u0637\u00A5\u0638\u06AF\u0637\u00B0\u0638\u0698\u0637\u00A7 \u0637\u00A7\u0637\u06BE\u0638\u2018\u0638\u0698\u0637\u00B3\u0638\u0698\u0638\u201A\u0638\u0698",
+          "transliteration": {
+            "en": "Walqamari izat tasaq",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "And [by] the moon when it becomes full",
+          "id": "demi bulan apabila jadi purnama,"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5902",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5902.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5902.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Dan Aku bersumpah pula demi bulan apabila jadi purnama, ketika bulan bercahaya penuh sehingga suasana malam menjadi menawan. Perubahan suasana alam menunjukkan adanya kekuatan luar biasa yang mampu mengendalikannya. Dialah Allah Yang Mahakuasa.",
+            "long": "Dalam ayat-ayat ini, Allah bersumpah dengan cahaya merah pada waktu senja, dengan malam dan apa-apa yang diselubunginya dan dengan bulan apabila jadi purnama bahwa sesungguhnya manusia melalui tahap demi tahap dalam kehidupan, dari setetes air mani sampai dilahirkan.\n\nKemudian melalui masa kanak-kanak, remaja dan dewasa sampai tua. Kemudian dari hidup sampai mati, lalu dibangkitkan kembali, hidup kembali di surga atau neraka setelah melalui ujian dan perhitungan yang sangat teliti."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5903,
+          "inSurah": 19,
+          "Jommal_classic": " 9027 3627 1809 3618",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 589,
+          "manzil": 7,
+          "ruku": 526,
+          "hizbQuarter": 236,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u201E\u0638\u0698\u0637\u06BE\u0638\u0698\u0637\u00B1\u0638\u2019\u0638\u0192\u0638\u0698\u0637\u00A8\u0638\u0688\u0638\u2020\u0638\u2018\u0638\u0698 \u0637\u00B7\u0638\u0698\u0637\u00A8\u0638\u0698\u0638\u201A\u0638\u2039\u0637\u00A7 \u0637\u00B9\u0638\u0698\u0638\u2020 \u0637\u00B7\u0638\u0698\u0637\u00A8\u0638\u0698\u0638\u201A\u0638\u0686",
+          "transliteration": {
+            "en": "Latarkabunna tabaqan \u0027an tabaq",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "[That] you will surely experience state after state.",
+          "id": "sungguh, akan kamu jalani tingkat demi tingkat (dalam kehidupan)."
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5903",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5903.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5903.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Sungguh, akan kamu jalani kehidupanmu tingkat demi tingkat. Kamu semula berupa nutfah, lalu menjadi alaqah, menjadi mudgah, lalu menerima ruh dari Tuhanmu, terlahir ke dunia, tumbuh dari kanak-kanak hingga dewasa dan tua. Akan kamu rasakan dalam hidupmu berbagai keadaan, dari yang mudah hingga yang sulit. Setelah itu kamu mati, dibangkitkan, dan dipisahkan menjadi dua kelompok: penghuni surga dan penghuni neraka.",
+            "long": "Dalam ayat-ayat ini, Allah bersumpah dengan cahaya merah pada waktu senja, dengan malam dan apa-apa yang diselubunginya dan dengan bulan apabila jadi purnama bahwa sesungguhnya manusia melalui tahap demi tahap dalam kehidupan, dari setetes air mani sampai dilahirkan.\n\nKemudian melalui masa kanak-kanak, remaja dan dewasa sampai tua. Kemudian dari hidup sampai mati, lalu dibangkitkan kembali, hidup kembali di surga atau neraka setelah melalui ujian dan perhitungan yang sangat teliti."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5904,
+          "inSurah": 20,
+          "Jommal_classic": " 3609 5400 1809 9009",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 589,
+          "manzil": 7,
+          "ruku": 526,
+          "hizbQuarter": 236,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u067E\u0638\u0698\u0638\u2026\u0638\u0698\u0637\u00A7 \u0638\u201E\u0638\u0698\u0638\u2021\u0638\u0688\u0638\u2026\u0638\u2019 \u0638\u201E\u0638\u0698\u0637\u00A7 \u0638\u0679\u0638\u0688\u0637\u00A4\u0638\u2019\u0638\u2026\u0638\u06AF\u0638\u2020\u0638\u0688\u0638\u02C6\u0638\u2020\u0638\u0698",
+          "transliteration": {
+            "en": "Famaa lahum laa yu\u0027minoon",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "So what is [the matter] with them [that] they do not believe,",
+          "id": "Maka mengapa mereka tidak mau beriman?"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5904",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5904.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5904.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Setelah melihat tanda-tanda kekuasaan Allah yang begitu nyata, maka mengapa mereka yang kafir itu bersikeras tidak mau beriman kepada Allah, hari kebangkitan, Nabi Muhammad, dan Al-Qur\u00E2\u20AC\u2122an?",
+            "long": "Dalam ayat ini, Allah mencela sikap dan perbuatan mereka, \u0022Mengapa mereka masih tidak mau beriman, sedangkan bukti telah nyata menunjukkan adanya hari kebangkitan itu?\u0022 Firman Allah:\n\nOrang-orang yang kafir mengira, bahwa mereka tidak akan dibangkitkan. Katakanlah (Muhammad), \u0022Tidak demikian, demi Tuhanku, kamu pasti dibangkitkan, kemudian diberitakan semua yang telah kamu kerjakan.\u0022 Dan yang demikian itu mudah bagi Allah. (at-Tagabun/64: 7)"
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5905,
+          "inSurah": 21,
+          "Jommal_classic": " 3627 3618 8109 6327 1809 7227 1000",
+          "Jommal_Moderen": "1\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 589,
+          "manzil": 7,
+          "ruku": 526,
+          "hizbQuarter": 236,
+          "sajda": {
+            "recommended": true,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u02C6\u0638\u0698\u0637\u00A5\u0638\u06AF\u0637\u00B0\u0638\u0698\u0637\u00A7 \u0638\u201A\u0638\u0688\u0637\u00B1\u0638\u06AF\u0637\u00A6\u0638\u0698 \u0637\u00B9\u0638\u0698\u0638\u201E\u0638\u0698\u0638\u0679\u0638\u2019\u0638\u2021\u0638\u06AF\u0638\u2026\u0638\u0688 \u0637\u00A7\u0638\u201E\u0638\u2019\u0638\u201A\u0638\u0688\u0637\u00B1\u0638\u2019\u0637\u00A2\u0638\u2020\u0638\u0688 \u0638\u201E\u0638\u0698\u0637\u00A7 \u0638\u0679\u0638\u0698\u0637\u00B3\u0638\u2019\u0637\u00AC\u0638\u0688\u0637\u00AF\u0638\u0688\u0638\u02C6\u0638\u2020\u0638\u0698 \u063A\u00A9",
+          "transliteration": {
+            "en": "Wa izaa quri\u0027a \u0027alaihimul Quraanu laa yasjudoon",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "And when the Qur\u0027an is recited to them, they do not prostrate [to Allah]?",
+          "id": "Dan apabila Al-Qur\u0027an dibacakan kepada mereka, mereka tidak (mau) bersujud,"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5905",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5905.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5905.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Dan mengapa pula apabila Al-Qur\u00E2\u20AC\u2122an yang penuh nilai kebenaran dan sastra yang tinggi itu dibacakan kepada mereka, mereka tidak mau bersujud kepada Allah dan tunduk pada ajaran Al-Qur\u00E2\u20AC\u2122an, padahal kaum kafir itu selalu menyanjung dan mengagumi karya sastra yang bernilai tinggi?",
+            "long": "Dalam ayat ini, Allah menerangkan bahwa mereka tidak mau mengakui bahwa Al-Qur\u0027an itu kalam Ilahi yang harus dimuliakan dan dipatuhi serta mengakui bahwa sesungguhnya Nabi Muhammad saw utusan Allah."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5906,
+          "inSurah": 22,
+          "Jommal_classic": " 2709 6318 5418 9018",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 589,
+          "manzil": 7,
+          "ruku": 526,
+          "hizbQuarter": 236,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0637\u00A8\u0638\u0698\u0638\u201E\u0638\u06AF \u0637\u00A7\u0638\u201E\u0638\u2018\u0638\u0698\u0637\u00B0\u0638\u06AF\u0638\u0679\u0638\u2020\u0638\u0698 \u0638\u0192\u0638\u0698\u0638\u067E\u0638\u0698\u0637\u00B1\u0638\u0688\u0638\u02C6\u0637\u00A7 \u0638\u0679\u0638\u0688\u0638\u0192\u0638\u0698\u0637\u00B0\u0638\u2018\u0638\u06AF\u0637\u00A8\u0638\u0688\u0638\u02C6\u0638\u2020\u0638\u0698",
+          "transliteration": {
+            "en": "Balil lazeena kafaroo yukazziboon",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "But those who have disbelieved deny,",
+          "id": "bahkan orang-orang kafir itu mendustakan(nya)."
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5906",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5906.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5906.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Mereka enggan beriman, bahkan orang-orang kafir itu mendustakan Al-Qur\u00E2\u20AC\u2122an dan hari kebangkitan dengan berbagai alasan, seperti dengki kepada Nabi Muhammad, khawatir kehilangan status sosial, atau hanya merasa diri mulia.",
+            "long": "Dalam ayat ini, Allah menerangkan bahwa mereka tidak mau mengakui bahwa Al-Qur\u0027an itu kalam Ilahi yang harus dimuliakan dan dipatuhi serta mengakui bahwa sesungguhnya Nabi Muhammad saw utusan Allah."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5907,
+          "inSurah": 23,
+          "Jommal_classic": " 7209 5418 2718 6309",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 589,
+          "manzil": 7,
+          "ruku": 526,
+          "hizbQuarter": 236,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u02C6\u0638\u0698\u0637\u00A7\u0638\u201E\u0638\u201E\u0638\u2018\u0638\u0698\u0638\u2021\u0638\u0688 \u0637\u00A3\u0638\u0698\u0637\u00B9\u0638\u2019\u0638\u201E\u0638\u0698\u0638\u2026\u0638\u0688 \u0637\u00A8\u0638\u06AF\u0638\u2026\u0638\u0698\u0637\u00A7 \u0638\u0679\u0638\u0688\u0638\u02C6\u0637\u00B9\u0638\u0688\u0638\u02C6\u0638\u2020\u0638\u0698",
+          "transliteration": {
+            "en": "Wallaahu a\u0027lamu bimaa yoo\u0027oon",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "And Allah is most knowing of what they keep within themselves.",
+          "id": "Dan Allah lebih mengetahui apa yang mereka sembunyikan (dalam hati mereka)."
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5907",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5907.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5907.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Dan mereka tetap ingkar, padahal Allah lebih mengetahui dengan pasti apa yang mereka sembunyikan dalam hati mereka. Allah akan membuka semua isi hati mereka kelak di hari kiamat.",
+            "long": "Dalam ayat-ayat berikut ini, Allah menerangkan sebab mereka tidak mau mengakuinya, yaitu:\n\n1.Mereka dengki kepada Nabi Muhammad atas kelebihan yang telah dikaruniakan Allah kepadanya.\n\n2.Mereka takut kehilangan pengaruh dan kedudukan sebagai pemimpin bangsanya.\n\n3.Mereka tidak mau mengganti kepercayaan yang telah dianut oleh nenek moyang mereka dengan kepercayaan yang lain. Allah mengetahui apa yang mereka sembunyikan dalam hati mereka. Oleh karena itu, Allah mengejek mereka dengan kata-kata, \u0022Berilah kabar gembira kepada mereka dengan azab yang pedih di hari Kiamat nanti.\u0022"
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5908,
+          "inSurah": 24,
+          "Jommal_classic": " 8127 3645 5409",
+          "Jommal_Moderen": "9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 589,
+          "manzil": 7,
+          "ruku": 526,
+          "hizbQuarter": 236,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u067E\u0638\u0698\u0637\u00A8\u0638\u0698\u0637\u00B4\u0638\u2018\u0638\u06AF\u0637\u00B1\u0638\u2019\u0638\u2021\u0638\u0688\u0638\u2026 \u0637\u00A8\u0638\u06AF\u0637\u00B9\u0638\u0698\u0637\u00B0\u0638\u0698\u0637\u00A7\u0637\u00A8\u0638\u0686 \u0637\u00A3\u0638\u0698\u0638\u201E\u0638\u06AF\u0638\u0679\u0638\u2026\u0638\u0686",
+          "transliteration": {
+            "en": "Fabashshirhum bi\u0027azaabin aleem",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "So give them tidings of a painful punishment,",
+          "id": "Maka sampaikanlah kepada mereka (ancaman) azab yang pedih,"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5908",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5908.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5908.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Atas pengingkaran mereka terhadap kebenaran yang datang dari Allah, maka sampaikanlah kepada mereka ancaman berupa azab yang pedih di akhirat.",
+            "long": "Dalam ayat-ayat berikut ini, Allah menerangkan sebab mereka tidak mau mengakuinya, yaitu:\n\n1.Mereka dengki kepada Nabi Muhammad atas kelebihan yang telah dikaruniakan Allah kepadanya.\n\n2.Mereka takut kehilangan pengaruh dan kedudukan sebagai pemimpin bangsanya.\n\n3.Mereka tidak mau mengganti kepercayaan yang telah dianut oleh nenek moyang mereka dengan kepercayaan yang lain. Allah mengetahui apa yang mereka sembunyikan dalam hati mereka. Oleh karena itu, Allah mengejek mereka dengan kata-kata, \u0022Berilah kabar gembira kepada mereka dengan azab yang pedih di hari Kiamat nanti.\u0022"
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5909,
+          "inSurah": 25,
+          "Jommal_classic": " 3618 6318 4518 7218 6354 5400 2727 3618 8100",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 589,
+          "manzil": 7,
+          "ruku": 526,
+          "hizbQuarter": 236,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0637\u00A5\u0638\u06AF\u0638\u201E\u0638\u2018\u0638\u0698\u0637\u00A7 \u0637\u00A7\u0638\u201E\u0638\u2018\u0638\u0698\u0637\u00B0\u0638\u06AF\u0638\u0679\u0638\u2020\u0638\u0698 \u0637\u00A2\u0638\u2026\u0638\u0698\u0638\u2020\u0638\u0688\u0638\u02C6\u0637\u00A7 \u0638\u02C6\u0638\u0698\u0637\u00B9\u0638\u0698\u0638\u2026\u0638\u06AF\u0638\u201E\u0638\u0688\u0638\u02C6\u0637\u00A7 \u0637\u00A7\u0638\u201E\u0637\u00B5\u0638\u2018\u0638\u0698\u0637\u00A7\u0638\u201E\u0638\u06AF\u0637\u00AD\u0638\u0698\u0637\u00A7\u0637\u06BE\u0638\u06AF \u0638\u201E\u0638\u0698\u0638\u2021\u0638\u0688\u0638\u2026\u0638\u2019 \u0637\u00A3\u0638\u0698\u0637\u00AC\u0638\u2019\u0637\u00B1\u0638\u0152 \u0637\u061B\u0638\u0698\u0638\u0679\u0638\u2019\u0637\u00B1\u0638\u0688 \u0638\u2026\u0638\u0698\u0638\u2026\u0638\u2019\u0638\u2020\u0638\u0688\u0638\u02C6\u0638\u2020\u0638\u0686",
+          "transliteration": {
+            "en": "Illal lazeena aamanoo wa \u0027amilus saalihaati lahum ajrun ghairu mamnoon",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "Except for those who believe and do righteous deeds. For them is a reward uninterrupted.",
+          "id": "kecuali orang-orang yang beriman dan mengerjakan kebajikan, mereka akan mendapat pahala yang tidak putus-putusnya."
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5909",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5909.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5909.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Demikianlah, Allah akan mengazab orang-orang yang ingkar. Kecuali orang-orang yang beriman dan mengerjakan kebajikan, mereka akan mendapat pahala yang tidak putus-putusnya sebagai anugerah dari Allah dan penghargaan atas perbuatan baiknya.",
+            "long": "Dalam ayat ini, Allah menerangkan bahwa orang-orang yang beriman kepada Allah dan Rasul-Nya, percaya kepada Al-Qur\u0027an, serta mengerjakan ajarannya dengan sebaik-baiknya, akan mendapat ganjaran dari Allah yang tidak ada putus-putusnya, abadi selama-lamanya."
+          }
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "code": 200,
+  "status": "OK.",
+  "message": "Success fetching surah.",
+  "data": {
+    "number": 112,
+    "sequence": 22,
+    "numberOfVerses": 4,
+    "name": {
+      "short": "\u0637\u00A7\u0638\u201E\u0637\u00A5\u0637\u00AE\u0638\u201E\u0637\u00A7\u0637\u00B5",
+      "long": "\u0637\u00B3\u0638\u02C6\u0637\u00B1\u0637\u00A9 \u0637\u00A7\u0638\u201E\u0637\u00A5\u0637\u00AE\u0638\u201E\u0637\u00A7\u0637\u00B5",
+      "transliteration": {
+        "en": "Al-Ikhlaas",
+        "id": "Al-Ikhlas"
+      },
+      "translation": {
+        "en": "Sincerity",
+        "id": "Ikhlas"
+      }
+    },
+    "revelation": {
+      "arab": "\u0638\u2026\u0638\u0192\u0637\u00A9",
+      "en": "Meccan",
+      "id": "Makkiyyah"
+    },
+    "tafsir": {
+      "id": "Surat ini terdiri atas 4 ayat, termasuk golongan surat-surat  Makkiyyah, diturunkan sesudah sesudah surat An Naas. Dinamakan Al Ikhlas karena surat ini sepenuhnya menegaskan kemurnian keesaan Allah s.w.t."
+    },
+    "preBismillah": {
+      "text": {
+        "arab": "\u0637\u00A8\u0638\u06AF\u0637\u00B3\u0638\u2019\u0638\u2026\u0638\u06AF \u0637\u00A7\u0638\u201E\u0638\u201E\u0638\u2018\u0638\u0698\u0638\u2021\u0638\u06AF \u0637\u00A7\u0638\u201E\u0637\u00B1\u0638\u2018\u0638\u0698\u0637\u00AD\u0638\u2019\u0638\u2026\u0638\u0698\u0638\u00B0\u0638\u2020\u0638\u06AF \u0637\u00A7\u0638\u201E\u0637\u00B1\u0638\u2018\u0638\u0698\u0637\u00AD\u0638\u06AF\u0638\u0679\u0638\u2026\u0638\u06AF",
+        "transliteration": {
+          "en": "Bismillaahir Rahmaanir Raheem"
+        }
+      },
+      "translation": {
+        "en": "In the name of Allah, the Entirely Merciful, the Especially Merciful.",
+        "id": "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang."
+      },
+      "audio": {
+        "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1",
+        "secondary": [
+          "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1.mp3",
+          "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1.mp3"
+        ]
+      }
+    },
+    "verses": [
+      {
+        "number": {
+          "inQuran": 6222,
+          "inSurah": 1,
+          "Jommal_classic": " 3600 3600 5409 2727",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 604,
+          "manzil": 7,
+          "ruku": 554,
+          "hizbQuarter": 240,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u201A\u0638\u0688\u0638\u201E\u0638\u2019 \u0638\u2021\u0638\u0688\u0638\u02C6\u0638\u0698 \u0637\u00A7\u0638\u201E\u0638\u201E\u0638\u2018\u0638\u0698\u0638\u2021\u0638\u0688 \u0637\u00A3\u0638\u0698\u0637\u00AD\u0638\u0698\u0637\u00AF\u0638\u0152",
+          "transliteration": {
+            "en": "Qul huwal laahu ahad",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "Say, \u0022He is Allah, [who is] One,",
+          "id": "Katakanlah (Muhammad), \u00E2\u20AC\u0153Dialah Allah, Yang Maha Esa."
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6222",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6222.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6222.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Wahai Nabi Muhammad, Katakanlah kepada kaum musyrik yang menanyakan sifat dan nasab Allah dengan tujuan mengejek, \u00E2\u20AC\u0153Dia lah Allah, Yang Maha Esa. Tidak ada sekutu bagi-Nya. Dia tidak berbilang dalam nama, sifat, dan ketuhanan-Nya.",
+            "long": "Pada ayat ini, Allah menyuruh Nabi Muhammad menjawab pertanyaan orang-orang yang menanyakan tentang sifat Tuhannya, bahwa Dia adalah Allah Yang Maha Esa, tidak tersusun dan tidak berbilang, karena berbilang dalam susunan zat berarti bahwa bagian kumpulan itu memerlukan bagian yang lain, sedang Allah sama sekali tidak memerlukan suatu apa pun. Keesaan Allah itu meliputi tiga hal: Dia Maha Esa pada Zat-Nya, Maha Esa pada sifat-Nya dan Maha Esa pada perbuatan-Nya.\n\nMaha Esa pada zat-Nya berarti zat-Nya tidak tersusun dari beberapa zat atau bagian. Maha Esa pada sifat-Nya berarti tidak ada satu sifat makhluk pun yang menyamai-Nya dan Maha Esa pada perbuatan-Nya berarti Dialah yang membuat semua perbuatan sesuai dengan firman-Nya:\n\nSesungguhnya urusan-Nya apabila Dia menghendaki sesuatu Dia hanya berkata kepadanya, \u0022Jadilah!\u0022 Maka jadilah sesuatu itu. (Yasin/36 : 82)"
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 6223,
+          "inSurah": 2,
+          "Jommal_classic": " 5409 5427",
+          "Jommal_Moderen": "9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 604,
+          "manzil": 7,
+          "ruku": 554,
+          "hizbQuarter": 240,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0637\u00A7\u0638\u201E\u0638\u201E\u0638\u2018\u0638\u0698\u0638\u2021\u0638\u0688 \u0637\u00A7\u0638\u201E\u0637\u00B5\u0638\u2018\u0638\u0698\u0638\u2026\u0638\u0698\u0637\u00AF\u0638\u0688",
+          "transliteration": {
+            "en": "Allah hus-samad",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "Allah, the Eternal Refuge.",
+          "id": "Allah tempat meminta segala sesuatu."
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6223",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6223.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6223.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Allah tempat meminta segala sesuatu. Dia Maha Pencipta, Mahakaya, dan Mahakuasa. Dia tidak memerlukan yang lain, sedangkan semua makhluk bergantung kepada-Nya.",
+            "long": "Allah menambahkan dalam ayat ini penjelasan tentang sifat Tuhan Yang Maha Esa itu, yaitu Dia adalah Tuhan tempat meminta dan memohon."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 6224,
+          "inSurah": 3,
+          "Jommal_classic": " 3600 4509 5400 5409",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 604,
+          "manzil": 7,
+          "ruku": 554,
+          "hizbQuarter": 240,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u201E\u0638\u0698\u0638\u2026\u0638\u2019 \u0638\u0679\u0638\u0698\u0638\u201E\u0638\u06AF\u0637\u00AF\u0638\u2019 \u0638\u02C6\u0638\u0698\u0638\u201E\u0638\u0698\u0638\u2026\u0638\u2019 \u0638\u0679\u0638\u0688\u0638\u02C6\u0638\u201E\u0638\u0698\u0637\u00AF\u0638\u2019",
+          "transliteration": {
+            "en": "Lam yalid wa lam yoolad",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "He neither begets nor is born,",
+          "id": "(Allah) tidak beranak dan tidak pula diperanakkan."
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6224",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6224.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6224.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Dia tidak beranak; tidak ada yang sejenis dengan Allah sehingga bisa menikah dengan-Nya dan melahirkan anak; dan Dia tidak pula diperanakkan karena Dia kekal dan tidak bermula. Sesatlah orang Yahudi yang meyakini \u00E2\u20AC\u06A9Uzair sebagai putra Allah, orang Nasrani yang meyakini Nabi Isa sebagai putra Allah, dan orang musyrik Arab yang meyakini malaikat sebagai putri Allah.",
+            "long": "Allah lalu menegaskan bahwa Mahasuci Ia dari mempunyai anak. Ayat ini juga menentang dakwaan orang-orang musyrik Arab yang mengatakan bahwa malaikat-malaikat adalah anak perempuan Allah dan dakwaan orang Nasrani bahwa Isa anak laki-laki Allah. Dalam ayat lain, Allah berfirman:\n\nMaka tanyakanlah (Muhammad) kepada mereka (orang-orang kafir Mekah), \u0022Apakah anak-anak perempuan itu untuk Tuhanmu sedangkan untuk mereka anak-anak laki-laki?\u0022 Atau apakah Kami menciptakan malaikat-malaikat berupa perempuan sedangkan mereka menyaksikan(nya)? Ingatlah, sesungguhnya di antara kebohongannya mereka benar-benar mengatakan, \u0022Allah mempunyai anak.\u0022 Dan sungguh, mereka benar-benar pendusta. (as-saffat/37: 149-152)\n\nAllah tidak beranak, dan tidak pula diperanakkan. Dengan demikian, Dia tidak sama dengan makhluk. Dia berada tidak didahului oleh tidak ada. Mahasuci Allah dari apa yang mereka sebutkan.\n\nIbnu \u0027Abbas berkata, \u0022Dia tidak beranak sebagaimana Maryam melahirkan Isa dan tidak pula diperanakkan. Ini adalah bantahan terhadap orang-orang Nasrani yang mengatakan Isa al-Masih adalah anak Allah dan bantahan terhadap orang-orang Yahudi yang mengatakan Uzair adalah anak Allah."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 6225,
+          "inSurah": 4,
+          "Jommal_classic": " 5400 4500 4500 5409 2727",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 604,
+          "manzil": 7,
+          "ruku": 554,
+          "hizbQuarter": 240,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u02C6\u0638\u0698\u0638\u201E\u0638\u0698\u0638\u2026\u0638\u2019 \u0638\u0679\u0638\u0698\u0638\u0192\u0638\u0688\u0638\u2020 \u0638\u201E\u0638\u2018\u0638\u0698\u0638\u2021\u0638\u0688 \u0638\u0192\u0638\u0688\u0638\u067E\u0638\u0688\u0638\u02C6\u0638\u2039\u0637\u00A7 \u0637\u00A3\u0638\u0698\u0637\u00AD\u0638\u0698\u0637\u00AF\u0638\u0152",
+          "transliteration": {
+            "en": "Wa lam yakul-lahu kufuwan ahad",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "Nor is there to Him any equivalent.\u0022",
+          "id": "Dan tidak ada sesuatu yang setara dengan Dia.\u00E2\u20AC\u200C"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6225",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6225.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6225.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Dan tidak ada sesuatu yang setara dengan Dia, baik dari segi zat, sifat, maupun tidakan-Nya.",
+            "long": "Dalam ayat ini, Allah menjelaskan lagi bahwa tidak ada yang setara dan sebanding dengan Dia dalam zat, sifat, dan perbuatan-Nya. Ini adalah tantangan terhadap orang-orang yang beritikad bahwa ada yang setara dan menyerupai Allah dalam perbuatannya, sebagaimana pendirian orang-orang musyrik Arab yang menyatakan bahwa malaikat itu adalah sekutu Allah."
+          }
+        }
+      }
+    ]
+  }
+}

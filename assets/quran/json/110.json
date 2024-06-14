@@ -1,0 +1,180 @@
+{
+  "code": 200,
+  "status": "OK.",
+  "message": "Success fetching surah.",
+  "data": {
+    "number": 110,
+    "sequence": 114,
+    "numberOfVerses": 3,
+    "name": {
+      "short": "\u0637\u00A7\u0638\u201E\u0638\u2020\u0637\u00B5\u0637\u00B1",
+      "long": "\u0637\u00B3\u0638\u02C6\u0637\u00B1\u0637\u00A9 \u0637\u00A7\u0638\u201E\u0638\u2020\u0637\u00B5\u0637\u00B1",
+      "transliteration": {
+        "en": "An-Nasr",
+        "id": "An-Nasr"
+      },
+      "translation": {
+        "en": "Divine Support",
+        "id": "Pertolongan"
+      }
+    },
+    "revelation": {
+      "arab": "\u0638\u2026\u0637\u00AF\u0638\u0679\u0638\u2020\u0637\u00A9",
+      "en": "Medinan",
+      "id": "Madaniyyah"
+    },
+    "tafsir": {
+      "id": "Surat An Nashr terdiri atas 3 ayat, termasuk golongan surat-surat  Madaniyyah yang diturunkan di Mekah sesudah surat At Taubah.  Dinamai An Nashr (pertolongan) diambil dari perkataan Nashr yang  terdapat pada ayat pertama surat ini."
+    },
+    "preBismillah": {
+      "text": {
+        "arab": "\u0637\u00A8\u0638\u06AF\u0637\u00B3\u0638\u2019\u0638\u2026\u0638\u06AF \u0637\u00A7\u0638\u201E\u0638\u201E\u0638\u2018\u0638\u0698\u0638\u2021\u0638\u06AF \u0637\u00A7\u0638\u201E\u0637\u00B1\u0638\u2018\u0638\u0698\u0637\u00AD\u0638\u2019\u0638\u2026\u0638\u0698\u0638\u00B0\u0638\u2020\u0638\u06AF \u0637\u00A7\u0638\u201E\u0637\u00B1\u0638\u2018\u0638\u0698\u0637\u00AD\u0638\u06AF\u0638\u0679\u0638\u2026\u0638\u06AF",
+        "transliteration": {
+          "en": "Bismillaahir Rahmaanir Raheem"
+        }
+      },
+      "translation": {
+        "en": "In the name of Allah, the Entirely Merciful, the Especially Merciful.",
+        "id": "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang."
+      },
+      "audio": {
+        "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1",
+        "secondary": [
+          "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1.mp3",
+          "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1.mp3"
+        ]
+      }
+    },
+    "verses": [
+      {
+        "number": {
+          "inQuran": 6214,
+          "inSurah": 1,
+          "Jommal_classic": " 1827 1827 3618 5409 7227",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 603,
+          "manzil": 7,
+          "ruku": 552,
+          "hizbQuarter": 240,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0637\u00A5\u0638\u06AF\u0637\u00B0\u0638\u0698\u0637\u00A7 \u0637\u00AC\u0638\u0698\u0637\u00A7\u0637\u060C\u0638\u0698 \u0638\u2020\u0638\u0698\u0637\u00B5\u0638\u2019\u0637\u00B1\u0638\u0688 \u0637\u00A7\u0638\u201E\u0638\u201E\u0638\u2018\u0638\u0698\u0638\u2021\u0638\u06AF \u0638\u02C6\u0638\u0698\u0637\u00A7\u0638\u201E\u0638\u2019\u0638\u067E\u0638\u0698\u0637\u06BE\u0638\u2019\u0637\u00AD\u0638\u0688",
+          "transliteration": {
+            "en": "Iza jaa-a nas rullahi walfath",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "When the victory of Allah has come and the conquest,",
+          "id": "Apabila telah datang pertolongan Allah dan kemenangan,"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6214",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6214.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6214.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Wahai Nabi Muhammad, apabila telah datang pertolongan Allah kepadamu dan pengikutmu dalam menghadapi kaum kafir Quraisy, dan telah datang pula kemenangan kepadamu dengan penaklukan Mekah menjadi kota yang suci kembali dari kesyirikan dan kekafiran,",
+            "long": "Dalam ayat-ayat ini, Allah memerintahkan apa yang harus dilakukan Nabi Muhammad pada saat pembebasan Mekah, yaitu apabila ia telah melihat pertolongan Allah terhadap agama-Nya telah tiba, dengan kekalahan orang-orang musyrik dan kemenangan di pihak Nabi, dan melihat pula orang-orang masuk agama Allah beramai-ramai dan berduyun-duyun, bukan perseorangan sebagaimana halnya pada permulaan dakwah.\n\nOrang-orang Arab berkata, \u0022Manakala Muhammad menang atas penduduk Mekah yang mana Allah telah selamatkan mereka dari pasukan bergajah, maka kalian tidak berdaya melawannya.\u0022 Akhirnya mereka masuk Islam berduyun-duyun, berkelompok-kelompok dan satu kelompok 40 orang."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 6215,
+          "inSurah": 2,
+          "Jommal_classic": " 6327 4527 8118 2700 3609 5409 5436",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 603,
+          "manzil": 7,
+          "ruku": 552,
+          "hizbQuarter": 240,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u02C6\u0638\u0698\u0637\u00B1\u0638\u0698\u0637\u00A3\u0638\u0698\u0638\u0679\u0638\u2019\u0637\u06BE\u0638\u0698 \u0637\u00A7\u0638\u201E\u0638\u2020\u0638\u2018\u0638\u0698\u0637\u00A7\u0637\u00B3\u0638\u0698 \u0638\u0679\u0638\u0698\u0637\u00AF\u0638\u2019\u0637\u00AE\u0638\u0688\u0638\u201E\u0638\u0688\u0638\u02C6\u0638\u2020\u0638\u0698 \u0638\u067E\u0638\u06AF\u0638\u0679 \u0637\u00AF\u0638\u06AF\u0638\u0679\u0638\u2020\u0638\u06AF \u0637\u00A7\u0638\u201E\u0638\u201E\u0638\u2018\u0638\u0698\u0638\u2021\u0638\u06AF \u0637\u00A3\u0638\u0698\u0638\u067E\u0638\u2019\u0638\u02C6\u0638\u0698\u0637\u00A7\u0637\u00AC\u0638\u2039\u0637\u00A7",
+          "transliteration": {
+            "en": "Wa ra-aitan naasa yadkhuloona fee deenil laahi afwajah",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "And you see the people entering into the religion of Allah in multitudes,",
+          "id": "dan engkau melihat manusia berbondong-bondong masuk agama Allah,"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6215",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6215.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6215.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "dan engkau lihat manusia dari seluruh penjuru Jazirah Arab berbondong-bondong masuk agama Allah, yakni agama Islam, setelah sebelumnya mereka masuk Islam secara perorangan,",
+            "long": "Dalam ayat-ayat ini, Allah memerintahkan apa yang harus dilakukan Nabi Muhammad pada saat pembebasan Mekah, yaitu apabila ia telah melihat pertolongan Allah terhadap agama-Nya telah tiba, dengan kekalahan orang-orang musyrik dan kemenangan di pihak Nabi, dan melihat pula orang-orang masuk agama Allah beramai-ramai dan berduyun-duyun, bukan perseorangan sebagaimana halnya pada permulaan dakwah.\n\nOrang-orang Arab berkata, \u0022Manakala Muhammad menang atas penduduk Mekah yang mana Allah telah selamatkan mereka dari pasukan bergajah, maka kalian tidak berdaya melawannya.\u0022 Akhirnya mereka masuk Islam berduyun-duyun, berkelompok-kelompok dan satu kelompok 40 orang."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 6216,
+          "inSurah": 3,
+          "Jommal_classic": " 5427 4527 4518 9045 1000 5409 3609 4536",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t1\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 603,
+          "manzil": 7,
+          "ruku": 552,
+          "hizbQuarter": 240,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u067E\u0638\u0698\u0637\u00B3\u0638\u0698\u0637\u00A8\u0638\u2018\u0638\u06AF\u0637\u00AD\u0638\u2019 \u0637\u00A8\u0638\u06AF\u0637\u00AD\u0638\u0698\u0638\u2026\u0638\u2019\u0637\u00AF\u0638\u06AF \u0637\u00B1\u0638\u0698\u0637\u00A8\u0638\u2018\u0638\u06AF\u0638\u0192\u0638\u0698 \u0638\u02C6\u0638\u0698\u0637\u00A7\u0637\u00B3\u0638\u2019\u0637\u06BE\u0638\u0698\u0637\u061B\u0638\u2019\u0638\u067E\u0638\u06AF\u0637\u00B1\u0638\u2019\u0638\u2021\u0638\u0688 \u063A\u0691 \u0637\u00A5\u0638\u06AF\u0638\u2020\u0638\u2018\u0638\u0698\u0638\u2021\u0638\u0688 \u0638\u0192\u0638\u0698\u0637\u00A7\u0638\u2020\u0638\u0698 \u0637\u06BE\u0638\u0698\u0638\u02C6\u0638\u2018\u0638\u0698\u0637\u00A7\u0637\u00A8\u0638\u2039\u0637\u00A7",
+          "transliteration": {
+            "en": "Fa sab bih bihamdi rabbika was taghfir, innahu kaana tawwaaba",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "Then exalt [Him] with praise of your Lord and ask forgiveness of Him. Indeed, He is ever Accepting of repentance.",
+          "id": "maka bertasbihlah dalam dengan Tuhanmu dan mohonlah ampunan kepada-Nya. Sungguh, Dia Maha Penerima tobat."
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6216",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6216.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6216.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "maka sebagai ungkapan syukur kepada Allah atas karunia-Nya yang agung itu, bertasbihlah dan sucikanlah Tuhanmu dari sifat-sifat yang tak layak bagi-Nya, dan sertailah tasbihmu itu dengan memuji Tuhan-mu yang telah menyokongmu dalam menaklukkan Mekah, dan mohonlah ampunan kepada-Nya untukmu dan umatmu. Sungguh, Dia Maha Penerima tobat hamba-hamba-Nya yang bertasbih dan beristigfar. Membaca tasbih, tahmid, dan istighfar adalah cara yang mulia ketika seseorang meraih kesuksesan karena pada hakikatnya Allah-lah yang memberi kesuksesan itu kepadanya, bukan dengan berpesta dan berfoya-foya.",
+            "long": "Bila yang demikian itu telah terjadi, Nabi diperintahkan untuk mengagungkan dan mensucikan Tuhannya dari hal-hal yang tidak layak bagi-Nya, seperti menganggap terlambat datangnya pertolongan dan mengira bahwa Tuhan tidak menepati janji-Nya menolong Nabi atas orang-orang kafir.\n\nMenyucikan Allah hendaknya dengan memuji-Nya atas nikmat-nikmat yang dianugerahkan-Nya dan mensyukuri segala kebaikan-kebaikan yang telah dilimpahkan-Nya dan menyanjung-Nya dengan sepantasnya. Bila Allah Yang Mahakuasa dan Mahabijaksana memberi kesempatan kepada orang-orang kafir, bukanlah berarti Dia telah menyia-nyiakan pahala orang-orang yang beramal baik.\n\nKemudian Nabi Muhammad dianjurkan untuk meminta ampun kepada Allah untuk dirinya dan sahabat-sahabatnya yang telah memperlihatkan kesedihan dan keputusasaan karena merasa pertolongan Allah terlambat datangnya. Bertobat dari keluh-kesah adalah dengan mempercayai penuh akan janji-janji Allah dan membersihkan jiwa dari pemikiran yang bukan-bukan bila menghadapi kesulitan. Hal ini walaupun berat untuk jiwa manusia biasa, tetapi ringan untuk Nabi Muhammad sebagai insan kamil (manusia sempurna). Oleh sebab itu, Allah menyuruh Nabi saw memohon ampunan-Nya.\n\nKeadaan ini terjadi pula pada para sahabat yang memiliki jiwa yang sempurna dan menerima tobat mereka, karena Allah selalu menerima tobat hamba-hamba-Nya. Allah mendidik hamba-hamba-Nya melalui bermacam-macam cobaan dan bila merasa tidak sanggup menghadapinya harus memohon bantuan-Nya serta yakin akan datangnya bantuan itu. Bila ia selalu melakukan yang demikian niscaya menjadi kuat dan sempurnalah jiwanya.\n\nMaksudnya, bila pertolongan telah tiba dan telah mencapai kemenangan serta manusia berbondong-bondong masuk Islam, hilanglah ketakutan dan hendaklah Nabi saw bertasbih menyucikan Tuhannya dan mensyukuri-Nya serta membersihkan jiwa dari pemikiran-pemikiran yang terjadi pada masa kesulitan. Dengan demikian, keluh-kesah dan rasa kecewa tidak lagi akan mempengaruhi jiwa orang-orang yang ikhlas selagi mereka memiliki keikhlasan dan berada dalam persesuaian kata dan cinta sama cinta.\n\nDengan turunnya Surah an-Nasr ini, Nabi memahami bahwa tugas risalahnya telah selesai dan selanjutnya ia hanya menunggu panggilan pulang ke rahmatullah. \n\nIbnu \u0027AbbAs berkata: \u0022Ketika turun ayat Idha jaa nasrullahi wal fath, Rasulullah saw memanggil Fatimah, lalu berkata: \u0022Kematian diriku sudah dekat.\u0022 Fatimah pun menangis. Rasulullah saw berkata, \u0022Jangan menangis, karea kamu adalah anggota pertama dari keluargaku yang akan menyusulku.\u0022 Fatimah pun tertawa bahagia (mendengarnya). Para istri Nabi saw yang melihat hal itu berkata, \u0022Wahai Fatimah, kami melihatmu menangis lalu tertawa.\u0022 Fatimah berkata, \u0022Rasulullah saw memberitahuku bahwa kematian dirinya telah dekat, maka aku menangis. Namun, beliau mengatakan, \u0022Jangan menangis, karena kamu adalah anggota pertama dari keluargaku yang akan menyusulku.\u0022 Maka aku pun tertawa bahagia. (Riwayat al- Darimi)\n\nIbnu \u0027Umar berkata, \u0022Surah ini turun di Mina ketika Nabi mengerjakan Haji Wada\u0027, sesudah itu turun firman Allah:\n\nPada hari ini telah Aku sempurnakan agamamu untukmu, dan telah Aku cukupkan nikmat-Ku bagimu, dan telah Aku ridai Islam sebagai agamamu. (al-Ma\u0027idah/5: 3)\n\nNabi hidup hanya delapan puluh hari setelah turun ayat ini. Kemudian setelah itu, turun ayat Kalalah, dan Nabi hidup sesudahnya lima puluh hari. Setelah itu turun ayat:\n\nSungguh, telah datang kepadamu seorang rasul dari kaummu sendiri. (at-Taubah/9:128)\n\nMaka Nabi saw hidup sesudahnya tiga puluh lima hari. Kemudian turun firman Allah:\n\nDan takutlah pada hari (ketika) kamu semua dikembalikan kepada Allah. (al Baqarah/2: 281)\n\nMaka Nabi saw hidup sesudahnya hanya dua puluh satu hari saja."
+          }
+        }
+      }
+    ]
+  }
+}

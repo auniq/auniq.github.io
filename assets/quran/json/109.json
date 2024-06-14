@@ -1,0 +1,309 @@
+{
+  "code": 200,
+  "status": "OK.",
+  "message": "Success fetching surah.",
+  "data": {
+    "number": 109,
+    "sequence": 18,
+    "numberOfVerses": 6,
+    "name": {
+      "short": "\u0637\u00A7\u0638\u201E\u0638\u0192\u0637\u00A7\u0638\u067E\u0637\u00B1\u0638\u02C6\u0638\u2020",
+      "long": "\u0637\u00B3\u0638\u02C6\u0637\u00B1\u0637\u00A9 \u0637\u00A7\u0638\u201E\u0638\u0192\u0637\u00A7\u0638\u067E\u0637\u00B1\u0638\u02C6\u0638\u2020",
+      "transliteration": {
+        "en": "Al-Kaafiroon",
+        "id": "Al-Kafirun"
+      },
+      "translation": {
+        "en": "The Disbelievers",
+        "id": "Orang-Orang kafir"
+      }
+    },
+    "revelation": {
+      "arab": "\u0638\u2026\u0638\u0192\u0637\u00A9",
+      "en": "Meccan",
+      "id": "Makkiyyah"
+    },
+    "tafsir": {
+      "id": "Surat Al Kaafiruun terdiri atas 6 ayat, termasuk golongan surat-surat  Makkiyyah, diturunkan sesudah surat Al Maa\u0027uun. Dinamai Al Kaafiruun (orang-orang kafir), diambil dari perkataan  Al Kaafiruun yang terdapat pada ayat pertama surat ini."
+    },
+    "preBismillah": {
+      "text": {
+        "arab": "\u0637\u00A8\u0638\u06AF\u0637\u00B3\u0638\u2019\u0638\u2026\u0638\u06AF \u0637\u00A7\u0638\u201E\u0638\u201E\u0638\u2018\u0638\u0698\u0638\u2021\u0638\u06AF \u0637\u00A7\u0638\u201E\u0637\u00B1\u0638\u2018\u0638\u0698\u0637\u00AD\u0638\u2019\u0638\u2026\u0638\u0698\u0638\u00B0\u0638\u2020\u0638\u06AF \u0637\u00A7\u0638\u201E\u0637\u00B1\u0638\u2018\u0638\u0698\u0637\u00AD\u0638\u06AF\u0638\u0679\u0638\u2026\u0638\u06AF",
+        "transliteration": {
+          "en": "Bismillaahir Rahmaanir Raheem"
+        }
+      },
+      "translation": {
+        "en": "In the name of Allah, the Entirely Merciful, the Especially Merciful.",
+        "id": "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang."
+      },
+      "audio": {
+        "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1",
+        "secondary": [
+          "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1.mp3",
+          "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1.mp3"
+        ]
+      }
+    },
+    "verses": [
+      {
+        "number": {
+          "inQuran": 6208,
+          "inSurah": 1,
+          "Jommal_classic": " 3600 1809 5418 9027",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 603,
+          "manzil": 7,
+          "ruku": 551,
+          "hizbQuarter": 240,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u201A\u0638\u0688\u0638\u201E\u0638\u2019 \u0638\u0679\u0638\u0698\u0637\u00A7 \u0637\u00A3\u0638\u0698\u0638\u0679\u0638\u2018\u0638\u0688\u0638\u2021\u0638\u0698\u0637\u00A7 \u0637\u00A7\u0638\u201E\u0638\u2019\u0638\u0192\u0638\u0698\u0637\u00A7\u0638\u067E\u0638\u06AF\u0637\u00B1\u0638\u0688\u0638\u02C6\u0638\u2020\u0638\u0698",
+          "transliteration": {
+            "en": "Qul yaa-ai yuhal kaafiroon",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "Say, \u0022O disbelievers,",
+          "id": "Katakanlah (Muhammad), \u00E2\u20AC\u0153Wahai orang-orang kafir!"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6208",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6208.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6208.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Wahai Nabi Muhammad, katakanlah, \u00E2\u20AC\u0153Wahai orang-orang yang me-milih kafir sebagai jalan hidup!",
+            "long": "Dalam ayat-ayat ini, Allah memerintahkan Nabi Muhammad agar menyatakan kepada orang-orang kafir bahwa \u0022Tuhan\u0022 yang mereka sembah bukanlah \u0022Tuhan\u0022 yang ia sembah, karena mereka menyembah \u0022Tuhan\u0022 yang memerlukan pembantu dan mempunyai anak atau menjelma dalam suatu bentuk atau dalam sesuatu rupa atau bentuk-bentuk lain yang mereka dakwakan. Sedang Nabi saw menyembah Tuhan yang tidak ada tandingan-Nya dan tidak ada sekutu bagi-Nya; tidak mempunyai anak dan istri. Akal tidak sanggup menerka bagaimana Dia, tidak ditentukan oleh tempat dan tidak terikat oleh masa, tidak memerlukan perantaraan dan tidak pula memerlukan penghubung.\n\nMaksud pernyataan itu adalah terdapat perbedaan sangat besar antara \u0022Tuhan\u0022 yang disembah orang-orang kafir dengan \u0022Tuhan\u0022 yang disembah Nabi Muhammad. Mereka menyifati tuhannya dengan sifat-sifat yang tidak layak sama sekali bagi Tuhan yang disembah Nabi."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 6209,
+          "inSurah": 2,
+          "Jommal_classic": " 1809 3636 1809 6336",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 603,
+          "manzil": 7,
+          "ruku": 551,
+          "hizbQuarter": 240,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u201E\u0638\u0698\u0637\u00A7 \u0637\u00A3\u0638\u0698\u0637\u00B9\u0638\u2019\u0637\u00A8\u0638\u0688\u0637\u00AF\u0638\u0688 \u0638\u2026\u0638\u0698\u0637\u00A7 \u0637\u06BE\u0638\u0698\u0637\u00B9\u0638\u2019\u0637\u00A8\u0638\u0688\u0637\u00AF\u0638\u0688\u0638\u02C6\u0638\u2020\u0638\u0698",
+          "transliteration": {
+            "en": "Laa a\u0027budu ma t\u0027abudoon",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "I do not worship what you worship.",
+          "id": "aku tidak akan menyembah apa yang kamu sembah,"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6209",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6209.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6209.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Sampai kapan pun aku tidak akan menyembah apa yang kamu sembah selain Allah, seperti berhala-berhala itu. Tuhan bukanlah ciptaan manusia dan Dia tidak menjelma menjadi suatu yang kasat mata sebagaimana sembahanmu itu.",
+            "long": "Dalam ayat-ayat ini, Allah memerintahkan Nabi Muhammad agar menyatakan kepada orang-orang kafir bahwa \u0022Tuhan\u0022 yang mereka sembah bukanlah \u0022Tuhan\u0022 yang ia sembah, karena mereka menyembah \u0022Tuhan\u0022 yang memerlukan pembantu dan mempunyai anak atau menjelma dalam suatu bentuk atau dalam sesuatu rupa atau bentuk-bentuk lain yang mereka dakwakan. Sedang Nabi saw menyembah Tuhan yang tidak ada tandingan-Nya dan tidak ada sekutu bagi-Nya; tidak mempunyai anak dan istri. Akal tidak sanggup menerka bagaimana Dia, tidak ditentukan oleh tempat dan tidak terikat oleh masa, tidak memerlukan perantaraan dan tidak pula memerlukan penghubung.\n\nMaksud pernyataan itu adalah terdapat perbedaan sangat besar antara \u0022Tuhan\u0022 yang disembah orang-orang kafir dengan \u0022Tuhan\u0022 yang disembah Nabi Muhammad. Mereka menyifati tuhannya dengan sifat-sifat yang tidak layak sama sekali bagi Tuhan yang disembah Nabi."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 6210,
+          "inSurah": 3,
+          "Jommal_classic": " 3609 4518 5436 1809 3636",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 603,
+          "manzil": 7,
+          "ruku": 551,
+          "hizbQuarter": 240,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u02C6\u0638\u0698\u0638\u201E\u0638\u0698\u0637\u00A7 \u0637\u00A3\u0638\u0698\u0638\u2020\u0637\u06BE\u0638\u0688\u0638\u2026\u0638\u2019 \u0637\u00B9\u0638\u0698\u0637\u00A7\u0637\u00A8\u0638\u06AF\u0637\u00AF\u0638\u0688\u0638\u02C6\u0638\u2020\u0638\u0698 \u0638\u2026\u0638\u0698\u0637\u00A7 \u0637\u00A3\u0638\u0698\u0637\u00B9\u0638\u2019\u0637\u00A8\u0638\u0688\u0637\u00AF\u0638\u0688",
+          "transliteration": {
+            "en": "Wa laa antum \u0027aabidoona maa a\u0027bud",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "Nor are you worshippers of what I worship.",
+          "id": "dan kamu bukan penyembah apa yang aku sembah,"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6210",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6210.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6210.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Dan kamu bukan penyembah apa yang aku sembah, yaitu Tuhan Yang Maha Esa, Penguasa alam semesta. Berhala sembahanmu itu sifat-sifat-nya sangat berbeda dari sifat-sifat sempurna Tuhan yang aku sembah.",
+            "long": "Selanjutnya Allah menambahkan lagi pernyataan yang diperintahkan untuk disampaikan kepada orang-orang kafir dengan menyatakan bahwa mereka tidak menyembah Tuhan yang didakwahkan Nabi Muhammad, karena sifat-sifat-Nya berlainan dengan sifat-sifat \u0022Tuhan\u0022 yang mereka sembah dan tidak mungkin dipertemukan antara kedua macam sifat tersebut."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 6211,
+          "inSurah": 4,
+          "Jommal_classic": " 3609 2718 2736 2709 5436",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 603,
+          "manzil": 7,
+          "ruku": 551,
+          "hizbQuarter": 240,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u02C6\u0638\u0698\u0638\u201E\u0638\u0698\u0637\u00A7 \u0637\u00A3\u0638\u0698\u0638\u2020\u0638\u0698\u0637\u00A7 \u0637\u00B9\u0638\u0698\u0637\u00A7\u0637\u00A8\u0638\u06AF\u0637\u00AF\u0638\u0152 \u0638\u2026\u0638\u2018\u0638\u0698\u0637\u00A7 \u0637\u00B9\u0638\u0698\u0637\u00A8\u0638\u0698\u0637\u00AF\u0637\u06BE\u0638\u2018\u0638\u0688\u0638\u2026\u0638\u2019",
+          "transliteration": {
+            "en": "Wa laa ana \u0027abidum maa \u0027abattum",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "Nor will I be a worshipper of what you worship.",
+          "id": "dan aku tidak pernah menjadi penyembah apa yang kamu sembah,"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6211",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6211.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6211.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Jika dua ayat sebelumnya menerangkan ketidaksamaan Tuhan Nabi Muhammad dan Tuhan orang kafir, dua ayat berikut menjelaskan ketidaksamaan peribadahan kepada keduanya. Dan aku tidak pernah menjadi penyembah apa yang kamu sembah karena kamu adalah orang-orang musyrik. Aku menyembah Tuhanku dengan bertauhid seperti yang Dia ajarkan kepadaku.",
+            "long": "Sesudah Allah menyatakan tentang tidak mungkin ada persamaan sifat antara Tuhan yang disembah oleh Nabi saw dengan yang disembah oleh orang-orang kafir, maka dengan sendirinya tidak ada pula persamaan dalam hal ibadah. Tuhan yang disembah Nabi Muhammad adalah Tuhan yang Mahasuci dari sekutu dan tandingan, tidak menjelma pada seseorang atau memihak kepada suatu bangsa atau orang tertentu. Sedangkan \u0022Tuhan\u0022 yang mereka sembah itu berbeda dari Tuhan yang tersebut di atas. Lagi pula ibadah nabi hanya untuk Allah saja, sedang ibadah mereka bercampur dengan syirik dan dicampuri dengan kelalaian dari Allah, maka yang demikian itu tidak dinamakan ibadah.\n\nPengulangan pernyataan yang sama seperti yang terdapat dalam ayat 3 dan 5 adalah untuk memperkuat dan membuat orang yang mengusulkan kepada Nabi saw berputus asa terhadap penolakan Nabi menyembah tuhan mereka selama setahun. Pengulangan seperti ini juga terdapat dalam Surah ar-Rahman/55 dan al-Mursalat/77. Hal ini adalah biasa dalam bahasa Arab."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 6212,
+          "inSurah": 5,
+          "Jommal_classic": " 3609 4518 5436 1809 3636",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 603,
+          "manzil": 7,
+          "ruku": 551,
+          "hizbQuarter": 240,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u02C6\u0638\u0698\u0638\u201E\u0638\u0698\u0637\u00A7 \u0637\u00A3\u0638\u0698\u0638\u2020\u0637\u06BE\u0638\u0688\u0638\u2026\u0638\u2019 \u0637\u00B9\u0638\u0698\u0637\u00A7\u0637\u00A8\u0638\u06AF\u0637\u00AF\u0638\u0688\u0638\u02C6\u0638\u2020\u0638\u0698 \u0638\u2026\u0638\u0698\u0637\u00A7 \u0637\u00A3\u0638\u0698\u0637\u00B9\u0638\u2019\u0637\u00A8\u0638\u0688\u0637\u00AF\u0638\u0688",
+          "transliteration": {
+            "en": "Wa laa antum \u0027aabidoona ma a\u0027bud",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "Nor will you be worshippers of what I worship.",
+          "id": "dan kamu tidak pernah (pula) menjadi penyembah apa yang aku sembah."
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6212",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6212.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6212.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Dan kamu tidak pernah pula menjadi penyembah apa yang aku sembah. Kamu tidak tunduk pada perintah dan syariat Allah dalam menyembah-Nya. Kamu bahkan menyembah tuhan dengan penuh kemusyrikan dan cara-cara yang kamu buat-buat berdasarkan hawa nafsumu.",
+            "long": "Sesudah Allah menyatakan tentang tidak mungkin ada persamaan sifat antara Tuhan yang disembah oleh Nabi saw dengan yang disembah oleh orang-orang kafir, maka dengan sendirinya tidak ada pula persamaan dalam hal ibadah. Tuhan yang disembah Nabi Muhammad adalah Tuhan yang Mahasuci dari sekutu dan tandingan, tidak menjelma pada seseorang atau memihak kepada suatu bangsa atau orang tertentu. Sedangkan \u0022Tuhan\u0022 yang mereka sembah itu berbeda dari Tuhan yang tersebut di atas. Lagi pula ibadah nabi hanya untuk Allah saja, sedang ibadah mereka bercampur dengan syirik dan dicampuri dengan kelalaian dari Allah, maka yang demikian itu tidak dinamakan ibadah.\n\nPengulangan pernyataan yang sama seperti yang terdapat dalam ayat 3 dan 5 adalah untuk memperkuat dan membuat orang yang mengusulkan kepada Nabi saw berputus asa terhadap penolakan Nabi menyembah tuhan mereka selama setahun. Pengulangan seperti ini juga terdapat dalam Surah ar-Rahman/55 dan al-Mursalat/77. Hal ini adalah biasa dalam bahasa Arab."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 6213,
+          "inSurah": 6,
+          "Jommal_classic": " 5400 7209 5400 3609",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 603,
+          "manzil": 7,
+          "ruku": 551,
+          "hizbQuarter": 240,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u201E\u0638\u0698\u0638\u0192\u0638\u0688\u0638\u2026\u0638\u2019 \u0637\u00AF\u0638\u06AF\u0638\u0679\u0638\u2020\u0638\u0688\u0638\u0192\u0638\u0688\u0638\u2026\u0638\u2019 \u0638\u02C6\u0638\u0698\u0638\u201E\u0638\u06AF\u0638\u0679\u0638\u0698 \u0637\u00AF\u0638\u06AF\u0638\u0679\u0638\u2020\u0638\u06AF",
+          "transliteration": {
+            "en": "Lakum deenukum wa liya deen.",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "For you is your religion, and for me is my religion.\u0022",
+          "id": "Untukmu agamamu, dan untukku agamaku.\u00E2\u20AC\u200C"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6213",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6213.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6213.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Tidak ada tukar-menukar dengan pengikut agama lain dalam hal peribadahan kepada Tuhan. Wahai orang kafir, untukmu agamamu, yakni kemusyrikan yang kamu yakini, dan untukku agamaku yang telah Allah pilihkan untukku sehingga aku tidak akan berpaling ke agama lain. Inilah jalan terbaik dalam hal toleransi antar umat beragama dalam urusan peribadahan kepada Tuhan.",
+            "long": "Kemudian dalam ayat ini, Allah mengancam orang-orang kafir dengan firman-Nya yaitu, \u0022Bagi kamu balasan atas amal perbuatanmu dan bagiku balasan atas amal perbuatanku.\u0022 Dalam ayat lain Allah berfirman:\n\nBagi kami amalan kami, bagi kamu amalan kamu. (al-Baqarah/2: 139)"
+          }
+        }
+      }
+    ]
+  }
+}

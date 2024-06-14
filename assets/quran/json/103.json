@@ -1,0 +1,180 @@
+{
+  "code": 200,
+  "status": "OK.",
+  "message": "Success fetching surah.",
+  "data": {
+    "number": 103,
+    "sequence": 13,
+    "numberOfVerses": 3,
+    "name": {
+      "short": "\u0637\u00A7\u0638\u201E\u0637\u00B9\u0637\u00B5\u0637\u00B1",
+      "long": "\u0637\u00B3\u0638\u02C6\u0637\u00B1\u0637\u00A9 \u0637\u00A7\u0638\u201E\u0637\u00B9\u0637\u00B5\u0637\u00B1",
+      "transliteration": {
+        "en": "Al-Asr",
+        "id": "Al-\u0027Asr"
+      },
+      "translation": {
+        "en": "The Declining Day, Epoch",
+        "id": "Asar"
+      }
+    },
+    "revelation": {
+      "arab": "\u0638\u2026\u0638\u0192\u0637\u00A9",
+      "en": "Meccan",
+      "id": "Makkiyyah"
+    },
+    "tafsir": {
+      "id": "Surat Al \u0027Ashr terdiri atas 3 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Alam Nasyrah. Dinamai Al \u0027Ashr (masa) diambil dari perkataan Al \u0027Ashr yang terdapat pada ayat pertama surat ini."
+    },
+    "preBismillah": {
+      "text": {
+        "arab": "\u0637\u00A8\u0638\u06AF\u0637\u00B3\u0638\u2019\u0638\u2026\u0638\u06AF \u0637\u00A7\u0638\u201E\u0638\u201E\u0638\u2018\u0638\u0698\u0638\u2021\u0638\u06AF \u0637\u00A7\u0638\u201E\u0637\u00B1\u0638\u2018\u0638\u0698\u0637\u00AD\u0638\u2019\u0638\u2026\u0638\u0698\u0638\u00B0\u0638\u2020\u0638\u06AF \u0637\u00A7\u0638\u201E\u0637\u00B1\u0638\u2018\u0638\u0698\u0637\u00AD\u0638\u06AF\u0638\u0679\u0638\u2026\u0638\u06AF",
+        "transliteration": {
+          "en": "Bismillaahir Rahmaanir Raheem"
+        }
+      },
+      "translation": {
+        "en": "In the name of Allah, the Entirely Merciful, the Especially Merciful.",
+        "id": "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang."
+      },
+      "audio": {
+        "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1",
+        "secondary": [
+          "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1.mp3",
+          "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1.mp3"
+        ]
+      }
+    },
+    "verses": [
+      {
+        "number": {
+          "inQuran": 6177,
+          "inSurah": 1,
+          "Jommal_classic": " 6336",
+          "Jommal_Moderen": "9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 601,
+          "manzil": 7,
+          "ruku": 545,
+          "hizbQuarter": 240,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u02C6\u0638\u0698\u0637\u00A7\u0638\u201E\u0638\u2019\u0637\u00B9\u0638\u0698\u0637\u00B5\u0638\u2019\u0637\u00B1\u0638\u06AF",
+          "transliteration": {
+            "en": "Wal\u0027 asr",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "By time,",
+          "id": "Demi masa,"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6177",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6177.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6177.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Demi masa, waktu sore, atau salat Asar. Allah bersumpah dengan masa agar manusia memperhatikan masa dan memanfaatkannya dengan baik; bersumpah dengan waktu sore, sebagaimana dengan waktu duha, sebagai salah satu bukti kuasa Allah; dan bersumpah dengan salat Asar karena keutamaanya atas salat-salat yang lain.",
+            "long": "Dalam ayat ini, Allah bersumpah dengan masa yang terjadi di dalamnya bermacam-macam kejadian dan pengalaman yang menjadi bukti atas kekuasaan Allah yang mutlak, hikmah-Nya yang tinggi, dan Ilmu-Nya yang sangat luas. Perubahan-perubahan besar yang terjadi pada masa itu sendiri, seperti pergantian siang dengan malam yang terus-menerus, habisnya umur manusia, dan sebagainya merupakan tanda keagungan Allah.\n\nDalam ayat lain, Allah berfirman:\n\nDan sebagian dari tanda-tanda kebesaran-Nya ialah malam, siang, matahari, dan bulan. (Fussilat/41: 37)\n\nApa yang dialami manusia dalam masa itu dari senang dan susah, miskin dan kaya, senggang dan sibuk, suka dan duka, dan lain-lain menunjukkan secara gamblang bahwa bagi alam semesta ini ada pencipta dan pengaturnya. Dialah Tuhan yang harus disembah dan hanya kepada-Nya kita memohon untuk menolak bahaya dan menarik manfaat. Adapun orang-orang kafir menghubungkan peristiwa-peristiwa tersebut hanya kepada suatu masa saja, sehingga mereka beranggapan bahwa bila ditimpa oleh sesuatu bencana, hal itu hanya kemauan alam saja. Allah menjelaskan bahwa masa (waktu) adalah salah satu makhluk-Nya dan di dalamnya terjadi bermacam-macam kejadian, kejahatan, dan kebaikan. Bila seseorang ditimpa musibah, hal itu merupakan akibat tindakannya. Masa (waktu) tidak campur tangan dengan terjadinya musibah itu."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 6178,
+          "inSurah": 2,
+          "Jommal_classic": " 3609 6336 4500 2727",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 601,
+          "manzil": 7,
+          "ruku": 545,
+          "hizbQuarter": 240,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0637\u00A5\u0638\u06AF\u0638\u2020\u0638\u2018\u0638\u0698 \u0637\u00A7\u0638\u201E\u0638\u2019\u0637\u00A5\u0638\u06AF\u0638\u2020\u0637\u00B3\u0638\u0698\u0637\u00A7\u0638\u2020\u0638\u0698 \u0638\u201E\u0638\u0698\u0638\u067E\u0638\u06AF\u0638\u0679 \u0637\u00AE\u0638\u0688\u0637\u00B3\u0638\u2019\u0637\u00B1\u0638\u0686",
+          "transliteration": {
+            "en": "Innal insaana lafee khusr",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "Indeed, mankind is in loss,",
+          "id": "sungguh, manusia berada dalam kerugian,"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6178",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6178.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6178.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Sungguh, manusia berada dalam kerugian, baik di dunia maupun akhirat, akibat hawa nafsu yang menyelubungi dirinya.",
+            "long": "Dalam ayat ini, Allah mengungkapkan bahwa manusia sebagai makhluk Allah sungguh secara keseluruhan berada dalam kerugian bila tidak menggunakan waktu dengan baik atau dipakai untuk melakukan keburukan. Perbuatan buruk manusia merupakan sumber kecelakaan yang menjerumuskannya ke dalam kebinasaan. Dosa seseorang terhadap Tuhannya yang memberi nikmat tidak terkira kepadanya adalah suatu pelanggaran yang tidak ada bandingannya sehingga merugikan dirinya."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 6179,
+          "inSurah": 3,
+          "Jommal_classic": " 3618 6318 4518 7218 6354 7236 6327 7236 5445",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 601,
+          "manzil": 7,
+          "ruku": 545,
+          "hizbQuarter": 240,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0637\u00A5\u0638\u06AF\u0638\u201E\u0638\u2018\u0638\u0698\u0637\u00A7 \u0637\u00A7\u0638\u201E\u0638\u2018\u0638\u0698\u0637\u00B0\u0638\u06AF\u0638\u0679\u0638\u2020\u0638\u0698 \u0637\u00A2\u0638\u2026\u0638\u0698\u0638\u2020\u0638\u0688\u0638\u02C6\u0637\u00A7 \u0638\u02C6\u0638\u0698\u0637\u00B9\u0638\u0698\u0638\u2026\u0638\u06AF\u0638\u201E\u0638\u0688\u0638\u02C6\u0637\u00A7 \u0637\u00A7\u0638\u201E\u0637\u00B5\u0638\u2018\u0638\u0698\u0637\u00A7\u0638\u201E\u0638\u06AF\u0637\u00AD\u0638\u0698\u0637\u00A7\u0637\u06BE\u0638\u06AF \u0638\u02C6\u0638\u0698\u0637\u06BE\u0638\u0698\u0638\u02C6\u0638\u0698\u0637\u00A7\u0637\u00B5\u0638\u0698\u0638\u02C6\u0638\u2019\u0637\u00A7 \u0637\u00A8\u0638\u06AF\u0637\u00A7\u0638\u201E\u0638\u2019\u0637\u00AD\u0638\u0698\u0638\u201A\u0638\u2018\u0638\u06AF \u0638\u02C6\u0638\u0698\u0637\u06BE\u0638\u0698\u0638\u02C6\u0638\u0698\u0637\u00A7\u0637\u00B5\u0638\u0698\u0638\u02C6\u0638\u2019\u0637\u00A7 \u0637\u00A8\u0638\u06AF\u0637\u00A7\u0638\u201E\u0637\u00B5\u0638\u2018\u0638\u0698\u0637\u00A8\u0638\u2019\u0637\u00B1\u0638\u06AF",
+          "transliteration": {
+            "en": "Il lal lazeena aamanu wa \u0027amilus saali haati wa tawa saw bil haqqi wa tawa saw bis sabr",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "Except for those who have believed and done righteous deeds and advised each other to truth and advised each other to patience.",
+          "id": "kecuali orang-orang yang beriman dan mengerjakan kebajikan serta saling menasihati untuk kebenaran dan saling menasihati untuk kesabaran."
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6179",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6179.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6179.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Semua manusia rugi, kecuali orang-orang yang beriman dengan sejati dan mengerjakan kebajikan sesuai ketentuan syariat dengan penuh keikhlasan, serta saling menasihati satu sama lain dengan baik dan bijaksana untuk memegang teguh kebenaran sebagaimana diajarkan oleh agama dan saling menasihati untuk kesabaran dalam melaksanakan kewajiban agama, menjauhi larangan, menghadapi musibah, dan menjalani kehidupan.",
+            "long": "Dalam ayat ini, Allah menjelaskan bahwa jika manusia tidak mau hidupnya merugi, maka ia harus beriman kepada-Nya, melaksanakan ibadah sebagaimana yang diperintahkannya, berbuat baik untuk dirinya sendiri, dan berusaha menimbulkan manfaat kepada orang lain.\n\nDi samping beriman dan beramal saleh, mereka harus saling nasihat-menasihati untuk menaati kebenaran dan tetap berlaku sabar, menjauhi perbuatan maksiat yang setiap orang cenderung kepadanya, karena dorongan hawa nafsunya."
+          }
+        }
+      }
+    ]
+  }
+}

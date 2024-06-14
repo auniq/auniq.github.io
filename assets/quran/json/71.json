@@ -1,0 +1,1255 @@
+{
+  "code": 200,
+  "status": "OK.",
+  "message": "Success fetching surah.",
+  "data": {
+    "number": 71,
+    "sequence": 71,
+    "numberOfVerses": 28,
+    "name": {
+      "short": "\u0638\u2020\u0638\u02C6\u0637\u00AD",
+      "long": "\u0637\u00B3\u0638\u02C6\u0637\u00B1\u0637\u00A9 \u0638\u2020\u0638\u02C6\u0637\u00AD",
+      "transliteration": {
+        "en": "Nooh",
+        "id": "Nuh"
+      },
+      "translation": {
+        "en": "Noah",
+        "id": "Nuh"
+      }
+    },
+    "revelation": {
+      "arab": "\u0638\u2026\u0638\u0192\u0637\u00A9",
+      "en": "Meccan",
+      "id": "Makkiyyah"
+    },
+    "tafsir": {
+      "id": "Surat ini terdiri atas 28 ayat, termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat An Nahl. Dinamakan dengan surat Nuh karena surat ini seluruhnya menjelaskan da\u0027wah dan doa Nabi Nuh a.s."
+    },
+    "preBismillah": {
+      "text": {
+        "arab": "\u0637\u00A8\u0638\u06AF\u0637\u00B3\u0638\u2019\u0638\u2026\u0638\u06AF \u0637\u00A7\u0638\u201E\u0638\u201E\u0638\u2018\u0638\u0698\u0638\u2021\u0638\u06AF \u0637\u00A7\u0638\u201E\u0637\u00B1\u0638\u2018\u0638\u0698\u0637\u00AD\u0638\u2019\u0638\u2026\u0638\u0698\u0638\u00B0\u0638\u2020\u0638\u06AF \u0637\u00A7\u0638\u201E\u0637\u00B1\u0638\u2018\u0638\u0698\u0637\u00AD\u0638\u06AF\u0638\u0679\u0638\u2026\u0638\u06AF",
+        "transliteration": {
+          "en": "Bismillaahir Rahmaanir Raheem"
+        }
+      },
+      "translation": {
+        "en": "In the name of Allah, the Entirely Merciful, the Especially Merciful.",
+        "id": "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang."
+      },
+      "audio": {
+        "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1",
+        "secondary": [
+          "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1.mp3",
+          "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1.mp3"
+        ]
+      }
+    },
+    "verses": [
+      {
+        "number": {
+          "inQuran": 5420,
+          "inSurah": 1,
+          "Jommal_classic": " 3618 6336 3618 4509 7200 2709 3627 7200 2700 4509 1809 9018 2736 5409",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 29,
+          "page": 570,
+          "manzil": 7,
+          "ruku": 504,
+          "hizbQuarter": 228,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0637\u00A5\u0638\u06AF\u0638\u2020\u0638\u2018\u0638\u0698\u0637\u00A7 \u0637\u00A3\u0638\u0698\u0637\u00B1\u0638\u2019\u0637\u00B3\u0638\u0698\u0638\u201E\u0638\u2019\u0638\u2020\u0638\u0698\u0637\u00A7 \u0638\u2020\u0638\u0688\u0638\u02C6\u0637\u00AD\u0638\u2039\u0637\u00A7 \u0637\u00A5\u0638\u06AF\u0638\u201E\u0638\u0698\u0638\u2030\u0638\u00B0 \u0638\u201A\u0638\u0698\u0638\u02C6\u0638\u2019\u0638\u2026\u0638\u06AF\u0638\u2021\u0638\u06AF \u0637\u00A3\u0638\u0698\u0638\u2020\u0638\u2019 \u0637\u00A3\u0638\u0698\u0638\u2020\u0637\u00B0\u0638\u06AF\u0637\u00B1\u0638\u2019 \u0638\u201A\u0638\u0698\u0638\u02C6\u0638\u2019\u0638\u2026\u0638\u0698\u0638\u0192\u0638\u0698 \u0638\u2026\u0638\u06AF\u0638\u2020 \u0638\u201A\u0638\u0698\u0637\u00A8\u0638\u2019\u0638\u201E\u0638\u06AF \u0637\u00A3\u0638\u0698\u0638\u2020 \u0638\u0679\u0638\u0698\u0637\u00A3\u0638\u2019\u0637\u06BE\u0638\u06AF\u0638\u0679\u0638\u0698\u0638\u2021\u0638\u0688\u0638\u2026\u0638\u2019 \u0637\u00B9\u0638\u0698\u0637\u00B0\u0638\u0698\u0637\u00A7\u0637\u00A8\u0638\u0152 \u0637\u00A3\u0638\u0698\u0638\u201E\u0638\u06AF\u0638\u0679\u0638\u2026\u0638\u0152",
+          "transliteration": {
+            "en": "Innaaa arsalnaa Noohan ilaa qawmihee an anzir qawmaka min qabli any yaatiyahum \u0027azaabun aleem",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "Indeed, We sent Noah to his people, [saying], \u0022Warn your people before there comes to them a painful punishment.\u0022",
+          "id": "Sesungguhnya Kami telah mengutus Nuh kepada kaumnya (dengan perintah), \u00E2\u20AC\u0153Berilah kaummu peringatan sebelum datang kepadanya azab yang pedih.\u00E2\u20AC\u200C"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5420",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5420.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5420.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Pada penutup surah sebelumnya diuraikan tentang ancaman siksa yang akan diterima kaum yang durhaka. Di awal surah ini diuraikan kisah Nabi Nuh dan kaumnya sebagai peringatan bagi siapa saja termasuk kaum musyrik Mekah, apabila durhaka maka bagi Allah mudah untuk mengazabnya. Sesungguhnya Kami telah mengutus Nuh kepada kaumnya dengan perintah, \u00E2\u20AC\u0153Berilah kaummu peringatan sebelum datang kepadanya azab yang pedih.",
+            "long": "Ayat ini menerangkan bahwa Allah telah mengutus Nabi Nuh kepada kaumnya untuk menyampaikan agama-Nya, supaya mereka takut kepada azab-Nya yang dahsyat sebelum saatnya tiba, serta beriman dan mengikuti ajarannya.\n\nNabi Nuh adalah nabi dan rasul Allah yang ketiga setelah Adam dan Idris. Beliau diutus kepada kaumnya yang menyembah berhala. Allah memerintahkan Nuh agar berdakwah kepada kaumnya itu supaya mereka beriman kepada-Nya dan menghentikan penyembahan berhala. Allah mengancam bahwa jika mereka tidak mengindahkan peringatan itu, mereka akan ditimpa azab yang dahsyat sebagai akibat keingkaran mereka."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5421,
+          "inSurah": 2,
+          "Jommal_classic": " 3609 1809 5400 4509 5400 4518 6309",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 29,
+          "page": 570,
+          "manzil": 7,
+          "ruku": 504,
+          "hizbQuarter": 228,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u201A\u0638\u0698\u0637\u00A7\u0638\u201E\u0638\u0698 \u0638\u0679\u0638\u0698\u0637\u00A7 \u0638\u201A\u0638\u0698\u0638\u02C6\u0638\u2019\u0638\u2026\u0638\u06AF \u0637\u00A5\u0638\u06AF\u0638\u2020\u0638\u2018\u0638\u06AF\u0638\u0679 \u0638\u201E\u0638\u0698\u0638\u0192\u0638\u0688\u0638\u2026\u0638\u2019 \u0638\u2020\u0638\u0698\u0637\u00B0\u0638\u06AF\u0638\u0679\u0637\u00B1\u0638\u0152 \u0638\u2026\u0638\u2018\u0638\u0688\u0637\u00A8\u0638\u06AF\u0638\u0679\u0638\u2020\u0638\u0152",
+          "transliteration": {
+            "en": "Qaala yaa qawmi innee lakum nazeerum mubeen",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "He said, \u0022O my people, indeed I am to you a clear warner,",
+          "id": "Dia (Nuh) berkata, \u00E2\u20AC\u0153Wahai kaumku! Sesungguhnya aku ini seorang pemberi peringatan yang menjelaskan kepada kamu,"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5421",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5421.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5421.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Nabi Nuh melaksanakan perintah Allah tersebut. Dia Nuh berkata, \u00E2\u20AC\u0153Wahai kaumku! Sesungguhnya aku ini seorang pemberi peringatan akan azab Allah yang menjelaskan peringatan itu kepada kamu",
+            "long": "Nuh segera berdakwah untuk melaksanakan tugas kerasulannya. Ia mengatakan bahwa ia benar-benar rasul Allah untuk mengajak mereka beriman dan meninggalkan penyembahan berhala."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5422,
+          "inSurah": 3,
+          "Jommal_classic": " 2709 3645 5409 8118 8127",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 29,
+          "page": 570,
+          "manzil": 7,
+          "ruku": 504,
+          "hizbQuarter": 228,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0637\u00A3\u0638\u0698\u0638\u2020\u0638\u06AF \u0637\u00A7\u0637\u00B9\u0638\u2019\u0637\u00A8\u0638\u0688\u0637\u00AF\u0638\u0688\u0638\u02C6\u0637\u00A7 \u0637\u00A7\u0638\u201E\u0638\u201E\u0638\u2018\u0638\u0698\u0638\u2021\u0638\u0698 \u0638\u02C6\u0638\u0698\u0637\u00A7\u0637\u06BE\u0638\u2018\u0638\u0698\u0638\u201A\u0638\u0688\u0638\u02C6\u0638\u2021\u0638\u0688 \u0638\u02C6\u0638\u0698\u0637\u00A3\u0638\u0698\u0637\u00B7\u0638\u06AF\u0638\u0679\u0637\u00B9\u0638\u0688\u0638\u02C6\u0638\u2020\u0638\u06AF",
+          "transliteration": {
+            "en": "Ani\u0027udul laaha watta qoohu wa atee\u0027oon",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "[Saying], \u0027Worship Allah, fear Him and obey me.",
+          "id": "(yaitu) sembahlah Allah, bertakwalah kepada-Nya dan taatlah kepadaku,"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5422",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5422.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5422.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "yaitu sembahlah Allah Yang Esa dan tidak menyekutukan-Nya dengan sesuatu yang lain, bertakwalah kepada-Nya dengan menjalankan perintah dan menjauhi larangan-Nya dan taatlah kepadaku.",
+            "long": "Dalam ayat ini, diterangkan isi seruan Nabi Nuh, yaitu:\n\n1.Hendaklah mereka menyembah Allah saja, Tuhan Yang Maha Esa, tidak ada Tuhan selain Dia. Dalam perintah menyembah Allah yang disampaikan Nuh itu, terkandung isyarat agar mereka mengerjakan segala yang wajib, dan menghentikan segala yang diharamkan. Dari perintah Allah untuk hanya menyembah-Nya, dapat dipahami bahwa agama yang dianut kaum Nuh itu adalah agama syirik.\n\n2.Hendaklah mereka bertakwa kepada Allah, yaitu melaksanakan semua yang diperintahkan dan menjauhi segala yang dilarang-Nya.\n\n3.Menaati segala yang diperintahkan dan dilarangnya, karena apa yang ia perintahkan dan larang itu berasal dari Allah. Menaati Nuh berarti menaati Allah. Untuk dapat beribadah dengan baik kepada Allah dan bertakwa kepada-Nya, kaum Nuh perlu mengikuti penjelasan dan contoh yang diberikan Nabi Nuh."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5423,
+          "inSurah": 4,
+          "Jommal_classic": " 5418 4500 3600 8118 10827 4509 3618 7209 1000 3609 3618 5409 1827 1827 1809 5427 1000 3600 5409 8118",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t1\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t1\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 29,
+          "page": 570,
+          "manzil": 7,
+          "ruku": 504,
+          "hizbQuarter": 228,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u0679\u0638\u0698\u0637\u061B\u0638\u2019\u0638\u067E\u0638\u06AF\u0637\u00B1\u0638\u2019 \u0638\u201E\u0638\u0698\u0638\u0192\u0638\u0688\u0638\u2026 \u0638\u2026\u0638\u2018\u0638\u06AF\u0638\u2020 \u0637\u00B0\u0638\u0688\u0638\u2020\u0638\u0688\u0638\u02C6\u0637\u00A8\u0638\u06AF\u0638\u0192\u0638\u0688\u0638\u2026\u0638\u2019 \u0638\u02C6\u0638\u0698\u0638\u0679\u0638\u0688\u0637\u00A4\u0638\u0698\u0637\u00AE\u0638\u2018\u0638\u06AF\u0637\u00B1\u0638\u2019\u0638\u0192\u0638\u0688\u0638\u2026\u0638\u2019 \u0637\u00A5\u0638\u06AF\u0638\u201E\u0638\u0698\u0638\u2030\u0638\u00B0 \u0637\u00A3\u0638\u0698\u0637\u00AC\u0638\u0698\u0638\u201E\u0638\u0686 \u0638\u2026\u0638\u2018\u0638\u0688\u0637\u00B3\u0638\u0698\u0638\u2026\u0638\u2018\u0638\u2039\u0638\u2030 \u063A\u0691 \u0637\u00A5\u0638\u06AF\u0638\u2020\u0638\u2018\u0638\u0698 \u0637\u00A3\u0638\u0698\u0637\u00AC\u0638\u0698\u0638\u201E\u0638\u0698 \u0637\u00A7\u0638\u201E\u0638\u201E\u0638\u2018\u0638\u0698\u0638\u2021\u0638\u06AF \u0637\u00A5\u0638\u06AF\u0637\u00B0\u0638\u0698\u0637\u00A7 \u0637\u00AC\u0638\u0698\u0637\u00A7\u0637\u060C\u0638\u0698 \u0638\u201E\u0638\u0698\u0637\u00A7 \u0638\u0679\u0638\u0688\u0637\u00A4\u0638\u0698\u0637\u00AE\u0638\u2018\u0638\u0698\u0637\u00B1\u0638\u0688 \u063A\u2013 \u0638\u201E\u0638\u0698\u0638\u02C6\u0638\u2019 \u0638\u0192\u0638\u0688\u0638\u2020\u0637\u06BE\u0638\u0688\u0638\u2026\u0638\u2019 \u0637\u06BE\u0638\u0698\u0637\u00B9\u0638\u2019\u0638\u201E\u0638\u0698\u0638\u2026\u0638\u0688\u0638\u02C6\u0638\u2020\u0638\u0698",
+          "transliteration": {
+            "en": "Yaghfir lakum min zunoobikum wa yu\u0027akhkhirkum ilaaa ajalim musammaa; innaa ajalal laahi izaa jaaa\u0027a laa yu\u0027akhkhar; law kuntum ta\u0027lamoon",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "Allah will forgive you of your sins and delay you for a specified term. Indeed, the time [set by] Allah, when it comes, will not be delayed, if you only knew.\u0027 \u0022",
+          "id": "niscaya Dia mengampuni sebagian dosa-dosamu dan menangguhkan kamu (memanjangkan umurmu) sampai pada batas waktu yang ditentukan. Sungguh, ketetapan Allah itu apabila telah datang tidak dapat ditunda, seandainya kamu mengetahui.\u00E2\u20AC\u200C"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5423",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5423.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5423.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Kalau kamu lakukan itu semua niscaya Dia akan mengampuni sebagian dosa-dosamu dan menangguhkan kamu yaitu dengan memanjangkan umurmu untuk kemaslahatanmu sampai pada batas waktu yang ditentukan. Sungguh, ketetapan Allah itu apabila telah datang tidak dapat ditunda sedikit pun, seandainya kamu mengetahui hal itu maka tentu kamu akan menjadi orang yang beriman.\u00E2\u20AC\u200C",
+            "long": "Dalam ayat ini, diterangkan janji Allah kepada kaum Nuh bila mereka mematuhi seruannya, yaitu:\n\n1.Allah akan mengampuni dosa-dosa mereka. Dosa-dosa mereka karena menyembah berhala-berhala itu akan terhapus oleh keimanan mereka. \n\n1.Allah akan memanjangkan umur mereka. Sekalipun umur mereka telah ditentukan, namun jika mereka beriman, Allah akan memanjangkan umur mereka dan menghentikan azab yang akan dijatuhkan kepada mereka. Melakukan yang demikian itu merupakan perkara yang mudah bagi Allah, karena Dia Mahakuasa dan Maha Menentukan segala sesuatu yang dikehendaki-Nya.\n\nSehubungan dengan masalah menangguhkan kedatangan ajal, yakni memanjang umur yang disebut dalam ayat ini, sebagian ahli tafsir menyatakan bahwa Allah akan mengubah takdir yang telah ditentukan-Nya, jika Dia menghendakinya. Oleh karena itu, taat kepada Allah, melakukan perbuatan-perbuatan takwa, dan menghubungkan silaturrahim dapat memanjangkan umur manusia. Nabi Muhammad bersabda:\n\nDari Anas bin Malik, Rasulullah saw bersabda: Barang siapa menghendaki diluaskan rezekinya dan dipanjangkan umurnya maka hendaknya ia menjalin silaturrahim. (Riwayat al-Bukhari)\n\nHal ini akan lebih jelas maksudnya jika dihubungkan dengan ilmu jiwa. Menurut ilmu jiwa, ada hubungan timbal-balik antara jasmani seseorang dengan rohaninya. Kesehatan rohani besar pengaruhnya terhadap kesehatan jasmani, begitu pula sebaliknya. Oleh karena itu, orang dikatakan sehat jika jasmani dan rohaninya sehat. Pada umumnya orang yang tekun mengerjakan amal saleh dan menghubungkan silaturrahim adalah orang yang sehat rohaninya. Dengan perkataan lain, takwa kepada Allah dapat menghilangkan penyakit-penyakit rohani. Jika rohani sehat, tentulah jasmani sehat pula dan umur pun akan panjang.\n\nPada akhir ayat ini, Allah menegaskan bahwa apabila Ia telah menetapkan ajal seseorang atau semua manusia, setelah ikhtiarnya, maka kedatangannya itu tidak dapat ditangguhkan atau tidak pula dapat dipercepat sesaat pun."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5424,
+          "inSurah": 5,
+          "Jommal_classic": " 3609 2718 4509 4527 6300 5409 6327",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 29,
+          "page": 570,
+          "manzil": 7,
+          "ruku": 504,
+          "hizbQuarter": 228,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u201A\u0638\u0698\u0637\u00A7\u0638\u201E\u0638\u0698 \u0637\u00B1\u0638\u0698\u0637\u00A8\u0638\u2018\u0638\u06AF \u0637\u00A5\u0638\u06AF\u0638\u2020\u0638\u2018\u0638\u06AF\u0638\u0679 \u0637\u00AF\u0638\u0698\u0637\u00B9\u0638\u0698\u0638\u02C6\u0638\u2019\u0637\u06BE\u0638\u0688 \u0638\u201A\u0638\u0698\u0638\u02C6\u0638\u2019\u0638\u2026\u0638\u06AF\u0638\u0679 \u0638\u201E\u0638\u0698\u0638\u0679\u0638\u2019\u0638\u201E\u0638\u2039\u0637\u00A7 \u0638\u02C6\u0638\u0698\u0638\u2020\u0638\u0698\u0638\u2021\u0638\u0698\u0637\u00A7\u0637\u00B1\u0638\u2039\u0637\u00A7",
+          "transliteration": {
+            "en": "Qaala rabbi innee da\u0027awtu qawmee lailanw wa naharaa",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "He said, \u0022My Lord, indeed I invited my people [to truth] night and day.",
+          "id": "Dia (Nuh) berkata, \u00E2\u20AC\u0153Ya Tuhanku, sesungguhnya aku telah menyeru kaumku siang dan malam,"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5424",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5424.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5424.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Ajakan Nabi Nuh tidak disambut dengan baik oleh kaumnya, maka dia Nabi Nuh mengadu kepada Allah, \u00E2\u20AC\u0153Ya Tuhanku, sesungguhnya aku telah menyeru kaumku untuk beriman kepada-Mu dengan berbagai cara, dan itu kulakukan siang dan malam terus menerus,",
+            "long": "Nabi Nuh mengeluhkan sikap kaumnya kepada Allah bahwa sekalipun ia sudah menyeru umatnya siang dan malam, tetapi mereka tetap tidak menghiraukannya. Bahkan, mereka semakin diseru, semakin menjauh dan lari dari seruan itu."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5425,
+          "inSurah": 6,
+          "Jommal_classic": " 5400 7218 3636 3618 3636",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 29,
+          "page": 570,
+          "manzil": 7,
+          "ruku": 504,
+          "hizbQuarter": 228,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u067E\u0638\u0698\u0638\u201E\u0638\u0698\u0638\u2026\u0638\u2019 \u0638\u0679\u0638\u0698\u0637\u00B2\u0638\u06AF\u0637\u00AF\u0638\u2019\u0638\u2021\u0638\u0688\u0638\u2026\u0638\u2019 \u0637\u00AF\u0638\u0688\u0637\u00B9\u0638\u0698\u0637\u00A7\u0637\u00A6\u0638\u06AF\u0638\u0679 \u0637\u00A5\u0638\u06AF\u0638\u201E\u0638\u2018\u0638\u0698\u0637\u00A7 \u0638\u067E\u0638\u06AF\u0637\u00B1\u0638\u0698\u0637\u00A7\u0637\u00B1\u0638\u2039\u0637\u00A7",
+          "transliteration": {
+            "en": "Falam yazid hum du\u0027aaa \u0027eee illaa firaaraa",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "But my invitation increased them not except in flight.",
+          "id": "tetapi seruanku itu tidak menambah (iman) mereka, justru mereka lari (dari kebenaran)."
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5425",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5425.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5425.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "tetapi seruanku itu tidak menambah iman dan kebaikan mereka, justru mereka lari menjauh dari kebenaran.",
+            "long": "Nabi Nuh mengeluhkan sikap kaumnya kepada Allah bahwa sekalipun ia sudah menyeru umatnya siang dan malam, tetapi mereka tetap tidak menghiraukannya. Bahkan, mereka semakin diseru, semakin menjauh dan lari dari seruan itu."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5426,
+          "inSurah": 7,
+          "Jommal_classic": " 6309 6309 8127 6327 5400 4527 7245 2700 6327 7254 7227 6336 8154 5463",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 29,
+          "page": 570,
+          "manzil": 7,
+          "ruku": 504,
+          "hizbQuarter": 228,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u02C6\u0638\u0698\u0637\u00A5\u0638\u06AF\u0638\u2020\u0638\u2018\u0638\u06AF\u0638\u0679 \u0638\u0192\u0638\u0688\u0638\u201E\u0638\u2018\u0638\u0698\u0638\u2026\u0638\u0698\u0637\u00A7 \u0637\u00AF\u0638\u0698\u0637\u00B9\u0638\u0698\u0638\u02C6\u0638\u2019\u0637\u06BE\u0638\u0688\u0638\u2021\u0638\u0688\u0638\u2026\u0638\u2019 \u0638\u201E\u0638\u06AF\u0637\u06BE\u0638\u0698\u0637\u061B\u0638\u2019\u0638\u067E\u0638\u06AF\u0637\u00B1\u0638\u0698 \u0638\u201E\u0638\u0698\u0638\u2021\u0638\u0688\u0638\u2026\u0638\u2019 \u0637\u00AC\u0638\u0698\u0637\u00B9\u0638\u0698\u0638\u201E\u0638\u0688\u0638\u02C6\u0637\u00A7 \u0637\u00A3\u0638\u0698\u0637\u00B5\u0638\u0698\u0637\u00A7\u0637\u00A8\u0638\u06AF\u0637\u00B9\u0638\u0698\u0638\u2021\u0638\u0688\u0638\u2026\u0638\u2019 \u0638\u067E\u0638\u06AF\u0638\u0679 \u0637\u00A2\u0637\u00B0\u0638\u0698\u0637\u00A7\u0638\u2020\u0638\u06AF\u0638\u2021\u0638\u06AF\u0638\u2026\u0638\u2019 \u0638\u02C6\u0638\u0698\u0637\u00A7\u0637\u00B3\u0638\u2019\u0637\u06BE\u0638\u0698\u0637\u061B\u0638\u2019\u0637\u00B4\u0638\u0698\u0638\u02C6\u0638\u2019\u0637\u00A7 \u0637\u00AB\u0638\u06AF\u0638\u0679\u0638\u0698\u0637\u00A7\u0637\u00A8\u0638\u0698\u0638\u2021\u0638\u0688\u0638\u2026\u0638\u2019 \u0638\u02C6\u0638\u0698\u0637\u00A3\u0638\u0698\u0637\u00B5\u0638\u0698\u0637\u00B1\u0638\u2018\u0638\u0688\u0638\u02C6\u0637\u00A7 \u0638\u02C6\u0638\u0698\u0637\u00A7\u0637\u00B3\u0638\u2019\u0637\u06BE\u0638\u0698\u0638\u0192\u0638\u2019\u0637\u00A8\u0638\u0698\u0637\u00B1\u0638\u0688\u0638\u02C6\u0637\u00A7 \u0637\u00A7\u0637\u00B3\u0638\u2019\u0637\u06BE\u0638\u06AF\u0638\u0192\u0638\u2019\u0637\u00A8\u0638\u0698\u0637\u00A7\u0637\u00B1\u0638\u2039\u0637\u00A7",
+          "transliteration": {
+            "en": "Wa inee kullamaa da\u0027awtuhum litaghfira lahum ja\u0027alooo asaabi\u0027ahum fee aazaanihim wastaghshaw siyaabahum wa asaarroo wastakbarus tikbaaraa",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "And indeed, every time I invited them that You may forgive them, they put their fingers in their ears, covered themselves with their garments, persisted, and were arrogant with [great] arrogance.",
+          "id": "Dan sesungguhnya aku setiap kali menyeru mereka (untuk beriman) agar Engkau mengampuni mereka, mereka memasukkan anak jarinya ke telinganya dan menutupkan bajunya (ke wajahnya) dan mereka tetap (mengingkari) dan sangat menyombongkan diri."
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5426",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5426.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5426.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Dan sesungguhnya aku setiap kali menyeru mereka untuk beriman kepada ajaran-Mu agar Engkau mengampuni mereka, mereka memasukkan anak jarinya ke telinganya karena enggan untuk mendengar bahkan membenci seruanku itu, dan menutupkan bajunya ke wajahnya sehingga tidak melihatku dan mereka tetap keras kepala mengingkari dan sangat menyombongkan diri sehingga tidak mempan dengan segala cara yang kulakukan.",
+            "long": "Nabi Nuh juga mengeluhkan bahwa setiap kali ia menyeru mereka agar beriman dan tidak lagi menyembah berhala-berhala agar dosa-dosa mereka diampuni, mereka menyumbatkan jari-jari mereka ke lubang telinga agar tidak mendengar seruannya. Mereka bahkan menutupi muka masing-masing supaya tidak melihatnya. Hal ini didorong oleh kebencian mereka terhadapnya. Lebih dari itu, mereka juga semakin ingkar dan sombong."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5427,
+          "inSurah": 8,
+          "Jommal_classic": " 3609 4509 8127 3636",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 29,
+          "page": 570,
+          "manzil": 7,
+          "ruku": 504,
+          "hizbQuarter": 228,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0637\u00AB\u0638\u0688\u0638\u2026\u0638\u2018\u0638\u0698 \u0637\u00A5\u0638\u06AF\u0638\u2020\u0638\u2018\u0638\u06AF\u0638\u0679 \u0637\u00AF\u0638\u0698\u0637\u00B9\u0638\u0698\u0638\u02C6\u0638\u2019\u0637\u06BE\u0638\u0688\u0638\u2021\u0638\u0688\u0638\u2026\u0638\u2019 \u0637\u00AC\u0638\u06AF\u0638\u2021\u0638\u0698\u0637\u00A7\u0637\u00B1\u0638\u2039\u0637\u00A7",
+          "transliteration": {
+            "en": "Summa innee da\u0027aw tuhum jihaara",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "Then I invited them publicly.",
+          "id": "Lalu sesungguhnya aku menyeru mereka dengan cara terang-terangan."
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5427",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5427.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5427.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Nabi Nuh melanjutkan pengaduannya kepada Allah. Lalu sesungguhnya aku telah menyeru mereka dengan cara terang-terangan dengan suara yang jelas dan di hadapan umum.",
+            "long": "Nabi Nuh mengadukan kepada Allah bahwa segala upaya telah ia lakukan supaya mereka beriman. Ia telah menyeru mereka secara terang-terangan di hadapan umum, dan adakalanya dengan dua cara sekaligus, yaitu mengajak mereka secara bersama di depan umum, dan mendekati mereka seorang demi seorang secara pribadi. Akan tetapi, mereka tetap menampik dan menolak seruan itu.\n\nDari ayat ini dapat dipahami bahwa Nabi Nuh telah melaksanakan tugas tanpa menghiraukan bahaya yang dapat mengancam jiwanya. Nuh sangat cinta kepada kaumnya, dan beliau ingin mereka beriman supaya terhindar dari azab Allah. Dan ia telah melaksanakan tugasnya dengan penuh pengabdian kepada Allah."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5428,
+          "inSurah": 9,
+          "Jommal_classic": " 3609 4509 5427 5400 6345 5400 3654",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 29,
+          "page": 570,
+          "manzil": 7,
+          "ruku": 504,
+          "hizbQuarter": 228,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0637\u00AB\u0638\u0688\u0638\u2026\u0638\u2018\u0638\u0698 \u0637\u00A5\u0638\u06AF\u0638\u2020\u0638\u2018\u0638\u06AF\u0638\u0679 \u0637\u00A3\u0638\u0698\u0637\u00B9\u0638\u2019\u0638\u201E\u0638\u0698\u0638\u2020\u0637\u06BE\u0638\u0688 \u0638\u201E\u0638\u0698\u0638\u2021\u0638\u0688\u0638\u2026\u0638\u2019 \u0638\u02C6\u0638\u0698\u0637\u00A3\u0638\u0698\u0637\u00B3\u0638\u2019\u0637\u00B1\u0638\u0698\u0637\u00B1\u0638\u2019\u0637\u06BE\u0638\u0688 \u0638\u201E\u0638\u0698\u0638\u2021\u0638\u0688\u0638\u2026\u0638\u2019 \u0637\u00A5\u0638\u06AF\u0637\u00B3\u0638\u2019\u0637\u00B1\u0638\u0698\u0637\u00A7\u0637\u00B1\u0638\u2039\u0637\u00A7",
+          "transliteration": {
+            "en": "Summaa inneee a\u0027lantu lahum wa asrartu lahum israaraa",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "Then I announced to them and [also] confided to them secretly",
+          "id": "Kemudian aku menyeru mereka secara terbuka dan dengan diam-diam,"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5428",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5428.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5428.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Kemudian pada kesempatan lain aku menyeru mereka dengan dua cara sekaligus yaitu secara terbuka dan dengan diam-diam.",
+            "long": "Nabi Nuh mengadukan kepada Allah bahwa segala upaya telah ia lakukan supaya mereka beriman. Ia telah menyeru mereka secara terang-terangan di hadapan umum, dan adakalanya dengan dua cara sekaligus, yaitu mengajak mereka secara bersama di depan umum, dan mendekati mereka seorang demi seorang secara pribadi. Akan tetapi, mereka tetap menampik dan menolak seruan itu.\n\nDari ayat ini dapat dipahami bahwa Nabi Nuh telah melaksanakan tugas tanpa menghiraukan bahaya yang dapat mengancam jiwanya. Nuh sangat cinta kepada kaumnya, dan beliau ingin mereka beriman supaya terhindar dari azab Allah. Dan ia telah melaksanakan tugasnya dengan penuh pengabdian kepada Allah."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5429,
+          "inSurah": 10,
+          "Jommal_classic": " 6309 6354 6318 5409 3609 4536",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 29,
+          "page": 570,
+          "manzil": 7,
+          "ruku": 504,
+          "hizbQuarter": 228,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u067E\u0638\u0698\u0638\u201A\u0638\u0688\u0638\u201E\u0638\u2019\u0637\u06BE\u0638\u0688 \u0637\u00A7\u0637\u00B3\u0638\u2019\u0637\u06BE\u0638\u0698\u0637\u061B\u0638\u2019\u0638\u067E\u0638\u06AF\u0637\u00B1\u0638\u0688\u0638\u02C6\u0637\u00A7 \u0637\u00B1\u0638\u0698\u0637\u00A8\u0638\u2018\u0638\u0698\u0638\u0192\u0638\u0688\u0638\u2026\u0638\u2019 \u0637\u00A5\u0638\u06AF\u0638\u2020\u0638\u2018\u0638\u0698\u0638\u2021\u0638\u0688 \u0638\u0192\u0638\u0698\u0637\u00A7\u0638\u2020\u0638\u0698 \u0637\u061B\u0638\u0698\u0638\u067E\u0638\u2018\u0638\u0698\u0637\u00A7\u0637\u00B1\u0638\u2039\u0637\u00A7",
+          "transliteration": {
+            "en": "Faqultus taghfiroo Rabakam innahoo kaana Ghaffaaraa",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "And said, \u0027Ask forgiveness of your Lord. Indeed, He is ever a Perpetual Forgiver.",
+          "id": "maka aku berkata (kepada mereka), \u00E2\u20AC\u0153Mohonlah ampunan kepada Tuhanmu, Sungguh, Dia Maha Pengampun,"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5429",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5429.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5429.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Itu semua telah kulakukan maka aku pun berkata kepada mereka, \u00E2\u20AC\u0153Mohonlah ampunan kepada Tuhanmu atas segala dosa terutama dosa syirik. Sungguh, Dia Maha Pengampun bagi siapa saja yang tulus memohon ampunan-Nya.\u0022",
+            "long": "Nuh menyeru kaumnya agar memohon ampun kepada Allah atas dosa-dosa mereka menyembah berhala. Bila mereka memohon ampunan, maka Allah pasti akan mengabulkannya, karena Ia Maha Pengampun. Keimanan mereka akan menghapus dosa-dosa syirik yang telah mereka lakukan."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5430,
+          "inSurah": 11,
+          "Jommal_classic": " 5418 5436 7209 5445",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 29,
+          "page": 571,
+          "manzil": 7,
+          "ruku": 504,
+          "hizbQuarter": 228,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u0679\u0638\u0688\u0637\u00B1\u0638\u2019\u0637\u00B3\u0638\u06AF\u0638\u201E\u0638\u06AF \u0637\u00A7\u0638\u201E\u0637\u00B3\u0638\u2018\u0638\u0698\u0638\u2026\u0638\u0698\u0637\u00A7\u0637\u060C\u0638\u0698 \u0637\u00B9\u0638\u0698\u0638\u201E\u0638\u0698\u0638\u0679\u0638\u2019\u0638\u0192\u0638\u0688\u0638\u2026 \u0638\u2026\u0638\u2018\u0638\u06AF\u0637\u00AF\u0638\u2019\u0637\u00B1\u0638\u0698\u0637\u00A7\u0637\u00B1\u0638\u2039\u0637\u00A7",
+          "transliteration": {
+            "en": "Yursilis samaaa\u0027a \u0027alaikum midraaraa",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "He will send [rain from] the sky upon you in [continuing] showers",
+          "id": "niscaya Dia akan menurunkan hujan yang lebat dari langit kepadamu,"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5430",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5430.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5430.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "\u0022Kalau kamu benar-benar memohon ampunan-Nya niscaya Dia akan menurunkan hujan yang lebat dari langit kepadamu,",
+            "long": "Nabi Nuh menyampaikan kepada kaumnya janji Allah bila mereka beriman kepada-Nya, yaitu:\n\n1.Allah akan menurunkan hujan lebat yang akan menyuburkan tanah mereka dan memberikan hasil yang berlimpah sehingga mereka akan makmur.\n\n2.Allah akan menganugerahkan kepada mereka kekayaan yang berlimpah.\n\n3.Allah akan menganugerahkan anak-anak yang banyak untuk melanjutkan keturunan mereka, sehingga tidak punah.\n\n4.Allah akan menyuburkan kebun-kebun mereka, sehingga memberi hasil yang berlimpah.\n\n5.Allah akan memberi mereka sungai-sungai dan irigasi untuk mengairi kebun-kebun mereka, sehingga subur dan hijau.\n\nJanji Allah kepada umat Nuh sangat cocok dengan masyarakat waktu itu. Umat Nabi Nuh adalah nenek moyang umat manusia sekarang. Kebudayaan mereka masih dalam taraf permulaan kebudayaan manusia. Akan tetapi, janji Allah itu tidak menarik hati mereka sedikit pun. Hal ini menunjukkan keingkaran mereka yang sangat hebat. \n\nJanji Allah itu mengandung isyarat bahwa Ia menyuruh mereka mempergunakan akal pikiran. Mereka seakan-akan disuruh memikirkan kegunaan hujan bagi mereka. Hujan akan menyuburkan bumi tempat mereka berdiam, menghasilkan tanam-tanaman dan buah-buahan yang mereka perlukan. Sebagian hasil pertanian itu bisa mereka makan dan sebagian lainnya dijual, sehingga menambah kekayaan mereka. Hujan akan mengalirkan air menjadi sungai-sungai yang bermanfaat bagi mereka. Jika mereka mau menggunakan pikiran seperti itu, mereka tentu akan sampai kepada kesimpulan tentang siapa yang menurunkan hujan dan menyuburkan bumi sehingga menghasilkan keperluan-keperluan hidup mereka. Akhirnya, mereka tentu akan sampai kepada suatu kesimpulan sebagaimana seruan yang disampaikan Nuh kepada mereka, yaitu beriman kepada Tuhan Yang Maha Esa dan yang menciptakan semua keperluan mereka."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5431,
+          "inSurah": 12,
+          "Jommal_classic": " 9918 7227 7209 6318 6300 4527 6318 6300 5436",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 29,
+          "page": 571,
+          "manzil": 7,
+          "ruku": 504,
+          "hizbQuarter": 228,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u02C6\u0638\u0698\u0638\u0679\u0638\u0688\u0638\u2026\u0638\u2019\u0637\u00AF\u0638\u06AF\u0637\u00AF\u0638\u2019\u0638\u0192\u0638\u0688\u0638\u2026 \u0637\u00A8\u0638\u06AF\u0637\u00A3\u0638\u0698\u0638\u2026\u0638\u2019\u0638\u02C6\u0638\u0698\u0637\u00A7\u0638\u201E\u0638\u0686 \u0638\u02C6\u0638\u0698\u0637\u00A8\u0638\u0698\u0638\u2020\u0638\u06AF\u0638\u0679\u0638\u2020\u0638\u0698 \u0638\u02C6\u0638\u0698\u0638\u0679\u0638\u0698\u0637\u00AC\u0638\u2019\u0637\u00B9\u0638\u0698\u0638\u201E \u0638\u201E\u0638\u2018\u0638\u0698\u0638\u0192\u0638\u0688\u0638\u2026\u0638\u2019 \u0637\u00AC\u0638\u0698\u0638\u2020\u0638\u2018\u0638\u0698\u0637\u00A7\u0637\u06BE\u0638\u0686 \u0638\u02C6\u0638\u0698\u0638\u0679\u0638\u0698\u0637\u00AC\u0638\u2019\u0637\u00B9\u0638\u0698\u0638\u201E \u0638\u201E\u0638\u2018\u0638\u0698\u0638\u0192\u0638\u0688\u0638\u2026\u0638\u2019 \u0637\u00A3\u0638\u0698\u0638\u2020\u0638\u2019\u0638\u2021\u0638\u0698\u0637\u00A7\u0637\u00B1\u0638\u2039\u0637\u00A7",
+          "transliteration": {
+            "en": "Wa yumdidkum bi am waalinw wa baneena wa yaj\u0027al lakum Jannaatinw wa yaj\u0027al lakum anhaaraa",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "And give you increase in wealth and children and provide for you gardens and provide for you rivers.",
+          "id": "dan Dia memperbanyak harta dan anak-anakmu, dan mengadakan kebun-kebun untukmu dan mengadakan sungai-sungai untukmu.\u00E2\u20AC\u200C"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5431",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5431.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5431.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "dan Dia memperbanyak harta dan anak-anakmu, dan mengadakan pula kebun-kebun untukmu yang dapat kamu nikmati keindahan dan buahnya dan mengadakan sungai-sungai untukmu guna mengairi kebun dan memberi minum ternakmu.\u00E2\u20AC\u200C",
+            "long": "Nabi Nuh menyampaikan kepada kaumnya janji Allah bila mereka beriman kepada-Nya, yaitu:\n\n1.Allah akan menurunkan hujan lebat yang akan menyuburkan tanah mereka dan memberikan hasil yang berlimpah sehingga mereka akan makmur.\n\n2.Allah akan menganugerahkan kepada mereka kekayaan yang berlimpah.\n\n3.Allah akan menganugerahkan anak-anak yang banyak untuk melanjutkan keturunan mereka, sehingga tidak punah.\n\n4.Allah akan menyuburkan kebun-kebun mereka, sehingga memberi hasil yang berlimpah.\n\n5.Allah akan memberi mereka sungai-sungai dan irigasi untuk mengairi kebun-kebun mereka, sehingga subur dan hijau.\n\nJanji Allah kepada umat Nuh sangat cocok dengan masyarakat waktu itu. Umat Nabi Nuh adalah nenek moyang umat manusia sekarang. Kebudayaan mereka masih dalam taraf permulaan kebudayaan manusia. Akan tetapi, janji Allah itu tidak menarik hati mereka sedikit pun. Hal ini menunjukkan keingkaran mereka yang sangat hebat. \n\nJanji Allah itu mengandung isyarat bahwa Ia menyuruh mereka mempergunakan akal pikiran. Mereka seakan-akan disuruh memikirkan kegunaan hujan bagi mereka. Hujan akan menyuburkan bumi tempat mereka berdiam, menghasilkan tanam-tanaman dan buah-buahan yang mereka perlukan. Sebagian hasil pertanian itu bisa mereka makan dan sebagian lainnya dijual, sehingga menambah kekayaan mereka. Hujan akan mengalirkan air menjadi sungai-sungai yang bermanfaat bagi mereka. Jika mereka mau menggunakan pikiran seperti itu, mereka tentu akan sampai kepada kesimpulan tentang siapa yang menurunkan hujan dan menyuburkan bumi sehingga menghasilkan keperluan-keperluan hidup mereka. Akhirnya, mereka tentu akan sampai kepada suatu kesimpulan sebagaimana seruan yang disampaikan Nuh kepada mereka, yaitu beriman kepada Tuhan Yang Maha Esa dan yang menciptakan semua keperluan mereka."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5432,
+          "inSurah": 13,
+          "Jommal_classic": " 2709 5400 1809 5427 6300 4527",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 29,
+          "page": 571,
+          "manzil": 7,
+          "ruku": 504,
+          "hizbQuarter": 228,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u2026\u0638\u2018\u0638\u0698\u0637\u00A7 \u0638\u201E\u0638\u0698\u0638\u0192\u0638\u0688\u0638\u2026\u0638\u2019 \u0638\u201E\u0638\u0698\u0637\u00A7 \u0637\u06BE\u0638\u0698\u0637\u00B1\u0638\u2019\u0637\u00AC\u0638\u0688\u0638\u02C6\u0638\u2020\u0638\u0698 \u0638\u201E\u0638\u06AF\u0638\u201E\u0638\u2018\u0638\u0698\u0638\u2021\u0638\u06AF \u0638\u02C6\u0638\u0698\u0638\u201A\u0638\u0698\u0637\u00A7\u0637\u00B1\u0638\u2039\u0637\u00A7",
+          "transliteration": {
+            "en": "Maa lakum laa tarjoona lillaahi waqaaraa",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "What is [the matter] with you that you do not attribute to Allah [due] grandeur",
+          "id": "Mengapa kamu tidak takut akan kebesaran Allah?"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5432",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5432.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5432.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Nabi Nuh menasihati kaumnya seperti dijelaskan di atas dan beliau melanjutkan nasihatnya. Mengapa kamu tidak mengagungkan Allah dengan sebenarnya dan tidak takut akan kebesaran Allah?",
+            "long": "Nabi Nuh menasihati kaumnya bahwa mereka seharusnya mengakui kekuasaan Allah yang Mahabesar. Mereka juga seharusnya berharap agar dimuliakan Allah dengan beriman kepada-Nya. Akan tetapi, hal itu tetap tidak mereka lakukan."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5433,
+          "inSurah": 14,
+          "Jommal_classic": " 4509 8109 4545",
+          "Jommal_Moderen": "9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 29,
+          "page": 571,
+          "manzil": 7,
+          "ruku": 504,
+          "hizbQuarter": 228,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u02C6\u0638\u0698\u0638\u201A\u0638\u0698\u0637\u00AF\u0638\u2019 \u0637\u00AE\u0638\u0698\u0638\u201E\u0638\u0698\u0638\u201A\u0638\u0698\u0638\u0192\u0638\u0688\u0638\u2026\u0638\u2019 \u0637\u00A3\u0638\u0698\u0637\u00B7\u0638\u2019\u0638\u02C6\u0638\u0698\u0637\u00A7\u0637\u00B1\u0638\u2039\u0637\u00A7",
+          "transliteration": {
+            "en": "Wa qad khalaqakum at waaraa",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "While He has created you in stages?",
+          "id": "Dan sungguh, Dia telah menciptakan kamu dalam beberapa tingkatan (kejadian)."
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5433",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5433.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5433.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Dan sungguh, Dia telah menciptakan kamu dalam beberapa tingkatan kejadian dan pertumbuhan yaitu dari nutfah, segumpal daging, kemudian menjadi janin dan bentuk yang sempurna sebagai manusia.",
+            "long": "Nabi Nuh mengingatkan lagi kebesaran dan kekuasaan Allah yang terdapat di dalam diri mereka, yaitu bahwa mereka diciptakan-Nya secara bertahap. Dari setetes air mani, kemudian menjadi zigot, darah, seberkas lempeng daging dan tulang, janin, dan kemudian dilahirkan. Dari bayi yang tidak tahu suatu apa pun, mereka menjadi manusia dewasa, berketurunan, dan akhirnya meninggal dunia. Berdasarkan kekuasaan Allah itu, mereka seharusnya beriman kepada-Nya.\n\nTahap-tahap kejadian manusia yang menunjukkan kekuasaan Allah itu dinyatakan pula dalam ayat-ayat lain:\n\nDialah yang menciptakanmu dari tanah, kemudian dari setetes mani, lalu dari segumpal darah, kemudian kamu dilahirkan sebagai seorang anak, kemudian dibiarkan kamu sampai dewasa, lalu menjadi tua. Tetapi di antara kamu ada yang dimatikan sebelum itu. (Kami perbuat demikian) agar kamu sampai kepada kurun waktu yang ditentukan, agar kamu mengerti. (al-Mu\u0027min/40: 67)\n\nDalam ayat lain, Allah berfirman:\n\nDan sungguh, Kami telah menciptakan manusia dari saripati (berasal) dari tanah. Kemudian Kami menjadikannya air mani (yang disimpan) dalam tempat yang kokoh (rahim). Kemudian, air mani itu Kami jadikan sesuatu yang melekat, lalu sesuatu yang melekat itu Kami jadikan segumpal daging, dan segumpal daging itu Kami jadikan tulang belulang, lalu tulang belulang itu Kami bungkus dengan daging. Kemudian, Kami menjadikannya makhluk yang (berbentuk) lain. Mahasuci Allah, Pencipta yang paling baik. (al-Mu\u0027minun/23: 12-14)\n\nSecara ilmiah, tahapan penciptaan manusia itu dapat dijelaskan sebagai berikut: \n\n1.Tingkat sari pati tanah, ketika manusia belum bisa disebut sebagai apa-apa. Mohon dilihat kembali penjelasan tentang \u0022sari pati tanah pada telaah ilmiah Surah al-hijr/15 ayat 26, 28, dan 33.\n\n2.Tingkat nuthfah. Ketika semua sari pati tanah, masuk ke dalam tubuh kita, kemudian digunakan oleh tubuh sebagai \u0027starting materials dalam proses metabolisme pembentukan nuthfah di dalam sel-sel reproduksi. Nuthfah diterjemahkan sebagai air mani atau setetes mani. Pengertian harfiahnya adalah tetes atau bagian kecil dari fluida (cairan kental, konsentrat). Dalam dunia sains, merupakan konsentrasi fluida yang mengandung sperma. Disebut pula sebagai nuthfatun amsyaj atau setetes mani yang bercampur. Ini mengandung arti percampuran dua nuthfah atau benih, yaitu dari pihak laki-laki (sperma) dan dari pihak wanita (sel telur, ovarium). Dalam Surah al-Insan/76:2, tampak sekali bahwa hanya satu tetes mani (satu sperma) yang bercampur (membuahi) ovarium. Ini sangat bersesuaian dengan ilmu embryology. Nuthfah disebut pula sebagai air yang hina (ma\u0027in mahin, al-Mursalat/77: 20) atau air yang terpancar (ma\u0027in dafiq, ath-thariq/86: 6). Yang pertama, menyiratkan tentang hakikat keluarnya air mani melalui alat genetalia, yang kesehariannya untuk membuang kotoran (urine). Yang terakhir ini menunjukkan proses masuknya nutfah (sperma) ke dalam rahim.\n\n3.Tingkat \u0027alaqah. \u0027Alaqah merupakan bentuk perkembangan pra-embrionik, yang terjadi setelah percampuran sel mani (sperma) dan sel telur. Moore dan Azzindani (1982) menjelaskan bahwa \u0027alaqah dalam Bahasa Arab berarti lintah (leech) atau suatu suspensi (suspended thing) atau segumpal darah (a clot of blood). Lintah merupakan binatang tingkat rendah, berbentuk seperti buah pir, dan hidup dengan cara menghisap darah. Jadi \u0027alaqah merupakan tingkatan (stadium) embrionik, yang berbentuk seperti buah pir, di mana sistem kardiovaskuler (sistem pembuluh-jantung) sudah mulai tampak, dan hidupnya tergantung dari darah ibunya, mirip dengan lintah. \u0027Alaqah terbentuk sekitar 24-25 hari sejak pembuahan. Jika jaringan pra-embrionik \u0027alaqah ini diambil keluar (digugurkan), memang tampak seperti segumpal darah (a blood clot like).\n\n4.Tingkat Mudhgah. \u0027Alaqah yang terbentuk sekitar 24-25 hari setelah pembuahan, kemudian berkembang menjadi mudhgah pada hari ke 26-27, dan berakhir sebelum hari ke-42. Cepatnya perubahan dari \u0027alaqah ke mudhgah terlihat dalam penggunaan kata fa pada surah 23:14. Dalam bahasa Arab kata fa menunjukkan rangkaian perubahan yang cepat. Secara umum, mudhgah diterjemahkan sebagai \u0027segumpal daging. Mudhgah merupakan tingkatan embrionik yang berbentuk seperti \u0027kunyahan permen karet, yang menunjukkan permukaan yang tidak teratur. Mudhgah atau \u0027segumpal daging terdiri dari sel-sel atau jaringan-jaringan yang telah mengalami diferensiasi maupun yang belum mengalami diferensiasi. sebagaimana dapat dilihat pada penjelasan pada Surah al-hajj/22: 5 di atas oleh Moore dan Azzadani. Pada ayat 5, surah al-hajj/22, dijelaskan: \u0022....,kemudian dari segumpal daging (mudhgah) yang sempurna kejadiannya dan yang tidak sempurna, agar Kami jelaskan kepada kamu dan Kami tetapkan dalam rahim,...\u0022 Moore dan Azzindani (1982), menerjemahkan dengan kalimat \u0022....,kemudian dari segumpal daging (mudhgah) yang telah terdiferensiasi dan yang belum terdiferensiasi, agar Kami jelaskan kepada kamu dan Kami tetapkan dalam rahim,...\u0022 . Memang hakikat dari mudhgah, terdiri dari sel-sel atau jaringan/organ yang telah mengalami diferensiasi maupun yang belum.\n\n5.Tingkat pembentukkan tulang. Setelah tingkat mudhgah inilah, mulai dibentuk tulang. Ini sangat bersesuaian sekali dengan embryology modern dewasa ini.\n\n6.Tingkat pembungkusan tulang oleh daging, Janin mulai terbentuk.\n\n7.Tingkat bayi dalam kandungan, merupakan perkembangan lanjutan dari Tingkat ke-6 di atas. Kemudian dilanjutkan dengan penyempurnaan pembentukan manusia. Wallahu a\u0027lam bi as-sawab\n\nDemikianlah perjalanan hidup manusia yang menunjukkan bahwa kejadian manusia itu melalui proses yang rumit dan rentan. Oleh karena itu, terwujudnya mereka di alam ini hendaknya disyukuri dengan beriman kepada Allah."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5434,
+          "inSurah": 15,
+          "Jommal_classic": " 4509 3627 5400 4509 5409 2727 5436 3636",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 29,
+          "page": 571,
+          "manzil": 7,
+          "ruku": 504,
+          "hizbQuarter": 228,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0637\u00A3\u0638\u0698\u0638\u201E\u0638\u0698\u0638\u2026\u0638\u2019 \u0637\u06BE\u0638\u0698\u0637\u00B1\u0638\u0698\u0638\u02C6\u0638\u2019\u0637\u00A7 \u0638\u0192\u0638\u0698\u0638\u0679\u0638\u2019\u0638\u067E\u0638\u0698 \u0637\u00AE\u0638\u0698\u0638\u201E\u0638\u0698\u0638\u201A\u0638\u0698 \u0637\u00A7\u0638\u201E\u0638\u201E\u0638\u2018\u0638\u0698\u0638\u2021\u0638\u0688 \u0637\u00B3\u0638\u0698\u0637\u00A8\u0638\u2019\u0637\u00B9\u0638\u0698 \u0637\u00B3\u0638\u0698\u0638\u2026\u0638\u0698\u0637\u00A7\u0638\u02C6\u0638\u0698\u0637\u00A7\u0637\u06BE\u0638\u0686 \u0637\u00B7\u0638\u06AF\u0637\u00A8\u0638\u0698\u0637\u00A7\u0638\u201A\u0638\u2039\u0637\u00A7",
+          "transliteration": {
+            "en": "Alam taraw kaifa khalaqal laahu sab\u0027a samaawaatin tibaaqaa",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "Do you not consider how Allah has created seven heavens in layers",
+          "id": "Tidakkah kamu memperhatikan bagai-mana Allah telah menciptakan tujuh langit berlapis-lapis?"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5434",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5434.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5434.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Setelah ajakan kepada manusia untuk memperhatikan dirinya, ayat ini melanjutkan untuk memperhatikan alam raya. Tidakkah kamu memperhatikan bagaimana Allah telah menciptakan tujuh langit yang indah serta berlapis-lapis?",
+            "long": "Dalam ayat ini, Nuh meminta kaumnya agar memperhatikan langit yang terdiri atas tujuh tingkat. Ayat ini dapat berarti khusus untuk kaum Nuh dan dapat pula berarti umum (untuk seluruh manusia) karena ayat ini menggunakan kata-kata alam tarau (tidakkah kamu memperhatikan). Memperhatikan di sini artinya dengan mempergunakan pikiran. Oleh karena itu, cara memperhatikan yang diperintahkan adalah dengan cara yang lazim digunakan dunia ilmu pengetahuan.\n\nAyat ini berarti khusus untuk umat Nabi Nuh maksudnya adalah mereka seharusnya mempergunakan pancaindra dan akal dalam mengamati alam ini. Dengan pengamatan demikian, mereka juga bisa mengetahui betapa besar dan hebat alam ini. Bahwa langit itu begitu luas dan bertingkat-tingkat juga dapat mereka pahami menurut pemahaman mereka yang sederhana. Mereka seharusnya mengakui kebesaran Allah dengan beriman kepada-Nya.\n\nAyat ini juga berlaku secara umum, yaitu ditujukan kepada umat Nabi Muhammad sampai sekarang dan masa yang akan datang. Sampai sekarang pun para ahli tafsir belum dapat memastikan \u0022langit\u0022 yang terdiri atas tujuh tingkat itu. Tapi tentang \u0022langit\u0022 itu tidak mustahil akan ditemukan oleh generasi yang akan datang. Mengenai langit, ayat lain menginformasikan:\n\nDan apakah orang-orang kafir tidak mengetahui bahwa langit dan bumi keduanya dahulunya menyatu, kemudian Kami pisahkan antara keduanya; dan Kami jadikan segala sesuatu yang hidup berasal dari air; maka mengapa mereka tidak beriman? (al-Anbiya\u0027/21: 30)\n\nApa yang baru dapat dipahami oleh para ilmuwan sekarang adalah bahwa alam semesta ini terjadi dari satu massa yang amat padat, kemudian meledak, dan memunculkan galaksi-galaksi, tata surya, planet-planet, dan sebagainya. Akan tetapi, itu pun masih merupakan teori yang disebut teori big bang (ledakan besar).\n\nDari ayat ini dapat dipahami bahwa perintah memikirkan dan merenungkan kekuasaan dan kebesaran Allah itu tertuju kepada seluruh manusia, baik yang tinggi tingkat pengetahuannya maupun yang masih rendah. Seluruh manusia sanggup dan mampu melakukannya, sehingga menambah kuat imannya kepada Allah, Tuhan Yang Maha Esa.\n\nAyat ini juga mengajarkan kepada manusia mengenai cara mengenal dan mencari agama-Nya, yaitu dengan merenungkan kejadian alam ini. Dengan perenungan itu, manusia akan sampai kepada Penciptanya. Pencipta alam ini tentulah Yang Mahatahu dan Mahakuasa, bukan sesuatu yang tidak tahu apa-apa dan tidak berdaya sama sekali. Dialah yang menentukan segala sesuatu, Yang Maha Esa, tidak berserikat dengan sesuatu apa pun. Oleh karena itu, agama yang benar adalah agama yang mengakui keesaan Tuhan dan ibadah yang benar ialah ibadah yang langsung ditujukan kepada-Nya, tidak menggunakan perantara dan sebagainya."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5435,
+          "inSurah": 16,
+          "Jommal_classic": " 5418 6318 7200 3618 5418 5427 2745",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 29,
+          "page": 571,
+          "manzil": 7,
+          "ruku": 504,
+          "hizbQuarter": 228,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u02C6\u0638\u0698\u0637\u00AC\u0638\u0698\u0637\u00B9\u0638\u0698\u0638\u201E\u0638\u0698 \u0637\u00A7\u0638\u201E\u0638\u2019\u0638\u201A\u0638\u0698\u0638\u2026\u0638\u0698\u0637\u00B1\u0638\u0698 \u0638\u067E\u0638\u06AF\u0638\u0679\u0638\u2021\u0638\u06AF\u0638\u2020\u0638\u2018\u0638\u0698 \u0638\u2020\u0638\u0688\u0638\u02C6\u0637\u00B1\u0638\u2039\u0637\u00A7 \u0638\u02C6\u0638\u0698\u0637\u00AC\u0638\u0698\u0637\u00B9\u0638\u0698\u0638\u201E\u0638\u0698 \u0637\u00A7\u0638\u201E\u0637\u00B4\u0638\u2018\u0638\u0698\u0638\u2026\u0638\u2019\u0637\u00B3\u0638\u0698 \u0637\u00B3\u0638\u06AF\u0637\u00B1\u0638\u0698\u0637\u00A7\u0637\u00AC\u0638\u2039\u0637\u00A7",
+          "transliteration": {
+            "en": "Wa ja\u0027alal qamara feehinna nooranw wa ja\u0027alash shamsa siraajaa",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "And made the moon therein a [reflected] light and made the sun a burning lamp?",
+          "id": "Dan di sana Dia menciptakan bulan yang bercahaya dan menjadikan matahari sebagai pelita (yang cemerlang)?"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5435",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5435.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5435.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Dan di sana di langit yang indah itu Dia menciptakan bulan yang bercahaya dan menjadikan matahari sebagai pelita yang cemerlang?",
+            "long": "Nabi Nuh menerangkan kepada kaumnya bahwa Allah yang disembah itu menciptakan bulan bercahaya dan matahari bersinar. Dari ayat itu dapat dipahami bahwa:\n\n1.Matahari memancarkan sinar sendiri, sedang bulan mendapat cahaya dari matahari. Cahaya yang dipancarkan bulan berasal dari sinar matahari yang dipantulkannya ke bumi. Oleh karena itu, sinar matahari lebih keras dan terang dari cahaya bulan.\n\n2.Sinar dan cahaya itu berguna bagi manusia, tetapi bentuk kegunaannya berbeda-beda.\n\nAyat yang membedakan cahaya dan sinar dari dua benda langit, matahari dan bulan telah berkali-kali dikemukakan. Bintang mempunyai sumber sinar, sedangkan planet tidak. Penjelasan mengenai hal ini dapat dilihat pada Surah Yunus/10: 5. Uraian mengenai hal ini secara ilmiah adalah demikian:\n\nDalam membicarakan benda-benda angkasa, Al-Qur\u0027an juga sudah membedakan bintang dan planet. Bintang adalah benda langit yang memancarkan sinar, sedangkan planet hanya memantulkan sinar yang diterima dari bintang. \n\nDialah yang menjadikan matahari bersinar dan bulan bercahaya, dan Dialah yang menetapkan tempat-tempat orbitnya, agar kamu mengetahui bilangan tahun, dan perhitungan waktu. Allah tidak menciptakan demikian itu melainkan dengan benar. Dia menjelaskan tanda-tanda (kebesaran-Nya) kepada orang-orang yang mengetahui. (Yunus/10: 5)\n\nMatahari adalah benda angkasa terbesar dalam tata surya kita. Ia merupakan gumpalan gas yang berpijar, dengan garis tengah sekitar 1,4 juta km. Jarak rata-rata antara titik pusat bumi dan matahari sekitar 150 juta km. Di pusat matahari, suhu mencapai sekitar 20.0000C.\n\nDalam ilmu astronomi, matahari merupakan benda langit yang digolongkan ke dalam jenis bintang. Di jagad raya ini terdapat miliaran, bahkan triliunan bintang. Matahari adalah salah satunya. Bintang merupakan benda langit yang memancarkan sinar karena di permukaan maupun bagian dalam bintang masih berlangsung reaksi-reaksi nuklir hidrogen yang dahsyat. Hasil reaksi inilah yang menimbulkan pancaran sinar. Sedangkan 10 benda langit yang mengorbit matahari, termasuk di dalamnya bumi (dan bulan yang mengorbit bumi), digolongkan ke dalam jenis planet.\n\nJumlah bintang diperkirakan lebih dari 6 miliar, bahkan boleh jadi mencapai 100 miliar. Akan tetapi, hanya sekitar 6.000 bintang yang dapat diamati dengan mata telanjang. Suhu, warna, ukuran, dan kepadatan bintang bervariasi. Bintang yang terpanas umumnya berwarna putih kebiruan. Suhu permukaannya dapat mencapai 20.0000C. Sedangkan yang kurang panas berwarna kuning, sebagaimana matahari. Ukurannya ada yang melebihi ribuan atau jutaan kali ukuran Matahari. Adapun jarak bintang terdekat dari tata surya adalah 4.000 tahun cahaya. Apabila kecepatan cahaya 186.000 mil per detik, maka jarak bintang terdekat tersebut mencapai 104 x 109 mil. Cahaya bintang terdekat ke tata surya, Alpha Centauri, memerlukan waktu 4 tahun untuk mencapai bumi. Sedang bintang \u0022terjauh\u0022, Riga, cahayanya baru mencapai bumi lebih dari 1.000 tahun kemudian. Bandingkan dengan cahaya matahari yang mencapai bumi dalam hanya 4 menit saja.\n\nPlanet dapat dikategorikan sebagai bintang yang telah \u0027mati. Permukaannya telah mendingin, dan berubah menjadi padatan. Planet tidak memancarkan sinar. Akan tetapi, apabila ia disinari oleh satu sumber sinar (misal matahari), maka ia akan memantulkannya, sehingga tampak seperti bercahaya. Dengan demikian, kata \u0027bercahaya dapat diartikan sebagai dapat dilihat oleh mata karena memantulkan sinar yang diterima dari sumber sinar. Bulan bercahaya karena memantulkan sinar yang diterimanya dari matahari."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5436,
+          "inSurah": 17,
+          "Jommal_classic": " 7209 6327 4500 4536 3636",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 29,
+          "page": 571,
+          "manzil": 7,
+          "ruku": 504,
+          "hizbQuarter": 228,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u02C6\u0638\u0698\u0637\u00A7\u0638\u201E\u0638\u201E\u0638\u2018\u0638\u0698\u0638\u2021\u0638\u0688 \u0637\u00A3\u0638\u0698\u0638\u2020\u0637\u00A8\u0638\u0698\u0637\u06BE\u0638\u0698\u0638\u0192\u0638\u0688\u0638\u2026 \u0638\u2026\u0638\u2018\u0638\u06AF\u0638\u2020\u0638\u0698 \u0637\u00A7\u0638\u201E\u0638\u2019\u0637\u00A3\u0638\u0698\u0637\u00B1\u0638\u2019\u0637\u00B6\u0638\u06AF \u0638\u2020\u0638\u0698\u0637\u00A8\u0638\u0698\u0637\u00A7\u0637\u06BE\u0638\u2039\u0637\u00A7",
+          "transliteration": {
+            "en": "Wallaahu ambatakum minal ardi nabaataa",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "And Allah has caused you to grow from the earth a [progressive] growth.",
+          "id": "Dan Allah menumbuhkan kamu dari tanah, tumbuh (berangsur-angsur),"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5436",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5436.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5436.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Setelah disinggung tentang penciptaan langit, kini diuraikan tentang bumi. Dan Allah menumbuhkan yaitu menciptakan kamu dari tanah, tumbuh berangsur-angsur dalam keadaan yang sangat menakjubkan,",
+            "long": "Nabi Nuh selanjutnya menerangkan kepada kaumnya bahwa Allah Yang Maha Esa dan wajib disembah itu adalah Tuhan yang membuat manusia tumbuh dengan nutrisi yang berasal dari tanah. Di samping itu, manusia juga diciptakan dari tanah yaitu dari mani dan ovum yang terbentuk dari makanan yang berasal dari tanah. \n\nDari mani dan ovum yang terbentuk dari nutrisi yang berasal dari tanah itu terjadi pembuahan, kemudian mereka tumbuh menjadi manusia seperti tumbuhnya tanaman. Tanaman dalam perjalanan hidupnya mengalami berbagai macam proses, manusia juga demikian. Umat kaum Nuh tidak mengambil pelajaran dari proses penciptaan manusia itu. Mereka tetap mengingkari Tuhan dan tidak mempercayai kebesaran-Nya. Inilah yang diingatkan oleh Nabi Nuh kepada mereka dalam ayat ini."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5437,
+          "inSurah": 18,
+          "Jommal_classic": " 3609 8118 4509 9927 3654",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 29,
+          "page": 571,
+          "manzil": 7,
+          "ruku": 504,
+          "hizbQuarter": 228,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0637\u00AB\u0638\u0688\u0638\u2026\u0638\u2018\u0638\u0698 \u0638\u0679\u0638\u0688\u0637\u00B9\u0638\u06AF\u0638\u0679\u0637\u00AF\u0638\u0688\u0638\u0192\u0638\u0688\u0638\u2026\u0638\u2019 \u0638\u067E\u0638\u06AF\u0638\u0679\u0638\u2021\u0638\u0698\u0637\u00A7 \u0638\u02C6\u0638\u0698\u0638\u0679\u0638\u0688\u0637\u00AE\u0638\u2019\u0637\u00B1\u0638\u06AF\u0637\u00AC\u0638\u0688\u0638\u0192\u0638\u0688\u0638\u2026\u0638\u2019 \u0637\u00A5\u0638\u06AF\u0637\u00AE\u0638\u2019\u0637\u00B1\u0638\u0698\u0637\u00A7\u0637\u00AC\u0638\u2039\u0637\u00A7",
+          "transliteration": {
+            "en": "Summa yu\u0027eedukum feehaa wa ukhrijukum ikhraajaa",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "Then He will return you into it and extract you [another] extraction.",
+          "id": "kemudian Dia akan mengembalikan kamu ke dalamnya (tanah) dan mengeluarkan kamu (pada hari Kiamat) dengan pasti."
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5437",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5437.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5437.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "kemudian setelah berakhir pertumbuhan yaitu tiba saat kematian, Dia akan mengembalikan kamu ke dalamnya, yaitu tanah, dan mengeluarkan kamu pada hari Kiamat dengan pasti.",
+            "long": "Nabi Nuh juga menerangkan kepada kaumnya bahwa mereka akan mati dan akan dikembalikan ke dalam tanah atau dikuburkan. Selanjutnya mereka akan dikeluarkan dari tanah itu pada hari Kiamat untuk diminta pertanggungjawabannya. Karena adanya pertanggungjawaban itu, mereka seharusnya beriman dan berbuat baik dalam kehidupan di dunia ini."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5438,
+          "inSurah": 19,
+          "Jommal_classic": " 7209 3618 5400 4536 2745",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 29,
+          "page": 571,
+          "manzil": 7,
+          "ruku": 504,
+          "hizbQuarter": 228,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u02C6\u0638\u0698\u0637\u00A7\u0638\u201E\u0638\u201E\u0638\u2018\u0638\u0698\u0638\u2021\u0638\u0688 \u0637\u00AC\u0638\u0698\u0637\u00B9\u0638\u0698\u0638\u201E\u0638\u0698 \u0638\u201E\u0638\u0698\u0638\u0192\u0638\u0688\u0638\u2026\u0638\u0688 \u0637\u00A7\u0638\u201E\u0638\u2019\u0637\u00A3\u0638\u0698\u0637\u00B1\u0638\u2019\u0637\u00B6\u0638\u0698 \u0637\u00A8\u0638\u06AF\u0637\u00B3\u0638\u0698\u0637\u00A7\u0637\u00B7\u0638\u2039\u0637\u00A7",
+          "transliteration": {
+            "en": "Wallaahu ja\u0027ala lakumul arda bisaataa",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "And Allah has made for you the earth an expanse",
+          "id": "Dan Allah menjadikan bumi untukmu sebagai hamparan,"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5438",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5438.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5438.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Dan Allah menjadikan bumi untukmu sebagai hamparan, supaya kamu dapat menetap di sana dengan nyaman,",
+            "long": "Allah menegaskan lagi nikmat yang telah dilimpahkan-Nya kepada manusia, yaitu Dia telah menciptakan bumi luas dan datar sehingga mereka dapat menjalankan kehidupan dengan mudah. Dengan datarnya permukaan bumi, manusia dapat membuat jalan sehingga mereka dapat menjelajahi bumi sampai ke tempat-tempat yang jauh letaknya.\n\nAyat-ayat ini menggambarkan bahwa bumi telah dijadikan Allah relatif datar (plane), terlepas dari fakta bahwa di bumi banyak gunung yang dijadikan sebagai tiang pancang permukaan bumi, dan fakta bahwa 70% dari permukaan bumi berupa permukaan laut. Namun demikian, profil permukaan bumi relatif lebih rata dan mulus dibandingkan dengan planet atau benda-benda langit lainnya di alam semesta. Menurut para ahli, kondisi bumi termasuk permukaannya sangat sesuai dengan kondisi kehidupan dan kenyamanan manusia yang menghuninya. Allah dengan kerahmanan-Nya telah mengkondisikan permukaan bumi sehingga manusia menikmati kenyamanan kehidupan di dunia. Mengapa Allah menjadikan permukaan bumi datar (sebagai hamparan)? Sebabnya ialah supaya manusia dapat menjelajahi jalan-jalannya. Ini berarti bahwa Allah mengharapkan manusia agar mempelajari dan mengeksplorasi seluruh permukaan maupun kandungan perut bumi. Yang dimaksud dengan \u0022menjalani jalan-jalan\u0022 ini ialah bukan hanya secara fisik menjelajahi permukaan bumi, tapi juga secara ilmiah. Untuk mencapai atau menghasilkan pengetahuan manusia perlu mengembara, menjelajahi seraya mengamati seluruh seluk beluk dan semua pelosok bumi, agar bisa menjalankan fungsinya sebagai khalifah Allah di permukaan bumi. Akumulasi pengetahuan manusia mengenai bumi disebut ilmu bumi, dan pada perkembangan lebih lanjut manusia perlu mempelajari ilmu bumi dan juga ilmu-ilmu kebumian serta ilmu pengetahuan dan teknologi yang relevan untuk dapat mengelola bumi ini."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5439,
+          "inSurah": 20,
+          "Jommal_classic": " 9027 5409 3627 3636",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 29,
+          "page": 571,
+          "manzil": 7,
+          "ruku": 504,
+          "hizbQuarter": 228,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u201E\u0638\u2018\u0638\u06AF\u0637\u06BE\u0638\u0698\u0637\u00B3\u0638\u2019\u0638\u201E\u0638\u0688\u0638\u0192\u0638\u0688\u0638\u02C6\u0637\u00A7 \u0638\u2026\u0638\u06AF\u0638\u2020\u0638\u2019\u0638\u2021\u0638\u0698\u0637\u00A7 \u0637\u00B3\u0638\u0688\u0637\u00A8\u0638\u0688\u0638\u201E\u0638\u2039\u0637\u00A7 \u0638\u067E\u0638\u06AF\u0637\u00AC\u0638\u0698\u0637\u00A7\u0637\u00AC\u0638\u2039\u0637\u00A7",
+          "transliteration": {
+            "en": "Litaslukoo minhaa subulan fijaajaa",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "That you may follow therein roads of passage.\u0027 \u0022",
+          "id": "agar kamu dapat pergi kian kemari di jalan-jalan yang luas."
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5439",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5439.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5439.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "dan agar kamu dapat pergi kian kemari di jalan-jalan yang luas, sehingga dapat memenuhi kebutuhanmu.",
+            "long": "Allah menegaskan lagi nikmat yang telah dilimpahkan-Nya kepada manusia, yaitu Dia telah menciptakan bumi luas dan datar sehingga mereka dapat menjalankan kehidupan dengan mudah. Dengan datarnya permukaan bumi, manusia dapat membuat jalan sehingga mereka dapat menjelajahi bumi sampai ke tempat-tempat yang jauh letaknya.\n\nAyat-ayat ini menggambarkan bahwa bumi telah dijadikan Allah relatif datar (plane), terlepas dari fakta bahwa di bumi banyak gunung yang dijadikan sebagai tiang pancang permukaan bumi, dan fakta bahwa 70% dari permukaan bumi berupa permukaan laut. Namun demikian, profil permukaan bumi relatif lebih rata dan mulus dibandingkan dengan planet atau benda-benda langit lainnya di alam semesta. Menurut para ahli, kondisi bumi termasuk permukaannya sangat sesuai dengan kondisi kehidupan dan kenyamanan manusia yang menghuninya. Allah dengan kerahmanan-Nya telah mengkondisikan permukaan bumi sehingga manusia menikmati kenyamanan kehidupan di dunia. Mengapa Allah menjadikan permukaan bumi datar (sebagai hamparan)? Sebabnya ialah supaya manusia dapat menjelajahi jalan-jalannya. Ini berarti bahwa Allah mengharapkan manusia agar mempelajari dan mengeksplorasi seluruh permukaan maupun kandungan perut bumi. Yang dimaksud dengan \u0022menjalani jalan-jalan\u0022 ini ialah bukan hanya secara fisik menjelajahi permukaan bumi, tapi juga secara ilmiah. Untuk mencapai atau menghasilkan pengetahuan manusia perlu mengembara, menjelajahi seraya mengamati seluruh seluk beluk dan semua pelosok bumi, agar bisa menjalankan fungsinya sebagai khalifah Allah di permukaan bumi. Akumulasi pengetahuan manusia mengenai bumi disebut ilmu bumi, dan pada perkembangan lebih lanjut manusia perlu mempelajari ilmu bumi dan juga ilmu-ilmu kebumian serta ilmu pengetahuan dan teknologi yang relevan untuk dapat mengelola bumi ini."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5440,
+          "inSurah": 21,
+          "Jommal_classic": " 3609 3609 3618 7209 6318 6345 2700 4500 5418 5409 8109 3618 2745",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 29,
+          "page": 571,
+          "manzil": 7,
+          "ruku": 505,
+          "hizbQuarter": 228,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u201A\u0638\u0698\u0637\u00A7\u0638\u201E\u0638\u0698 \u0638\u2020\u0638\u0688\u0638\u02C6\u0637\u00AD\u0638\u0152 \u0637\u00B1\u0638\u2018\u0638\u0698\u0637\u00A8\u0638\u2018\u0638\u06AF \u0637\u00A5\u0638\u06AF\u0638\u2020\u0638\u2018\u0638\u0698\u0638\u2021\u0638\u0688\u0638\u2026\u0638\u2019 \u0637\u00B9\u0638\u0698\u0637\u00B5\u0638\u0698\u0638\u02C6\u0638\u2019\u0638\u2020\u0638\u06AF\u0638\u0679 \u0638\u02C6\u0638\u0698\u0637\u00A7\u0637\u06BE\u0638\u2018\u0638\u0698\u0637\u00A8\u0638\u0698\u0637\u00B9\u0638\u0688\u0638\u02C6\u0637\u00A7 \u0638\u2026\u0638\u0698\u0638\u2020 \u0638\u201E\u0638\u2018\u0638\u0698\u0638\u2026\u0638\u2019 \u0638\u0679\u0638\u0698\u0637\u00B2\u0638\u06AF\u0637\u00AF\u0638\u2019\u0638\u2021\u0638\u0688 \u0638\u2026\u0638\u0698\u0637\u00A7\u0638\u201E\u0638\u0688\u0638\u2021\u0638\u0688 \u0638\u02C6\u0638\u0698\u0638\u02C6\u0638\u0698\u0638\u201E\u0638\u0698\u0637\u00AF\u0638\u0688\u0638\u2021\u0638\u0688 \u0637\u00A5\u0638\u06AF\u0638\u201E\u0638\u2018\u0638\u0698\u0637\u00A7 \u0637\u00AE\u0638\u0698\u0637\u00B3\u0638\u0698\u0637\u00A7\u0637\u00B1\u0638\u2039\u0637\u00A7",
+          "transliteration": {
+            "en": "Qaala Noohur Robbi innahum \u0027asawnee wattaba\u0027oo mal lam yazid hu maaluhoo wa waladuhooo illaa khasaara",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "Noah said, \u0022My Lord, indeed they have disobeyed me and followed him whose wealth and children will not increase him except in loss.",
+          "id": "Nuh berkata, \u00E2\u20AC\u0153Ya Tuhanku, sesungguhnya mereka durhaka kepadaku, dan mereka mengikuti orang-orang yang harta dan anak-anaknya hanya menambah kerugian baginya,"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5440",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5440.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5440.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Kaum Nabi Nuh yang dinasihati dengan aneka cara itu tidak bergeming, tetap saja membangkang, maka Nabi Nuh pun kembali mengadu kepada Allah. Nuh berkata, \u00E2\u20AC\u0153Ya Tuhanku, sesungguhnya mereka yang kuseru untuk beriman itu durhaka kepadaku, dan mereka mengikuti pemuka-pemuka masyarakat yaitu orang-orang yang harta dan anak-anaknya hanya menambah kerugian baginya kelak di akhirat.\u0022",
+            "long": "Nuh mengadu kepada Allah bahwa umatnya tetap durhaka kepadanya. Mereka tidak mau mengikuti seruannya, dan tetap mengikuti pemimpin-pemimpin mereka yang terdiri dari orang-orang kaya, yang mempunyai harta dan anak-anak yang banyak. Akan tetapi, harta itu hanya digunakan untuk berfoya-foya. Anak-anak mereka juga tidak dididik dengan baik, sehingga bila dewasa nanti, mereka menjadi sesat dan jahat"
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5441,
+          "inSurah": 22,
+          "Jommal_classic": " 7218 4518 4536",
+          "Jommal_Moderen": "9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 29,
+          "page": 571,
+          "manzil": 7,
+          "ruku": 505,
+          "hizbQuarter": 228,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u02C6\u0638\u0698\u0638\u2026\u0638\u0698\u0638\u0192\u0638\u0698\u0637\u00B1\u0638\u0688\u0638\u02C6\u0637\u00A7 \u0638\u2026\u0638\u0698\u0638\u0192\u0638\u2019\u0637\u00B1\u0638\u2039\u0637\u00A7 \u0638\u0192\u0638\u0688\u0637\u00A8\u0638\u2018\u0638\u0698\u0637\u00A7\u0637\u00B1\u0638\u2039\u0637\u00A7",
+          "transliteration": {
+            "en": "Wa makaroo makran kubbaaraa",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "And they conspired an immense conspiracy.",
+          "id": "dan mereka melakukan tipu daya yang sangat besar.\u00E2\u20AC\u200C"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5441",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5441.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5441.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Dan mereka para pemuka masyarakat itu melakukan tipu daya yang sangat besar untuk menghalangiku menyampaikan dakwah.",
+            "long": "Ayat ini menerangkan bahwa para pembesar dan pemimpin umat Nabi Nuh, melakukan segala macam tipu muslihat untuk menghambat dan menghancurkan agama yang dibawa Nabi Nuh. Di antaranya adalah dengan menghalangi dan mengancam orang-orang yang hendak mengikuti seruan Nuh, memperkuat kedudukan berhala, dan bahkan menghasut masyarakat untuk menganiaya Nabi Nuh."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5442,
+          "inSurah": 23,
+          "Jommal_classic": " 6318 1809 5427 8118 3609 5427 3618 3609 3636 3609 4518 7209 5427",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 29,
+          "page": 571,
+          "manzil": 7,
+          "ruku": 505,
+          "hizbQuarter": 228,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u02C6\u0638\u0698\u0638\u201A\u0638\u0698\u0637\u00A7\u0638\u201E\u0638\u0688\u0638\u02C6\u0637\u00A7 \u0638\u201E\u0638\u0698\u0637\u00A7 \u0637\u06BE\u0638\u0698\u0637\u00B0\u0638\u0698\u0637\u00B1\u0638\u0688\u0638\u2020\u0638\u2018\u0638\u0698 \u0637\u00A2\u0638\u201E\u0638\u06AF\u0638\u2021\u0638\u0698\u0637\u06BE\u0638\u0698\u0638\u0192\u0638\u0688\u0638\u2026\u0638\u2019 \u0638\u02C6\u0638\u0698\u0638\u201E\u0638\u0698\u0637\u00A7 \u0637\u06BE\u0638\u0698\u0637\u00B0\u0638\u0698\u0637\u00B1\u0638\u0688\u0638\u2020\u0638\u2018\u0638\u0698 \u0638\u02C6\u0638\u0698\u0637\u00AF\u0638\u2018\u0638\u2039\u0637\u00A7 \u0638\u02C6\u0638\u0698\u0638\u201E\u0638\u0698\u0637\u00A7 \u0637\u00B3\u0638\u0688\u0638\u02C6\u0638\u0698\u0637\u00A7\u0637\u00B9\u0638\u2039\u0637\u00A7 \u0638\u02C6\u0638\u0698\u0638\u201E\u0638\u0698\u0637\u00A7 \u0638\u0679\u0638\u0698\u0637\u061B\u0638\u0688\u0638\u02C6\u0637\u00AB\u0638\u0698 \u0638\u02C6\u0638\u0698\u0638\u0679\u0638\u0698\u0637\u00B9\u0638\u0688\u0638\u02C6\u0638\u201A\u0638\u0698 \u0638\u02C6\u0638\u0698\u0638\u2020\u0638\u0698\u0637\u00B3\u0638\u2019\u0637\u00B1\u0638\u2039\u0637\u00A7",
+          "transliteration": {
+            "en": "Wa qaaloo laa tazarunna aalihatakum wa laa tazarunna Waddanw wa laa Suwaa\u0027anw wa laa Yaghoosa wa Ya\u0027ooqa wa Nasraa",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "And said, \u0027Never leave your gods and never leave Wadd or Suwa\u0027 or Yaghuth and Ya\u0027uq and Nasr.",
+          "id": "Dan mereka berkata, \u00E2\u20AC\u0153Jangan sekali-kali kamu meninggalkan (penyembahan) tuhan-tuhan kamu dan jangan pula sekali-kali kamu meninggalkan (penyembahan) Wadd, dan jangan pula Suwa\u00E2\u20AC\u06A9, Yagus, Ya\u00E2\u20AC\u06A9uq dan Nasr.\u00E2\u20AC\u200C"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5442",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5442.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5442.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Dan mere-ka memprovokasi masyarakat dengan berkata, Jangan sekali-kali kamu meninggalkan penyembahan tuhan-tuhan kamu dan untuk menegaskan larangannya itu mereka menyebut satu demi satu tuhan-tuhan yang mereka sembah sambil lebih tegas lagi menyatakan jangan pula sekali-kali kamu meninggalkan penyembahan Wadd, dan jangan pula Suwa\u00E2\u20AC\u06A9, Yag\u0623\u00B9\u0625\u060C, Ya\u00E2\u20AC\u06A9\u0623\u00B9q dan Nasr. Itu semua adalah nama-nama berhala yang terbesar pada kabilah-kabilah kaum Nuh, yang semula nama-nama orang saleh.",
+            "long": "Pembesar-pembesar umat Nabi Nuh meminta kaumnya agar tidak meninggalkan tuhan-tuhan yang telah disembah nenek moyang mereka dahulu. Mereka disuruh untuk tetap menyembah berhala-berhala mereka yaitu, wadd, suwa\u0027, yuguts, ya\u0027uq dan nasr.\n\nKelima berhala tersebut merupakan berhala yang paling dihormati di antara sekian banyak berhala kabilah-kabilah kaum Nuh. Masing-masing kabilah juga mempunyai berhala-berhala sendiri yang berbeda-beda satu sama lain. Dari sinilah para ulama berpendapat bahwa agama syirik mulai berkembang pada zaman Nabi Nuh. Sebelumnya, yaitu pada masa Nabi Adam dan Idris, belum ada keyakinan syirik ataupun penyembahan berhala.\n\nPenyembahan kepada banyak berhala itu kemudian turun kepada bangsa Arab. Oleh karena itu, bangsa Arab juga memiliki berhala-berhala yang dinamai dengan nama-nama yang pernah dipakai oleh umat Nuh.\n\nMenurut riwayat al-Bukhari, Ibnu al-Mundhir, dan Ibnu Mardawaih dari Ibnu \u0027Abbas bahwa ia berkata, \u0022Kemudian berhala-berhala itu pindah kepada bangsa Arab, maka Wadd menjadi berhala kabilah Kalb, Suwa\u0027 menjadi berhala kabilah Hudhail, Yaguts menjadi berhala kabilah Murad yang kemudian berpindah kepada kabilah Guthaif; Ya\u0027uq menjadi berhala kabilah Hamdan, dan Nasr menjadi adalah nama berhala kabilah Himyar.\u0022\n\nDi samping itu, juga terdapat berhala-berhala selain tersebut dalam ayat di atas yang disembah oleh umat Nuh, yang kemudian berpindah pula kepada bangsa Arab, seperti al-Lat, berhala kaum tsaqif di tha\u0027if; al-\u0027Uzza, berhala kabilah Sulaim, Gathfan, dan Jusyam; Manah, berhala kabilah Khuza\u0027ah di Qudaid; Asaf, Na\u0027ilah, dan Hubal, berhala-berhala yang disembah penduduk Mekah. Hubal adalah berhala yang terbesar dan teragung, menurut mereka, yang diletakkan di atas Ka\u0027bah. Berhala-berhala itu mereka buat sendiri untuk disembah.\n\nPerpindahan berhala-berhala itu dari bangsa-bangsa lain ke bangsa Arab seperti diisyaratkan oleh riwayat di atas menunjukkan bahwa ajaran monoteisme yang dibawa oleh Nabi Muhammad berlaku atau bersifat universal. Ajaran itu tidak hanya untuk bangsa Arab, tetapi juga untuk bangsa-bangsa lain."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5443,
+          "inSurah": 24,
+          "Jommal_classic": " 4509 5427 4527 1000 3609 2727 9027 3618 4527",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t9\t\t1\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 29,
+          "page": 571,
+          "manzil": 7,
+          "ruku": 505,
+          "hizbQuarter": 228,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u02C6\u0638\u0698\u0638\u201A\u0638\u0698\u0637\u00AF\u0638\u2019 \u0637\u00A3\u0638\u0698\u0637\u00B6\u0638\u0698\u0638\u201E\u0638\u2018\u0638\u0688\u0638\u02C6\u0637\u00A7 \u0638\u0192\u0638\u0698\u0637\u00AB\u0638\u06AF\u0638\u0679\u0637\u00B1\u0638\u2039\u0637\u00A7 \u063A\u2013 \u0638\u02C6\u0638\u0698\u0638\u201E\u0638\u0698\u0637\u00A7 \u0637\u06BE\u0638\u0698\u0637\u00B2\u0638\u06AF\u0637\u00AF\u0638\u06AF \u0637\u00A7\u0638\u201E\u0637\u00B8\u0638\u2018\u0638\u0698\u0637\u00A7\u0638\u201E\u0638\u06AF\u0638\u2026\u0638\u06AF\u0638\u0679\u0638\u2020\u0638\u0698 \u0637\u00A5\u0638\u06AF\u0638\u201E\u0638\u2018\u0638\u0698\u0637\u00A7 \u0637\u00B6\u0638\u0698\u0638\u201E\u0638\u0698\u0637\u00A7\u0638\u201E\u0638\u2039\u0637\u00A7",
+          "transliteration": {
+            "en": "Wa qad adalloo kasee ranw wa laa tazidiz zaalimeena illaa dalaalaa",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "And already they have misled many. And, [my Lord], do not increase the wrongdoers except in error.\u0022",
+          "id": "Dan sungguh, mereka telah menyesatkan banyak orang; dan janganlah Engkau tambahkan bagi orang-orang yang zalim itu selain kesesatan."
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5443",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5443.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5443.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Dan sungguh, mereka dengan menggunakan berhala-berhala itu telah menyesatkan banyak orang serta menyimpangkan dari fitrah kesucian mereka. dan janganlah Engkau tambahkan bagi orang-orang yang zalim sudah mendarah daging itu selain kesesatan.",
+            "long": "Para pembesar dan pemimpin umat Nabi Nuh telah menyesatkan masyarakatnya dari jalan Allah dan mempengaruhi mereka dengan berbagai macam tipu muslihat, sehingga mereka mengikutinya. Dengan demikian, orang-orang yang datang sesudah mereka kemudian mengikuti jejak mereka, sampai kepada orang-orang Arab Jahiliah.\n\nDoa Nabi Ibrahim berikut mengindikasikan bahwa penyembahan berhala itu terus berlangsung sampai ke zamannya. Oleh karena itulah, ia berdoa kepada Allah agar anak cucunya terhindar dari meyembah berhala tersebut. Firman Allah:\n\nDan (ingatlah), ketika Ibrahim berdoa, \u0022Ya Tuhan, jadikanlah negeri ini (Mekah), negeri yang aman, dan jauhkanlah aku beserta anak cucuku agar tidak menyembah berhala. Ya Tuhan, berhala-berhala itu telah menyesatkan banyak dari manusia. Barang siapa mengikutiku, maka orang itu termasuk golonganku, dan barang siapa mendurhakaiku, maka Engkau Maha Pengampun, Maha Penyayang.\u0022 (Ibrahim/14: 35-36)\n\nPada akhir ayat ini, Nuh berdoa agar Allah menambah kesesatan kaumnya itu. Hal itu ia lakukan karena mereka sudah zalim, yaitu ingkar dan semakin ingkar ketika dinasihati. Doa itu dimohonkan Nabi Nuh setelah melihat bahwa kaumnya tidak mungkin lagi dinasihati dengan cara apa pun."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5444,
+          "inSurah": 25,
+          "Jommal_classic": " 5409 8145 5436 7236 2727 5400 4527 4500 3600 3609 5409 3645",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 29,
+          "page": 571,
+          "manzil": 7,
+          "ruku": 505,
+          "hizbQuarter": 228,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u2026\u0638\u2018\u0638\u06AF\u0638\u2026\u0638\u2018\u0638\u0698\u0637\u00A7 \u0637\u00AE\u0638\u0698\u0637\u00B7\u0638\u06AF\u0638\u0679\u0637\u00A6\u0638\u0698\u0637\u00A7\u0637\u06BE\u0638\u06AF\u0638\u2021\u0638\u06AF\u0638\u2026\u0638\u2019 \u0637\u00A3\u0638\u0688\u0637\u061B\u0638\u2019\u0637\u00B1\u0638\u06AF\u0638\u201A\u0638\u0688\u0638\u02C6\u0637\u00A7 \u0638\u067E\u0638\u0698\u0637\u00A3\u0638\u0688\u0637\u00AF\u0638\u2019\u0637\u00AE\u0638\u06AF\u0638\u201E\u0638\u0688\u0638\u02C6\u0637\u00A7 \u0638\u2020\u0638\u0698\u0637\u00A7\u0637\u00B1\u0638\u2039\u0637\u00A7 \u0638\u067E\u0638\u0698\u0638\u201E\u0638\u0698\u0638\u2026\u0638\u2019 \u0638\u0679\u0638\u0698\u0637\u00AC\u0638\u06AF\u0637\u00AF\u0638\u0688\u0638\u02C6\u0637\u00A7 \u0638\u201E\u0638\u0698\u0638\u2021\u0638\u0688\u0638\u2026 \u0638\u2026\u0638\u2018\u0638\u06AF\u0638\u2020 \u0637\u00AF\u0638\u0688\u0638\u02C6\u0638\u2020\u0638\u06AF \u0637\u00A7\u0638\u201E\u0638\u201E\u0638\u2018\u0638\u0698\u0638\u2021\u0638\u06AF \u0637\u00A3\u0638\u0698\u0638\u2020\u0637\u00B5\u0638\u0698\u0637\u00A7\u0637\u00B1\u0638\u2039\u0637\u00A7",
+          "transliteration": {
+            "en": "Mimmaa khateee\u0027 aatihim ughriqoo fa udkhiloo Naaran falam yajidoo lahum min doonil laahi ansaaraa",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "Because of their sins they were drowned and put into the Fire, and they found not for themselves besides Allah [any] helpers.",
+          "id": "Disebabkan kesalahan-kesalahan mereka, mereka ditenggelamkan lalu dimasukkan ke neraka, maka mereka tidak mendapat penolong selain Allah."
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5444",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5444.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5444.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Allah menyambut doa Nabi Nuh dan menjelaskan mengapa mereka disiksa. Disebabkan oleh kesalahan-kesalahan mereka, maka mereka ditenggelamkan oleh banjir besar yang dikirim Allah kepada para pendurhaka itu, lalu segera setelah Kiamat datang mereka dimasukkan ke neraka, maka mereka tidak mendapat penolong selain Allah.",
+            "long": "Ayat ini menerangkan bahwa Allah menenggelamkan umat Nabi Nuh yang zalim itu dengan banjir yang luar biasa besarnya. Semua itu disebabkan keingkaran dan dosa mereka kepada Allah. Dalam keadaan demikian, tidak seorang pun yang dapat menghindarkan mereka dari azab Allah. Bahkan berhala yang mereka sembah itu tidak dapat menolong diri dari kehancuran, apalagi menolong orang lain. Di akhirat nanti, mereka akan dijebloskan ke dalam neraka Jahanam.\n\nDalam ayat-ayat yang sebelumnya, seperti dalam Surah Hud, telah diterangkan bahwa setelah Nabi Nuh berpendapat bahwa kaumnya tidak mungkin memperkenankan seruannya, maka atas wahyu Allah, beliau mulai membuat kapal. Setelah kapal selesai, banjir pun datang, sehingga Nuh dan keluarganya beserta orang-orang yang beriman dengannya dapat diselamatkan dengan kapal itu"
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5445,
+          "inSurah": 26,
+          "Jommal_classic": " 5409 3609 3618 1809 2727 3609 4536 3600 9027 4536",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 29,
+          "page": 571,
+          "manzil": 7,
+          "ruku": 505,
+          "hizbQuarter": 228,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u02C6\u0638\u0698\u0638\u201A\u0638\u0698\u0637\u00A7\u0638\u201E\u0638\u0698 \u0638\u2020\u0638\u0688\u0638\u02C6\u0637\u00AD\u0638\u0152 \u0637\u00B1\u0638\u2018\u0638\u0698\u0637\u00A8\u0638\u2018\u0638\u06AF \u0638\u201E\u0638\u0698\u0637\u00A7 \u0637\u06BE\u0638\u0698\u0637\u00B0\u0638\u0698\u0637\u00B1\u0638\u2019 \u0637\u00B9\u0638\u0698\u0638\u201E\u0638\u0698\u0638\u2030 \u0637\u00A7\u0638\u201E\u0638\u2019\u0637\u00A3\u0638\u0698\u0637\u00B1\u0638\u2019\u0637\u00B6\u0638\u06AF \u0638\u2026\u0638\u06AF\u0638\u2020\u0638\u0698 \u0637\u00A7\u0638\u201E\u0638\u2019\u0638\u0192\u0638\u0698\u0637\u00A7\u0638\u067E\u0638\u06AF\u0637\u00B1\u0638\u06AF\u0638\u0679\u0638\u2020\u0638\u0698 \u0637\u00AF\u0638\u0698\u0638\u0679\u0638\u2018\u0638\u0698\u0637\u00A7\u0637\u00B1\u0638\u2039\u0637\u00A7",
+          "transliteration": {
+            "en": "Wa qaala Noohur Rabbi laa tazar \u0027alal ardi minal kaafireena daiyaaraa",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "And Noah said, \u0022My Lord, do not leave upon the earth from among the disbelievers an inhabitant.",
+          "id": "Dan Nuh berkata, \u00E2\u20AC\u0153Ya Tuhanku, janganlah Engkau biarkan seorang pun di antara orang-orang kafir itu tinggal di atas bumi."
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5445",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5445.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5445.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Ayat ini merekam kembali doa Nabi Nuh. Dan Nuh berkata, \u00E2\u20AC\u0153Ya Tuhanku, janganlah Engkau biarkan, seorang pun di antara orang-orang kafir yang sudah mendarah daging dan mantap kekafirannya itu tinggal di atas bumi.",
+            "long": "Pada waktu terjadinya banjir itu, Nabi Nuh berdoa kepada Allah agar Dia memusnahkan seluruh orang-orang kafir dengan menenggelamkan mereka. Permohonan Nuh ini dikabulkan Allah.\n\nAlasan Nabi Nuh berdoa kepada Allah agar memusnahkan seluruh orang-orang kafir adalah:\n\n1.Jika di antara mereka ada yang dibiarkan hidup, mereka tetap akan berusaha menyesatkan manusia.\n\n2.Jika di antara mereka ada yang dibiarkan hidup, mereka akan menurunkan anak-anak yang kafir pula dan akan berusaha menjadikan orang-orang lain menjadi kafir.\n\nNabi Nuh berkesimpulan bahwa orang-orang kafir yang berada di zamannya itu tidak mungkin lagi akan beriman. Kesimpulannya ini didasarkan pada pengalamannya menyeru mereka selama 950 tahun. Oleh karena itulah, dia berdoa kepada Tuhan agar seluruh orang kafir itu ditenggelamkan tanpa meninggalkan seorang pun di antara mereka.\n\nPada ayat yang lain, Allah berfirman:\n\nDan Kami menolongnya dari orang-orang yang telah mendustakan ayat-ayat Kami. Sesungguhnya mereka adalah orang-orang yang jahat, maka Kami tenggelamkan mereka semuanya. (al-Anbiya\u0027/21: 77)"
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5446,
+          "inSurah": 27,
+          "Jommal_classic": " 5409 1809 6327 6318 4536 3609 5418 3618 3636 5427",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 29,
+          "page": 571,
+          "manzil": 7,
+          "ruku": 505,
+          "hizbQuarter": 228,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0637\u00A5\u0638\u06AF\u0638\u2020\u0638\u2018\u0638\u0698\u0638\u0192\u0638\u0698 \u0637\u00A5\u0638\u06AF\u0638\u2020 \u0637\u06BE\u0638\u0698\u0637\u00B0\u0638\u0698\u0637\u00B1\u0638\u2019\u0638\u2021\u0638\u0688\u0638\u2026\u0638\u2019 \u0638\u0679\u0638\u0688\u0637\u00B6\u0638\u06AF\u0638\u201E\u0638\u2018\u0638\u0688\u0638\u02C6\u0637\u00A7 \u0637\u00B9\u0638\u06AF\u0637\u00A8\u0638\u0698\u0637\u00A7\u0637\u00AF\u0638\u0698\u0638\u0192\u0638\u0698 \u0638\u02C6\u0638\u0698\u0638\u201E\u0638\u0698\u0637\u00A7 \u0638\u0679\u0638\u0698\u0638\u201E\u0638\u06AF\u0637\u00AF\u0638\u0688\u0638\u02C6\u0637\u00A7 \u0637\u00A5\u0638\u06AF\u0638\u201E\u0638\u2018\u0638\u0698\u0637\u00A7 \u0638\u067E\u0638\u0698\u0637\u00A7\u0637\u00AC\u0638\u06AF\u0637\u00B1\u0638\u2039\u0637\u00A7 \u0638\u0192\u0638\u0698\u0638\u067E\u0638\u2018\u0638\u0698\u0637\u00A7\u0637\u00B1\u0638\u2039\u0637\u00A7",
+          "transliteration": {
+            "en": "Innaka in tazarhum yudil loo \u0027ibaadaka wa laa yalidooo illaa faajiran kaffaaraa",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "Indeed, if You leave them, they will mislead Your servants and not beget except [every] wicked one and [confirmed] disbeliever.",
+          "id": "Sesungguhnya jika Engkau biarkan mereka tinggal, niscaya mereka akan menyesatkan hamba-hamba-Mu, dan mereka hanya akan melahirkan anak-anak yang jahat dan tidak tahu bersyukur."
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5446",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5446.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5446.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Sesungguhnya jika Engkau biarkan mereka tinggal hidup di bumi, niscaya mereka akan menyesatkan hamba-hamba-Mu yang taat kepada-Mu, dan jika Engkau biarkan mereka tinggal di bumi mereka hanya akan melahirkan anak-anak yang jahat yaitu selalu berbuat maksiat dan tidak tahu bersyukur kepada-Mu.",
+            "long": "Pada waktu terjadinya banjir itu, Nabi Nuh berdoa kepada Allah agar Dia memusnahkan seluruh orang-orang kafir dengan menenggelamkan mereka. Permohonan Nuh ini dikabulkan Allah.\n\nAlasan Nabi Nuh berdoa kepada Allah agar memusnahkan seluruh orang-orang kafir adalah:\n\n1.Jika di antara mereka ada yang dibiarkan hidup, mereka tetap akan berusaha menyesatkan manusia.\n\n2.Jika di antara mereka ada yang dibiarkan hidup, mereka akan menurunkan anak-anak yang kafir pula dan akan berusaha menjadikan orang-orang lain menjadi kafir.\n\nNabi Nuh berkesimpulan bahwa orang-orang kafir yang berada di zamannya itu tidak mungkin lagi akan beriman. Kesimpulannya ini didasarkan pada pengalamannya menyeru mereka selama 950 tahun. Oleh karena itulah, dia berdoa kepada Tuhan agar seluruh orang kafir itu ditenggelamkan tanpa meninggalkan seorang pun di antara mereka.\n\nPada ayat yang lain, Allah berfirman:\n\nDan Kami menolongnya dari orang-orang yang telah mendustakan ayat-ayat Kami. Sesungguhnya mereka adalah orang-orang yang jahat, maka Kami tenggelamkan mereka semuanya. (al-Anbiya\u0027/21: 77)"
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5447,
+          "inSurah": 28,
+          "Jommal_classic": " 3618 3627 2700 10818 6300 3618 5418 6318 14409 10836 3609 2727 9027 3618 2745",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 29,
+          "page": 571,
+          "manzil": 7,
+          "ruku": 505,
+          "hizbQuarter": 228,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0637\u00B1\u0638\u2018\u0638\u0698\u0637\u00A8\u0638\u2018\u0638\u06AF \u0637\u00A7\u0637\u061B\u0638\u2019\u0638\u067E\u0638\u06AF\u0637\u00B1\u0638\u2019 \u0638\u201E\u0638\u06AF\u0638\u0679 \u0638\u02C6\u0638\u0698\u0638\u201E\u0638\u06AF\u0638\u02C6\u0638\u0698\u0637\u00A7\u0638\u201E\u0638\u06AF\u0637\u00AF\u0638\u0698\u0638\u0679\u0638\u2018\u0638\u0698 \u0638\u02C6\u0638\u0698\u0638\u201E\u0638\u06AF\u0638\u2026\u0638\u0698\u0638\u2020 \u0637\u00AF\u0638\u0698\u0637\u00AE\u0638\u0698\u0638\u201E\u0638\u0698 \u0637\u00A8\u0638\u0698\u0638\u0679\u0638\u2019\u0637\u06BE\u0638\u06AF\u0638\u0679\u0638\u0698 \u0638\u2026\u0638\u0688\u0637\u00A4\u0638\u2019\u0638\u2026\u0638\u06AF\u0638\u2020\u0638\u2039\u0637\u00A7 \u0638\u02C6\u0638\u0698\u0638\u201E\u0638\u06AF\u0638\u201E\u0638\u2019\u0638\u2026\u0638\u0688\u0637\u00A4\u0638\u2019\u0638\u2026\u0638\u06AF\u0638\u2020\u0638\u06AF\u0638\u0679\u0638\u2020\u0638\u0698 \u0638\u02C6\u0638\u0698\u0637\u00A7\u0638\u201E\u0638\u2019\u0638\u2026\u0638\u0688\u0637\u00A4\u0638\u2019\u0638\u2026\u0638\u06AF\u0638\u2020\u0638\u0698\u0637\u00A7\u0637\u06BE\u0638\u06AF \u0638\u02C6\u0638\u0698\u0638\u201E\u0638\u0698\u0637\u00A7 \u0637\u06BE\u0638\u0698\u0637\u00B2\u0638\u06AF\u0637\u00AF\u0638\u06AF \u0637\u00A7\u0638\u201E\u0637\u00B8\u0638\u2018\u0638\u0698\u0637\u00A7\u0638\u201E\u0638\u06AF\u0638\u2026\u0638\u06AF\u0638\u0679\u0638\u2020\u0638\u0698 \u0637\u00A5\u0638\u06AF\u0638\u201E\u0638\u2018\u0638\u0698\u0637\u00A7 \u0637\u06BE\u0638\u0698\u0637\u00A8\u0638\u0698\u0637\u00A7\u0637\u00B1\u0638\u2039\u0637\u00A7",
+          "transliteration": {
+            "en": "Rabbigh fir lee wa liwaa lidaiya wa liman dakhala baitiya mu\u0027minanw wa lil mu\u0027mineena wal mu\u0027minaati wa laa tazidiz zaalimeena illaa tabaaraa",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "My Lord, forgive me and my parents and whoever enters my house a believer and the believing men and believing women. And do not increase the wrongdoers except in destruction.\u0022",
+          "id": "Ya Tuhanku, ampunilah aku, ibu bapakku, dan siapa pun yang memasuki rumahku dengan beriman dan semua orang yang beriman laki-laki dan perempuan. Dan janganlah Engkau tambahkan bagi orang-orang yang zalim itu selain kehancuran.\u00E2\u20AC\u200C"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5447",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5447.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5447.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Setelah doa untuk mereka yang durhaka, kini Nabi Nuh, berdoa untuk yang taat kepada Allah. Ya Tuhanku, ampunilah aku, ibu bapakku, dan siapa pun yang memasuki rumahku dengan beriman dan semua orang yang beriman laki-laki dan perempuan dan janganlah Engkau tambahkan untuk mereka kecuali kebahagiaan. Dan janganlah Engkau tambahkan bagi orang-orang yang zalim yang mantap kezalimannya itu selain kehancuran.",
+            "long": "Setelah Nuh berdoa kepada Allah agar membinasakan orang-orang kafir, beliau berdoa untuk keselamatan diri dan kedua orang tuanya serta seluruh orang-orang yang beriman. \n\nPada akhir ayat, Nuh memohon lagi kepada Allah agar menambah kesesatan orang-orang kafir, sehingga mereka akhirnya akan merasakan azab yang tidak terkirakan di hari Kiamat."
+          }
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,1599 @@
+{
+  "code": 200,
+  "status": "OK.",
+  "message": "Success fetching surah.",
+  "data": {
+    "number": 83,
+    "sequence": 86,
+    "numberOfVerses": 36,
+    "name": {
+      "short": "\u0637\u00A7\u0638\u201E\u0638\u2026\u0637\u00B7\u0638\u067E\u0638\u067E\u0638\u0679\u0638\u2020",
+      "long": "\u0637\u00B3\u0638\u02C6\u0637\u00B1\u0637\u00A9 \u0637\u00A7\u0638\u201E\u0638\u2026\u0637\u00B7\u0638\u067E\u0638\u067E\u0638\u0679\u0638\u2020",
+      "transliteration": {
+        "en": "Al-Mutaffifin",
+        "id": "Al-Mutaffifin"
+      },
+      "translation": {
+        "en": "Defrauding",
+        "id": "Orang-Orang Curang"
+      }
+    },
+    "revelation": {
+      "arab": "\u0638\u2026\u0638\u0192\u0637\u00A9",
+      "en": "Meccan",
+      "id": "Makkiyyah"
+    },
+    "tafsir": {
+      "id": "Surat ini terdiri atas 36 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Al \u0027Ankabuut dan merupakan  surat yang terakhir di Mekkah sebelum hijrah. Al Muthaffifiin  yang dijadikan nama bagi surat ini diambil dari kata  Al Muthaffifiin yang terdapat pada ayat pertama."
+    },
+    "preBismillah": {
+      "text": {
+        "arab": "\u0637\u00A8\u0638\u06AF\u0637\u00B3\u0638\u2019\u0638\u2026\u0638\u06AF \u0637\u00A7\u0638\u201E\u0638\u201E\u0638\u2018\u0638\u0698\u0638\u2021\u0638\u06AF \u0637\u00A7\u0638\u201E\u0637\u00B1\u0638\u2018\u0638\u0698\u0637\u00AD\u0638\u2019\u0638\u2026\u0638\u0698\u0638\u00B0\u0638\u2020\u0638\u06AF \u0637\u00A7\u0638\u201E\u0637\u00B1\u0638\u2018\u0638\u0698\u0637\u00AD\u0638\u06AF\u0638\u0679\u0638\u2026\u0638\u06AF",
+        "transliteration": {
+          "en": "Bismillaahir Rahmaanir Raheem"
+        }
+      },
+      "translation": {
+        "en": "In the name of Allah, the Entirely Merciful, the Especially Merciful.",
+        "id": "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang."
+      },
+      "audio": {
+        "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1",
+        "secondary": [
+          "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1.mp3",
+          "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1.mp3"
+        ]
+      }
+    },
+    "verses": [
+      {
+        "number": {
+          "inQuran": 5849,
+          "inSurah": 1,
+          "Jommal_classic": " 5400 14409",
+          "Jommal_Moderen": "9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 587,
+          "manzil": 7,
+          "ruku": 525,
+          "hizbQuarter": 235,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u02C6\u0638\u0698\u0638\u0679\u0638\u2019\u0638\u201E\u0638\u0152 \u0638\u201E\u0638\u2018\u0638\u06AF\u0638\u201E\u0638\u2019\u0638\u2026\u0638\u0688\u0637\u00B7\u0638\u0698\u0638\u067E\u0638\u2018\u0638\u06AF\u0638\u067E\u0638\u06AF\u0638\u0679\u0638\u2020\u0638\u0698",
+          "transliteration": {
+            "en": "Wailul lil mutaffifeen",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "Woe to those who give less [than due],",
+          "id": "Celakalah bagi orang-orang yang curang (dalam menakar dan menimbang)!"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5849",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5849.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5849.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Pada permulaan surah ini Allah memberi peringatan keras kepada mereka yang berbuat curang dalam timbangan dan takaran. Celakalah bagi orang-orang yang berbuat curang dalam menimbang dan menakar sehingga merugikan banyak orang!",
+            "long": "Azab dan kehinaan yang besar pada hari Kiamat disediakan bagi orang-orang yang curang dalam menakar dan menimbang. Allah telah menyampaikan ancaman yang pedas kepada orang-orang yang curang dalam menakar dan menimbang yang terjadi di tempat-tempat jual beli di Mekah dan Medinah pada waktu itu.\n\nDiriwayatkan bahwa di Medinah ada seorang laki-laki bernama Abu Juhainah. Ia mempunyai dua macam takaran yang besar dan yang kecil. Bila ia membeli gandum atau kurma dari para petani, ia mempergunakan takaran yang besar, akan tetapi jika ia menjual kepada orang lain ia mempergunakan takaran yang kecil.\n\nPerbuatan seperti itu menunjukkan adanya sifat tamak, ingin mencari keuntungan bagi dirinya sendiri walaupun dengan jalan merugikan orang lain. Terhadap orang seperti itu, Nabi Muhammad telah memberi ancaman yang pedas sekali seperti tersebut dalam hadis ini:\n\nAda lima perkara yang dibalas dengan lima perkara: Tidak pernah suatu kaum yang melanggar janji, melainkan Allah akan membiarkan kaum itu dikuasai musuhnya. Tidak pernah mereka yang memutuskan suatu perkara dengan hukuman yang tidak diturunkan oleh Allah, melainkan akan tersebar luaslah kefakiran di kalangan mereka. Perzinaan tidak pernah meluas di kalangan mereka secara luas, melainkan akan tersebar luaslah bahaya kematian. Tidak pernah mereka yang berbuat curang dalam menakar dan menimbang, melainkan mereka akan kehilangan kesuburan tumbuh-tumbuhan dan ditimpa musim kemarau. Dan tidak pernah mereka yang menahan zakat, melainkan akan diazab dengan tertahannya hujan (kemarau yang panjang). (Riwayat ath-thabrani dari Ibnu \u0027Abbas)"
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5850,
+          "inSurah": 2,
+          "Jommal_classic": " 6318 1827 5436 3609 4527 9918",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 587,
+          "manzil": 7,
+          "ruku": 525,
+          "hizbQuarter": 235,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0637\u00A7\u0638\u201E\u0638\u2018\u0638\u0698\u0637\u00B0\u0638\u06AF\u0638\u0679\u0638\u2020\u0638\u0698 \u0637\u00A5\u0638\u06AF\u0637\u00B0\u0638\u0698\u0637\u00A7 \u0637\u00A7\u0638\u0192\u0638\u2019\u0637\u06BE\u0638\u0698\u0637\u00A7\u0638\u201E\u0638\u0688\u0638\u02C6\u0637\u00A7 \u0637\u00B9\u0638\u0698\u0638\u201E\u0638\u0698\u0638\u2030 \u0637\u00A7\u0638\u201E\u0638\u2020\u0638\u2018\u0638\u0698\u0637\u00A7\u0637\u00B3\u0638\u06AF \u0638\u0679\u0638\u0698\u0637\u00B3\u0638\u2019\u0637\u06BE\u0638\u0698\u0638\u02C6\u0638\u2019\u0638\u067E\u0638\u0688\u0638\u02C6\u0638\u2020\u0638\u0698",
+          "transliteration": {
+            "en": "Allazeena izak taaloo \u0027alan naasi yastawfoon",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "Who, when they take a measure from people, take in full.",
+          "id": "(Yaitu) orang-orang yang apabila menerima takaran dari orang lain mereka minta dicukupkan,"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5850",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5850.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5850.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Mereka yang berbuat curang itu adalah orang-orang yang apabila menerima takaran atau timbangan dari orang lain, mereka minta takaran itu dicukupkan dan dipenuhi sehingga tidak berkurang sedikit pun,",
+            "long": "Dalam dua ayat ini, Allah menjelaskan perilaku orang yang akan menjadi penghuni neraka. Mereka adalah orang-orang yang ingin dipenuhi takaran atau timbangannya ketika membeli karena tidak mau rugi. Sebaliknya, apabila menjual kepada orang lain, mereka akan mengurangi takaran atau timbangannya. \n\nOrang-orang yang mengurangi takaran dan timbangan mendapat dosa yang besar karena dengan perbuatan itu, dia dianggap telah memakan harta orang lain tanpa kerelaan pemiliknya. Allah melarang perbuatan yang demikian itu. Allah berfirman:\n\nDan janganlah kamu makan harta di antara kamu dengan jalan yang batil. (al-Baqarah/2: 188)\n\nYang dimaksud dengan takaran di sini mencakup segala ukuran dan timbangan yang biasa dipakai dalam jual beli dan terkait dengan pengurangan hak orang lain. Banyak sekali kita jumpai dalam kehidupan sekarang ini pengurangan-pengurangan yang merugikan orang lain, seperti menjual tabung gas yang isinya tidak sesuai dengan standar, mengurangi literan bensin yang dijual, penjual kain yang mengurangi ukuran kain yang dijualnya. Termasuk dalam pengurangan takaran yang sangat merugikan dan berbahaya adalah korupsi. Pelaku korupsi mengurangi dana sebuah proyek dari perencanaan semula demi memperoleh keuntungan untuk diri sendiri, atau mengurangi kualitas bahan yang diperlukan dalam proyek tersebut dan menggantinya dengan bahan yang berkualitas lebih rendah.\n\nAyat ini mengingatkan manusia untuk menjauhi praktek-praktek yang merugikan orang lain dan ancaman hukumannya sangat besar di dunia dan akhirat. Ayat senada yang menyuruh manusia untuk memenuhi dan menyempurnakan timbangan adalah firman Allah:\n\nDan sempurnakanlah takaran apabila kamu menakar, dan timbanglah dengan timbangan yang benar. Itulah yang lebih utama (bagimu) dan lebih baik akibatnya. (al-Isra\u0027/17: 35)"
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5851,
+          "inSurah": 3,
+          "Jommal_classic": " 3627 8109 1809 9909 7227",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 587,
+          "manzil": 7,
+          "ruku": 525,
+          "hizbQuarter": 235,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u02C6\u0638\u0698\u0637\u00A5\u0638\u06AF\u0637\u00B0\u0638\u0698\u0637\u00A7 \u0638\u0192\u0638\u0698\u0637\u00A7\u0638\u201E\u0638\u0688\u0638\u02C6\u0638\u2021\u0638\u0688\u0638\u2026\u0638\u2019 \u0637\u00A3\u0638\u0698\u0638\u02C6 \u0638\u02C6\u0638\u2018\u0638\u0698\u0637\u00B2\u0638\u0698\u0638\u2020\u0638\u0688\u0638\u02C6\u0638\u2021\u0638\u0688\u0638\u2026\u0638\u2019 \u0638\u0679\u0638\u0688\u0637\u00AE\u0638\u2019\u0637\u00B3\u0638\u06AF\u0637\u00B1\u0638\u0688\u0638\u02C6\u0638\u2020\u0638\u0698",
+          "transliteration": {
+            "en": "Wa izaa kaaloohum aw wazanoohum yukhsiroon",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "But if they give by measure or by weight to them, they cause loss.",
+          "id": "dan apabila mereka menakar atau menimbang (untuk orang lain), mereka mengurangi."
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5851",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5851.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5851.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "dan apabila mereka menakar sesuatu dengan alat takar, seperti beras, gandum, atau lainnya, atau menimbang suatu barang seperti emas, perak, atau lainnya untuk orang lain, mereka mengurangi takaran atau timbangannya secara sengaja dengan cara licik agar tidak diketahui oleh pembeli. Hal ini sangat merugikan orang lain, dan harta yang diperoleh dari upaya ini hukumnya haram, tidak berkah, dan mengantar pelakunya ke neraka.",
+            "long": "Dalam dua ayat ini, Allah menjelaskan perilaku orang yang akan menjadi penghuni neraka. Mereka adalah orang-orang yang ingin dipenuhi takaran atau timbangannya ketika membeli karena tidak mau rugi. Sebaliknya, apabila menjual kepada orang lain, mereka akan mengurangi takaran atau timbangannya. \n\nOrang-orang yang mengurangi takaran dan timbangan mendapat dosa yang besar karena dengan perbuatan itu, dia dianggap telah memakan harta orang lain tanpa kerelaan pemiliknya. Allah melarang perbuatan yang demikian itu. Allah berfirman:\n\nDan janganlah kamu makan harta di antara kamu dengan jalan yang batil. (al-Baqarah/2: 188)\n\nYang dimaksud dengan takaran di sini mencakup segala ukuran dan timbangan yang biasa dipakai dalam jual beli dan terkait dengan pengurangan hak orang lain. Banyak sekali kita jumpai dalam kehidupan sekarang ini pengurangan-pengurangan yang merugikan orang lain, seperti menjual tabung gas yang isinya tidak sesuai dengan standar, mengurangi literan bensin yang dijual, penjual kain yang mengurangi ukuran kain yang dijualnya. Termasuk dalam pengurangan takaran yang sangat merugikan dan berbahaya adalah korupsi. Pelaku korupsi mengurangi dana sebuah proyek dari perencanaan semula demi memperoleh keuntungan untuk diri sendiri, atau mengurangi kualitas bahan yang diperlukan dalam proyek tersebut dan menggantinya dengan bahan yang berkualitas lebih rendah.\n\nAyat ini mengingatkan manusia untuk menjauhi praktek-praktek yang merugikan orang lain dan ancaman hukumannya sangat besar di dunia dan akhirat. Ayat senada yang menyuruh manusia untuk memenuhi dan menyempurnakan timbangan adalah firman Allah:\n\nDan sempurnakanlah takaran apabila kamu menakar, dan timbanglah dengan timbangan yang benar. Itulah yang lebih utama (bagimu) dan lebih baik akibatnya. (al-Isra\u0027/17: 35)"
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5852,
+          "inSurah": 4,
+          "Jommal_classic": " 2718 5409 7218 6309 9027",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 587,
+          "manzil": 7,
+          "ruku": 525,
+          "hizbQuarter": 235,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0637\u00A3\u0638\u0698\u0638\u201E\u0638\u0698\u0637\u00A7 \u0638\u0679\u0638\u0698\u0637\u00B8\u0638\u0688\u0638\u2020\u0638\u2018\u0638\u0688 \u0637\u00A3\u0638\u0688\u0638\u02C6\u0638\u201E\u0638\u0698\u0638\u00B0\u0637\u00A6\u0638\u06AF\u0638\u0192\u0638\u0698 \u0637\u00A3\u0638\u0698\u0638\u2020\u0638\u2018\u0638\u0698\u0638\u2021\u0638\u0688\u0638\u2026 \u0638\u2026\u0638\u2018\u0638\u0698\u0637\u00A8\u0638\u2019\u0637\u00B9\u0638\u0688\u0638\u02C6\u0637\u00AB\u0638\u0688\u0638\u02C6\u0638\u2020\u0638\u0698",
+          "transliteration": {
+            "en": "Alaa yazunnu ulaaa\u0027ika annahum mab\u0027oosoon",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "Do they not think that they will be resurrected",
+          "id": "Tidakkah mereka itu mengira, bahwa sesungguhnya mereka akan dibangkitkan,"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5852",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5852.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5852.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Allah mengecam mereka, \u00E2\u20AC\u0153Mengapa mereka berbuat curang? Tidaklah mereka itu mengira bahwa sesungguhnya mereka akan dibangkitkan,",
+            "long": "Ayat ini mencela orang-orang yang mengurangi takaran dan timbangan dengan pertanyaan apakah mereka itu menyangka hari kebangkitan itu tidak akan pernah ada. Sebab, jika mereka menyangka saja, belum meyakini adanya hari kebangkitan, tentu mereka tidak tergugah untuk menghindari kecurangan. Memang mereka itu tidak mengharapkan adanya hari penghitungan, sebagaimana firman Allah:\n\nSesungguhnya dahulu mereka tidak pernah mengharapkan perhitungan. (an-Naba\u0027/78: 27)"
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5853,
+          "inSurah": 5,
+          "Jommal_classic": " 7200 4518",
+          "Jommal_Moderen": "9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 587,
+          "manzil": 7,
+          "ruku": 525,
+          "hizbQuarter": 235,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u201E\u0638\u06AF\u0638\u0679\u0638\u0698\u0638\u02C6\u0638\u2019\u0638\u2026\u0638\u0686 \u0637\u00B9\u0638\u0698\u0637\u00B8\u0638\u06AF\u0638\u0679\u0638\u2026\u0638\u0686",
+          "transliteration": {
+            "en": "Li Yawmin \u0027Azeem",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "For a tremendous Day -",
+          "id": "pada suatu hari yang besar,"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5853",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5853.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5853.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "pada suatu hari yang besar, yaitu hari kebangkitan yang penuh kejadian mengerikan dan menegangkan?\u00E2\u20AC\u200C",
+            "long": "Mereka akan dibangkitkan untuk dihisab pada hari pembalasan. Allah menerangkan bahwa ketika itu semua umat manusia berdiri menghadap Allah Rabbul \u0027Alamin untuk dihisab dan diperiksa segala amal perbuatannya selama hidup di dunia. Semuanya dihisab dengan penuh keadilan karena Allah Mahaadil. Timbangan itu adalah lambang keadilan yang senantiasa harus ditegakkan dan dipertahankan."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5854,
+          "inSurah": 6,
+          "Jommal_classic": " 5400 6300 4527 4518 9027",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 587,
+          "manzil": 7,
+          "ruku": 525,
+          "hizbQuarter": 235,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u0679\u0638\u0698\u0638\u02C6\u0638\u2019\u0638\u2026\u0638\u0698 \u0638\u0679\u0638\u0698\u0638\u201A\u0638\u0688\u0638\u02C6\u0638\u2026\u0638\u0688 \u0637\u00A7\u0638\u201E\u0638\u2020\u0638\u2018\u0638\u0698\u0637\u00A7\u0637\u00B3\u0638\u0688 \u0638\u201E\u0638\u06AF\u0637\u00B1\u0638\u0698\u0637\u00A8\u0638\u2018\u0638\u06AF \u0637\u00A7\u0638\u201E\u0638\u2019\u0637\u00B9\u0638\u0698\u0637\u00A7\u0638\u201E\u0638\u0698\u0638\u2026\u0638\u06AF\u0638\u0679\u0638\u2020\u0638\u0698",
+          "transliteration": {
+            "en": "Yawma yaqoomun naasu li Rabbil \u0027aalameen",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "The Day when mankind will stand before the Lord of the worlds?",
+          "id": "(yaitu) pada hari (ketika) semua orang bangkit menghadap Tuhan seluruh alam."
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5854",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5854.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5854.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Yaitu pada hari ketika semua orang bangkit dari kubur mereka untuk menghadap Tuhan seluruh alam. Tuhan akan menghisab perilaku mereka. Pada saat itu tidak ada kekuasaan selain kuasa Allah.",
+            "long": "Mereka akan dibangkitkan untuk dihisab pada hari pembalasan. Allah menerangkan bahwa ketika itu semua umat manusia berdiri menghadap Allah Rabbul \u0027Alamin untuk dihisab dan diperiksa segala amal perbuatannya selama hidup di dunia. Semuanya dihisab dengan penuh keadilan karena Allah Mahaadil. Timbangan itu adalah lambang keadilan yang senantiasa harus ditegakkan dan dipertahankan."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5855,
+          "inSurah": 7,
+          "Jommal_classic": " 4509 3609 3627 6336 4500 5418",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 588,
+          "manzil": 7,
+          "ruku": 525,
+          "hizbQuarter": 235,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u0192\u0638\u0698\u0638\u201E\u0638\u2018\u0638\u0698\u0637\u00A7 \u0637\u00A5\u0638\u06AF\u0638\u2020\u0638\u2018\u0638\u0698 \u0638\u0192\u0638\u06AF\u0637\u06BE\u0638\u0698\u0637\u00A7\u0637\u00A8\u0638\u0698 \u0637\u00A7\u0638\u201E\u0638\u2019\u0638\u067E\u0638\u0688\u0637\u00AC\u0638\u2018\u0638\u0698\u0637\u00A7\u0637\u00B1\u0638\u06AF \u0638\u201E\u0638\u0698\u0638\u067E\u0638\u06AF\u0638\u0679 \u0637\u00B3\u0638\u06AF\u0637\u00AC\u0638\u2018\u0638\u06AF\u0638\u0679\u0638\u2020\u0638\u0686",
+          "transliteration": {
+            "en": "Kallaaa inna kitaabal fujjaari lafee Sijjeen",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "No! Indeed, the record of the wicked is in sijjeen.",
+          "id": "Sekali-kali jangan begitu! Sesungguhnya catatan orang yang durhaka benar-benar tersimpan dalam Sijjin."
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5855",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5855.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5855.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Allah menegur sekali lagi perilaku mereka, \u00E2\u20AC\u0153Sekali-kali jangan begitu; jangan berbuat curang! Sesungguhnya catatan perbuatan orang yang durhaka, berbuat jahat, melanggar aturan agama, dan merugikan orang lain dalam bentuk apa pun, benar-benar tersimpan dengan baik dalam sijjin.\u00E2\u20AC\u200C",
+            "long": "Ayat-ayat ini menjelaskan kepada orang-orang yang tidak percaya terhadap hari kebangkitan bahwa perbuatan mereka harus dipertanggungjawabkan. Mereka tidak bisa menghindari hukuman Allah karena masing-masing manusia diawasi oleh malaikat yang mencatat semua perbuatannya . \n\nBuku catatan orang-orang yang durhaka kepada Allah akan disimpan di Sijjin, yaitu kitab yang tertulis. Di dalamnya tercatat kejahatan dan kecurangan manusia. Catatan-catatan inilah yang akan dijadikan takaran untuk menghisab mereka."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5856,
+          "inSurah": 8,
+          "Jommal_classic": " 3609 4536 1809 5418",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 588,
+          "manzil": 7,
+          "ruku": 525,
+          "hizbQuarter": 235,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u02C6\u0638\u0698\u0638\u2026\u0638\u0698\u0637\u00A7 \u0637\u00A3\u0638\u0698\u0637\u00AF\u0638\u2019\u0637\u00B1\u0638\u0698\u0637\u00A7\u0638\u0192\u0638\u0698 \u0638\u2026\u0638\u0698\u0637\u00A7 \u0637\u00B3\u0638\u06AF\u0637\u00AC\u0638\u2018\u0638\u06AF\u0638\u0679\u0638\u2020\u0638\u0152",
+          "transliteration": {
+            "en": "Wa maa adraaka maa Sijjeen",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "And what can make you know what is sijjeen?",
+          "id": "Dan tahukah engkau apakah Sijjin itu?"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5856",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5856.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5856.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Allah mengajukan pertanyaan untuk memberi kesan betapa besar dan serius persoalan ini, \u00E2\u20AC\u0153Dan tahukah engkau apakah sijjin itu?\u00E2\u20AC\u200C",
+            "long": "Ayat-ayat ini menjelaskan kepada orang-orang yang tidak percaya terhadap hari kebangkitan bahwa perbuatan mereka harus dipertanggungjawabkan. Mereka tidak bisa menghindari hukuman Allah karena masing-masing manusia diawasi oleh malaikat yang mencatat semua perbuatannya . \n\nBuku catatan orang-orang yang durhaka kepada Allah akan disimpan di Sijjin, yaitu kitab yang tertulis. Di dalamnya tercatat kejahatan dan kecurangan manusia. Catatan-catatan inilah yang akan dijadikan takaran untuk menghisab mereka."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5857,
+          "inSurah": 9,
+          "Jommal_classic": " 3627 8109",
+          "Jommal_Moderen": "9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 588,
+          "manzil": 7,
+          "ruku": 525,
+          "hizbQuarter": 235,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u0192\u0638\u06AF\u0637\u06BE\u0638\u0698\u0637\u00A7\u0637\u00A8\u0638\u0152 \u0638\u2026\u0638\u2018\u0638\u0698\u0637\u00B1\u0638\u2019\u0638\u201A\u0638\u0688\u0638\u02C6\u0638\u2026\u0638\u0152",
+          "transliteration": {
+            "en": "Kitaabum marqoom",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "It is [their destination recorded in] a register inscribed.",
+          "id": "(Yaitu) Kitab yang berisi catatan (amal)."
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5857",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5857.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5857.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Sijjin yaitu kitab yang berisi catatan perilaku orang yang melakukan kejahatan dan akan diperlihatkan kepada mereka pada hari kiamat nanti untuk menjadi bukti kejahatan mereka.",
+            "long": "Ayat-ayat ini menjelaskan kepada orang-orang yang tidak percaya terhadap hari kebangkitan bahwa perbuatan mereka harus dipertanggungjawabkan. Mereka tidak bisa menghindari hukuman Allah karena masing-masing manusia diawasi oleh malaikat yang mencatat semua perbuatannya . \n\nBuku catatan orang-orang yang durhaka kepada Allah akan disimpan di Sijjin, yaitu kitab yang tertulis. Di dalamnya tercatat kejahatan dan kecurangan manusia. Catatan-catatan inilah yang akan dijadikan takaran untuk menghisab mereka."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5858,
+          "inSurah": 10,
+          "Jommal_classic": " 5400 7218 13518",
+          "Jommal_Moderen": "9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 588,
+          "manzil": 7,
+          "ruku": 525,
+          "hizbQuarter": 235,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u02C6\u0638\u0698\u0638\u0679\u0638\u2019\u0638\u201E\u0638\u0152 \u0638\u0679\u0638\u0698\u0638\u02C6\u0638\u2019\u0638\u2026\u0638\u0698\u0637\u00A6\u0638\u06AF\u0637\u00B0\u0638\u0686 \u0638\u201E\u0638\u2018\u0638\u06AF\u0638\u201E\u0638\u2019\u0638\u2026\u0638\u0688\u0638\u0192\u0638\u0698\u0637\u00B0\u0638\u2018\u0638\u06AF\u0637\u00A8\u0638\u06AF\u0638\u0679\u0638\u2020\u0638\u0698",
+          "transliteration": {
+            "en": "Wailuny yawma\u0027izil lil mukazzibeen",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "Woe, that Day, to the deniers,",
+          "id": "Celakalah pada hari itu, bagi orang-orang yang mendustakan!"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5858",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5858.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5858.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Celakalah pada hari itu bagi orang-orang yang mendustakan hari kebangkitan, sebagaimana mereka yang berbuat curang dalam menimbang dan menakar.",
+            "long": "Dua ayat ini kembali mengancam orang-orang yang mendustakan hari pembalasan dengan azab yang sangat pedih, yaitu neraka. Ancaman dan hukuman bagi orang-orang yang mengingkari hari kebangkitan memang sangat pedih, karena mengingkari hari kiamat berarti mengingkari keadilan Allah, dan hukum-hukum syariat agama yang berlaku di dunia dan berakibat di akhirat."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5859,
+          "inSurah": 11,
+          "Jommal_classic": " 6318 9018 6309 5418",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 588,
+          "manzil": 7,
+          "ruku": 525,
+          "hizbQuarter": 235,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0637\u00A7\u0638\u201E\u0638\u2018\u0638\u0698\u0637\u00B0\u0638\u06AF\u0638\u0679\u0638\u2020\u0638\u0698 \u0638\u0679\u0638\u0688\u0638\u0192\u0638\u0698\u0637\u00B0\u0638\u2018\u0638\u06AF\u0637\u00A8\u0638\u0688\u0638\u02C6\u0638\u2020\u0638\u0698 \u0637\u00A8\u0638\u06AF\u0638\u0679\u0638\u0698\u0638\u02C6\u0638\u2019\u0638\u2026\u0638\u06AF \u0637\u00A7\u0638\u201E\u0637\u00AF\u0638\u2018\u0638\u06AF\u0638\u0679\u0638\u2020\u0638\u06AF",
+          "transliteration": {
+            "en": "Allazeena yukazziboona bi yawmid deen",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "Who deny the Day of Recompense.",
+          "id": "(yaitu) orang-orang yang mendustakannya (hari pembalasan)."
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5859",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5859.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5859.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Merekalah orang-orang yang mendustakan hari pembalasan. Keingkaran pada hari kiamat membuat seseorang tega melakukan apa pun karena tidak ada rasa takut pada dirinya terhadap akibat perbuatannya yang merugikan orang lain.",
+            "long": "Dua ayat ini kembali mengancam orang-orang yang mendustakan hari pembalasan dengan azab yang sangat pedih, yaitu neraka. Ancaman dan hukuman bagi orang-orang yang mengingkari hari kebangkitan memang sangat pedih, karena mengingkari hari kiamat berarti mengingkari keadilan Allah, dan hukum-hukum syariat agama yang berlaku di dunia dan berakibat di akhirat."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5860,
+          "inSurah": 12,
+          "Jommal_classic": " 3609 6318 2709 3618 4500 4527 4518",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 588,
+          "manzil": 7,
+          "ruku": 525,
+          "hizbQuarter": 235,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u02C6\u0638\u0698\u0638\u2026\u0638\u0698\u0637\u00A7 \u0638\u0679\u0638\u0688\u0638\u0192\u0638\u0698\u0637\u00B0\u0638\u2018\u0638\u06AF\u0637\u00A8\u0638\u0688 \u0637\u00A8\u0638\u06AF\u0638\u2021\u0638\u06AF \u0637\u00A5\u0638\u06AF\u0638\u201E\u0638\u2018\u0638\u0698\u0637\u00A7 \u0638\u0192\u0638\u0688\u0638\u201E\u0638\u2018\u0638\u0688 \u0638\u2026\u0638\u0688\u0637\u00B9\u0638\u2019\u0637\u06BE\u0638\u0698\u0637\u00AF\u0638\u0686 \u0637\u00A3\u0638\u0698\u0637\u00AB\u0638\u06AF\u0638\u0679\u0638\u2026\u0638\u0686",
+          "transliteration": {
+            "en": "Wa maa yukazzibu biheee illaa kullu mu\u0027tadin aseem",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "And none deny it except every sinful transgressor.",
+          "id": "Dan tidak ada yang mendustakannya (hari pembalasan) kecuali setiap orang yang melampaui batas dan berdosa,"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5860",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5860.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5860.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Dan tidak ada yang mendustakannya, yakni hari pembalasan itu, melainkan setiap orang yang melampaui batas dalam aturan agama dan berdosa akibat melakukan perbuatan mungkar dan maksiat.",
+            "long": "Ayat ini menjelaskan bahwa tidak ada manusia yang mengingkari hari Kiamat kecuali orang-orang yang selalu melampaui batas-batas agama, yang tertutup hatinya oleh kekafiran, dan yang tidak lagi bermanfaat baginya berbagai peringatan dan ancaman. Allah berfirman:\n\nSesungguhnya orang-orang kafir, sama saja bagi mereka, engkau (Muhammad) beri peringatan atau tidak engkau beri peringatan, mereka tidak akan beriman. (al-Baqarah/2: 6)\n\nSifat lain dari manusia yang mengingkari hari Kiamat adalah tenggelam dalam perbuatan dosa-dosa besar, acuh tak acuh terhadap perintah dan larangan Allah, lebih mementingkan kesenangan duniawi daripada kehidupan akhirat. Firman Allah:\n\nMaka adapun orang yang melampaui batas, dan lebih mengutamakan kehidupan dunia, maka sungguh, nerakalah tempat tinggalnya. (an-Nazi\u0027at/79: 37-39)"
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5861,
+          "inSurah": 13,
+          "Jommal_classic": " 1827 5418 6309 4536 3609 4545 9918",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 588,
+          "manzil": 7,
+          "ruku": 525,
+          "hizbQuarter": 235,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0637\u00A5\u0638\u06AF\u0637\u00B0\u0638\u0698\u0637\u00A7 \u0637\u06BE\u0638\u0688\u0637\u06BE\u0638\u2019\u0638\u201E\u0638\u0698\u0638\u2030\u0638\u00B0 \u0637\u00B9\u0638\u0698\u0638\u201E\u0638\u0698\u0638\u0679\u0638\u2019\u0638\u2021\u0638\u06AF \u0637\u00A2\u0638\u0679\u0638\u0698\u0637\u00A7\u0637\u06BE\u0638\u0688\u0638\u2020\u0638\u0698\u0637\u00A7 \u0638\u201A\u0638\u0698\u0637\u00A7\u0638\u201E\u0638\u0698 \u0637\u00A3\u0638\u0698\u0637\u00B3\u0638\u0698\u0637\u00A7\u0637\u00B7\u0638\u06AF\u0638\u0679\u0637\u00B1\u0638\u0688 \u0637\u00A7\u0638\u201E\u0638\u2019\u0637\u00A3\u0638\u0698\u0638\u02C6\u0638\u2018\u0638\u0698\u0638\u201E\u0638\u06AF\u0638\u0679\u0638\u2020\u0638\u0698",
+          "transliteration": {
+            "en": "Izaa tutlaa\u0027alaihi aayaatunaa qaala asaateerul awwaleen",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "When Our verses are recited to him, he says, \u0022Legends of the former peoples.\u0022",
+          "id": "yang apabila dibacakan kepadanya ayat-ayat Kami, dia berkata, \u00E2\u20AC\u0153Itu adalah dongeng orang-orang dahulu.\u00E2\u20AC\u200C"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5861",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5861.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5861.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Itulah orang yang apabila dibacakan kepadanya ayat-ayat Kami, yaitu Al-Qur\u00E2\u20AC\u2122an yang berisi ajaran Islam yang mulia, dia berkata sembari menertawakannya, \u00E2\u20AC\u0153Itu adalah dongeng dan bualan orang-orang dahulu.\u00E2\u20AC\u200C",
+            "long": "Ayat ini menjelaskan bahwa ketika dibacakan ayat-ayat Al-Qur\u0027an kepada orang-orang yang melampaui batas, selalu berdosa, tidak mempercayai hari akhirat dan Al-Qur\u0027an sebagai kitab suci yang berisi petunjuk-petunjuk Allah untuk mengantarkan manusia ke jalan yang lurus menuju kebahagiaan dunia dan akhirat, mereka tidak mau mendengarkannya dengan khusyuk atau menyimak isinya. Mereka bahkan mengatakan bahwa Al-Qur\u0027an itu adalah dongeng-dongeng orang-orang dahulu yang didiktekan kepada Nabi Muhammad. Firman Allah:\n\nDan orang-orang kafir berkata, \u0022(Al-Qur\u0027an) ini tidak lain hanyalah kebohongan yang diada-adakan oleh dia (Muhammad), dibantu oleh orang-orang lain,\u0022 Sungguh, mereka telah berbuat zalim dan dusta yang besar. Dan mereka berkata, \u0022(Itu hanya) dongeng-dongeng orang-orang terdahulu, yang diminta agar dituliskan, lalu dibacakanlah dongeng itu kepadanya setiap pagi dan petang.\u0022 Katakanlah (Muhammad), \u0022(Al-Qur\u0027an) itu diturunkan oleh (Allah) yang mengetahui rahasia di langit dan di bumi. Sungguh, Dia Maha Pengampun, Maha Penyayang.\u0022 (al-Furqan/25: 4-6)"
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5862,
+          "inSurah": 14,
+          "Jommal_classic": " 4509 1000 2709 1000 2718 4509 8109 2709 4518 8118",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t1\t\t9\t\t1\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 588,
+          "manzil": 7,
+          "ruku": 525,
+          "hizbQuarter": 235,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u0192\u0638\u0698\u0638\u201E\u0638\u2018\u0638\u0698\u0637\u00A7 \u063A\u2013 \u0637\u00A8\u0638\u0698\u0638\u201E\u0638\u2019 \u063A\u0153 \u0637\u00B1\u0638\u0698\u0637\u00A7\u0638\u2020\u0638\u0698 \u0637\u00B9\u0638\u0698\u0638\u201E\u0638\u0698\u0638\u2030\u0638\u00B0 \u0638\u201A\u0638\u0688\u0638\u201E\u0638\u0688\u0638\u02C6\u0637\u00A8\u0638\u06AF\u0638\u2021\u0638\u06AF\u0638\u2026 \u0638\u2026\u0638\u2018\u0638\u0698\u0637\u00A7 \u0638\u0192\u0638\u0698\u0637\u00A7\u0638\u2020\u0638\u0688\u0638\u02C6\u0637\u00A7 \u0638\u0679\u0638\u0698\u0638\u0192\u0638\u2019\u0637\u00B3\u0638\u06AF\u0637\u00A8\u0638\u0688\u0638\u02C6\u0638\u2020\u0638\u0698",
+          "transliteration": {
+            "en": "Kallaa bal raana \u0027alaa quloobihim maa kaanoo yaksiboon",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "No! Rather, the stain has covered their hearts of that which they were earning.",
+          "id": "Sekali-kali tidak! Bahkan apa yang mereka kerjakan itu telah menutupi hati mereka."
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5862",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5862.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5862.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Sekali-kali tidak demikian! Al-Qur\u00E2\u20AC\u2122an adalah kalam dan wahyu Allah kepada Nabi Muhammad. Bahkan apa yang mereka kerjakan itu, yaitu kekufuran dan maksiat, telah menutupi hati mereka sehingga tidak mampu membedakan antara yang hak dan batil.",
+            "long": "Dalam ayat ini, Allah membantah tuduhan orang-orang kafir Mekah yang mengatakan bahwa Al-Qur\u0027an itu dongengan orang dahulu. Sama sekali bukan demikian. Sebenarnya apa yang selalu mereka usahakan itu menutup hati mereka. Kebiasaan mereka berbuat dosa telah menyebabkan hati mereka jadi keras, gelap, dan tertutup laksana logam yang berkarat. Oleh karena itu, mereka tidak dapat membedakan antara dusta yang berat dengan kebenaran yang terang benderang. Hati yang demikian hanya bisa dibersihkan dengan tobat yang sempurna."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5863,
+          "inSurah": 15,
+          "Jommal_classic": " 4509 7209 1809 7218 7218 10827",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 588,
+          "manzil": 7,
+          "ruku": 525,
+          "hizbQuarter": 235,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u0192\u0638\u0698\u0638\u201E\u0638\u2018\u0638\u0698\u0637\u00A7 \u0637\u00A5\u0638\u06AF\u0638\u2020\u0638\u2018\u0638\u0698\u0638\u2021\u0638\u0688\u0638\u2026\u0638\u2019 \u0637\u00B9\u0638\u0698\u0638\u2020 \u0637\u00B1\u0638\u2018\u0638\u0698\u0637\u00A8\u0638\u2018\u0638\u06AF\u0638\u2021\u0638\u06AF\u0638\u2026\u0638\u2019 \u0638\u0679\u0638\u0698\u0638\u02C6\u0638\u2019\u0638\u2026\u0638\u0698\u0637\u00A6\u0638\u06AF\u0637\u00B0\u0638\u0686 \u0638\u201E\u0638\u2018\u0638\u0698\u0638\u2026\u0638\u0698\u0637\u00AD\u0638\u2019\u0637\u00AC\u0638\u0688\u0638\u02C6\u0637\u00A8\u0638\u0688\u0638\u02C6\u0638\u2020\u0638\u0698",
+          "transliteration": {
+            "en": "Kallaaa innahum \u0027ar Rabbihim yawma\u0027izil lamah jooboon",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "No! Indeed, from their Lord, that Day, they will be partitioned.",
+          "id": "Sekali-kali tidak! Sesungguhnya mereka pada hari itu benar-benar terhalang dari (melihat) Tuhannya."
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5863",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5863.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5863.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Sekali-kali tidak! Sesungguhnya mereka yang kafir dan berbuat maksiat pada hari pembalasan itu benar-benar terhalang dari rahmat Tuhannya. Mereka tidak mendapatkan rahmat Allah dan tidak pula mampu melihat-Nya di akhirat nanti.",
+            "long": "Ayat ini menjelaskan bahwa orang-orang kafir yang tidak mau mengakui Al-Qur\u0027an sebagai wahyu Allah terhalang dari rahmat-Nya di dunia dan akhirat. Mereka terhalang dari nikmat terbesar bagi seorang hamba, yaitu memandang dan melihat Allah di akhirat. Imam Syafi\u0027i mengatakan ayat ini bisa dijadikan dalil bahwa orang-orang Mukmin tidak akan terhalangi dari memandang Allah di akhirat, sebagaimana firman-Nya:\n\nWajah-wajah (orang mukmin) pada hari itu berseri-seri, memandang Tuhannya. (al-Qiyamah/75: 22-23)"
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5864,
+          "inSurah": 16,
+          "Jommal_classic": " 3609 7209 5418 6327",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 588,
+          "manzil": 7,
+          "ruku": 525,
+          "hizbQuarter": 235,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0637\u00AB\u0638\u0688\u0638\u2026\u0638\u2018\u0638\u0698 \u0637\u00A5\u0638\u06AF\u0638\u2020\u0638\u2018\u0638\u0698\u0638\u2021\u0638\u0688\u0638\u2026\u0638\u2019 \u0638\u201E\u0638\u0698\u0637\u00B5\u0638\u0698\u0637\u00A7\u0638\u201E\u0638\u0688\u0638\u02C6 \u0637\u00A7\u0638\u201E\u0638\u2019\u0637\u00AC\u0638\u0698\u0637\u00AD\u0638\u06AF\u0638\u0679\u0638\u2026\u0638\u06AF",
+          "transliteration": {
+            "en": "Summa innahum lasaa lul jaheem",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "Then indeed, they will [enter and] burn in Hellfire.",
+          "id": "Kemudian, sesungguhnya mereka benar-benar masuk neraka."
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5864",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5864.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5864.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Setelah terhalang dari rahmat Allah, kemudian sesungguhnya mereka yang ingkar dan berbuat maksiat itu benar-benar masuk neraka yang penuh siksa mengerikan.",
+            "long": "Setelah dijauhkan dari rahmat Allah dan tidak dapat mencapai cita-cita yang diangan-angankannya pada hari pembalasan, orang-orang kafir itu benar-benar masuk neraka Jahim yang sangat panas."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5865,
+          "inSurah": 17,
+          "Jommal_classic": " 3609 5409 3618 4518 4509 2709 8127",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 588,
+          "manzil": 7,
+          "ruku": 525,
+          "hizbQuarter": 235,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0637\u00AB\u0638\u0688\u0638\u2026\u0638\u2018\u0638\u0698 \u0638\u0679\u0638\u0688\u0638\u201A\u0638\u0698\u0637\u00A7\u0638\u201E\u0638\u0688 \u0638\u2021\u0638\u0698\u0638\u00B0\u0637\u00B0\u0638\u0698\u0637\u00A7 \u0637\u00A7\u0638\u201E\u0638\u2018\u0638\u0698\u0637\u00B0\u0638\u06AF\u0638\u0679 \u0638\u0192\u0638\u0688\u0638\u2020\u0637\u06BE\u0638\u0688\u0638\u2026 \u0637\u00A8\u0638\u06AF\u0638\u2021\u0638\u06AF \u0637\u06BE\u0638\u0688\u0638\u0192\u0638\u0698\u0637\u00B0\u0638\u2018\u0638\u06AF\u0637\u00A8\u0638\u0688\u0638\u02C6\u0638\u2020\u0638\u0698",
+          "transliteration": {
+            "en": "Summa yuqaalu haazal lazee kuntum bihee tukazziboon",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "Then it will be said [to them], \u0022This is what you used to deny.\u0022",
+          "id": "Kemudian, dikatakan (kepada mereka), \u00E2\u20AC\u0153Inilah (azab) yang dahulu kamu dustakan.\u00E2\u20AC\u200C"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5865",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5865.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5865.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Kemudian dikatakan kepada mereka dengan nada geram, \u00E2\u20AC\u0153Inilah azab yang dahulu kamu dustakan.\u00E2\u20AC\u200C Pada saat itulah mereka yang dahulu mendustakan hari akhirat merasakan sakitnya siksa, kerugian, dan penyesalan yang mendalam.",
+            "long": "Kemudian dikatakan kepada mereka ucapan yang mengandung cercaan sehingga penderitaan mereka itu berlipat ganda. Di samping penderitaan fisik, mereka juga menderita secara psikis (kejiwaan). Inilah azab yang selalu mereka dustakan ketika di dunia. Inilah balasan terhadap sikap mereka mendustakan berita-berita rasul yang benar, seperti anggapan mereka bahwa manusia tidak akan dibangkitkan kembali, Al-Qur\u0027an itu dongengan orang-orang dahulu, Muhammad saw itu hanya seorang tukang sihir atau pendusta, dan berbagai macam tuduhan lainnya.\n\nDi akhirat nanti, akan menjadi jelas bagaimana fakta kebenaran yang sesungguhnya yang dapat disaksikan oleh pancaindra mereka. Alangkah sedihnya dirasakan oleh seorang yang sedang menderita azab bila diberi kecaman yang sangat menusuk hatinya, padahal ia sempat menempuh jalan keselamatannya jika ia benar-benar beriman dan bertakwa."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5866,
+          "inSurah": 18,
+          "Jommal_classic": " 4509 3609 3627 5454 4500 9009",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 588,
+          "manzil": 7,
+          "ruku": 525,
+          "hizbQuarter": 235,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u0192\u0638\u0698\u0638\u201E\u0638\u2018\u0638\u0698\u0637\u00A7 \u0637\u00A5\u0638\u06AF\u0638\u2020\u0638\u2018\u0638\u0698 \u0638\u0192\u0638\u06AF\u0637\u06BE\u0638\u0698\u0637\u00A7\u0637\u00A8\u0638\u0698 \u0637\u00A7\u0638\u201E\u0638\u2019\u0637\u00A3\u0638\u0698\u0637\u00A8\u0638\u2019\u0637\u00B1\u0638\u0698\u0637\u00A7\u0637\u00B1\u0638\u06AF \u0638\u201E\u0638\u0698\u0638\u067E\u0638\u06AF\u0638\u0679 \u0637\u00B9\u0638\u06AF\u0638\u201E\u0638\u2018\u0638\u06AF\u0638\u0679\u0638\u2018\u0638\u06AF\u0638\u0679\u0638\u2020\u0638\u0698",
+          "transliteration": {
+            "en": "Kallaaa inna kitaabal abraari lafee\u0027Illiyyeen",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "No! Indeed, the record of the righteous is in \u0027illiyyun.",
+          "id": "Sekali-kali tidak! Sesungguhnya catatan orang-orang yang berbakti benar-benar tersimpan dalam \u00E2\u20AC\u2122Illiyyin."
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5866",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5866.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5866.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Sekali-kali tidak! Tidaklah sama keadaan orang kafir dan orang mukmin di akhirat nanti. Sesungguhnya catatan perbuatan orang-orang yang berbakti, beriman, dan beramal saleh benar-benar tersimpan dalam \u00E2\u20AC\u06A9Illiyyin.",
+            "long": "Dalam ayat ini, Allah membantah tuduhan orang-orang durhaka yang mengingkari hari kebangkitan dan kebenaran Al-Qur\u0027an. Sekali-kali tidak demikian. Sesungguhnya kitab orang-orang yang berbakti disimpan dalam suatu tempat yang tinggi yang diberi nama \u0027Illiyyun, yang disaksikan oleh malaikat-malaikat muqarrabin (yang dekat dengan Allah)."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5867,
+          "inSurah": 19,
+          "Jommal_classic": " 3609 4536 1809 9009",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 588,
+          "manzil": 7,
+          "ruku": 525,
+          "hizbQuarter": 235,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u02C6\u0638\u0698\u0638\u2026\u0638\u0698\u0637\u00A7 \u0637\u00A3\u0638\u0698\u0637\u00AF\u0638\u2019\u0637\u00B1\u0638\u0698\u0637\u00A7\u0638\u0192\u0638\u0698 \u0638\u2026\u0638\u0698\u0637\u00A7 \u0637\u00B9\u0638\u06AF\u0638\u201E\u0638\u2018\u0638\u06AF\u0638\u0679\u0638\u2018\u0638\u0688\u0638\u02C6\u0638\u2020\u0638\u0698",
+          "transliteration": {
+            "en": "Wa maaa adraaka maa \u0027Illiyyoon",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "And what can make you know what is \u0027illiyyun?",
+          "id": "Dan tahukah engkau apakah \u00E2\u20AC\u2122Illiyyin itu?"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5867",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5867.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5867.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Untuk menggugah perhatian manusia, Allah bertanya, \u00E2\u20AC\u0153Dan tahukah engkau apakah \u00E2\u20AC\u06A9Illiyyin itu?",
+            "long": "Untuk memperlihatkan keagungan \u0027Illiyyun itu, Allah mengemukakan pertanyaan, \u0022Tahukah kamu apakah \u0027Illiyyun itu?\u0022 Allah lalu menjelaskannya langsung, \u0022Yaitu kitab yang tertulis dan disaksikan oleh para malaikat yang didekatkan kepada Allah.\u0022"
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5868,
+          "inSurah": 20,
+          "Jommal_classic": " 3627 8109",
+          "Jommal_Moderen": "9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 588,
+          "manzil": 7,
+          "ruku": 525,
+          "hizbQuarter": 235,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u0192\u0638\u06AF\u0637\u06BE\u0638\u0698\u0637\u00A7\u0637\u00A8\u0638\u0152 \u0638\u2026\u0638\u2018\u0638\u0698\u0637\u00B1\u0638\u2019\u0638\u201A\u0638\u0688\u0638\u02C6\u0638\u2026\u0638\u0152",
+          "transliteration": {
+            "en": "Kitaabum marqoom",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "It is [their destination recorded in] a register inscribed",
+          "id": "(Yaitu) Kitab yang berisi catatan (amal),"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5868",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5868.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5868.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "\u00E2\u20AC\u06A9Illiyyin adalah kitab yang berisi catatan perbuatan yang tertulis dengan jelas sehingga mudah dibaca oleh mereka yang berhak mendapatkannya.",
+            "long": "Untuk memperlihatkan keagungan \u0027Illiyyun itu, Allah mengemukakan pertanyaan, \u0022Tahukah kamu apakah \u0027Illiyyun itu?\u0022 Allah lalu menjelaskannya langsung, \u0022Yaitu kitab yang tertulis dan disaksikan oleh para malaikat yang didekatkan kepada Allah.\u0022"
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5869,
+          "inSurah": 21,
+          "Jommal_classic": " 7218 10827",
+          "Jommal_Moderen": "9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 588,
+          "manzil": 7,
+          "ruku": 525,
+          "hizbQuarter": 235,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u0679\u0638\u0698\u0637\u00B4\u0638\u2019\u0638\u2021\u0638\u0698\u0637\u00AF\u0638\u0688\u0638\u2021\u0638\u0688 \u0637\u00A7\u0638\u201E\u0638\u2019\u0638\u2026\u0638\u0688\u0638\u201A\u0638\u0698\u0637\u00B1\u0638\u2018\u0638\u0698\u0637\u00A8\u0638\u0688\u0638\u02C6\u0638\u2020\u0638\u0698",
+          "transliteration": {
+            "en": "Yashhadu hul muqarra boon",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "Which is witnessed by those brought near [to Allah].",
+          "id": "yang disaksikan oleh (malaikat-malaikat) yang didekatkan (kepada Allah)."
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5869",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5869.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5869.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Itulah kitab yang berada di tempat yang luhur, yang disaksikan oleh malaikat-malaikat yang didekatkan kepada Allah karena kepatuhan mereka. Kesaksian malaikat terhadap catatan amal orang-orag mukmin menunjukkan kebenaran isi kitab itu dan penghormatan kepada penerimanya.",
+            "long": "Untuk memperlihatkan keagungan \u0027Illiyyun itu, Allah mengemukakan pertanyaan, \u0022Tahukah kamu apakah \u0027Illiyyun itu?\u0022 Allah lalu menjelaskannya langsung, \u0022Yaitu kitab yang tertulis dan disaksikan oleh para malaikat yang didekatkan kepada Allah.\u0022"
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5870,
+          "inSurah": 22,
+          "Jommal_classic": " 3609 5454 4500 5409",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 588,
+          "manzil": 7,
+          "ruku": 525,
+          "hizbQuarter": 235,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0637\u00A5\u0638\u06AF\u0638\u2020\u0638\u2018\u0638\u0698 \u0637\u00A7\u0638\u201E\u0638\u2019\u0637\u00A3\u0638\u0698\u0637\u00A8\u0638\u2019\u0637\u00B1\u0638\u0698\u0637\u00A7\u0637\u00B1\u0638\u0698 \u0638\u201E\u0638\u0698\u0638\u067E\u0638\u06AF\u0638\u0679 \u0638\u2020\u0638\u0698\u0637\u00B9\u0638\u06AF\u0638\u0679\u0638\u2026\u0638\u0686",
+          "transliteration": {
+            "en": "Innal abraara lafee Na\u0027eem",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "Indeed, the righteous will be in pleasure",
+          "id": "Sesungguhnya orang-orang yang berbakti benar-benar berada dalam (surga yang penuh) kenikmatan,"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5870",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5870.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5870.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Demikianlah buku catatan amal orang yang berbakti. Sesungguhnya orang-orang yang berbakti benar-benar berada dalam surga yang penuh kenikmatan. Itulah surga yang penuh kenikmatan yang tidak terbayang sebelumnya dalam benak manusia mana pun. Kenikmatan itu abadi, tidak pernah membosankan apalagi berkurang.",
+            "long": "Setelah menerangkan kitab orang-orang yang berbakti yang diberi nama \u0027Illiyyun, lalu Allah menerangkan keadaan orang yang berbakti (al-abrar) itu secara terperinci. Sesungguhnya mereka yang membenarkan apa-apa yang dibawa oleh Muhammad saw itu, benar-benar berada dalam kenikmatan yang besar, yaitu surga."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5871,
+          "inSurah": 23,
+          "Jommal_classic": " 3609 6345 7218",
+          "Jommal_Moderen": "9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 588,
+          "manzil": 7,
+          "ruku": 525,
+          "hizbQuarter": 235,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0637\u00B9\u0638\u0698\u0638\u201E\u0638\u0698\u0638\u2030 \u0637\u00A7\u0638\u201E\u0638\u2019\u0637\u00A3\u0638\u0698\u0637\u00B1\u0638\u0698\u0637\u00A7\u0637\u00A6\u0638\u06AF\u0638\u0192\u0638\u06AF \u0638\u0679\u0638\u0698\u0638\u2020\u0637\u00B8\u0638\u0688\u0637\u00B1\u0638\u0688\u0638\u02C6\u0638\u2020\u0638\u0698",
+          "transliteration": {
+            "en": "\u0027Alal araaa\u0027iki yanzuroon",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "On adorned couches, observing.",
+          "id": "mereka (duduk) di atas dipan-dipan melepas pandangan."
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5871",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5871.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5871.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Mereka yang berbakti itu duduk di atas dipan-dipan melepas pandangan ke arah pemandangan yang indah, menenangkan, dan mendamaikan. Inilah kebahagiaan hakiki, balasan bagi orang yang taat dan patuh kepada Allah.",
+            "long": "Mereka duduk di atas dipan-dipan sambil memandang berbagai macam kenikmatan surga seperti bidadari, anak-anak mereka yang mati sebelum balig yang disediakan dalam surga untuk berkhidmat kepada orang tuanya, aneka macam makanan dan minuman, dan sebagainya."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5872,
+          "inSurah": 24,
+          "Jommal_classic": " 4527 2700 9009 4527 7218",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 588,
+          "manzil": 7,
+          "ruku": 525,
+          "hizbQuarter": 235,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0637\u06BE\u0638\u0698\u0637\u00B9\u0638\u2019\u0637\u00B1\u0638\u06AF\u0638\u067E\u0638\u0688 \u0638\u067E\u0638\u06AF\u0638\u0679 \u0638\u02C6\u0638\u0688\u0637\u00AC\u0638\u0688\u0638\u02C6\u0638\u2021\u0638\u06AF\u0638\u2021\u0638\u06AF\u0638\u2026\u0638\u2019 \u0638\u2020\u0638\u0698\u0637\u00B6\u0638\u2019\u0637\u00B1\u0638\u0698\u0637\u00A9\u0638\u0698 \u0637\u00A7\u0638\u201E\u0638\u2020\u0638\u2018\u0638\u0698\u0637\u00B9\u0638\u06AF\u0638\u0679\u0638\u2026\u0638\u06AF",
+          "transliteration": {
+            "en": "Ta\u0027rifu fee wujoohihim nadratan na\u0027eem",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "You will recognize in their faces the radiance of pleasure.",
+          "id": "Kamu dapat mengetahui dari wajah mereka kesenangan hidup yang penuh kenikmatan."
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5872",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5872.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5872.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Wajah-wajah mereka berseri. Kamu dapat mengetahui dari wajah mereka kesenangan hidup yang penuh kenikmatan.",
+            "long": "Dalam ayat ini dijelaskan bahwa tanda-tanda kebahagiaan itu tampak pada wajah-wajah mereka. Orang yang melihatnya dapat merasakan kesenangan hidup mereka yang penuh dengan kenikmatan seperti tercantum dalam firman Allah:\n\nPada hari itu ada wajah-wajah yang berseri-seri, tertawa dan gembira ria. (\u0027Abasa/80: 38-39)"
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5873,
+          "inSurah": 25,
+          "Jommal_classic": " 8109 2700 5418 7218",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 588,
+          "manzil": 7,
+          "ruku": 525,
+          "hizbQuarter": 235,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u0679\u0638\u0688\u0637\u00B3\u0638\u2019\u0638\u201A\u0638\u0698\u0638\u02C6\u0638\u2019\u0638\u2020\u0638\u0698 \u0638\u2026\u0638\u06AF\u0638\u2020 \u0637\u00B1\u0638\u2018\u0638\u0698\u0637\u00AD\u0638\u06AF\u0638\u0679\u0638\u201A\u0638\u0686 \u0638\u2026\u0638\u2018\u0638\u0698\u0637\u00AE\u0638\u2019\u0637\u06BE\u0638\u0688\u0638\u02C6\u0638\u2026\u0638\u0686",
+          "transliteration": {
+            "en": "Yusqawna mir raheeqim makhtoom",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "They will be given to drink [pure] wine [which was] sealed.",
+          "id": "Mereka diberi minum dari khamar murni (tidak memabukkan) yang (tempatnya) masih dilak (disegel),"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5873",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5873.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5873.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Mereka diberi minum dari khamar murni yang tidak memabukkan, yang tempatnya masih dilak dan disegel sehingga isinya terjaga keaslian serta kesegarannya, dan belum pernah ada yang meminum bahkan menyentuhnya.",
+            "long": "Dalam ayat ini dijelaskan bahwa orang-orang yang berbakti itu diberi minum dari khamar murni yang bersih dari campuran dan tidak memabukkan. Khamar itu disimpan di tempat yang tersegel sehingga terpelihara dari pencemaran."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5874,
+          "inSurah": 26,
+          "Jommal_classic": " 5427 4509 1000 4500 5409 10827 11736",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t1\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 588,
+          "manzil": 7,
+          "ruku": 525,
+          "hizbQuarter": 235,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0637\u00AE\u0638\u06AF\u0637\u06BE\u0638\u0698\u0637\u00A7\u0638\u2026\u0638\u0688\u0638\u2021\u0638\u0688 \u0638\u2026\u0638\u06AF\u0637\u00B3\u0638\u2019\u0638\u0192\u0638\u0152 \u063A\u0691 \u0638\u02C6\u0638\u0698\u0638\u067E\u0638\u06AF\u0638\u0679 \u0637\u00B0\u0638\u0698\u0638\u00B0\u0638\u201E\u0638\u06AF\u0638\u0192\u0638\u0698 \u0638\u067E\u0638\u0698\u0638\u201E\u0638\u2019\u0638\u0679\u0638\u0698\u0637\u06BE\u0638\u0698\u0638\u2020\u0638\u0698\u0637\u00A7\u0638\u067E\u0638\u0698\u0637\u00B3\u0638\u06AF \u0637\u00A7\u0638\u201E\u0638\u2019\u0638\u2026\u0638\u0688\u0637\u06BE\u0638\u0698\u0638\u2020\u0638\u0698\u0637\u00A7\u0638\u067E\u0638\u06AF\u0637\u00B3\u0638\u0688\u0638\u02C6\u0638\u2020\u0638\u0698",
+          "transliteration": {
+            "en": "Khitaamuhoo misk; wa fee zaalika falyatanaafasil Mutanaafisoon",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "The last of it is musk. So for this let the competitors compete.",
+          "id": "laknya dari kasturi. Dan untuk yang demikian itu hendaknya orang berlomba-lomba."
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5874",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5874.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5874.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Khamar itu dilak dengan rapat, di mana laknya berasal dari kasturi yang beraroma harum dan menyegarkan. Bagusnya lak menunjukkan khamr itu sangat baik dan berkualitas. Dan untuk yang demikian itu hendaknya orang berlomba-lomba untuk mendapatkan kebahagiaan tersebut, yakni dengan banyak beribadah dan beramal saleh.",
+            "long": "Segelnya adalah kasturi dan untuk mencapai kenikmatan yang demikian itu, hendaklah orang berlomba-lomba dalam rangka melaksanakan ketaatan dan ketakwaan kepada Allah. Barang siapa yang giat beribadah kepada-Nya, maka akan cepat pula melintasi jembatan as-sirathal-mustaqim yang berada di atas api neraka."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5875,
+          "inSurah": 27,
+          "Jommal_classic": " 7227 2700 6318",
+          "Jommal_Moderen": "9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 588,
+          "manzil": 7,
+          "ruku": 525,
+          "hizbQuarter": 235,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u02C6\u0638\u0698\u0638\u2026\u0638\u06AF\u0637\u00B2\u0638\u0698\u0637\u00A7\u0637\u00AC\u0638\u0688\u0638\u2021\u0638\u0688 \u0638\u2026\u0638\u06AF\u0638\u2020 \u0637\u06BE\u0638\u0698\u0637\u00B3\u0638\u2019\u0638\u2020\u0638\u06AF\u0638\u0679\u0638\u2026\u0638\u0686",
+          "transliteration": {
+            "en": "Wa mizaajuhoo min Tasneem",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "And its mixture is of Tasneem,",
+          "id": "Dan campurannya dari tasnim,"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5875",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5875.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5875.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Dan tidak hanya dilak dengan kasturi, campurannya dari tasnim.",
+            "long": "Dalam dua ayat ini dijelaskan bahwa campuran khamar murni itu ialah dari tasnim yang datang dari daerah yang tinggi. Tasnim adalah mata air yang menjadi sumber air minum orang-orang yang didekatkan kepada Allah."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5876,
+          "inSurah": 28,
+          "Jommal_classic": " 4518 4527 2718 10827",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 588,
+          "manzil": 7,
+          "ruku": 525,
+          "hizbQuarter": 235,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0637\u00B9\u0638\u0698\u0638\u0679\u0638\u2019\u0638\u2020\u0638\u2039\u0637\u00A7 \u0638\u0679\u0638\u0698\u0637\u00B4\u0638\u2019\u0637\u00B1\u0638\u0698\u0637\u00A8\u0638\u0688 \u0637\u00A8\u0638\u06AF\u0638\u2021\u0638\u0698\u0637\u00A7 \u0637\u00A7\u0638\u201E\u0638\u2019\u0638\u2026\u0638\u0688\u0638\u201A\u0638\u0698\u0637\u00B1\u0638\u2018\u0638\u0698\u0637\u00A8\u0638\u0688\u0638\u02C6\u0638\u2020\u0638\u0698",
+          "transliteration": {
+            "en": "\u0027Ainaiy yashrabu bihal muqarraboon",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "A spring from which those near [to Allah] drink.",
+          "id": "(yaitu) mata air yang diminum oleh mereka yang dekat (kepada Allah)."
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5876",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5876.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5876.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Tasnim adalah mata air surga yang berada di ketinggian dan berkualitas tinggi pula. Itulah mata air yang diminum oleh mereka yang dekat kepada Allah karena sungguh-sungguh beriman dan beramal saleh. Inilah salah satu penghargaan tertinggi yang Allah berikan kepada mereka.",
+            "long": "Dalam dua ayat ini dijelaskan bahwa campuran khamar murni itu ialah dari tasnim yang datang dari daerah yang tinggi. Tasnim adalah mata air yang menjadi sumber air minum orang-orang yang didekatkan kepada Allah."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5877,
+          "inSurah": 29,
+          "Jommal_classic": " 3609 6318 5436 4518 3600 6318 4518 8118",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 588,
+          "manzil": 7,
+          "ruku": 525,
+          "hizbQuarter": 235,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0637\u00A5\u0638\u06AF\u0638\u2020\u0638\u2018\u0638\u0698 \u0637\u00A7\u0638\u201E\u0638\u2018\u0638\u0698\u0637\u00B0\u0638\u06AF\u0638\u0679\u0638\u2020\u0638\u0698 \u0637\u00A3\u0638\u0698\u0637\u00AC\u0638\u2019\u0637\u00B1\u0638\u0698\u0638\u2026\u0638\u0688\u0638\u02C6\u0637\u00A7 \u0638\u0192\u0638\u0698\u0637\u00A7\u0638\u2020\u0638\u0688\u0638\u02C6\u0637\u00A7 \u0638\u2026\u0638\u06AF\u0638\u2020\u0638\u0698 \u0637\u00A7\u0638\u201E\u0638\u2018\u0638\u0698\u0637\u00B0\u0638\u06AF\u0638\u0679\u0638\u2020\u0638\u0698 \u0637\u00A2\u0638\u2026\u0638\u0698\u0638\u2020\u0638\u0688\u0638\u02C6\u0637\u00A7 \u0638\u0679\u0638\u0698\u0637\u00B6\u0638\u2019\u0637\u00AD\u0638\u0698\u0638\u0192\u0638\u0688\u0638\u02C6\u0638\u2020\u0638\u0698",
+          "transliteration": {
+            "en": "Innal lazeena ajramoo kaanoo minal lazeena aamanoo yadhakoon",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "Indeed, those who committed crimes used to laugh at those who believed.",
+          "id": "Sesungguhnya orang-orang yang berdosa adalah mereka yang dahulu menertawakan orang-orang yang beriman."
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5877",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5877.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5877.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Berbeda dari orang-orang berbakti yang selalu beriman dan beramal saleh, sesungguhnya orang-orang yang berdosa dan kafir adalah mereka yang dahulu menertawakan orang-orang yang beriman, terutama yang fakir dan miskin. Mereka beranggapan bahwa agama yang benar adalah yang banyak diikuti oleh kaum bangsawan dan kaya.",
+            "long": "Sesungguhnya orang-orang yang melampaui batas dan berdosa dahulu selalu menertawakan orang-orang yang beriman. Ketika Nabi Muhammad membawa Al-Qur\u0027an dengan ajaran Islam yang mengandung kebajikan, ia mendapatkan perlawanan yang hebat dari orang-orang musyrik Mekah. Perlawanan ini terutama dari para pembesarnya yang sejak nenek moyangnya sudah biasa menyembah patung berhala. Mereka menentang ajaran apa saja yang datang dari luar yang bertentangan dengan kepercayaan mereka.\n\nTelah menjadi kebiasaan bagi orang-orang besar yang bersandar kepada kekuasaan dan kebendaan atau kekayaan bahwa mereka selalu bersikap sinis atau mencemoohkan pihak lain yang tidak sejalan dengan kepercayaan dan kebudayaan mereka."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5878,
+          "inSurah": 30,
+          "Jommal_classic": " 3627 4518 4509 9036",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 588,
+          "manzil": 7,
+          "ruku": 525,
+          "hizbQuarter": 235,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u02C6\u0638\u0698\u0637\u00A5\u0638\u06AF\u0637\u00B0\u0638\u0698\u0637\u00A7 \u0638\u2026\u0638\u0698\u0637\u00B1\u0638\u2018\u0638\u0688\u0638\u02C6\u0637\u00A7 \u0637\u00A8\u0638\u06AF\u0638\u2021\u0638\u06AF\u0638\u2026\u0638\u2019 \u0638\u0679\u0638\u0698\u0637\u06BE\u0638\u0698\u0637\u061B\u0638\u0698\u0637\u00A7\u0638\u2026\u0638\u0698\u0637\u00B2\u0638\u0688\u0638\u02C6\u0638\u2020\u0638\u0698",
+          "transliteration": {
+            "en": "Wa izaa marroo bihim yataghaamazoon",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "And when they passed by them, they would exchange derisive glances.",
+          "id": "Dan apabila mereka (orang-orang yang beriman) melintas di hadapan mereka, mereka saling mengedip-ngedipkan matanya,"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5878",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5878.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5878.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Dan apabila mereka, yakni orang-orang yang beriman, melintas di hadapan mereka yang berdosa dan kafir itu, mereka saling mengedip-ngedipkan matanya sebagai tanda ejekan terhadap mereka.",
+            "long": "Apabila orang-orang yang beriman lewat di hadapan mereka, orang-orang yang berdosa itu saling memberi isyarat dengan kedipan mata yang mengandung unsur ejekan dan cemoohan. Apabila kembali kepada kaum kerabatnya, mereka membangga-banggakan diri karena telah mengadakan tindakan terhadap pengikut-pengikut Muhammad saw dengan berbagai tindakan yang mengandung unsur ejekan, cemoohan, dan permusuhan."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5879,
+          "inSurah": 31,
+          "Jommal_classic": " 3627 6327 4509 8109 6327 8100",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 588,
+          "manzil": 7,
+          "ruku": 525,
+          "hizbQuarter": 235,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u02C6\u0638\u0698\u0637\u00A5\u0638\u06AF\u0637\u00B0\u0638\u0698\u0637\u00A7 \u0637\u00A7\u0638\u2020\u0638\u201A\u0638\u0698\u0638\u201E\u0638\u0698\u0637\u00A8\u0638\u0688\u0638\u02C6\u0637\u00A7 \u0637\u00A5\u0638\u06AF\u0638\u201E\u0638\u0698\u0638\u2030\u0638\u00B0 \u0637\u00A3\u0638\u0698\u0638\u2021\u0638\u2019\u0638\u201E\u0638\u06AF\u0638\u2021\u0638\u06AF\u0638\u2026\u0638\u0688 \u0637\u00A7\u0638\u2020\u0638\u201A\u0638\u0698\u0638\u201E\u0638\u0698\u0637\u00A8\u0638\u0688\u0638\u02C6\u0637\u00A7 \u0638\u067E\u0638\u0698\u0638\u0192\u0638\u06AF\u0638\u2021\u0638\u06AF\u0638\u0679\u0638\u2020\u0638\u0698",
+          "transliteration": {
+            "en": "Wa izan qalabooo ilaaa ahlihimun qalaboo fakiheen",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "And when they returned to their people, they would return jesting.",
+          "id": "dan apabila kembali kepada kaumnya, mereka kembali dengan gembira ria."
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5879",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5879.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5879.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Dan tidak hanya mengejek orang beriman di jalan, apabila orang-orang yang berdosa dan kafir kembali kepada kaumnya, mereka kembali dengan gembira ria karena telah menertawakan orang beriman. Mereka dengan riang menceritakan kepada kaumnya hinaan dan ejekan yang telah mereka lakukan kepada kaum mukmin. dan apabila kembali kepada kaumnya, mereka kembali dengan gembira ria.",
+            "long": "Apabila orang-orang yang beriman lewat di hadapan mereka, orang-orang yang berdosa itu saling memberi isyarat dengan kedipan mata yang mengandung unsur ejekan dan cemoohan. Apabila kembali kepada kaum kerabatnya, mereka membangga-banggakan diri karena telah mengadakan tindakan terhadap pengikut-pengikut Muhammad saw dengan berbagai tindakan yang mengandung unsur ejekan, cemoohan, dan permusuhan."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5880,
+          "inSurah": 32,
+          "Jommal_classic": " 3627 7218 4518 3609 6327 8118",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 588,
+          "manzil": 7,
+          "ruku": 525,
+          "hizbQuarter": 235,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u02C6\u0638\u0698\u0637\u00A5\u0638\u06AF\u0637\u00B0\u0638\u0698\u0637\u00A7 \u0637\u00B1\u0638\u0698\u0637\u00A3\u0638\u0698\u0638\u02C6\u0638\u2019\u0638\u2021\u0638\u0688\u0638\u2026\u0638\u2019 \u0638\u201A\u0638\u0698\u0637\u00A7\u0638\u201E\u0638\u0688\u0638\u02C6\u0637\u00A7 \u0637\u00A5\u0638\u06AF\u0638\u2020\u0638\u2018\u0638\u0698 \u0638\u2021\u0638\u0698\u0638\u00B0\u0637\u00A4\u0638\u0688\u0638\u201E\u0638\u0698\u0637\u00A7\u0637\u060C\u0638\u06AF \u0638\u201E\u0638\u0698\u0637\u00B6\u0638\u0698\u0637\u00A7\u0638\u201E\u0638\u2018\u0638\u0688\u0638\u02C6\u0638\u2020\u0638\u0698",
+          "transliteration": {
+            "en": "Wa izaa ra awhum qaalooo inna haaa\u0027ulaaa\u0027i ladaaal loon",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "And when they saw them, they would say, \u0022Indeed, those are truly lost.\u0022",
+          "id": "Dan apabila mereka melihat (orang-orang mukmin), mereka mengatakan, \u00E2\u20AC\u0153Sesungguhnya mereka benar-benar orang-orang sesat,\u00E2\u20AC\u200C"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5880",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5880.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5880.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Dan apabila mereka yang berdosa dan kafir itu melihat orang-orang mukmin, mereka mengatakan, \u00E2\u20AC\u0153Sesungguhnya mereka benar-benar orang-orang sesat karena telah beriman kepada Muhammad dan meninggalkan keyakinan nenek moyang mereka.\u00E2\u20AC\u200C",
+            "long": "Apabila melihat orang-orang Mukmin, orang-orang yang berdosa itu berkata bahwa sesungguhnya mereka melihat orang yang benar-benar sesat dan menyimpang dari kebenaran, karena mengubah kepercayaan yang sejak dahulu kala mereka warisi dari nenek moyang mereka tentang penyembahan berhala."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5881,
+          "inSurah": 33,
+          "Jommal_classic": " 3609 5436 8109 6327",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 588,
+          "manzil": 7,
+          "ruku": 525,
+          "hizbQuarter": 235,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u02C6\u0638\u0698\u0638\u2026\u0638\u0698\u0637\u00A7 \u0637\u00A3\u0638\u0688\u0637\u00B1\u0638\u2019\u0637\u00B3\u0638\u06AF\u0638\u201E\u0638\u0688\u0638\u02C6\u0637\u00A7 \u0637\u00B9\u0638\u0698\u0638\u201E\u0638\u0698\u0638\u0679\u0638\u2019\u0638\u2021\u0638\u06AF\u0638\u2026\u0638\u2019 \u0637\u00AD\u0638\u0698\u0637\u00A7\u0638\u067E\u0638\u06AF\u0637\u00B8\u0638\u06AF\u0638\u0679\u0638\u2020\u0638\u0698",
+          "transliteration": {
+            "en": "Wa maaa ursiloo \u0027alaihim haafizeen",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "But they had not been sent as guardians over them.",
+          "id": "padahal (orang-orang yang berdosa itu), mereka tidak diutus sebagai penjaga (orang-orang mukmin)."
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5881",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5881.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5881.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Mereka menganggap sesat orang mukmin, padahal mereka yang kafir dan berdosa itu tidak diutus oleh Allah sebagai penjaga orang-orang mukmin. Mereka bukanlah pihak yang berhak menilai dan menentukan sesat-tidaknya satu kaum.",
+            "long": "Allah menegaskan bahwa orang-orang kafir itu hidup di dunia tidak ditugaskan untuk melindungi atau menjaga orang-orang Mukmin. Mereka tidak berwenang menjaga orang-orang Mukmin karena orang-orang Mukmin tidak berada di bawah kekuasaan mereka. Oleh sebab itu, mereka tidak berhak mengejek, mengawasi, dan menyakiti orang-orang Mukmin yang tulus ikhlas beriman kepada Allah."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5882,
+          "inSurah": 34,
+          "Jommal_classic": " 9009 6318 4518 3600 7227 8118",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 588,
+          "manzil": 7,
+          "ruku": 525,
+          "hizbQuarter": 235,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u067E\u0638\u0698\u0637\u00A7\u0638\u201E\u0638\u2019\u0638\u0679\u0638\u0698\u0638\u02C6\u0638\u2019\u0638\u2026\u0638\u0698 \u0637\u00A7\u0638\u201E\u0638\u2018\u0638\u0698\u0637\u00B0\u0638\u06AF\u0638\u0679\u0638\u2020\u0638\u0698 \u0637\u00A2\u0638\u2026\u0638\u0698\u0638\u2020\u0638\u0688\u0638\u02C6\u0637\u00A7 \u0638\u2026\u0638\u06AF\u0638\u2020\u0638\u0698 \u0637\u00A7\u0638\u201E\u0638\u2019\u0638\u0192\u0638\u0688\u0638\u067E\u0638\u2018\u0638\u0698\u0637\u00A7\u0637\u00B1\u0638\u06AF \u0638\u0679\u0638\u0698\u0637\u00B6\u0638\u2019\u0637\u00AD\u0638\u0698\u0638\u0192\u0638\u0688\u0638\u02C6\u0638\u2020\u0638\u0698",
+          "transliteration": {
+            "en": "Fal yawmal lazeena aamanoo minal kuffaari yadhakoon",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "So Today those who believed are laughing at the disbelievers,",
+          "id": "Maka pada hari ini, orang-orang yang beriman yang menertawakan orang-orang kafir,"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5882",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5882.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5882.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Sebagai balasan atas perilaku mereka yang kafir itu, maka pada hari pembalasan ini, giliran orang-orang yang beriman yang menertawakan orang-orang kafir yang dulu menertawakan mereka.",
+            "long": "Dalam ayat ini, Allah menjelaskan bahwa pada hari pembalasan giliran orang-orang Mukmin dalam surga mencemoohkan orang-orang kafir yang sedang menderita azab neraka. Pada hari itu, orang-orang yang beriman akan tertawa lebar karena menyaksikan pahala dan berbagai macam kenikmatan yang sesuai dengan janji Allah. Mereka juga menertawakan orang-orang kafir yang dahulu di dunia pernah mencemoohkan mereka."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5883,
+          "inSurah": 35,
+          "Jommal_classic": " 3609 6345 7218",
+          "Jommal_Moderen": "9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 589,
+          "manzil": 7,
+          "ruku": 525,
+          "hizbQuarter": 235,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0637\u00B9\u0638\u0698\u0638\u201E\u0638\u0698\u0638\u2030 \u0637\u00A7\u0638\u201E\u0638\u2019\u0637\u00A3\u0638\u0698\u0637\u00B1\u0638\u0698\u0637\u00A7\u0637\u00A6\u0638\u06AF\u0638\u0192\u0638\u06AF \u0638\u0679\u0638\u0698\u0638\u2020\u0637\u00B8\u0638\u0688\u0637\u00B1\u0638\u0688\u0638\u02C6\u0638\u2020\u0638\u0698",
+          "transliteration": {
+            "en": "\u0027Alal araaa\u0027iki yanzuroon",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "On adorned couches, observing.",
+          "id": "mereka (duduk) di atas dipan-dipan melepas pandangan."
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5883",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5883.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5883.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Mereka yang beriman itu duduk di atas dipan-dipan sambil melepas pandangan ke arah pemandangan yang indah, bersama orang yang mereka cintai, sembari menikmati makanan dan minuman yang sangat lezat.",
+            "long": "Mereka duduk santai di atas dipan-dipan sambil memandang apa yang diperbuat oleh Allah terhadap orang-orang kafir dalam neraka."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 5884,
+          "inSurah": 36,
+          "Jommal_classic": " 3600 4518 7227 1809 4518 9009",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 589,
+          "manzil": 7,
+          "ruku": 525,
+          "hizbQuarter": 235,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u2021\u0638\u0698\u0638\u201E\u0638\u2019 \u0637\u00AB\u0638\u0688\u0638\u02C6\u0638\u2018\u0638\u06AF\u0637\u00A8\u0638\u0698 \u0637\u00A7\u0638\u201E\u0638\u2019\u0638\u0192\u0638\u0688\u0638\u067E\u0638\u2018\u0638\u0698\u0637\u00A7\u0637\u00B1\u0638\u0688 \u0638\u2026\u0638\u0698\u0637\u00A7 \u0638\u0192\u0638\u0698\u0637\u00A7\u0638\u2020\u0638\u0688\u0638\u02C6\u0637\u00A7 \u0638\u0679\u0638\u0698\u0638\u067E\u0638\u2019\u0637\u00B9\u0638\u0698\u0638\u201E\u0638\u0688\u0638\u02C6\u0638\u2020\u0638\u0698",
+          "transliteration": {
+            "en": "Hal suwwibal kuffaaru maa kaanoo yaf\u0027aloon",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "Have the disbelievers [not] been rewarded [this Day] for what they used to do?",
+          "id": "Apakah orang-orang kafir itu diberi balasan (hukuman) terhadap apa yang telah mereka perbuat?"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5884",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5884.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5884.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Saat orang-orang kafir itu di akhirat nanti mendapat siksa Jahim, tertutup dari rahmat Tuhan, dan mendapat hinaan dari orang mukmin yang dahulu mereka hina, apakah orang-orang kafir itu sudah diberi balasan dan hukuman setimpal terhadap apa yang telah mereka perbuat di dunia dulu, berupa kekafiran dan kemaksiatan? Tentu sudah.",
+            "long": "Mereka meyakinkan bahwa sesungguhnya orang-orang kafir itu tidak dianiaya, tetapi hanya diberi balasan terhadap apa yang dahulu mereka kerjakan. Sebab, balasan itu biasanya diambil dari jenis perbuatan, yang baik dibalas dengan baik, dan yang jahat dibalas dengan jahat."
+          }
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,868 @@
+{
+  "code": 200,
+  "status": "OK.",
+  "message": "Success fetching surah.",
+  "data": {
+    "number": 96,
+    "sequence": 1,
+    "numberOfVerses": 19,
+    "name": {
+      "short": "\u0637\u00A7\u0638\u201E\u0637\u00B9\u0638\u201E\u0638\u201A",
+      "long": "\u0637\u00B3\u0638\u02C6\u0637\u00B1\u0637\u00A9 \u0637\u00A7\u0638\u201E\u0637\u00B9\u0638\u201E\u0638\u201A",
+      "transliteration": {
+        "en": "Al-Alaq",
+        "id": "Al-\u0027Alaq"
+      },
+      "translation": {
+        "en": "The Clot",
+        "id": "Segumpal Darah"
+      }
+    },
+    "revelation": {
+      "arab": "\u0638\u2026\u0638\u0192\u0637\u00A9",
+      "en": "Meccan",
+      "id": "Makkiyyah"
+    },
+    "tafsir": {
+      "id": "Surat Al \u0027Alaq terdiri atas 19 ayat, termasuk golongan surat-surat Makkiyah. Ayat 1 sampai dengan 5 dari surat ini adalah ayat-ayat Al Quran yang pertama sekali diturunkan, yaitu di waktu Nabi Muhammad s.a.w. berkhalwat di gua Hira\u0027. Surat ini dinamai Al \u0027Alaq (segumpal darah), diambil dari perkataan Alaq yang terdapat pada ayat 2 surat ini. Surat ini dinamai juga dengan Iqra atau Al Qalam."
+    },
+    "preBismillah": {
+      "text": {
+        "arab": "\u0637\u00A8\u0638\u06AF\u0637\u00B3\u0638\u2019\u0638\u2026\u0638\u06AF \u0637\u00A7\u0638\u201E\u0638\u201E\u0638\u2018\u0638\u0698\u0638\u2021\u0638\u06AF \u0637\u00A7\u0638\u201E\u0637\u00B1\u0638\u2018\u0638\u0698\u0637\u00AD\u0638\u2019\u0638\u2026\u0638\u0698\u0638\u00B0\u0638\u2020\u0638\u06AF \u0637\u00A7\u0638\u201E\u0637\u00B1\u0638\u2018\u0638\u0698\u0637\u00AD\u0638\u06AF\u0638\u0679\u0638\u2026\u0638\u06AF",
+        "transliteration": {
+          "en": "Bismillaahir Rahmaanir Raheem"
+        }
+      },
+      "translation": {
+        "en": "In the name of Allah, the Entirely Merciful, the Especially Merciful.",
+        "id": "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang."
+      },
+      "audio": {
+        "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1",
+        "secondary": [
+          "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1.mp3",
+          "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1.mp3"
+        ]
+      }
+    },
+    "verses": [
+      {
+        "number": {
+          "inQuran": 6107,
+          "inSurah": 1,
+          "Jommal_classic": " 3627 3627 4518 4518 4509",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 597,
+          "manzil": 7,
+          "ruku": 538,
+          "hizbQuarter": 239,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0637\u00A7\u0638\u201A\u0638\u2019\u0637\u00B1\u0638\u0698\u0637\u00A3\u0638\u2019 \u0637\u00A8\u0638\u06AF\u0637\u00A7\u0637\u00B3\u0638\u2019\u0638\u2026\u0638\u06AF \u0637\u00B1\u0638\u0698\u0637\u00A8\u0638\u2018\u0638\u06AF\u0638\u0192\u0638\u0698 \u0637\u00A7\u0638\u201E\u0638\u2018\u0638\u0698\u0637\u00B0\u0638\u06AF\u0638\u0679 \u0637\u00AE\u0638\u0698\u0638\u201E\u0638\u0698\u0638\u201A\u0638\u0698",
+          "transliteration": {
+            "en": "Iqra bismi rab bikal lazee khalaq",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "Recite in the name of your Lord who created -",
+          "id": "Bacalah dengan (menyebut) nama Tuhanmu yang menciptakan,"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6107",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6107.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6107.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Wahai Nabi, bacalah apa yang Allah wahyukan kepadamu dengan terlebih dahulu menyebut nama Tuhanmu yang menciptakan segala sesuatu dengan keesaan-Nya.",
+            "long": "Allah memerintahkan manusia membaca (mempelajari, meneliti, dan sebagainya.) apa saja yang telah Ia ciptakan, baik ayat-ayat-Nya yang tersurat (qauliyah), yaitu Al-Qur\u0027an, dan ayat-ayat-Nya yang tersirat, maksudnya alam semesta (kauniyah). Membaca itu harus dengan nama-Nya, artinya karena Dia dan mengharapkan pertolongan-Nya. Dengan demikian, tujuan membaca dan mendalami ayat-ayat Allah itu adalah diperolehnya hasil yang diridai-Nya, yaitu ilmu atau sesuatu yang bermanfaat bagi manusia."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 6108,
+          "inSurah": 2,
+          "Jommal_classic": " 4509 6336 3600 4509",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 597,
+          "manzil": 7,
+          "ruku": 538,
+          "hizbQuarter": 239,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0637\u00AE\u0638\u0698\u0638\u201E\u0638\u0698\u0638\u201A\u0638\u0698 \u0637\u00A7\u0638\u201E\u0638\u2019\u0637\u00A5\u0638\u06AF\u0638\u2020\u0637\u00B3\u0638\u0698\u0637\u00A7\u0638\u2020\u0638\u0698 \u0638\u2026\u0638\u06AF\u0638\u2020\u0638\u2019 \u0637\u00B9\u0638\u0698\u0638\u201E\u0638\u0698\u0638\u201A\u0638\u0686",
+          "transliteration": {
+            "en": "Khalaqal insaana min \u0027alaq",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "Created man from a clinging substance.",
+          "id": "Dia telah menciptakan manusia dari segumpal darah."
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6108",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6108.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6108.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Dia telah menciptakan manusia yang sempurna bentuk dan pengetahuannya dari segumpal darah, sebagai kelanjutan dari fase nutfah. Setelah itu berturut-turut akan terbentuk sekepal daging, tulang, pelapisan tulang dengan daging, dan peniupan roh.",
+            "long": "Allah menyebutkan bahwa di antara yang telah Ia ciptakan adalah manusia, yang menunjukkan mulianya manusia itu dalam pandangan-Nya. Allah menciptakan manusia itu dari \u0027alaqah (zigot), yakni telur yang sudah terbuahi sperma, yang sudah menempel di rahim ibu. Karena sudah menempel itu, maka zigot dapat berkembang menjadi manusia. Dengan demikian, asal usul manusia itu adalah sesuatu yang tidak ada artinya, tetapi kemudian ia menjadi manusia yang perkasa. Allah berfirman:\n\nDan di antara tanda-tanda (kebesaran)-Nya ialah Dia menciptakan kamu dari tanah, kemudian tiba-tiba kamu (menjadi) manusia yang berkembang biak. (ar-Rum/30: 20)\n\nAsal usulnya itu juga labil, zigot itu bisa tidak menempel di rahim, atau bisa terlepas lagi dari rahim itu, sehingga pembentukan manusia terhenti prosesnya. Oleh karena itu, manusia seharusnya tidak sombong dan ingkar, tetapi bersyukur dan patuh kepada-Nya, karena dengan kemahakuasaan dan karunia Allah-lah, ia bisa tercipta. Allah berfirman menyesali manusia yang ingkar dan sombong itu:\n\nDan tidakkah manusia memperhatikan bahwa Kami menciptakannya dari setetes mani, ternyata dia menjadi musuh yang nyata! (Yasin/36: 77)\n\nMenurut kajian ilmiah, \u0027alaqah merupakan bentuk perkembangan pra-embrionik, yang terjadi setelah percampuran sel mani (sperma) dan sel telur. Moore dan Azzindani menjelaskan bahwa \u0027alaqah dalam bahasa Arab berarti lintah (leech) atau suatu suspensi (suspended thing) atau segumpal darah (a clot of blood). Lintah merupakan binatang tingkat rendah, berbentuk seperti buah per, dan hidup dengan cara menghisap darah. Jadi \u0027alaqah merupakan tingkatan (stadium) embrionik, yang berbentuk seperti buah per, di mana sistem kardiovaskuler (sistem pembuluh-jantung) sudah mulai tampak, dan hidupnya tergantung dari darah ibunya, mirip dengan lintah. \u0027Alaqah terbentuk sekitar 24-25 hari sejak pembuahan. Jika jaringan pra-embrionik \u0027alaqah ini diambil keluar (digugurkan), memang tampak seperti segumpal darah (a blood clot like). Lihat pula telaah ilmiah pada penjelasan Surah Nuh/71 ayat 14."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 6109,
+          "inSurah": 3,
+          "Jommal_classic": " 3627 6318 7227",
+          "Jommal_Moderen": "9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 597,
+          "manzil": 7,
+          "ruku": 538,
+          "hizbQuarter": 239,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0637\u00A7\u0638\u201A\u0638\u2019\u0637\u00B1\u0638\u0698\u0637\u00A3\u0638\u2019 \u0638\u02C6\u0638\u0698\u0637\u00B1\u0638\u0698\u0637\u00A8\u0638\u2018\u0638\u0688\u0638\u0192\u0638\u0698 \u0637\u00A7\u0638\u201E\u0638\u2019\u0637\u00A3\u0638\u0698\u0638\u0192\u0638\u2019\u0637\u00B1\u0638\u0698\u0638\u2026\u0638\u0688",
+          "transliteration": {
+            "en": "Iqra wa rab bukal akram",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "Recite, and your Lord is the most Generous -",
+          "id": "Bacalah, dan Tuhanmulah Yang Mahamulia,"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6109",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6109.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6109.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Wahai Nabi, bacalah firman yang Allah turunkan kepadamu, dan Tuhanmulah Yang Mahamulia. Dia membagi kemurahan-Nya kepada semua makhluk. Di antara kemurahan-Nya adalah menjadikan manusia bisa membaca, menulis, dan mempelajari ilmu pengetahuan.",
+            "long": "Allah meminta manusia membaca lagi, yang mengandung arti bahwa membaca yang akan membuahkan ilmu dan iman itu perlu dilakukan berkali-kali, minimal dua kali. Bila Al-Qur\u0027an atau alam ini dibaca dan diselidiki berkali-kali, maka manusia akan menemukan bahwa Allah itu pemurah, yaitu bahwa Ia akan mencurahkan pengetahuan-Nya kepadanya dan akan memperkokoh imannya."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 6110,
+          "inSurah": 4,
+          "Jommal_classic": " 4518 5409 8118",
+          "Jommal_Moderen": "9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 597,
+          "manzil": 7,
+          "ruku": 538,
+          "hizbQuarter": 239,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0637\u00A7\u0638\u201E\u0638\u2018\u0638\u0698\u0637\u00B0\u0638\u06AF\u0638\u0679 \u0637\u00B9\u0638\u0698\u0638\u201E\u0638\u2018\u0638\u0698\u0638\u2026\u0638\u0698 \u0637\u00A8\u0638\u06AF\u0637\u00A7\u0638\u201E\u0638\u2019\u0638\u201A\u0638\u0698\u0638\u201E\u0638\u0698\u0638\u2026\u0638\u06AF",
+          "transliteration": {
+            "en": "Al lazee \u0027allama bil qalam",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "Who taught by the pen -",
+          "id": "Yang mengajar (manusia) dengan pena."
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6110",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6110.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6110.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Tuhanmu itulah yang mengajar manusia menulis dengan perantaraan pena atau alat tulis lain. Tulisan berguna untuk menyimpan dan menyebarkan pesan serta ilmi pengetahuan kepada orang lain.",
+            "long": "Di antara bentuk kepemurahan Allah adalah Ia mengajari manusia mampu menggunakan alat tulis. Mengajari di sini maksudnya memberinya kemampuan menggunakannya. Dengan kemampuan menggunakan alat tulis itu, manusia bisa menuliskan temuannya sehingga dapat dibaca oleh orang lain dan generasi berikutnya. Dengan dibaca oleh orang lain, maka ilmu itu dapat dikembangkan. Dengan demikian, manusia dapat mengetahui apa yang sebelumnya belum diketahuinya, artinya ilmu itu akan terus berkembang. Demikianlah besarnya fungsi baca-tulis."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 6111,
+          "inSurah": 5,
+          "Jommal_classic": " 5409 6336 1809 3600 6309",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 597,
+          "manzil": 7,
+          "ruku": 538,
+          "hizbQuarter": 239,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0637\u00B9\u0638\u0698\u0638\u201E\u0638\u2018\u0638\u0698\u0638\u2026\u0638\u0698 \u0637\u00A7\u0638\u201E\u0638\u2019\u0637\u00A5\u0638\u06AF\u0638\u2020\u0637\u00B3\u0638\u0698\u0637\u00A7\u0638\u2020\u0638\u0698 \u0638\u2026\u0638\u0698\u0637\u00A7 \u0638\u201E\u0638\u0698\u0638\u2026\u0638\u2019 \u0638\u0679\u0638\u0698\u0637\u00B9\u0638\u2019\u0638\u201E\u0638\u0698\u0638\u2026\u0638\u2019",
+          "transliteration": {
+            "en": "\u0027Al lamal insaana ma lam y\u0027alam",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "Taught man that which he knew not.",
+          "id": "Dia mengajarkan manusia apa yang tidak diketahuinya."
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6111",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6111.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6111.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Dia mengajarkan manusia apa yang tidak diketahuinya. Manusia adalah makhluk yang potensial untuk berkarya melalui ilmu pengetahuan yang diperolehnya dari Allah. Manusia belajar baik dari alam sekitar yang merupakan ciptaan-Nya maupun dari wahyu yang Allah sampaikan melalui para rasul.",
+            "long": "Di antara bentuk kepemurahan Allah adalah Ia mengajari manusia mampu menggunakan alat tulis. Mengajari di sini maksudnya memberinya kemampuan menggunakannya. Dengan kemampuan menggunakan alat tulis itu, manusia bisa menuliskan temuannya sehingga dapat dibaca oleh orang lain dan generasi berikutnya. Dengan dibaca oleh orang lain, maka ilmu itu dapat dikembangkan. Dengan demikian, manusia dapat mengetahui apa yang sebelumnya belum diketahuinya, artinya ilmu itu akan terus berkembang. Demikianlah besarnya fungsi baca-tulis."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 6112,
+          "inSurah": 6,
+          "Jommal_classic": " 4509 3609 6336 7218",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 597,
+          "manzil": 7,
+          "ruku": 538,
+          "hizbQuarter": 239,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u0192\u0638\u0698\u0638\u201E\u0638\u2018\u0638\u0698\u0637\u00A7 \u0637\u00A5\u0638\u06AF\u0638\u2020\u0638\u2018\u0638\u0698 \u0637\u00A7\u0638\u201E\u0638\u2019\u0637\u00A5\u0638\u06AF\u0638\u2020\u0637\u00B3\u0638\u0698\u0637\u00A7\u0638\u2020\u0638\u0698 \u0638\u201E\u0638\u0698\u0638\u0679\u0638\u0698\u0637\u00B7\u0638\u2019\u0637\u061B\u0638\u0698\u0638\u2030\u0638\u00B0",
+          "transliteration": {
+            "en": "Kallaa innal insaana layatghaa",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "No! [But] indeed, man transgresses",
+          "id": "Sekali-kali tidak! Sungguh, manusia itu benar-benar melampaui batas,"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6112",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6112.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6112.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Manusia sangat bangga dengan materi sehingga tidak segan berbuat zalim. Sekali kali tidak boleh demikian! Sungguh,",
+            "long": "Allah menyesali manusia karena banyak mereka yang cenderung lupa diri sehingga melakukan tindakan-tindakan yang melampaui batas, yaitu kafir kepada Allah dan sewenang-wenang terhadap manusia. Kecenderungan itu terjadi ketika mereka merasa sudah berkecukupan. Dengan demikian, ia merasa tidak perlu beriman, dan karena itu ia berani melanggar hukum-hukum Allah. Begitu juga karena sudah merasa berkecukupan, ia merasa tidak butuh orang lain dan merasa berkuasa, dan karena itu ia akan bertindak sewenang-wenang terhadap orang lain itu."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 6113,
+          "inSurah": 7,
+          "Jommal_classic": " 1809 3618 6336",
+          "Jommal_Moderen": "9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 597,
+          "manzil": 7,
+          "ruku": 538,
+          "hizbQuarter": 239,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0637\u00A3\u0638\u0698\u0638\u2020 \u0637\u00B1\u0638\u2018\u0638\u0698\u0637\u00A2\u0638\u2021\u0638\u0688 \u0637\u00A7\u0637\u00B3\u0638\u2019\u0637\u06BE\u0638\u0698\u0637\u061B\u0638\u2019\u0638\u2020\u0638\u0698\u0638\u2030\u0638\u00B0",
+          "transliteration": {
+            "en": "Ar-ra aahus taghnaa",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "Because he sees himself self-sufficient.",
+          "id": "apabila melihat dirinya serba cukup."
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6113",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6113.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6113.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "manusia itu benar-benar melampaui batas apabila melihat dirinya serba cukup dengan harta, jabatan, pengikut, dan semisalnya. Apa yang dimiliki membuatnya mudah mengingkari nikmat Allah dan lupa bahwa semua adalah anugerah-Nya.",
+            "long": "Allah menyesali manusia karena banyak mereka yang cenderung lupa diri sehingga melakukan tindakan-tindakan yang melampaui batas, yaitu kafir kepada Allah dan sewenang-wenang terhadap manusia. Kecenderungan itu terjadi ketika mereka merasa sudah berkecukupan. Dengan demikian, ia merasa tidak perlu beriman, dan karena itu ia berani melanggar hukum-hukum Allah. Begitu juga karena sudah merasa berkecukupan, ia merasa tidak butuh orang lain dan merasa berkuasa, dan karena itu ia akan bertindak sewenang-wenang terhadap orang lain itu."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 6114,
+          "inSurah": 8,
+          "Jommal_classic": " 3609 4509 4518 6336",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 597,
+          "manzil": 7,
+          "ruku": 538,
+          "hizbQuarter": 239,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0637\u00A5\u0638\u06AF\u0638\u2020\u0638\u2018\u0638\u0698 \u0637\u00A5\u0638\u06AF\u0638\u201E\u0638\u0698\u0638\u2030\u0638\u00B0 \u0637\u00B1\u0638\u0698\u0637\u00A8\u0638\u2018\u0638\u06AF\u0638\u0192\u0638\u0698 \u0637\u00A7\u0638\u201E\u0637\u00B1\u0638\u2018\u0638\u0688\u0637\u00AC\u0638\u2019\u0637\u00B9\u0638\u0698\u0638\u2030\u0638\u00B0",
+          "transliteration": {
+            "en": "Innna ilaa rabbikar ruj\u0027aa",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "Indeed, to your Lord is the return.",
+          "id": "Sungguh, hanya kepada Tuhanmulah tempat kembali(mu)."
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6114",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6114.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6114.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Wahai manusia, sungguh hanya kepada Tuhanmulah tempat kembali-mu. Pada hari kiamat Allah akan menghitung apa saja yang engkau perbuat di dunia. Dia akan mem\u0622\u00ADbalas orang yang melampaui batas sesuai dengan azab yang setimpal.",
+            "long": "Allah menegaskan kepada Nabi Muhammad bahwa mereka yang durhaka itu akan kembali kepada-Nya. Mereka pasti mati dan akan berhadapan dengan-Nya untuk mempertanggungjawabkan perbuatannya. Bila mereka harus mempertanggungjawabkan perbuatannya, berarti mereka nanti akan tahu, bahwa mereka akan diazab dan menyesal. Dalam ayat lain, Allah berfirman mengenai bagaimana keadaan yang akan dialami para pendurhaka itu:\n\nDan janganlah engkau mengira, bahwa Allah lengah dari apa yang diperbuat oleh orang yang zalim. Sesungguhnya Allah menangguhkan mereka sampai hari yang pada waktu itu mata (mereka) terbelalak, mereka datang tergesa-gesa (memenuhi panggilan) dengan mengangkat kepalanya, sedang mata mereka tidak berkedip-kedip dan hati mereka kosong. (Ibrahim/14: 42-43)"
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 6115,
+          "inSurah": 9,
+          "Jommal_classic": " 5436 4518 7200",
+          "Jommal_Moderen": "9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 597,
+          "manzil": 7,
+          "ruku": 538,
+          "hizbQuarter": 239,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0637\u00A3\u0638\u0698\u0637\u00B1\u0638\u0698\u0637\u00A3\u0638\u0698\u0638\u0679\u0638\u2019\u0637\u06BE\u0638\u0698 \u0637\u00A7\u0638\u201E\u0638\u2018\u0638\u0698\u0637\u00B0\u0638\u06AF\u0638\u0679 \u0638\u0679\u0638\u0698\u0638\u2020\u0638\u2019\u0638\u2021\u0638\u0698\u0638\u2030\u0638\u00B0",
+          "transliteration": {
+            "en": "Ara-aital lazee yanhaa",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "Have you seen the one who forbids",
+          "id": "Bagaimana pendapatmu tentang orang yang melarang?"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6115",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6115.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6115.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Wahai Rasul atau siapa saja, bagaimana pendapatmu tentang orang yang melarang",
+            "long": "Allah bertanya kepada Nabi Muhammad, yang maksudnya meminta beliau memperhatikan orang yang melarang manusia melakukan salat. Orang yang dilarang adalah Nabi Muhammad saw untuk melakukan salat di Masjidil Haram. Sedangkan yang melarang adalah Abu Jahal. Ia mengancam Nabi saw dengan kata-kata:\n\nAbu Jahal berkata, \u0022Jika saya melihat Muhammad salat di Ka\u0027bah, saya akan lindas-lindaskan tengkuknya (ke tanah).\u0022 Ketika hal itu sampai kepada Nabi saw., beliau bersabda, \u0022Jika itu ia lakukan, malaikat akan menghajarnya.\u0022 (Riwayat al-Bukhari dari Ibnu \u0027Abbas)"
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 6116,
+          "inSurah": 10,
+          "Jommal_classic": " 2736 1827 5409",
+          "Jommal_Moderen": "9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 597,
+          "manzil": 7,
+          "ruku": 538,
+          "hizbQuarter": 239,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0637\u00B9\u0638\u0698\u0637\u00A8\u0638\u2019\u0637\u00AF\u0638\u2039\u0637\u00A7 \u0637\u00A5\u0638\u06AF\u0637\u00B0\u0638\u0698\u0637\u00A7 \u0637\u00B5\u0638\u0698\u0638\u201E\u0638\u2018\u0638\u0698\u0638\u2030\u0638\u00B0",
+          "transliteration": {
+            "en": "\u0027Abdan iza sallaa",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "A servant when he prays?",
+          "id": "seorang hamba ketika dia melaksanakan salat,"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6116",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6116.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6116.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "seorang hamba ketika dia melaksanakan salat? Adakah yang lebih mengherankan daripada kelakukan orang (Ab\u0623\u00B9 Jahl) yang menghalang-halangi hamba-Ku (Nabi Muhammad) mendekatkan diri kepada Tuhan yang telah memberinya kehidupan dan kecukupan?",
+            "long": "Allah bertanya kepada Nabi Muhammad, yang maksudnya meminta beliau memperhatikan orang yang melarang manusia melakukan salat. Orang yang dilarang adalah Nabi Muhammad saw untuk melakukan salat di Masjidil Haram. Sedangkan yang melarang adalah Abu Jahal. Ia mengancam Nabi saw dengan kata-kata:\n\nAbu Jahal berkata, \u0022Jika saya melihat Muhammad salat di Ka\u0027bah, saya akan lindas-lindaskan tengkuknya (ke tanah).\u0022 Ketika hal itu sampai kepada Nabi saw., beliau bersabda, \u0022Jika itu ia lakukan, malaikat akan menghajarnya.\u0022 (Riwayat al-Bukhari dari Ibnu \u0027Abbas)"
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 6117,
+          "inSurah": 11,
+          "Jommal_classic": " 5436 1809 3609 3609 6318",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 597,
+          "manzil": 7,
+          "ruku": 538,
+          "hizbQuarter": 239,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0637\u00A3\u0638\u0698\u0637\u00B1\u0638\u0698\u0637\u00A3\u0638\u0698\u0638\u0679\u0638\u2019\u0637\u06BE\u0638\u0698 \u0637\u00A5\u0638\u06AF\u0638\u2020 \u0638\u0192\u0638\u0698\u0637\u00A7\u0638\u2020\u0638\u0698 \u0637\u00B9\u0638\u0698\u0638\u201E\u0638\u0698\u0638\u2030 \u0637\u00A7\u0638\u201E\u0638\u2019\u0638\u2021\u0638\u0688\u0637\u00AF\u0638\u0698\u0638\u2030\u0638\u00B0",
+          "transliteration": {
+            "en": "Ara-aita in kana \u0027alal hudaa",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "Have you seen if he is upon guidance",
+          "id": "bagaimana pendapatmu jika dia (yang dilarang salat itu) berada di atas kebenaran (petunjuk),"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6117",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6117.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6117.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Bagaimana pendapatmu jika dia yang dilarang salat itu berada di atas kebenaran dan petunjuk dari Tuhannya dalam salatnya,",
+            "long": "Selanjutnya Allah meminta Nabi Muhammad memperhatikan, seandainya orang yang dilarang salat di masjid itu membawa hidayah dan membimbing orang kepada iman, dan mengajak orang kepada ketakwaan, yaitu mengerjakan kebaikan dan kebenaran. Tindakan itu pasti lebih baik, karena pasti menguntungkan dirinya dan masyarakatnya. Orang yang berperilaku seperti itu adalah Nabi Muhammad sendiri. Itu adalah dua perilaku yang bertolak belakang dan bertentangan seperti siang dan malam: yang pertama jahat dan membawa kepada kejahatan, dan yang kedua baik dan membawa kepada kebaikan."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 6118,
+          "inSurah": 12,
+          "Jommal_classic": " 2709 3618 9027",
+          "Jommal_Moderen": "9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 597,
+          "manzil": 7,
+          "ruku": 538,
+          "hizbQuarter": 239,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0637\u00A3\u0638\u0698\u0638\u02C6\u0638\u2019 \u0637\u00A3\u0638\u0698\u0638\u2026\u0638\u0698\u0637\u00B1\u0638\u0698 \u0637\u00A8\u0638\u06AF\u0637\u00A7\u0638\u201E\u0637\u06BE\u0638\u2018\u0638\u0698\u0638\u201A\u0638\u2019\u0638\u02C6\u0638\u0698\u0638\u2030\u0638\u00B0",
+          "transliteration": {
+            "en": "Au amara bit taqwaa",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "Or enjoins righteousness?",
+          "id": "atau dia menyuruh bertakwa (kepada Allah)?"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6118",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6118.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6118.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "atau dia menyuruh orang lain bertakwa kepada Allah untuk kemaslahatan mereka? Bukankah amat mengherankan bila orang yang sesat melarang orang yang mendapat pentunjuk untuk melaksanakan perintah Tuhannya dan membimbing orang lain ke jalan takwa?",
+            "long": "Selanjutnya Allah meminta Nabi Muhammad memperhatikan, seandainya orang yang dilarang salat di masjid itu membawa hidayah dan membimbing orang kepada iman, dan mengajak orang kepada ketakwaan, yaitu mengerjakan kebaikan dan kebenaran. Tindakan itu pasti lebih baik, karena pasti menguntungkan dirinya dan masyarakatnya. Orang yang berperilaku seperti itu adalah Nabi Muhammad sendiri. Itu adalah dua perilaku yang bertolak belakang dan bertentangan seperti siang dan malam: yang pertama jahat dan membawa kepada kejahatan, dan yang kedua baik dan membawa kepada kebaikan."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 6119,
+          "inSurah": 13,
+          "Jommal_classic": " 5436 1809 4518 9009",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 597,
+          "manzil": 7,
+          "ruku": 538,
+          "hizbQuarter": 239,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0637\u00A3\u0638\u0698\u0637\u00B1\u0638\u0698\u0637\u00A3\u0638\u0698\u0638\u0679\u0638\u2019\u0637\u06BE\u0638\u0698 \u0637\u00A5\u0638\u06AF\u0638\u2020 \u0638\u0192\u0638\u0698\u0637\u00B0\u0638\u2018\u0638\u0698\u0637\u00A8\u0638\u0698 \u0638\u02C6\u0638\u0698\u0637\u06BE\u0638\u0698\u0638\u02C6\u0638\u0698\u0638\u201E\u0638\u2018\u0638\u0698\u0638\u2030\u0638\u00B0",
+          "transliteration": {
+            "en": "Ara-aita in kaz zaba wa ta walla",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "Have you seen if he denies and turns away -",
+          "id": "Bagaimana pendapatmu jika dia (yang melarang) itu mendustakan dan berpaling?"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6119",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6119.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6119.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Bagaimana pendapatmu jika dia yang melarang itu mendustakan Nabi serta wahyu Allah dan berpaling dari keimanan dan berbuat kebajikan?",
+            "long": "Selanjutnya Allah meminta Nabi Muhammad memperhatikan orang yang melarang orang beribadah itu, yaitu Abu Jahal sebagai contoh, apakah jika ia memandang Allah dan ajaran-ajaran-Nya dusta, lalu berpaling, dan tidak mau menggubrisnya. Ia tidak tahu bahwa Allah melihat perbuatannya itu. Tidak demikian halnya, Allah mengetahui setiap perbuatan dosanya itu dan akan memberikan balasannya."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 6120,
+          "inSurah": 14,
+          "Jommal_classic": " 4509 5409 4518 5409 4509",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 597,
+          "manzil": 7,
+          "ruku": 538,
+          "hizbQuarter": 239,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0637\u00A3\u0638\u0698\u0638\u201E\u0638\u0698\u0638\u2026\u0638\u2019 \u0638\u0679\u0638\u0698\u0637\u00B9\u0638\u2019\u0638\u201E\u0638\u0698\u0638\u2026 \u0637\u00A8\u0638\u06AF\u0637\u00A3\u0638\u0698\u0638\u2020\u0638\u2018\u0638\u0698 \u0637\u00A7\u0638\u201E\u0638\u201E\u0638\u2018\u0638\u0698\u0638\u2021\u0638\u0698 \u0638\u0679\u0638\u0698\u0637\u00B1\u0638\u0698\u0638\u2030\u0638\u00B0",
+          "transliteration": {
+            "en": "Alam y\u0027alam bi-an nal lahaa yaraa",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "Does he not know that Allah sees?",
+          "id": "Tidakkah dia mengetahui bahwa sesungguhnya Allah melihat (segala perbuatannya)?"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6120",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6120.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6120.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Tidakkah dia yang berbuat demikian jahat itu mengetahui bahwa sesungguhnya Allah melihat dan akan membalas perbuatan jahatnya? Allah Maha Melihat dan pasti akan memberi balasan dengan seadil-adilnya.",
+            "long": "Selanjutnya Allah meminta Nabi Muhammad memperhatikan orang yang melarang orang beribadah itu, yaitu Abu Jahal sebagai contoh, apakah jika ia memandang Allah dan ajaran-ajaran-Nya dusta, lalu berpaling, dan tidak mau menggubrisnya. Ia tidak tahu bahwa Allah melihat perbuatannya itu. Tidak demikian halnya, Allah mengetahui setiap perbuatan dosanya itu dan akan memberikan balasannya."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 6121,
+          "inSurah": 15,
+          "Jommal_classic": " 4509 3609 4500 5409 7227 8145",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 597,
+          "manzil": 7,
+          "ruku": 538,
+          "hizbQuarter": 239,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u0192\u0638\u0698\u0638\u201E\u0638\u2018\u0638\u0698\u0637\u00A7 \u0638\u201E\u0638\u0698\u0637\u00A6\u0638\u06AF\u0638\u2020 \u0638\u201E\u0638\u2018\u0638\u0698\u0638\u2026\u0638\u2019 \u0638\u0679\u0638\u0698\u0638\u2020\u0637\u06BE\u0638\u0698\u0638\u2021\u0638\u06AF \u0638\u201E\u0638\u0698\u0638\u2020\u0638\u0698\u0637\u00B3\u0638\u2019\u0638\u067E\u0638\u0698\u0637\u00B9\u0638\u2039\u0637\u00A7 \u0637\u00A8\u0638\u06AF\u0637\u00A7\u0638\u201E\u0638\u2020\u0638\u2018\u0638\u0698\u0637\u00A7\u0637\u00B5\u0638\u06AF\u0638\u0679\u0638\u0698\u0637\u00A9\u0638\u06AF",
+          "transliteration": {
+            "en": "Kalla la illam yantahi la nasfa\u0027am bin nasiyah",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "No! If he does not desist, We will surely drag him by the forelock -",
+          "id": "Sekali-kali tidak! Sungguh, jika dia tidak berhenti (berbuat demikian) niscaya Kami tarik ubun-ubunnya, (ke dalam neraka),"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6121",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6121.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6121.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Dia tidak dibenarkan untuk melarang orang lain melaksanakan salat dan mendekatkan diri kepada Allah. Sekali kali tidak! Sungguh, jika dia tidak berhenti berbuat demikian niscaya Kami tarik ubun-ubunnya dengan sangat kasar ke arah neraka;",
+            "long": "Allah mencela orang yang melarang orang beribadah di dalam masjid, dengan contohnya Abu Lahab. Allah mengancam bahwa bila mereka tidak menghentikan perbuatannya, Allah akan mencabut ubun-ubunnya, yaitu menarik nyawanya sehingga mati seketika. Hukuman itu dijatuhkan padanya karena ubun-ubun itu adalah denyut kehidupannya, sedangkan denyut kehidupannya itu selalu penuh kebohongan dan dosa."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 6122,
+          "inSurah": 16,
+          "Jommal_classic": " 5427 4536 3645",
+          "Jommal_Moderen": "9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 597,
+          "manzil": 7,
+          "ruku": 538,
+          "hizbQuarter": 239,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u2020\u0638\u0698\u0637\u00A7\u0637\u00B5\u0638\u06AF\u0638\u0679\u0638\u0698\u0637\u00A9\u0638\u0686 \u0638\u0192\u0638\u0698\u0637\u00A7\u0637\u00B0\u0638\u06AF\u0637\u00A8\u0638\u0698\u0637\u00A9\u0638\u0686 \u0637\u00AE\u0638\u0698\u0637\u00A7\u0637\u00B7\u0638\u06AF\u0637\u00A6\u0638\u0698\u0637\u00A9\u0638\u0686",
+          "transliteration": {
+            "en": "Nasiyatin kazi batin khaatiyah",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "A lying, sinning forelock.",
+          "id": "yaitu) ubun-ubun orang yang mendustakan dan durhaka."
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6122",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6122.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6122.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "yaitu ubun-ubun orang yang mendustakan nabi dan durhaka kepada Allah.",
+            "long": "Allah mencela orang yang melarang orang beribadah di dalam masjid, dengan contohnya Abu Lahab. Allah mengancam bahwa bila mereka tidak menghentikan perbuatannya, Allah akan mencabut ubun-ubunnya, yaitu menarik nyawanya sehingga mati seketika. Hukuman itu dijatuhkan padanya karena ubun-ubun itu adalah denyut kehidupannya, sedangkan denyut kehidupannya itu selalu penuh kebohongan dan dosa."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 6123,
+          "inSurah": 17,
+          "Jommal_classic": " 7218 6318",
+          "Jommal_Moderen": "9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 597,
+          "manzil": 7,
+          "ruku": 538,
+          "hizbQuarter": 239,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u067E\u0638\u0698\u0638\u201E\u0638\u2019\u0638\u0679\u0638\u0698\u0637\u00AF\u0638\u2019\u0637\u00B9\u0638\u0688 \u0638\u2020\u0638\u0698\u0637\u00A7\u0637\u00AF\u0638\u06AF\u0638\u0679\u0638\u0698\u0638\u2021\u0638\u0688",
+          "transliteration": {
+            "en": "Fal yad\u0027u naadiyah",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "Then let him call his associates;",
+          "id": "Maka biarlah dia memanggil golongannya (untuk menolongnya),"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6123",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6123.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6123.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Apabila azab Kami datang kepadanya maka biarlah dia memanggil golongannya yang dia banggakan untuk menyelamatkannya dari azab itu.",
+            "long": "Allah mempersilakan mereka yang sewenang-wenang dan melarang orang melakukan ibadah itu untuk meminta bantuan kelompok mereka. Ayat ini khususnya ditujukan kepada Abu Jahal, yang dikenal sebagai pemimpin terbesar orang-orang yang menentang Nabi saw di Mekah. Allah mengancam bahwa bila Abu Jahal memanggil teman-teman komplotannya untuk meminta tolong, maka Allah akan memanggil malaikat-malaikat Zabaniyah, yaitu para penjaga neraka yang sangat bengis. Artinya, ia di dunia akan celaka dan di akhirat akan masuk neraka. Ancaman itu kemudian terbukti, yaitu pada tahun kedua setelah umat Islam hijrah ke Medinah, terjadi Perang Badar, di mana Abu Jahal sebagai pemimpin Quraisy mati terbunuh. Dan di akhirat nanti ia pasti masuk neraka."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 6124,
+          "inSurah": 18,
+          "Jommal_classic": " 4527 8145",
+          "Jommal_Moderen": "9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 597,
+          "manzil": 7,
+          "ruku": 538,
+          "hizbQuarter": 239,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0637\u00B3\u0638\u0698\u0638\u2020\u0638\u0698\u0637\u00AF\u0638\u2019\u0637\u00B9\u0638\u0688 \u0637\u00A7\u0638\u201E\u0637\u00B2\u0638\u2018\u0638\u0698\u0637\u00A8\u0638\u0698\u0637\u00A7\u0638\u2020\u0638\u06AF\u0638\u0679\u0638\u0698\u0637\u00A9\u0638\u0698",
+          "transliteration": {
+            "en": "Sanad \u0027uz zabaaniyah",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "We will call the angels of Hell.",
+          "id": "Kelak Kami akan memanggil Malaikat Zabaniyah, (penyiksa orang-orang yang berdosa),"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6124",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6124.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6124.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Kelak Kami akan memanggil Malaikat Zabaniyah yang bengis dan kasar untuk mencampak\u0622\u00ADkannya ke dalam azab Kami dan menyelamatkan Nabi beserta para pengikutnya.",
+            "long": "Allah mempersilakan mereka yang sewenang-wenang dan melarang orang melakukan ibadah itu untuk meminta bantuan kelompok mereka. Ayat ini khususnya ditujukan kepada Abu Jahal, yang dikenal sebagai pemimpin terbesar orang-orang yang menentang Nabi saw di Mekah. Allah mengancam bahwa bila Abu Jahal memanggil teman-teman komplotannya untuk meminta tolong, maka Allah akan memanggil malaikat-malaikat Zabaniyah, yaitu para penjaga neraka yang sangat bengis. Artinya, ia di dunia akan celaka dan di akhirat akan masuk neraka. Ancaman itu kemudian terbukti, yaitu pada tahun kedua setelah umat Islam hijrah ke Medinah, terjadi Perang Badar, di mana Abu Jahal sebagai pemimpin Quraisy mati terbunuh. Dan di akhirat nanti ia pasti masuk neraka."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 6125,
+          "inSurah": 19,
+          "Jommal_classic": " 4509 1809 4527 4536 5436 1000",
+          "Jommal_Moderen": "1\t\t9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 597,
+          "manzil": 7,
+          "ruku": 538,
+          "hizbQuarter": 239,
+          "sajda": {
+            "recommended": false,
+            "obligatory": true
+          }
+        },
+        "text": {
+          "arab": "\u0638\u0192\u0638\u0698\u0638\u201E\u0638\u2018\u0638\u0698\u0637\u00A7 \u0638\u201E\u0638\u0698\u0637\u00A7 \u0637\u06BE\u0638\u0688\u0637\u00B7\u0638\u06AF\u0637\u00B9\u0638\u2019\u0638\u2021\u0638\u0688 \u0638\u02C6\u0638\u0698\u0637\u00A7\u0637\u00B3\u0638\u2019\u0637\u00AC\u0638\u0688\u0637\u00AF\u0638\u2019 \u0638\u02C6\u0638\u0698\u0637\u00A7\u0638\u201A\u0638\u2019\u0637\u06BE\u0638\u0698\u0637\u00B1\u0638\u06AF\u0637\u00A8 \u063A\u00A9",
+          "transliteration": {
+            "en": "Kalla; la tuti\u0027hu wasjud waqtarib",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "No! Do not obey him. But prostrate and draw near [to Allah].",
+          "id": "sekali-kali tidak! Janganlah kamu patuh kepadanya; dan sujudlah serta dekatkanlah (dirimu kepada Allah)."
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6125",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6125.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6125.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Perbuatan jahat orang itu (Ab\u0623\u00B9 Jahl) tidak akan mengenai dirimu, wahai Nabi. Sekali-kali tidak! Janganlah kamu patuh kepadanya. Tetaplah menunaikan salat sesuai perintah Tuhanmu dan sujudlah serta dekatkanlah dirimu kepada-Nya dengan menaati aturannya, niscaya Dia akan selalu melindungimu dari ancamannya.",
+            "long": "Allah meminta Nabi saw atau siapa saja yang ingin beribadah agar tidak takut dan tidak mematuhi ancaman orang yang melarang mereka beribadah. Mereka diminta untuk tetap melaksanakan ibadah dengan tekun, terutama salat, dan menggunakan masjid untuk melaksanakannya. Dalam ayat lain, Allah berfirman:\n\nDan janganlah engkau (Muhammad) menuruti orang-orang kafir dan orang-orang munafik itu, janganlah engkau hiraukan gangguan mereka dan bertawakallah kepada Allah. Dan cukuplah Allah sebagai pelindung. (al-Ahzab/33: 48)\n\nDi samping salat, umat Islam diminta pula mengerjakan ibadah-ibadah sunat lainnya dalam rangka mendekatkan diri kepada-Nya, baik itu berupa salat-salat sunat maupun zikir-zikir, dan sebagainya."
+          }
+        }
+      }
+    ]
+  }
+}

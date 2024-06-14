@@ -1,0 +1,1513 @@
+{
+  "code": 200,
+  "status": "OK.",
+  "message": "Success fetching surah.",
+  "data": {
+    "number": 31,
+    "sequence": 57,
+    "numberOfVerses": 34,
+    "name": {
+      "short": "\u0638\u201E\u0638\u201A\u0638\u2026\u0637\u00A7\u0638\u2020",
+      "long": "\u0637\u00B3\u0638\u02C6\u0637\u00B1\u0637\u00A9 \u0638\u201E\u0638\u201A\u0638\u2026\u0637\u00A7\u0638\u2020",
+      "transliteration": {
+        "en": "Luqman",
+        "id": "Luqman"
+      },
+      "translation": {
+        "en": "Luqman",
+        "id": "Luqman"
+      }
+    },
+    "revelation": {
+      "arab": "\u0638\u2026\u0638\u0192\u0637\u00A9",
+      "en": "Meccan",
+      "id": "Makkiyyah"
+    },
+    "tafsir": {
+      "id": "Surat  Luqman  terdiri   dari   34   ayat,   termasuk   golongan   surat-surat Makkiyyah, diturunkan sesudah surat Ash Shaffaat. Dinamai Luqman karena pada  ayat  12   disebutkan   bahwa   Luqman   telah diberi   oleh   Allah   nikmat   dan   ilmu   pengetahuan,  oleh sebab itu dia bersyukur kepadaNya atas nikmat yang  diberikan  itu.   Dan   pada   ayat   13 sampai 19 terdapat nasihat-nasihat Luqman kepada anaknya.Ini adalah sebagai  isyarat   daripada   Allah   supaya   setiap   ibu   bapak melaksanakan  pula terhadap anak-anak mereka sebagai yang telah dilakukan oleh Luqman."
+    },
+    "preBismillah": {
+      "text": {
+        "arab": "\u0637\u00A8\u0638\u06AF\u0637\u00B3\u0638\u2019\u0638\u2026\u0638\u06AF \u0637\u00A7\u0638\u201E\u0638\u201E\u0638\u2018\u0638\u0698\u0638\u2021\u0638\u06AF \u0637\u00A7\u0638\u201E\u0637\u00B1\u0638\u2018\u0638\u0698\u0637\u00AD\u0638\u2019\u0638\u2026\u0638\u0698\u0638\u00B0\u0638\u2020\u0638\u06AF \u0637\u00A7\u0638\u201E\u0637\u00B1\u0638\u2018\u0638\u0698\u0637\u00AD\u0638\u06AF\u0638\u0679\u0638\u2026\u0638\u06AF",
+        "transliteration": {
+          "en": "Bismillaahir Rahmaanir Raheem"
+        }
+      },
+      "translation": {
+        "en": "In the name of Allah, the Entirely Merciful, the Especially Merciful.",
+        "id": "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang."
+      },
+      "audio": {
+        "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1",
+        "secondary": [
+          "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1.mp3",
+          "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1.mp3"
+        ]
+      }
+    },
+    "verses": [
+      {
+        "number": {
+          "inQuran": 3470,
+          "inSurah": 1,
+          "Jommal_classic": " 1809",
+          "Jommal_Moderen": "9"
+        },
+        "meta": {
+          "juz": 21,
+          "page": 411,
+          "manzil": 5,
+          "ruku": 355,
+          "hizbQuarter": 164,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0637\u00A7\u0638\u201E\u0638\u2026",
+          "transliteration": {
+            "en": "Alif-Laaam-Meeem",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "Alif, Lam, Meem.",
+          "id": "Alif Lam Mim."
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/3470",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3470.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3470.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Alif L\u0623\u00A0m M\u0623\u00ACm.",
+            "long": "Surah Luqman ini dimulai dengan huruf-huruf hijaiyah \u0022Alif Lam Mim\u0022. Selanjutnya lihat tafsir Alif Lam Mim pada jilid I."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 3471,
+          "inSurah": 2,
+          "Jommal_classic": " 4509 2727 5436 7218",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 21,
+          "page": 411,
+          "manzil": 5,
+          "ruku": 355,
+          "hizbQuarter": 164,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0637\u06BE\u0638\u06AF\u0638\u201E\u0638\u2019\u0638\u0192\u0638\u0698 \u0637\u00A2\u0638\u0679\u0638\u0698\u0637\u00A7\u0637\u06BE\u0638\u0688 \u0637\u00A7\u0638\u201E\u0638\u2019\u0638\u0192\u0638\u06AF\u0637\u06BE\u0638\u0698\u0637\u00A7\u0637\u00A8\u0638\u06AF \u0637\u00A7\u0638\u201E\u0638\u2019\u0637\u00AD\u0638\u0698\u0638\u0192\u0638\u06AF\u0638\u0679\u0638\u2026\u0638\u06AF",
+          "transliteration": {
+            "en": "Tilka Aayaatul Kitaabil Hakeem",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "These are verses of the wise Book,",
+          "id": "Inilah ayat-ayat Al-Qur\u0027an yang mengandung hikmah,"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/3471",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3471.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3471.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Inilah ayat-ayat Al-Qur\u00E2\u20AC\u2122an yang meski tersusun dari huruf-huruf yang dikenal oleh masyarakat Arab namun mereka tidak mampu membuat tandingannya. Inilah ayat-ayat yang mengandung hikmah dan pelajaran yang tidak bertentangan antara satu ayat dengan lainnya.",
+            "long": "Ayat ini menerangkan bahwa ayat-ayat Al-Qur\u0027an itu disusun dengan rapi dan teliti, dengan gaya bahasa yang tinggi nilai sastranya, dan dengan tujuan yang agung dan mulia bagi manusia yang mengikuti petunjuk-petunjuknya. Tidak terdapat di dalamnya cacat, cela, dan kekurangan walaupun sedikit. Juga tidak ada satu pun dari ayat-ayatnya yang bertentangan satu sama lain. Perintah-perintahnya mudah dilaksanakan oleh siapa pun, dalam keadaan bagaimanapun dan di mana pun ia berada."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 3472,
+          "inSurah": 3,
+          "Jommal_classic": " 3609 6327 12618",
+          "Jommal_Moderen": "9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 21,
+          "page": 411,
+          "manzil": 5,
+          "ruku": 355,
+          "hizbQuarter": 164,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u2021\u0638\u0688\u0637\u00AF\u0638\u2039\u0638\u2030 \u0638\u02C6\u0638\u0698\u0637\u00B1\u0638\u0698\u0637\u00AD\u0638\u2019\u0638\u2026\u0638\u0698\u0637\u00A9\u0638\u2039 \u0638\u201E\u0638\u2018\u0638\u06AF\u0638\u201E\u0638\u2019\u0638\u2026\u0638\u0688\u0637\u00AD\u0638\u2019\u0637\u00B3\u0638\u06AF\u0638\u2020\u0638\u06AF\u0638\u0679\u0638\u2020\u0638\u0698",
+          "transliteration": {
+            "en": "Hudanw wa rahmatal lilmuhsineen",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "As guidance and mercy for the doers of good",
+          "id": "sebagai petunjuk dan rahmat bagi orang-orang yang berbuat kebaikan,"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/3472",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3472.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3472.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Kami turunkan Al-Qur\u00E2\u20AC\u2122an ini sebagai petunjuk dan rahmat bagi orang-orang yang berbuat kebaikan, yaitu mereka yang senantiasa beramal saleh dengan ikhlas.",
+            "long": "Ayat-ayat ini menegaskan bahwa ayat-ayat Al-Qur\u0027an berisi petunjuk-petunjuk bagi manusia dalam mengarungi semua sisi kehidupan di dunia yang mengantar dan memimpinnya mencapai kebahagiaan hidup di akhirat kelak.\n\nJika manusia membuka lembaran-lembaran sejarah dari zaman dahulu sampai sekarang, ia akan berkesimpulan bahwa dengan diutusnya Nabi Muhammad oleh Allah dengan membawa Al-Qur\u0027an yang berisi pokok-pokok risalah yang dibawanya, maka terbukalah pintu-pintu kebajikan bagi semesta alam. Dengan hal itu, bertambah pulalah perkembangan ilmu pengetahuan dengan segala macam cabangnya.\n\nSekalipun telah ada kebudayaan yang tinggi sebagai hasil pemikiran manusia pada periode sebelum ini, seperti kebudayaan Mesir kuno, Babilonia, Yunani, dan sebagainya, namun semua itu belum mempunyai dasar-dasar yang kuat dan kukuh untuk mencapai perkembangan manusia lebih lanjut dan sempurna di kemudian hari.\n\nDalam bidang hidup dan kehidupan manusia, Al-Qur\u0027an memberi petunjuk agar manusia menjaga keseimbangan antara kehidupan jasmani dan rohani, serta keseimbangan dalam mencapai kehidupan duniawi dan ukhrawi. Demikian pula dalam hidup bermasyarakat dan bernegara, apa yang halal dan baik untuk dimakan boleh dimakan dan apa yang tidak baik jangan dimakan. Juga terdapat tuntunan cara berbicara dan bergaul yang baik dan sebagainya. Al-Qur\u0027an memberi petunjuk dan aturannya, kemudian manusia mengolah dan menyesuaikan dirinya dengan alam sekelilingnya berdasarkan petunjuk dan aturan itu, mana yang paling baik dan tepat untuk dilaksanakan, dan mana yang harus dijauhi dan ditinggalkan. Orang-orang yang memikirkan, merenungkan, mengolah, dan mengamalkan petunjuk-petunjuk Al-Qur\u0027an dengan sebaik-baiknya adalah \u0022orang-orang yang muhsin\u0022."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 3473,
+          "inSurah": 4,
+          "Jommal_classic": " 6318 9000 5436 8118 5436 4500 5454 3600 9000",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 21,
+          "page": 411,
+          "manzil": 5,
+          "ruku": 355,
+          "hizbQuarter": 164,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0637\u00A7\u0638\u201E\u0638\u2018\u0638\u0698\u0637\u00B0\u0638\u06AF\u0638\u0679\u0638\u2020\u0638\u0698 \u0638\u0679\u0638\u0688\u0638\u201A\u0638\u06AF\u0638\u0679\u0638\u2026\u0638\u0688\u0638\u02C6\u0638\u2020\u0638\u0698 \u0637\u00A7\u0638\u201E\u0637\u00B5\u0638\u2018\u0638\u0698\u0638\u201E\u0638\u0698\u0637\u00A7\u0637\u00A9\u0638\u0698 \u0638\u02C6\u0638\u0698\u0638\u0679\u0638\u0688\u0637\u00A4\u0638\u2019\u0637\u06BE\u0638\u0688\u0638\u02C6\u0638\u2020\u0638\u0698 \u0637\u00A7\u0638\u201E\u0637\u00B2\u0638\u2018\u0638\u0698\u0638\u0192\u0638\u0698\u0637\u00A7\u0637\u00A9\u0638\u0698 \u0638\u02C6\u0638\u0698\u0638\u2021\u0638\u0688\u0638\u2026 \u0637\u00A8\u0638\u06AF\u0637\u00A7\u0638\u201E\u0638\u2019\u0637\u00A2\u0637\u00AE\u0638\u06AF\u0637\u00B1\u0638\u0698\u0637\u00A9\u0638\u06AF \u0638\u2021\u0638\u0688\u0638\u2026\u0638\u2019 \u0638\u0679\u0638\u0688\u0638\u02C6\u0638\u201A\u0638\u06AF\u0638\u2020\u0638\u0688\u0638\u02C6\u0638\u2020\u0638\u0698",
+          "transliteration": {
+            "en": "Allazeena yuqeemoonas Salaata wa yu\u0027toonaz Zakaata wa hum bil Aakhirati hum yooqinoon",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "Who establish prayer and give zakah, and they, of the Hereafter, are certain [in faith].",
+          "id": "(yaitu) orang-orang yang melaksanakan salat, menunaikan zakat dan mereka meyakini adanya akhirat."
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/3473",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3473.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3473.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Mereka yang berbuat kebajikan itu ialah orang-orang yang melaksanakan salat secara konsisten dan sempurna sesuai syarat dan rukunnya, menunaikan zakat sebagai bukti komitmen sosialnya, dan mereka tanpa keraguan sedikit pun meyakini adanya akhirat.",
+            "long": "Pada ayat-ayat ini disebutkan bahwa di antara tanda-tanda orang yang muhsin itu adalah:\n\n1. Selalu mengerjakan salat lima waktu yang diwajibkan kepadanya pada setiap waktu yang telah ditentukan. Ia selalu berusaha untuk melaksanakan salat itu dengan sebaik-baiknya lengkap dengan rukun dan syaratnya.\n\n2. Selalu menunaikan zakat jika telah terpenuhi syarat-syarat wajibnya. Ia yakin bahwa menunaikan zakat itu adalah kewajiban karena dalam hartanya itu terdapat hak orang lain yang harus segera diserahkan.\n\n3. Yakin bahwa masih ada hidup sesudah mati, yaitu di akhirat. Pada kehidupan akhirat itu setiap manusia akan memperoleh keadilan yang sempurna dari Allah. Perbuatan baik di balas dengan surga dan perbuatan jahat dibalas dengan siksaan neraka."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 3474,
+          "inSurah": 5,
+          "Jommal_classic": " 7218 4509 3609 3600 7218 1000 9018 3600 10818",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t1\t\t9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 21,
+          "page": 411,
+          "manzil": 5,
+          "ruku": 355,
+          "hizbQuarter": 164,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0637\u00A3\u0638\u0688\u0638\u02C6\u0638\u201E\u0638\u0698\u0638\u00B0\u0637\u00A6\u0638\u06AF\u0638\u0192\u0638\u0698 \u0637\u00B9\u0638\u0698\u0638\u201E\u0638\u0698\u0638\u2030\u0638\u00B0 \u0638\u2021\u0638\u0688\u0637\u00AF\u0638\u2039\u0638\u2030 \u0638\u2026\u0638\u2018\u0638\u06AF\u0638\u2020 \u0637\u00B1\u0638\u2018\u0638\u0698\u0637\u00A8\u0638\u2018\u0638\u06AF\u0638\u2021\u0638\u06AF\u0638\u2026\u0638\u2019 \u063A\u2013 \u0638\u02C6\u0638\u0698\u0637\u00A3\u0638\u0688\u0638\u02C6\u0638\u201E\u0638\u0698\u0638\u00B0\u0637\u00A6\u0638\u06AF\u0638\u0192\u0638\u0698 \u0638\u2021\u0638\u0688\u0638\u2026\u0638\u0688 \u0637\u00A7\u0638\u201E\u0638\u2019\u0638\u2026\u0638\u0688\u0638\u067E\u0638\u2019\u0638\u201E\u0638\u06AF\u0637\u00AD\u0638\u0688\u0638\u02C6\u0638\u2020\u0638\u0698",
+          "transliteration": {
+            "en": "Ulaaa\u0027ika \u0027alaa hudam mir Rabbihim wa ulaaa\u0027ika humul muflihoon",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "Those are on [right] guidance from their Lord, and it is those who are the successful.",
+          "id": "Merekalah orang-orang yang tetap mendapat petunjuk dari Tuhannya dan mereka itulah orang-orang yang beruntung."
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/3474",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3474.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3474.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Merekalah orang-orang yang tetap mendapat petunjuk dari Tuhannya dan mereka itulah orang-orang yang memperoleh ke-beruntung-an hakiki, yakni selamat dari neraka dan masuk surga.",
+            "long": "Orang-orang yang mempunyai tanda-tanda dan sifat-sifat yang disebutkan pada ayat-ayat yang lalu adalah orang-orang yang mengikuti petunjuk Tuhannya. Ia mendapatkan keberuntungan karena memperoleh hasil yang baik dan menyenangkan hatinya, setelah bekerja dan berusaha mengikuti petunjuk-petunjuk Al-Qur\u0027an. Seorang yang beramal saleh akan mendapatkan keberuntungan hidup di dunia dan di akhirat nanti, dan hal itu diperoleh dengan melakukan perbuatan yang baik."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 3475,
+          "inSurah": 6,
+          "Jommal_classic": " 5400 4527 2700 5427 5400 5436 7209 1809 4518 5409 4527 4509 9036 4518 1000 7218 5400 2736 7200",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t1\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 21,
+          "page": 411,
+          "manzil": 5,
+          "ruku": 355,
+          "hizbQuarter": 164,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u02C6\u0638\u0698\u0638\u2026\u0638\u06AF\u0638\u2020\u0638\u0698 \u0637\u00A7\u0638\u201E\u0638\u2020\u0638\u2018\u0638\u0698\u0637\u00A7\u0637\u00B3\u0638\u06AF \u0638\u2026\u0638\u0698\u0638\u2020 \u0638\u0679\u0638\u0698\u0637\u00B4\u0638\u2019\u0637\u06BE\u0638\u0698\u0637\u00B1\u0638\u06AF\u0638\u0679 \u0638\u201E\u0638\u0698\u0638\u2021\u0638\u2019\u0638\u02C6\u0638\u0698 \u0637\u00A7\u0638\u201E\u0638\u2019\u0637\u00AD\u0638\u0698\u0637\u00AF\u0638\u06AF\u0638\u0679\u0637\u00AB\u0638\u06AF \u0638\u201E\u0638\u06AF\u0638\u0679\u0638\u0688\u0637\u00B6\u0638\u06AF\u0638\u201E\u0638\u2018\u0638\u0698 \u0637\u00B9\u0638\u0698\u0638\u2020 \u0637\u00B3\u0638\u0698\u0637\u00A8\u0638\u06AF\u0638\u0679\u0638\u201E\u0638\u06AF \u0637\u00A7\u0638\u201E\u0638\u201E\u0638\u2018\u0638\u0698\u0638\u2021\u0638\u06AF \u0637\u00A8\u0638\u06AF\u0637\u061B\u0638\u0698\u0638\u0679\u0638\u2019\u0637\u00B1\u0638\u06AF \u0637\u00B9\u0638\u06AF\u0638\u201E\u0638\u2019\u0638\u2026\u0638\u0686 \u0638\u02C6\u0638\u0698\u0638\u0679\u0638\u0698\u0637\u06BE\u0638\u2018\u0638\u0698\u0637\u00AE\u0638\u06AF\u0637\u00B0\u0638\u0698\u0638\u2021\u0638\u0698\u0637\u00A7 \u0638\u2021\u0638\u0688\u0637\u00B2\u0638\u0688\u0638\u02C6\u0638\u2039\u0637\u00A7 \u063A\u0691 \u0637\u00A3\u0638\u0688\u0638\u02C6\u0638\u201E\u0638\u0698\u0638\u00B0\u0637\u00A6\u0638\u06AF\u0638\u0192\u0638\u0698 \u0638\u201E\u0638\u0698\u0638\u2021\u0638\u0688\u0638\u2026\u0638\u2019 \u0637\u00B9\u0638\u0698\u0637\u00B0\u0638\u0698\u0637\u00A7\u0637\u00A8\u0638\u0152 \u0638\u2026\u0638\u2018\u0638\u0688\u0638\u2021\u0638\u06AF\u0638\u0679\u0638\u2020\u0638\u0152",
+          "transliteration": {
+            "en": "Wa minan naasi mai-yashtaree lahuwal hadeesi li yudilla \u0027an sabeelil laahi bighairi \u0027ilminw wa yattakhizahaa huzuwaa; ulaaa\u0027ika lahum \u0027azaabum muheen",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "And of the people is he who buys the amusement of speech to mislead [others] from the way of Allah without knowledge and who takes it in ridicule. Those will have a humiliating punishment.",
+          "id": "Dan di antara manusia (ada) orang yang mempergunakan percakapan kosong untuk menyesatkan (manusia) dari jalan Allah tanpa ilmu dan menjadikannya olok-olokan. Mereka itu akan memperoleh azab yang menghinakan."
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/3475",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3475.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3475.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Beralih dari penjelasan mengenai fungsi Al-Qur\u00E2\u20AC\u2122an dan kriteria orang mukmin, pada ayat ini Allah menggambarkan sikap orang yang lebih senang mendengarkan selain Al-Qur\u00E2\u20AC\u2122an. Dan di antara manusia ada orang yang mempergunakan percakapan atau cerita-cerita kosong untuk menyesatkan dan memalingkan manusia dari jalan Allah tanpa ilmu, yakni pemahaman yang benar. Mereka juga menghina ayat-ayat Al-Qur\u00E2\u20AC\u2122an dan menjadikannya bahan olok-olokan karena ketidaktahuan mereka tentang manfaat Al-Qur\u00E2\u20AC\u2122an atau keengganan mereka mengambil manfaat darinya. Di akhirat nanti mereka itu akan memperoleh azab yang menghinakan.",
+            "long": "Ayat ini menerangkan bahwa di antara manusia ada yang tidak menghiraukan perkataan yang bermanfaat, yang dapat menambah keyakinan manusia kepada agama dan memperbaiki budi pekertinya. Mereka lebih suka mengatakan perkataan-perkataan yang tidak ada manfaatnya, menyampaikan khurafat-khurafat, dongengan-dongengan orang masa lalu, lelucon-lelucon yang tidak ada artinya. Di antara contohnya adalah seperti yang dilakukan Nadhar bin haris, dengan cara membeli buku-buku berbahasa Persia yang berisi cerita-cerita, kemudian dia mencemoohkannya kepada orang-orang Quraisy. Kalau perlu, mereka menggaji penyanyi-penyanyi untuk diperdengarkan suaranya kepada orang banyak. Isi nyanyian dan suaranya itu dibuat sedemikian rupa sehingga dapat merangsang orang yang mendengarkannya untuk melakukan perbuatan-perbuatan yang dilarang, dan makin menjauhkannya dari agama.\n\nDiriwayatkan dari Nafi\u0027, ia berkata, \u0022Aku berjalan bersama \u0027Abdullah bin \u0027Umar dalam suatu perjalanan, maka terdengar bunyi seruling. \u0027Abdullah lalu meletakkan jarinya ke lubang telinga, agar tidak mendengar bunyi seruling itu dan ia berbelok melalui jalan yang lain. Kemudian ia berkata, Nafi apakah engkau masih mendengar suara itu? Aku menjawab, \u0027Tidak. Maka ia mengeluarkan anak jarinya dari telinganya dan berkata, \u0027Beginilah aku melihat yang diperbuat Rasulullah saw jika mendengar bunyi semacam itu.\u0022\n\nPada riwayat yang lain dari \u0027Abdurrahman bin \u0027Auf bahwa Rasulullah saw bersabda:\n\nAku dilarang (mendengarkan) dua macam suara (bunyi) yang tidak ada artinya dan menimbulkan perbuatan jahat, yaitu suara lagu yang melalaikan dan seruling-seruling setan dan (kedua) suara ketika ditimpa musibah, yaitu yang menampar muka, mengoyak-ngoyak baju, dan nyanyian setan. (Riwayat at-Tirmidzi)\n\nMenurut Ibnu Mas\u0027ud, yang dimaksud dengan perkataan lahw al-hadis dalam ayat ini ialah nyanyian karena ia dapat menimbulkan kemunafikan di dalam hati. Sebagian ulama mengatakan bahwa semua suara, perkataan, nyanyian, bunyi-bunyian yang dapat merusak ketaatan kepada Allah dan mendorong orang-orang yang mendengarnya melakukan perbuatan yang terlarang, disebut lahw al-hadis.\n\nDari ayat dan hadis-hadis di atas dapat diambil kesimpulan bahwa yang dilarang itu ialah mendengarkan nyanyian yang dapat membangkitkan nafsu birahi dan menjurus ke perbuatan zina, seperti nyanyian yang berisi kata-kata kotor. Termasuk juga nyanyian atau musik yang menyebabkan pendengarnya mengerjakan perbuatan-perbuatan terlarang, seperti minum khamar dan sebagainya.\n\nMendengar nyanyian atau musik yang tujuannya untuk melapangkan pikiran pada waktu istirahat atau hari raya tidak dilarang. Bahkan disuruh mendengarkannya jika nyanyian atau musik itu mempunyai arti yang baik, menambah iman, memperbaiki budi pekerti, dan menambah semangat bekerja dan berjuang.\n\nQusyairi berkata, \u0022Ditabuh rebana di hadapan Nabi saw ketika beliau memasuki kota Medinah, lalu Abu Bakar ingin menghentikannya, maka Rasulullah saw berkata, \u0027Biarkanlah mereka menabuh rebana, hai Abu Bakar, hingga orang-orang Yahudi mengetahui bahwa agama kita tidak sempit. Mereka menabuh rebana disertai dengan nyanyian-nyanyian dan syair-syair, di antara bait-baitnya berbunyi: \u0022Nahnu banatun Najjar, habbadha Muhammadun min jar\u0022 (kami adalah perempuan-perempuan Bani Najjar, alangkah baiknya nasib kami jika Muhammad menjadi tetangga kami).\u0022\n\nPada ayat ini, Allah menerangkan akibat mendengar dan memperdengarkan nyanyian, musik, dan perkataan yang terlarang. Mereka akan memperoleh azab yang sangat menghinakan di hari Kiamat akibat perbuatan mereka yang tidak mengindahkan yang hak dan memilih kebatilan, serta menukar petunjuk dengan dosa."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 3476,
+          "inSurah": 7,
+          "Jommal_classic": " 3627 5418 6309 4536 6300 7245 3609 4500 7227 5409 2700 7218 4518 1000 7227 3645 5409",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t1\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 21,
+          "page": 411,
+          "manzil": 5,
+          "ruku": 355,
+          "hizbQuarter": 164,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u02C6\u0638\u0698\u0637\u00A5\u0638\u06AF\u0637\u00B0\u0638\u0698\u0637\u00A7 \u0637\u06BE\u0638\u0688\u0637\u06BE\u0638\u2019\u0638\u201E\u0638\u0698\u0638\u2030\u0638\u00B0 \u0637\u00B9\u0638\u0698\u0638\u201E\u0638\u0698\u0638\u0679\u0638\u2019\u0638\u2021\u0638\u06AF \u0637\u00A2\u0638\u0679\u0638\u0698\u0637\u00A7\u0637\u06BE\u0638\u0688\u0638\u2020\u0638\u0698\u0637\u00A7 \u0638\u02C6\u0638\u0698\u0638\u201E\u0638\u2018\u0638\u0698\u0638\u2030\u0638\u00B0 \u0638\u2026\u0638\u0688\u0637\u00B3\u0638\u2019\u0637\u06BE\u0638\u0698\u0638\u0192\u0638\u2019\u0637\u00A8\u0638\u06AF\u0637\u00B1\u0638\u2039\u0637\u00A7 \u0638\u0192\u0638\u0698\u0637\u00A3\u0638\u0698\u0638\u2020 \u0638\u201E\u0638\u2018\u0638\u0698\u0638\u2026\u0638\u2019 \u0638\u0679\u0638\u0698\u0637\u00B3\u0638\u2019\u0638\u2026\u0638\u0698\u0637\u00B9\u0638\u2019\u0638\u2021\u0638\u0698\u0637\u00A7 \u0638\u0192\u0638\u0698\u0637\u00A3\u0638\u0698\u0638\u2020\u0638\u2018\u0638\u0698 \u0638\u067E\u0638\u06AF\u0638\u0679 \u0637\u00A3\u0638\u0688\u0637\u00B0\u0638\u0688\u0638\u2020\u0638\u0698\u0638\u0679\u0638\u2019\u0638\u2021\u0638\u06AF \u0638\u02C6\u0638\u0698\u0638\u201A\u0638\u2019\u0637\u00B1\u0638\u2039\u0637\u00A7 \u063A\u2013 \u0638\u067E\u0638\u0698\u0637\u00A8\u0638\u0698\u0637\u00B4\u0638\u2018\u0638\u06AF\u0637\u00B1\u0638\u2019\u0638\u2021\u0638\u0688 \u0637\u00A8\u0638\u06AF\u0637\u00B9\u0638\u0698\u0637\u00B0\u0638\u0698\u0637\u00A7\u0637\u00A8\u0638\u0686 \u0637\u00A3\u0638\u0698\u0638\u201E\u0638\u06AF\u0638\u0679\u0638\u2026\u0638\u0686",
+          "transliteration": {
+            "en": "Wa izaa tutlaa \u0027alayhi Aayaatunaa wallaa mustakbiran ka al lam yasma\u0027haa ka anna feee uzunwihi waqran fabash shiru bi\u0027azaabin aleem",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "And when our verses are recited to him, he turns away arrogantly as if he had not heard them, as if there was in his ears deafness. So give him tidings of a painful punishment.",
+          "id": "Dan apabila dibacakan kepadanya ayat-ayat Kami, dia berpaling dengan menyombongkan diri seolah-olah dia belum mendengarnya, seakan-akan ada sumbatan di kedua telinganya, maka gembirakanlah dia dengan azab yang pedih."
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/3476",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3476.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3476.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Bukan itu saja kelakuan buruk orang yang menggunakan cerita-cerita kosong untuk menyesatkan manusia. Apabila dibacakan kepadanya ayat-ayat Kami, dia serta-merta berpaling dengan menyombongkan diri dan bersikap seolah-olah dia belum mendengarnya. Dia dengan sikap demikian seperti layaknya orang tuli yang seakan-akan ada sumbatan di kedua telinganya. Maka, sebagai bentuk ejekan, gembirakanlah dia dengan azab yang pedih di akhirat kelak.",
+            "long": "Pada ayat ini, Allah menerangkan sifat-sifat orang-orang yang menukar kitab-kitab Allah dengan dongengan-dongengan yang tidak berguna. Apabila dibacakan kepada mereka ayat-ayat Allah, mereka membelakanginya dengan sikap angkuh dan sombong, seakan-akan mereka tidak mendengarnya karena telinga mereka telah tersumbat dan tuli.\n\nPada ayat yang lain Allah berfirman:\n\nKatakanlah, \u0022Al-Qur\u0027an adalah petunjuk dan penyembuh bagi orang-orang yang beriman. Dan orang-orang yang tidak beriman pada telinga mereka ada sumbatan, dan (Al-Qur\u0027an) itu merupakan kegelapan bagi mereka. (Fushshilat/41: 44) \n\nKarena perbuatan itu, mereka akan mendapat azab yang pedih di akhirat. Itu sebagai balasan dari perbuatan dan tindakan mereka."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 3477,
+          "inSurah": 8,
+          "Jommal_classic": " 3609 6318 4518 7218 6354 5400 4527 7218",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 21,
+          "page": 411,
+          "manzil": 5,
+          "ruku": 355,
+          "hizbQuarter": 164,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0637\u00A5\u0638\u06AF\u0638\u2020\u0638\u2018\u0638\u0698 \u0637\u00A7\u0638\u201E\u0638\u2018\u0638\u0698\u0637\u00B0\u0638\u06AF\u0638\u0679\u0638\u2020\u0638\u0698 \u0637\u00A2\u0638\u2026\u0638\u0698\u0638\u2020\u0638\u0688\u0638\u02C6\u0637\u00A7 \u0638\u02C6\u0638\u0698\u0637\u00B9\u0638\u0698\u0638\u2026\u0638\u06AF\u0638\u201E\u0638\u0688\u0638\u02C6\u0637\u00A7 \u0637\u00A7\u0638\u201E\u0637\u00B5\u0638\u2018\u0638\u0698\u0637\u00A7\u0638\u201E\u0638\u06AF\u0637\u00AD\u0638\u0698\u0637\u00A7\u0637\u06BE\u0638\u06AF \u0638\u201E\u0638\u0698\u0638\u2021\u0638\u0688\u0638\u2026\u0638\u2019 \u0637\u00AC\u0638\u0698\u0638\u2020\u0638\u2018\u0638\u0698\u0637\u00A7\u0637\u06BE\u0638\u0688 \u0637\u00A7\u0638\u201E\u0638\u2020\u0638\u2018\u0638\u0698\u0637\u00B9\u0638\u06AF\u0638\u0679\u0638\u2026\u0638\u06AF",
+          "transliteration": {
+            "en": "Innal lazeena aamanoo wa \u0027amilus saalihaati lahum Janaatun Na\u0027eem",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "Indeed, those who believe and do righteous deeds - for them are the Gardens of Pleasure.",
+          "id": "Sesungguhnya orang-orang yang beriman dan mengerjakan kebajikan, mereka akan mendapat surga-surga yang penuh kenikmatan,"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/3477",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3477.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3477.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Balasan yang akan diterima oleh orang yang menjadikan perca-kapan kosong untuk menyesatkan manusia berbanding terbalik de-ngan ganjaran bagi orang mukmin. Sesungguhnya orang-orang yang beriman kepada Allah dengan mengimani Al-Qur\u00E2\u20AC\u2122an dan mengamalkan isinya dan dengan tulus mengerjakan kebajikan yang memberi manfaat dan maslahat, mereka akan mendapat surga-surga yang penuh kenikmatan.",
+            "long": "Ayat ini menerangkan bahwa bagi orang-orang yang beriman kepada Allah, membenarkan para rasul, dan mengerjakan amal saleh, baik yang terdapat di dalam kitab yang diturunkan-Nya maupun yang disampaikan oleh rasul, menghentikan semua yang dilarang-Nya, tidak mendengarkan nyanyian, dongengan, dan segala macam bunyi-bunyian yang dapat merusak iman, me-ngurangi ketaatan, dan membawa ke jalan yang menjurus kepada perbuatan jahat, disediakan surga yang penuh kenikmatan. Di dalamnya terdapat segala macam kesenangan yang diinginkan, seperti makanan, minuman, pakaian, kamar-kamar, dan sebagai-nya."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 3478,
+          "inSurah": 9,
+          "Jommal_classic": " 6327 4509 1000 3618 5409 3618 1000 5400 5436 7218",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t1\t\t9\t\t9\t\t9\t\t1\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 21,
+          "page": 411,
+          "manzil": 5,
+          "ruku": 355,
+          "hizbQuarter": 164,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0637\u00AE\u0638\u0698\u0637\u00A7\u0638\u201E\u0638\u06AF\u0637\u00AF\u0638\u06AF\u0638\u0679\u0638\u2020\u0638\u0698 \u0638\u067E\u0638\u06AF\u0638\u0679\u0638\u2021\u0638\u0698\u0637\u00A7 \u063A\u2013 \u0638\u02C6\u0638\u0698\u0637\u00B9\u0638\u2019\u0637\u00AF\u0638\u0698 \u0637\u00A7\u0638\u201E\u0638\u201E\u0638\u2018\u0638\u0698\u0638\u2021\u0638\u06AF \u0637\u00AD\u0638\u0698\u0638\u201A\u0638\u2018\u0638\u2039\u0637\u00A7 \u063A\u0691 \u0638\u02C6\u0638\u0698\u0638\u2021\u0638\u0688\u0638\u02C6\u0638\u0698 \u0637\u00A7\u0638\u201E\u0638\u2019\u0637\u00B9\u0638\u0698\u0637\u00B2\u0638\u06AF\u0638\u0679\u0637\u00B2\u0638\u0688 \u0637\u00A7\u0638\u201E\u0638\u2019\u0637\u00AD\u0638\u0698\u0638\u0192\u0638\u06AF\u0638\u0679\u0638\u2026\u0638\u0688",
+          "transliteration": {
+            "en": "Khaalideena feeha wa\u0027dal laahi haqqaa; wa Huwal \u0027Azeezul Hakeem",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "Wherein they abide eternally; [it is] the promise of Allah [which is] truth. And He is the Exalted in Might, the Wise.",
+          "id": "mereka kekal di dalamnya, sebagai janji Allah yang benar. Dan Dia Mahaperkasa, Mahabijaksana."
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/3478",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3478.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3478.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Mereka kekal di dalamnya dengan penuh suka cita. Yang demikian itu sebagai janji Allah yang benar kepada siapa saja yang beriman dan beramal saleh. Dan Dia Mahaperkasa; tidak seorang pun bisa mengalahkan-Nya, Mahabijaksana pada setiap kebijakan-Nya.",
+            "long": "Mereka kekal di dalam surga itu selama-lamanya. Semua itu adalah janji Allah kepada makhluk-Nya, yang pasti terjadi, dan tidak akan dimungkiri sedikit pun. Di sisi lain, sangat keras pula azab yang ditimpakan-Nya kepada orang-orang yang berdosa dan menghalangi manusia menempuh jalan-Nya. Allah Maha Bijaksana dalam mengurus dan menyelesaikan segala urusan makhluk-Nya."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 3479,
+          "inSurah": 10,
+          "Jommal_classic": " 4509 7245 4527 3618 7227 1000 8109 2700 4536 5427 1809 4518 4509 4518 4509 2700 4500 3636 1000 8127 3600 5436 2718 7236 4509 2700 4500 3618 5409",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t1\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t1\t\t9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 21,
+          "page": 411,
+          "manzil": 5,
+          "ruku": 355,
+          "hizbQuarter": 164,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0637\u00AE\u0638\u0698\u0638\u201E\u0638\u0698\u0638\u201A\u0638\u0698 \u0637\u00A7\u0638\u201E\u0637\u00B3\u0638\u2018\u0638\u0698\u0638\u2026\u0638\u0698\u0637\u00A7\u0638\u02C6\u0638\u0698\u0637\u00A7\u0637\u06BE\u0638\u06AF \u0637\u00A8\u0638\u06AF\u0637\u061B\u0638\u0698\u0638\u0679\u0638\u2019\u0637\u00B1\u0638\u06AF \u0637\u00B9\u0638\u0698\u0638\u2026\u0638\u0698\u0637\u00AF\u0638\u0686 \u0637\u06BE\u0638\u0698\u0637\u00B1\u0638\u0698\u0638\u02C6\u0638\u2019\u0638\u2020\u0638\u0698\u0638\u2021\u0638\u0698\u0637\u00A7 \u063A\u2013 \u0638\u02C6\u0638\u0698\u0637\u00A3\u0638\u0698\u0638\u201E\u0638\u2019\u0638\u201A\u0638\u0698\u0638\u2030\u0638\u00B0 \u0638\u067E\u0638\u06AF\u0638\u0679 \u0637\u00A7\u0638\u201E\u0638\u2019\u0637\u00A3\u0638\u0698\u0637\u00B1\u0638\u2019\u0637\u00B6\u0638\u06AF \u0637\u00B1\u0638\u0698\u0638\u02C6\u0638\u0698\u0637\u00A7\u0637\u00B3\u0638\u06AF\u0638\u0679\u0638\u0698 \u0637\u00A3\u0638\u0698\u0638\u2020 \u0637\u06BE\u0638\u0698\u0638\u2026\u0638\u06AF\u0638\u0679\u0637\u00AF\u0638\u0698 \u0637\u00A8\u0638\u06AF\u0638\u0192\u0638\u0688\u0638\u2026\u0638\u2019 \u0638\u02C6\u0638\u0698\u0637\u00A8\u0638\u0698\u0637\u00AB\u0638\u2018\u0638\u0698 \u0638\u067E\u0638\u06AF\u0638\u0679\u0638\u2021\u0638\u0698\u0637\u00A7 \u0638\u2026\u0638\u06AF\u0638\u2020 \u0638\u0192\u0638\u0688\u0638\u201E\u0638\u2018\u0638\u06AF \u0637\u00AF\u0638\u0698\u0637\u00A7\u0637\u00A8\u0638\u2018\u0638\u0698\u0637\u00A9\u0638\u0686 \u063A\u0691 \u0638\u02C6\u0638\u0698\u0637\u00A3\u0638\u0698\u0638\u2020\u0637\u00B2\u0638\u0698\u0638\u201E\u0638\u2019\u0638\u2020\u0638\u0698\u0637\u00A7 \u0638\u2026\u0638\u06AF\u0638\u2020\u0638\u0698 \u0637\u00A7\u0638\u201E\u0637\u00B3\u0638\u2018\u0638\u0698\u0638\u2026\u0638\u0698\u0637\u00A7\u0637\u060C\u0638\u06AF \u0638\u2026\u0638\u0698\u0637\u00A7\u0637\u060C\u0638\u2039 \u0638\u067E\u0638\u0698\u0637\u00A3\u0638\u0698\u0638\u2020\u0637\u00A8\u0638\u0698\u0637\u06BE\u0638\u2019\u0638\u2020\u0638\u0698\u0637\u00A7 \u0638\u067E\u0638\u06AF\u0638\u0679\u0638\u2021\u0638\u0698\u0637\u00A7 \u0638\u2026\u0638\u06AF\u0638\u2020 \u0638\u0192\u0638\u0688\u0638\u201E\u0638\u2018\u0638\u06AF \u0637\u00B2\u0638\u0698\u0638\u02C6\u0638\u2019\u0637\u00AC\u0638\u0686 \u0638\u0192\u0638\u0698\u0637\u00B1\u0638\u06AF\u0638\u0679\u0638\u2026\u0638\u0686",
+          "transliteration": {
+            "en": "Khalaqas samaawaati bi ghairi \u0027amadin tarawnahaa wa alqaa fil ardi rawaasiya an tameeda bikum wa bassa feehaa min kulli daaabbah; wa anzalnaa minas samaaa\u0027i maaa\u0027an fa ambatnaa feeha min kulli zawjin kareem",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "He created the heavens without pillars that you see and has cast into the earth firmly set mountains, lest it should shift with you, and dispersed therein from every creature. And We sent down rain from the sky and made grow therein [plants] of every noble kind.",
+          "id": "Dia menciptakan langit tanpa tiang sebagaimana kamu melihatnya, dan Dia meletakkan gunung-gunung (di permukaan) bumi agar ia (bumi) tidak menggoyangkan kamu; dan memperkembangbiakkan segala macam jenis makhluk bergerak yang bernyawa di bumi. Dan Kami turunkan air hujan dari langit, lalu Kami tumbuhkan padanya segala macam tumbuh-tumbuhan yang baik."
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/3479",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3479.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3479.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Di antara tanda-tanda keesaan dan kekuasan Allah adalah bahwa Dia menciptakan langit tanpa tiang penyangga sebagaimana kamu melihatnya, dan Dia juga meletakkan gunung-gunung di permukaan bumi sebagai pasak agar ia tidak menggoyangkan kamu sehingga kamu dapat tinggal di bumi dengan tenang; dan Dia memperkembangbiakkan segala macam jenis makhluk bergerak yang bernyawa di bumi, baik yang hidup di darat, laut, maupun udara. Dan Kami turunkan air hujan dari langit ke bumi, lalu Kami tumbuhkan padanya segala macam tumbuh-tumbuhan yang baik, sedap dipandang, dan bermanfaat.",
+            "long": "Ayat ini menerangkan beberapa tanda dan bukti kekuasaan Allah yang terdapat di alam ini, yaitu:\n\n1. Menciptakan alam semesta dengan segala macam isinya, berupa planet-planet yang tidak terhitung jumlahnya. Planet-planet yang banyak itu merupakan bola-bola besar yang terapung di angkasa luas. Dalam ayat ini disebutkan \u0022tanpa tiang sebagaimana kamu lihat\u0022. Dari perkataan ini dapat dipahami bahwa langit itu mempunyai tiang, yakni satu kekuatan yang menopangnya dan berfungsi sebagai tiang, sehingga planet-planet itu tidak jatuh berserakan. Hanya orang-orang yang berilmulah yang dapat melihat tiang-tiang yang kukuh itu dengan ilmu batiniah mereka.\n\n2. Allah menciptakan gunung-gunung di permukaan bumi agar bumi itu stabil, tidak berguncang, sehingga manusia, binatang, dan tumbuh-tumbuhan dapat hidup tenang di atasnya. Gunung itu seakan-akan merupakan pasak yang dapat mengokohkan permukaan bumi seperti halnya tiang-tiang kapal yang menjulang, yang dapat menstabilkan kapal itu berlayar dan berlabuh di tengah lautan, sehingga ia tidak oleng. Di samping itu, gunung juga mempunyai manfaat lain bagi manusia, di antaranya untuk mengatur pembagian dan penyaluran air hujan yang dicurahkan dari langit, sehingga air itu tetap ada di permukaan bumi meskipun musim kemarau. Banyak lagi manfaat gunung bagi manusia dan makhluk Allah yang lain.\n\n3. Allah menciptakan binatang yang tidak dapat dihitung jumlah dan jenisnya, bentuk dan warnanya, sejak dari yang besar sampai ke yang kecil sehingga tidak kelihatan oleh mata. Semua binatang yang diciptakan itu ada manfaat dan faedahnya. Kadang-kadang manusia, karena tidak mengetahui faedah dan guna binatang-binatang itu, mereka membunuh dan menumpasnya, sehingga tanpa mereka sadari timbullah kerusakan di alam ini. Akan tetapi, Allah mengetahui dengan pasti jumlah, jenis, warna, kegunaan, dan faedah semua binatang-binatang yang diciptakan-Nya itu.\n\n4. Allah menurunkan hujan dari langit. Hujan itu berasal dari awan yang dihalau-Nya ke suatu tempat tertentu, kemudian berubah menjadi hujan yang membasahi permukaan bumi. Dengan air hujan itu, tumbuhlah segala macam tumbuh-tumbuhan yang beraneka ragam, dengan warna yang indah dan manfaat yang banyak.\n\nMenurut para saintis, langit dengan kenyataannya yang tampak, seluas mata memandang tidak sepotong tiang pun yang menyangganya. Logika manusia mengharuskan ada tiang penyangga agar tidak roboh. Akan tetapi, Allah dengan kekuasaan-Nya mampu berbuat di luar jangkauan logika manusia. Manusia dan semua makhluk yang hidup di bumi berada di bawah sistem gravitasi (gaya tarik) bumi. Dengan demikian, mereka bisa stabil mengerjakan pekerjaan mereka di bumi, tidak melayang-layang di udara.\n\nKetika keluar dari bumi memasuki alam yang tak bergravitasi, manusia pun tahu bahwa di sana semua benda menjadi melayang-layang tak berbobot, termasuk manusia sendiri. Sungguh mudah bagi Allah untuk membuat apa saja sesuai kehendak-Nya, termasuk membuat langit menjadi \u0022ringan\u0022 tak berbobot sehingga tidak diperlukan tiang-tiang untuk menyangganya. Tapi dapat juga dianggap bahwa medan-medan gaya yang ada dalam alam semesta ini sebagai \u0022tiang maya\u0022 yang tidak tampak oleh mata?"
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 3480,
+          "inSurah": 11,
+          "Jommal_classic": " 3618 4509 5409 7218 2727 4509 6318 2700 5409 1000 2709 9027 2700 4518 6309",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t9\t\t1\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 21,
+          "page": 411,
+          "manzil": 5,
+          "ruku": 355,
+          "hizbQuarter": 164,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u2021\u0638\u0698\u0638\u00B0\u0637\u00B0\u0638\u0698\u0637\u00A7 \u0637\u00AE\u0638\u0698\u0638\u201E\u0638\u2019\u0638\u201A\u0638\u0688 \u0637\u00A7\u0638\u201E\u0638\u201E\u0638\u2018\u0638\u0698\u0638\u2021\u0638\u06AF \u0638\u067E\u0638\u0698\u0637\u00A3\u0638\u0698\u0637\u00B1\u0638\u0688\u0638\u02C6\u0638\u2020\u0638\u06AF\u0638\u0679 \u0638\u2026\u0638\u0698\u0637\u00A7\u0637\u00B0\u0638\u0698\u0637\u00A7 \u0637\u00AE\u0638\u0698\u0638\u201E\u0638\u0698\u0638\u201A\u0638\u0698 \u0637\u00A7\u0638\u201E\u0638\u2018\u0638\u0698\u0637\u00B0\u0638\u06AF\u0638\u0679\u0638\u2020\u0638\u0698 \u0638\u2026\u0638\u06AF\u0638\u2020 \u0637\u00AF\u0638\u0688\u0638\u02C6\u0638\u2020\u0638\u06AF\u0638\u2021\u0638\u06AF \u063A\u0691 \u0637\u00A8\u0638\u0698\u0638\u201E\u0638\u06AF \u0637\u00A7\u0638\u201E\u0637\u00B8\u0638\u2018\u0638\u0698\u0637\u00A7\u0638\u201E\u0638\u06AF\u0638\u2026\u0638\u0688\u0638\u02C6\u0638\u2020\u0638\u0698 \u0638\u067E\u0638\u06AF\u0638\u0679 \u0637\u00B6\u0638\u0698\u0638\u201E\u0638\u0698\u0637\u00A7\u0638\u201E\u0638\u0686 \u0638\u2026\u0638\u2018\u0638\u0688\u0637\u00A8\u0638\u06AF\u0638\u0679\u0638\u2020\u0638\u0686",
+          "transliteration": {
+            "en": "Haazaa khalqul laahi fa aroonee maazaa khalaqal lazeena min doonih; baliz zaalimoona fee dalalim Mubeen",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "This is the creation of Allah. So show Me what those other than Him have created. Rather, the wrongdoers are in clear error.",
+          "id": "Inilah ciptaan Allah, maka perlihatkanlah olehmu kepadaku apa yang telah diciptakan oleh (sesembahanmu) selain Allah. Sebenarnya orang-orang yang zalim itu berada di dalam kesesatan yang nyata."
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/3480",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3480.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3480.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Demikianlah Allah menciptakan langit, meletakkan gunung, dan menurunkan hujan. Inilah ciptaan Allah, maka perlihatkanlah olehmu kepadaku, wahai orang-orang kafir, apa yang telah diciptakan oleh sesembahanmu selain Allah; mampukah mereka melakukan apa yang telah diperbuat oleh Allah? Tentu tidak. Penghambaanmu kepada mereka adalah kezaliman. Sebenarnya orang-orang yang zalim itu, yakni mereka yang menyembah selain Allah, berada di dalam kesesatan dan kebodohan yang nyata.",
+            "long": "Pada ayat ini, Allah menegaskan bahwa yang disebutkan pada ayat di atas itu adalah ciptaan Allah, baik yang ada di langit maupun di bumi. Tidak ada sesuatu pun yang bersekutu dengan Allah dalam menciptakan semua makhluk itu, dan tidak sesuatu pun yang berkuasa atasnya selain Allah. Segala keperluan untuk kelangsungan hidup makhluk itu, di mana ia dapat hidup dan di tempat mana ia akan mati, demikian pula tentang kegunaan dan bahaya yang dapat ditimbulkan makhluk itu, semuanya diketahui, diatur, dan dipelihara oleh Allah.\n\nKemudian Allah menantang orang-orang yang mempersekutukan-Nya, \u0022Cobalah tunjukkan kepada-Ku apa yang telah diciptakan berhala-berhala dan patung-patung yang kamu sembah itu. Apakah patung-patung itu berbuat sesuatu sehingga dapat diyakini sebagai Tuhan selain Aku.\u0022\n\nPada akhir ayat ini diterangkan bahwa orang-orang yang menyembah Tuhan selain Allah adalah orang yang bodoh, sesat, dan memperturutkan hawa nafsunya. Mereka adalah orang yang zalim kepada dirinya sendiri, sehingga mereka ditimpa azab karena memperturutkan hawa nafsunya."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 3481,
+          "inSurah": 12,
+          "Jommal_classic": " 6309 4527 7209 7227 2709 3627 6300 1000 4500 5418 7218 5418 8109 1000 4500 4509 5409 5409 5409 4518",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t1\t\t9\t\t9\t\t9\t\t9\t\t9\t\t1\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 21,
+          "page": 412,
+          "manzil": 5,
+          "ruku": 356,
+          "hizbQuarter": 164,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u02C6\u0638\u0698\u0638\u201E\u0638\u0698\u0638\u201A\u0638\u0698\u0637\u00AF\u0638\u2019 \u0637\u00A2\u0637\u06BE\u0638\u0698\u0638\u0679\u0638\u2019\u0638\u2020\u0638\u0698\u0637\u00A7 \u0638\u201E\u0638\u0688\u0638\u201A\u0638\u2019\u0638\u2026\u0638\u0698\u0637\u00A7\u0638\u2020\u0638\u0698 \u0637\u00A7\u0638\u201E\u0638\u2019\u0637\u00AD\u0638\u06AF\u0638\u0192\u0638\u2019\u0638\u2026\u0638\u0698\u0637\u00A9\u0638\u0698 \u0637\u00A3\u0638\u0698\u0638\u2020\u0638\u06AF \u0637\u00A7\u0637\u00B4\u0638\u2019\u0638\u0192\u0638\u0688\u0637\u00B1\u0638\u2019 \u0638\u201E\u0638\u06AF\u0638\u201E\u0638\u2018\u0638\u0698\u0638\u2021\u0638\u06AF \u063A\u0691 \u0638\u02C6\u0638\u0698\u0638\u2026\u0638\u0698\u0638\u2020 \u0638\u0679\u0638\u0698\u0637\u00B4\u0638\u2019\u0638\u0192\u0638\u0688\u0637\u00B1\u0638\u2019 \u0638\u067E\u0638\u0698\u0637\u00A5\u0638\u06AF\u0638\u2020\u0638\u2018\u0638\u0698\u0638\u2026\u0638\u0698\u0637\u00A7 \u0638\u0679\u0638\u0698\u0637\u00B4\u0638\u2019\u0638\u0192\u0638\u0688\u0637\u00B1\u0638\u0688 \u0638\u201E\u0638\u06AF\u0638\u2020\u0638\u0698\u0638\u067E\u0638\u2019\u0637\u00B3\u0638\u06AF\u0638\u2021\u0638\u06AF \u063A\u2013 \u0638\u02C6\u0638\u0698\u0638\u2026\u0638\u0698\u0638\u2020 \u0638\u0192\u0638\u0698\u0638\u067E\u0638\u0698\u0637\u00B1\u0638\u0698 \u0638\u067E\u0638\u0698\u0637\u00A5\u0638\u06AF\u0638\u2020\u0638\u2018\u0638\u0698 \u0637\u00A7\u0638\u201E\u0638\u201E\u0638\u2018\u0638\u0698\u0638\u2021\u0638\u0698 \u0637\u061B\u0638\u0698\u0638\u2020\u0638\u06AF\u0638\u0679\u0638\u2018\u0638\u0152 \u0637\u00AD\u0638\u0698\u0638\u2026\u0638\u06AF\u0638\u0679\u0637\u00AF\u0638\u0152",
+          "transliteration": {
+            "en": "Wa laqad aatainaa Luqmaanal hikmata anishkur lillaah; wa many yashkur fa innamaa yashkuru linafsihee wa man kafara fa innal laaha Ghaniyyun Hameed",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "And We had certainly given Luqman wisdom [and said], \u0022Be grateful to Allah.\u0022 And whoever is grateful is grateful for [the benefit of] himself. And whoever denies [His favor] - then indeed, Allah is Free of need and Praiseworthy.",
+          "id": "Dan sungguh, telah Kami berikan hikmah kepada Lukman, yaitu,  \u00E2\u20AC\u200CBersyukurlah kepada Allah! Dan barangsiapa bersyukur (kepada Allah), maka sesungguhnya dia bersyukur untuk dirinya sendiri; dan barangsiapa tidak bersyukur (kufur), maka sesungguhnya Allah Mahakaya, Maha Terpuji.\u00E2\u20AC\u200C"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/3481",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3481.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3481.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Beralih dari penjelasan tentang buruknya akidah orang musyrik dan kezaliman mereka, pada ayat ini Allah memaparkan nasihat Lukman kepada anaknya, yang salah satunya berisi larangan berbuat syirik. Dan sungguh, telah Kami berikan hikmah, yakni kemampu\u0622\u00ADan mendapatkan ilmu dan pemahaman serta mengamalkannya, kepada Lukman, yaitu, \u00E2\u20AC\u0153Bersyukurlah kepada Allah atas nikmat dan karunia-Nya! Dan barang siapa bersyukur kepada Allah maka sesungguhnya dia mendatangkan manfaat bersyukur itu untuk dirinya sendiri; dan sebaliknya, barang siapa tidak bersyukur lalu ingkar atas nikmat Allah maka sesungguhnya hal itu tidak akan merugikan Allah sedikit pun, sebab Allah Mahakaya dan tidak butuh penyembahan hamba-Nya, Maha Terpuji meski sekiranya tidak ada yang memuji-Nya.\u00E2\u20AC\u200C",
+            "long": "Ayat ini menerangkan bahwa Allah menganugerahkan kepada Lukman hikmah, yaitu perasaan yang halus, akal pikiran, dan kearifan yang dapat menyampaikannya kepada pengetahuan yang hakiki dan jalan yang benar menuju kebahagiaan abadi. Oleh karena itu, ia bersyukur kepada Allah yang telah memberinya nikmat itu. Hal itu menunjukkan bahwa pengetahuan dan ajaran-ajaran yang disampaikan Lukman itu bukanlah berasal dari wahyu yang diturunkan Allah kepadanya, tetapi semata-mata berdasarkan ilmu dan hikmah yang telah dianugerahkan Allah kepadanya.\n\nBerdasarkan riwayat Ibnu Abi Syaibah, Ahmad, Ibnu Abi Dunya, Ibnu Jarir ath-thabari, Ibnu Mundzir, dan Ibnu Abi hatim dari Ibnu \u0027Abbas bahwa Lukman adalah seorang hamba/budak dan tukang kayu dari Habasyah. Kebanyakan ulama mengatakan bahwa Lukman adalah seorang yang arif, bijak, dan bukan nabi.\n\nBanyak riwayat yang menerangkan asal-usul Lukman ini, dan riwayat-riwayat itu antara yang satu dengan yang lain tidak ada kesesuaian. Said bin Musayyab mengatakan bahwa Lukman berasal dari Sudan, sebelah selatan Mesir. Zamakhsyari dan Ibnu Ishaq mengatakan bahwa Lukman termasuk keturunan Bani Israil dan salah seorang cucu Azar, ayah Ibrahim. Menurut pendapat ini, Lukman hidup sebelum kedatangan Nabi Daud. Sedang menurut al-Waqidi, ia salah seorang qadhi Bani Israil. Ada pula riwayat yang menerangkan bahwa Lukman hanyalah seorang yang sangat saleh (wali), bukan seorang nabi. \n\nTerlepas dari semua pendapat riwayat di atas, apakah Lukman itu seorang nabi atau bukan, apakah ia orang Sudan atau keturunan Bani Israil, maka yang jelas dan diyakini ialah Lukman adalah seorang hamba Allah yang telah dianugerahi hikmah, mempunyai akidah yang benar, memahami dasar-dasar agama Allah, dan mengetahui akhlak yang mulia. Namanya disebut dalam Al-Qur\u0027an sebagai salah seorang yang selalu menghambakan diri kepada-Nya.\n\nSebagai tanda bahwa Lukman itu seorang hamba Allah yang selalu taat kepada-Nya, merasakan kebesaran dan kekuasaan-Nya di alam semesta ini adalah sikapnya yang selalu bersyukur kepada Allah. Ia merasa dirinya sangat tergantung kepada nikmat Allah itu dan merasa dia telah mendapat hikmah dari-Nya.\n\nMenurut riwayat dari Ibnu \u0027Umar bahwa ia pernah mendengar Rasulullah bersabda, \u0022Lukman bukanlah seorang nabi, tetapi ia adalah seorang hamba yang banyak melakukan tafakur, ia mencintai Allah, maka Allah mencintainya pula.\u0022\n\nPada akhir ayat ini, Allah menerangkan bahwa orang yang bersyukur kepada Allah, berarti ia bersyukur untuk kepentingan dirinya sendiri. Sebab, Allah akan menganugerahkan kepadanya pahala yang banyak karena syukurnya itu. Allah berfirman:\n\nBarang siapa bersyukur, maka sesungguhnya dia bersyukur untuk (kebaikan) dirinya sendiri, dan barang siapa ingkar, maka sesungguhnya Tuhanku Mahakaya, Mahamulia. (an-Naml/27: 40) \n\nSufyan bin Uyainah berkata, \u0022Siapa yang melakukan salat lima waktu berarti ia bersyukur kepada Allah, dan orang yang berdoa untuk kedua orang tuanya setiap usai salat, ia telah bersyukur kepada keduanya.\u0022\n\nOrang-orang yang mengingkari nikmat Allah dan tidak bersyukur kepada-Nya berarti ia telah berbuat aniaya terhadap dirinya sendiri, karena Allah tidak akan memberinya pahala bahkan menyiksanya dengan siksaan yang pedih. Allah sendiri tidak memerlukan syukur hamba-Nya karena syukur hamba-Nya itu tidak akan memberikan keuntungan kepada-Nya sedikit pun, dan tidak pula akan menambah kemuliaan-Nya. Dia Mahakuasa lagi Maha Terpuji."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 3482,
+          "inSurah": 13,
+          "Jommal_classic": " 3618 3609 7209 6318 5400 5418 1809 5409 1809 4527 6318 1000 3609 5427 6309 4518",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t1\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 21,
+          "page": 412,
+          "manzil": 5,
+          "ruku": 356,
+          "hizbQuarter": 164,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u02C6\u0638\u0698\u0637\u00A5\u0638\u06AF\u0637\u00B0\u0638\u2019 \u0638\u201A\u0638\u0698\u0637\u00A7\u0638\u201E\u0638\u0698 \u0638\u201E\u0638\u0688\u0638\u201A\u0638\u2019\u0638\u2026\u0638\u0698\u0637\u00A7\u0638\u2020\u0638\u0688 \u0638\u201E\u0638\u06AF\u0637\u00A7\u0637\u00A8\u0638\u2019\u0638\u2020\u0638\u06AF\u0638\u2021\u0638\u06AF \u0638\u02C6\u0638\u0698\u0638\u2021\u0638\u0688\u0638\u02C6\u0638\u0698 \u0638\u0679\u0638\u0698\u0637\u00B9\u0638\u06AF\u0637\u00B8\u0638\u0688\u0638\u2021\u0638\u0688 \u0638\u0679\u0638\u0698\u0637\u00A7 \u0637\u00A8\u0638\u0688\u0638\u2020\u0638\u0698\u0638\u0679\u0638\u2018\u0638\u0698 \u0638\u201E\u0638\u0698\u0637\u00A7 \u0637\u06BE\u0638\u0688\u0637\u00B4\u0638\u2019\u0637\u00B1\u0638\u06AF\u0638\u0192\u0638\u2019 \u0637\u00A8\u0638\u06AF\u0637\u00A7\u0638\u201E\u0638\u201E\u0638\u2018\u0638\u0698\u0638\u2021\u0638\u06AF \u063A\u2013 \u0637\u00A5\u0638\u06AF\u0638\u2020\u0638\u2018\u0638\u0698 \u0637\u00A7\u0638\u201E\u0637\u00B4\u0638\u2018\u0638\u06AF\u0637\u00B1\u0638\u2019\u0638\u0192\u0638\u0698 \u0638\u201E\u0638\u0698\u0637\u00B8\u0638\u0688\u0638\u201E\u0638\u2019\u0638\u2026\u0638\u0152 \u0637\u00B9\u0638\u0698\u0637\u00B8\u0638\u06AF\u0638\u0679\u0638\u2026\u0638\u0152",
+          "transliteration": {
+            "en": "Wa iz qaala luqmaanu libnihee wa huwa ya\u0027izuhoo ya bunaiya laa tushrik billaah; innash shirka lazulmun \u0027azeem",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "And [mention, O Muhammad], when Luqman said to his son while he was instructing him, \u0022O my son, do not associate [anything] with Allah. Indeed, association [with him] is great injustice.\u0022",
+          "id": "Dan (ingatlah) ketika Lukman berkata kepada anaknya, ketika dia memberi pelajaran kepadanya, \u00E2\u20AC\u200CWahai anakku! Janganlah engkau mempersekutukan Allah, sesungguhnya mempersekutukan (Allah) adalah benar-benar kezaliman yang besar.\u00E2\u20AC\u200C"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/3482",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3482.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3482.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Dan ingatlah ketika Lukman berkata kepada anaknya, ketika dia sesaat demi sesaat memberi pelajaran kepadanya, \u00E2\u20AC\u0153Wahai anakku! Janganlah engkau mempersekutukan Allah dengan sesuatu pun, dan ketauhilah bahwa sesungguhnya mempersekutukan Allah adalah benar-benar kezaliman yang besar karena telah merendahkan martabat Sang Mahaagung ke posisi yang hina.\u00E2\u20AC\u200C",
+            "long": "Allah mengingatkan kepada Rasulullah nasihat yang pernah diberikan Lukman kepada putranya ketika ia memberi pelajaran kepadanya. Nasihat itu ialah, \u0022Wahai anakku, janganlah engkau mempersekutukan sesuatu dengan Allah, sesungguhnya mempersekutukan Allah itu adalah kezaliman yang sangat besar.\u0022\n\nMempersekutukan Allah dikatakan kezaliman karena perbuatan itu berarti menempatkan sesuatu tidak pada tempatnya, yaitu menyamakan sesuatu yang melimpahkan nikmat dan karunia dengan sesuatu yang tidak sanggup memberikan semua itu. Menyamakan Allah sebagai sumber nikmat dan karunia dengan patung-patung yang tidak dapat berbuat apa-apa adalah perbuatan zalim. Perbuatan itu dianggap sebagai kezaliman yang besar karena yang disamakan dengan makhluk yang tidak bisa berbuat apa-apa itu adalah Allah Pencipta dan Penguasa semesta alam, yang seharusnya semua makhluk mengabdi dan mengham-bakan diri kepada-Nya.\n\nDiriwayatkan oleh al-Bukhari dari Ibnu Mas\u0027ud bahwa tatkala turun ayat:\n\nOrang-orang yang beriman dan tidak mencampuradukkan iman mereka dengan syirik, mereka itulah orang-orang yang mendapat rasa aman dan mereka mendapat petunjuk. (al-An\u0027am/6: 82) \n\ntimbullah keresahan di antara para sahabat Rasulullah saw. Mereka berpendapat bahwa amat berat menjaga keimanan agar tidak bercampur dengan kezaliman. Mereka lalu berkata kepada Rasulullah saw, \u0022Siapakah di antara kami yang tidak mencampuradukkan keimanan dengan kezaliman?\u0022 Maka Rasulullah menjawab, \u0022Maksudnya bukan demikian, apakah kamu tidak mendengar perkataan Lukman, \u0027Hai anakku, jangan kamu menyekutukan sesuatu dengan Allah, sesungguhnya memper-sekutukan Allah adalah kezaliman yang besar.\u0022\n\nDari ayat ini dipahami bahwa di antara kewajiban ayah kepada anak-anaknya ialah memberi nasihat dan pelajaran, sehingga anak-anaknya dapat menempuh jalan yang benar, dan terhindar dari kesesatan. Hal ini sesuai dengan firman Allah:\n\nWahai orang-orang yang beriman! Peliharalah dirimu dan keluargamu dari api neraka yang bahan bakarnya adalah manusia dan batu. (at-Tahrim/66: 6) \n\nJika diperhatikan susunan kalimat ayat ini, maka dapat diambil kesimpulan bahwa Lukman melarang anaknya menyekutukan Tuhan. Larangan ini adalah sesuatu yang memang patut disampaikan Lukman kepada putranya karena menyekutukan Allah adalah perbuatan dosa yang paling besar.\n\nAnak adalah generasi penerus dari orang tuanya. Cita-cita yang belum dicapai orang tua selama hidup di dunia diharapkan dapat tercapai oleh anaknya. Demikian pula kepercayaan yang dianut orang tuanya, di samping budi pekerti yang luhur, anak-anak diharapkan mewarisi dan memiliki semua nilai-nilai yang diikuti ayahnya itu di kemudian hari. Lukman telah melakukan tugas yang sangat penting kepada anaknya, dengan menyampaikan agama yang benar dan budi pekerti yang luhur. Cara Lukman menyampaikan pesan itu wajib dicontoh oleh setiap orang tua yang mengaku dirinya muslim."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 3483,
+          "inSurah": 14,
+          "Jommal_classic": " 9018 6336 9027 7218 5409 5409 4509 5400 8118 2700 6318 2709 3627 2700 11718 5409 6327",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 21,
+          "page": 412,
+          "manzil": 5,
+          "ruku": 356,
+          "hizbQuarter": 164,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u02C6\u0638\u0698\u0638\u02C6\u0638\u0698\u0637\u00B5\u0638\u2018\u0638\u0698\u0638\u0679\u0638\u2019\u0638\u2020\u0638\u0698\u0637\u00A7 \u0637\u00A7\u0638\u201E\u0638\u2019\u0637\u00A5\u0638\u06AF\u0638\u2020\u0637\u00B3\u0638\u0698\u0637\u00A7\u0638\u2020\u0638\u0698 \u0637\u00A8\u0638\u06AF\u0638\u02C6\u0638\u0698\u0637\u00A7\u0638\u201E\u0638\u06AF\u0637\u00AF\u0638\u0698\u0638\u0679\u0638\u2019\u0638\u2021\u0638\u06AF \u0637\u00AD\u0638\u0698\u0638\u2026\u0638\u0698\u0638\u201E\u0638\u0698\u0637\u06BE\u0638\u2019\u0638\u2021\u0638\u0688 \u0637\u00A3\u0638\u0688\u0638\u2026\u0638\u2018\u0638\u0688\u0638\u2021\u0638\u0688 \u0638\u02C6\u0638\u0698\u0638\u2021\u0638\u2019\u0638\u2020\u0638\u2039\u0637\u00A7 \u0637\u00B9\u0638\u0698\u0638\u201E\u0638\u0698\u0638\u2030\u0638\u00B0 \u0638\u02C6\u0638\u0698\u0638\u2021\u0638\u2019\u0638\u2020\u0638\u0686 \u0638\u02C6\u0638\u0698\u0638\u067E\u0638\u06AF\u0637\u00B5\u0638\u0698\u0637\u00A7\u0638\u201E\u0638\u0688\u0638\u2021\u0638\u0688 \u0638\u067E\u0638\u06AF\u0638\u0679 \u0637\u00B9\u0638\u0698\u0637\u00A7\u0638\u2026\u0638\u0698\u0638\u0679\u0638\u2019\u0638\u2020\u0638\u06AF \u0637\u00A3\u0638\u0698\u0638\u2020\u0638\u06AF \u0637\u00A7\u0637\u00B4\u0638\u2019\u0638\u0192\u0638\u0688\u0637\u00B1\u0638\u2019 \u0638\u201E\u0638\u06AF\u0638\u0679 \u0638\u02C6\u0638\u0698\u0638\u201E\u0638\u06AF\u0638\u02C6\u0638\u0698\u0637\u00A7\u0638\u201E\u0638\u06AF\u0637\u00AF\u0638\u0698\u0638\u0679\u0638\u2019\u0638\u0192\u0638\u0698 \u0637\u00A5\u0638\u06AF\u0638\u201E\u0638\u0698\u0638\u0679\u0638\u2018\u0638\u0698 \u0637\u00A7\u0638\u201E\u0638\u2019\u0638\u2026\u0638\u0698\u0637\u00B5\u0638\u06AF\u0638\u0679\u0637\u00B1\u0638\u0688",
+          "transliteration": {
+            "en": "Wa wassainal bi waalidaihi hamalat hu ummuhoo wahnan \u0027alaa wahninw wa fisaaluhoo fee \u0027aamaini anishkur lee wa liwaalidaika ilaiyal maseer",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "And We have enjoined upon man [care] for his parents. His mother carried him, [increasing her] in weakness upon weakness, and his weaning is in two years. Be grateful to Me and to your parents; to Me is the [final] destination.",
+          "id": "Dan Kami perintahkan kepada manusia (agar berbuat baik) kepada kedua orang tuanya. Ibunya telah mengandungnya dalam keadaan lemah yang bertambah-tambah, dan menyapihnya dalam usia dua tahun. Bersyukurlah kepada-Ku dan kepada kedua orang tuamu. Hanya kepada Aku kembalimu."
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/3483",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3483.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3483.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Dan Kami perintahkan kepada manusia agar berbuat baik kepada kedua orang tuanya, terutama ibu. Ibunya telah mengandungnya dalam keadaan lemah yang bertambah-tambah seiring makin besarnya kandungan dan saat melahirkan, dan menyapihnya dalam usia dua tahun. Jika demikian, bersyukurlah kepada-Ku atas nikmat yang telah Aku karuniakan kepadamu dan bersyukurlah juga kepada kedua orang tuamu karena melalui keduanya kamu bisa hadir di muka bumi ini. Hanya kepada Aku tempat kembalimu dan hanya Aku yang akan membalasmu dengan cara terbaik.",
+            "long": "Dalam ayat ini, Allah memerintahkan kepada manusia agar berbakti kepada kedua orang tuanya dengan berusaha melaksanakan perintah-perintahnya dan mewujudkan keinginannya. Pada ayat-ayat lain, Allah juga memerintahkan yang demikian, firman-Nya:\n\nDan Tuhanmu telah memerintahkan agar kamu jangan menyembah selain Dia dan hendaklah berbuat baik kepada ibu bapak. (al-Isra\u0027/17: 23) \n\nHal-hal yang menyebabkan seorang anak diperintahkan berbuat baik kepada ibu adalah:\n\n1. Ibu mengandung seorang anak sampai ia dilahirkan. Selama masa mengandung itu, ibu menahan dengan sabar penderitaan yang cukup berat, mulai pada bulan-bulan pertama, kemudian kandungan itu semakin lama semakin berat, dan ibu semakin lemah, sampai ia melahirkan. Kekuatannya baru pulih setelah habis masa nifas.\n\n2. Ibu menyusui anaknya sampai usia dua tahun. Banyak penderitaan dan kesukaran yang dialami ibu dalam masa menyusukan anaknya. Hanya Allah yang mengetahui segala penderitaan itu.\n\nDalam ayat ini yang disebutkan hanya alasan mengapa seorang anak harus taat dan berbuat baik kepada ibunya, tidak disebutkan apa sebabnya seorang anak harus taat dan berbuat baik kepada bapaknya. Hal ini menunjukkan bahwa kesukaran dan penderitaan ibu dalam mengandung, memelihara, dan mendidik anaknya jauh lebih berat bila dibandingkan dengan penderitaan yang dialami bapak dalam memelihara anaknya. Penderitaan itu tidak hanya berupa pengorbanan sebagian dari waktu hidupnya untuk memelihara anaknya, tetapi juga penderitaan jasmani dan rohani. Seorang ibu juga menyediakan zat-zat penting dalam tubuhnya untuk makanan anaknya selama anaknya masih berupa janin di dalam kandungan. \n\nSesudah lahir ke dunia, sang anak itu lalu disusukannya dalam masa dua tahun (yang utama). Air susu ibu (ASI) juga terdiri dari zat-zat penting dalam darah ibu, yang disuguhkan dengan kasih sayang untuk dihisap oleh anaknya. Dalam ASI ini terdapat segala macam zat yang diperlukan untuk pertumbuhan jasmani dan rohani anak, dan untuk mencegah segala macam penyakit. Zat-zat ini tidak terdapat pada susu sapi. Oleh sebab itu, susu sapi dan yang sejenisnya tidak akan sama mutunya dengan ASI. Segala macam susu bubuk atau susu kaleng tidak ada yang sama mutunya dengan ASI.\n\nSeorang ibu sangat dihimbau untuk menyusui anaknya dengan ASI. Janganlah ia menggantinya dengan susu bubuk, kecuali dalam situasi yang sangat memaksa. Mendapatkan ASI dari ibunya adalah hak anak, dan menyusukan anak adalah suatu kewajiban yang telah dibebankan Allah kepada ibunya.\n\nDalam ayat ini, Allah hanya menyebutkan sebab-sebab manusia harus taat dan berbuat baik kepada ibunya. Nabi saw sendiri memerintahkan agar seorang anak lebih mendahulukan berbuat baik kepada ibunya daripada kepada bapaknya, sebagaimana diterangkan dalam hadis:\n\nDari Bahz bin hakim, dari bapaknya, dari kakeknya, ia berkata, \u0022Aku bertanya ya Rasulullah, kepada siapakah aku wajib berbakti?\u0022 Rasulullah menjawab, \u0022Kepada ibumu.\u0022 Aku bertanya, \u0022Kemudian kepada siapa?\u0022 Rasulullah menjawab, \u0022Kepada ibumu.\u0022 Aku bertanya, \u0022Kemudian kepada siapa lagi?\u0022 Rasulullah menjawab, \u0022Kepada ibumu.\u0022 Aku bertanya, \u0022Kemudian kepada siapa lagi?\u0022 Rasulullah menjawab, \u0022Kepada bapakmu. Kemudian kepada kerabat yang lebih dekat, kemudian kerabat yang lebih dekat.\u0022 (Riwayat Abu Dawud dan at-Tirmidzi) \n\nAdapun tentang lamanya menyusukan anak, Al-Qur\u0027an memerintahkan agar seorang ibu menyusukan anaknya paling lama dua tahun, sebagaimana yang diterangkan dalam ayat ini, dengan firman-Nya, \u0022dan menyapihnya dalam masa dua tahun.\u0022 Dalam ayat lain, Allah menentukan masa untuk menyusukan anak itu selama dua tahun. Allah berfirman:\n\nDan ibu-ibu hendaklah menyusui anak-anaknya selama dua tahun penuh, bagi yang ingin menyusui secara sempurna. (al-Baqarah/2: 233) \n\nFirman-Nya lagi:\n\nMasa mengandung sampai menyapihnya selama tiga puluh bulan. (al-Ahqaf/46: 15) \n\nPengertian ayat di atas adalah waktu yang dibutuhkan seorang ibu mengandung anaknya minimal enam bulan, dan masa menyusui dua puluh empat bulan atau dua tahun. Jika keduanya dijumlahkan akan ketemu bilangan 30 bulan.\n\nAl-Qur\u0027an mengajarkan bahwa seorang ibu hendaknya menyusui anaknya dalam masa dua tahun. Pada ayat 233 surah al-Baqarah diterangkan bahwa masa menyusui dua tahun itu adalah bagi seorang ibu yang hendak menyusukan anaknya dengan sempurna. Maksudnya, bila ada sesuatu halangan, atau masa dua tahun itu dirasakan amat berat, maka boleh dikurangi.\n\nMasa menyusui dua tahun mengandung hikmah lainnya, yaitu untuk menjarangkan kelahiran. Dengan menjalankan pengaturan yang alami ini, seorang ibu hanya akan melahirkan paling cepat sekali dalam masa tiga tahun, atau kurang sedikit. Sebab dalam masa menyusui, seorang perempuan pada umumnya sukar untuk hamil kembali.\n\nKemudian Allah menjelaskan bahwa maksud dari \u0022berbuat baik\u0022 dalam ayat ini adalah agar manusia selalu bersyukur setiap menerima nikmat-nikmat yang telah dilimpahkan kepada mereka, dan bersyukur pula kepada ibu bapak karena keduanya yang membesarkan, memelihara, dan mendidik serta bertanggung jawab atas diri mereka, sejak dalam kandungan sampai mereka dewasa dan sanggup berdiri sendiri. Masa membesarkan anak merupakan masa sulit karena ibu bapak menanggung segala macam kesusahan dan penderitaan, baik dalam menjaga maupun dalam usaha mencarikan nafkah anaknya. \n\nIbu-bapak dalam ayat ini disebut secara umum, tidak dibedakan antara ibu bapak yang muslim dengan yang kafir. Oleh karena itu, dapat dipahami bahwa anak wajib berbuat baik kepada ibu bapaknya, apakah ibu bapaknya itu muslim atau kafir.\n\nDi samping apa yang disebutkan di atas, masih ada beberapa hal yang mengharuskan anak menghormati dan berbuat baik kepada ibu bapak, antara lain:\n\n1. Ibu dan bapak telah mencurahkan kasih sayangnya kepada anak-anaknya. Cinta dan kasih sayang itu terwujud dalam berbagai bentuk, di antaranya ialah membesarkan, mendidik, menjaga, dan memenuhi keinginan-keinginan anaknya. Usaha-usaha yang tidak mengikat itu dilakukan tanpa mengharapkan balasan apa pun dari anak-anaknya, kecuali agar mereka di kemudian hari menjadi anak yang berguna bagi agama, nusa, dan bangsa.\n\n2. Anak adalah buah hati dan jantung dari ibu bapaknya, seperti yang disebutkan dalam suatu riwayat bahwa Rasulullah bersabda, \u0022Fatimah adalah buah hatiku.\u0022\n\n3. Sejak dalam kandungan, lalu dilahirkan ke dunia hingga dewasa, kebutuhan makan, minum, pakaian, dan keperluan lain anak-anak ditanggung oleh ibu bapaknya.\n\nDengan perkataan lain dapat diungkapkan bahwa nikmat yang paling besar yang diterima oleh seorang manusia adalah nikmat dari Allah, kemudian nikmat yang diterima dari ibu bapaknya. Itulah sebabnya, Allah meletakkan kewajiban berbuat baik kepada kedua ibu bapak, sesudah kewajiban beribadah kepada-Nya.\n\nPada akhir ayat ini, Allah memperingatkan bahwa manusia akan kembali kepada-Nya, bukan kepada orang lain. Pada saat itu, Dia akan memberikan pembalasan yang adil kepada hamba-hamba-Nya. Perbuatan baik akan dibalas pahala yang berlipat ganda berupa surga, sedangkan perbuatan jahat akan dibalas dengan azab neraka."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 3484,
+          "inSurah": 15,
+          "Jommal_classic": " 3609 5436 4509 1809 4527 1809 1809 4509 3600 2709 4509 3609 6336 1000 8145 2700 6327 6327 1000 5436 4518 3600 3627 5409 1000 3609 5409 8127 9927 2718 5409 8118",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t1\t\t9\t\t9\t\t9\t\t9\t\t9\t\t1\t\t9\t\t9\t\t9\t\t9\t\t1\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 21,
+          "page": 412,
+          "manzil": 5,
+          "ruku": 356,
+          "hizbQuarter": 164,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u02C6\u0638\u0698\u0637\u00A5\u0638\u06AF\u0638\u2020 \u0637\u00AC\u0638\u0698\u0637\u00A7\u0638\u2021\u0638\u0698\u0637\u00AF\u0638\u0698\u0637\u00A7\u0638\u0192\u0638\u0698 \u0637\u00B9\u0638\u0698\u0638\u201E\u0638\u0698\u0638\u2030\u0638\u00B0 \u0637\u00A3\u0638\u0698\u0638\u2020 \u0637\u06BE\u0638\u0688\u0637\u00B4\u0638\u2019\u0637\u00B1\u0638\u06AF\u0638\u0192\u0638\u0698 \u0637\u00A8\u0638\u06AF\u0638\u0679 \u0638\u2026\u0638\u0698\u0637\u00A7 \u0638\u201E\u0638\u0698\u0638\u0679\u0638\u2019\u0637\u00B3\u0638\u0698 \u0638\u201E\u0638\u0698\u0638\u0192\u0638\u0698 \u0637\u00A8\u0638\u06AF\u0638\u2021\u0638\u06AF \u0637\u00B9\u0638\u06AF\u0638\u201E\u0638\u2019\u0638\u2026\u0638\u0152 \u0638\u067E\u0638\u0698\u0638\u201E\u0638\u0698\u0637\u00A7 \u0637\u06BE\u0638\u0688\u0637\u00B7\u0638\u06AF\u0637\u00B9\u0638\u2019\u0638\u2021\u0638\u0688\u0638\u2026\u0638\u0698\u0637\u00A7 \u063A\u2013 \u0638\u02C6\u0638\u0698\u0637\u00B5\u0638\u0698\u0637\u00A7\u0637\u00AD\u0638\u06AF\u0637\u00A8\u0638\u2019\u0638\u2021\u0638\u0688\u0638\u2026\u0638\u0698\u0637\u00A7 \u0638\u067E\u0638\u06AF\u0638\u0679 \u0637\u00A7\u0638\u201E\u0637\u00AF\u0638\u2018\u0638\u0688\u0638\u2020\u0638\u2019\u0638\u0679\u0638\u0698\u0637\u00A7 \u0638\u2026\u0638\u0698\u0637\u00B9\u0638\u2019\u0637\u00B1\u0638\u0688\u0638\u02C6\u0638\u067E\u0638\u2039\u0637\u00A7 \u063A\u2013 \u0638\u02C6\u0638\u0698\u0637\u00A7\u0637\u06BE\u0638\u2018\u0638\u0698\u0637\u00A8\u0638\u06AF\u0637\u00B9\u0638\u2019 \u0637\u00B3\u0638\u0698\u0637\u00A8\u0638\u06AF\u0638\u0679\u0638\u201E\u0638\u0698 \u0638\u2026\u0638\u0698\u0638\u2020\u0638\u2019 \u0637\u00A3\u0638\u0698\u0638\u2020\u0638\u0698\u0637\u00A7\u0637\u00A8\u0638\u0698 \u0637\u00A5\u0638\u06AF\u0638\u201E\u0638\u0698\u0638\u0679\u0638\u2018\u0638\u0698 \u063A\u0691 \u0637\u00AB\u0638\u0688\u0638\u2026\u0638\u2018\u0638\u0698 \u0637\u00A5\u0638\u06AF\u0638\u201E\u0638\u0698\u0638\u0679\u0638\u2018\u0638\u0698 \u0638\u2026\u0638\u0698\u0637\u00B1\u0638\u2019\u0637\u00AC\u0638\u06AF\u0637\u00B9\u0638\u0688\u0638\u0192\u0638\u0688\u0638\u2026\u0638\u2019 \u0638\u067E\u0638\u0698\u0637\u00A3\u0638\u0688\u0638\u2020\u0638\u0698\u0637\u00A8\u0638\u2018\u0638\u06AF\u0637\u00A6\u0638\u0688\u0638\u0192\u0638\u0688\u0638\u2026 \u0637\u00A8\u0638\u06AF\u0638\u2026\u0638\u0698\u0637\u00A7 \u0638\u0192\u0638\u0688\u0638\u2020\u0637\u06BE\u0638\u0688\u0638\u2026\u0638\u2019 \u0637\u06BE\u0638\u0698\u0637\u00B9\u0638\u2019\u0638\u2026\u0638\u0698\u0638\u201E\u0638\u0688\u0638\u02C6\u0638\u2020\u0638\u0698",
+          "transliteration": {
+            "en": "Wa in jaahadaaka \u0027alaaa an tushrika bee maa laisa laka bihee \u0027ilmun falaa tuti\u0027humaa wa saahib humaa fid dunyaa ma\u0027roofanw wattabi\u0027 sabeela man anaaba ilayy; summa ilaiya marji\u0027ukum fa unabbi\u0027ukum bimaa kuntum ta\u0027maloon",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "But if they endeavor to make you associate with Me that of which you have no knowledge, do not obey them but accompany them in [this] world with appropriate kindness and follow the way of those who turn back to Me [in repentance]. Then to Me will be your return, and I will inform you about what you used to do.",
+          "id": "Dan jika keduanya memaksamu untuk mempersekutukan Aku dengan sesuatu yang engkau tidak mempunyai ilmu tentang itu, maka janganlah engkau menaati keduanya, dan pergaulilah keduanya di dunia dengan baik, dan ikutilah jalan orang yang kembali kepada-Ku. Kemudian hanya kepada-Ku tempat kembalimu, maka akan Aku beritahukan kepadamu apa yang telah kamu kerjakan."
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/3484",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3484.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3484.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Meski taat kepada kedua orang tua berada pada posisi setara dengan menyembah Allah, ia tidak bersifat mutlak. Jika keduanya atau salah satunya memaksamu secara sungguh-sungguh untuk mempersekutukan Aku dengan sesuatu yang engkau tidak mempunyai pengetahuan tentang itu, terlebih jika engkau tahu besarnya dosa syirik, maka janganlah engkau menaati keduanya. Namun, jagalah hubungan baikmu dan pergaulilah keduanya di dunia dengan baik, bahkan terbaik, selama keduanya tidak mencampuri urusan agamamu. Dan ikutilah jalan orang yang selalu kembali kepada-Ku dalam segala urusannya. Kemudian, hanya kepada-Ku tempat kembalimu di akhirat kelak, maka akan Aku beritahukan kepadamu apa yang telah kamu kerjakan dan Aku akan memberi balasan sesuai amal perbuatanmu di dunia.",
+            "long": "Diriwayatkan bahwa ayat ini diturunkan berhubungan dengan Sa\u0027ad bin Abi Waqqash, ia berkata, \u0022Tatkala aku masuk Islam, ibuku bersumpah bahwa beliau tidak akan makan dan minum sebelum aku meninggalkan agama Islam itu. Untuk itu pada hari pertama aku mohon agar beliau mau makan dan minum, tetapi beliau menolaknya dan tetap bertahan pada pendiriannya. Pada hari kedua, aku juga mohon agar beliau mau makan dan minum, tetapi beliau masih tetap pada pendiriannya. Pada hari ketiga, aku mohon kepada beliau agar mau makan dan minum, tetapi tetap menolaknya. Oleh karena itu, aku berkata kepadanya, \u0027Demi Allah, seandainya ibu mempunyai seratus jiwa dan keluar satu persatu di hadapan saya sampai ibu mati, aku tidak akan meninggalkan agama yang aku peluk ini. Setelah ibuku melihat keyakinan dan kekuatan pendirianku, maka beliau pun mau makan.\u0022\n\nDari sebab turun ayat ini dapat diambil pengertian bahwa Sa\u0027ad tidak berdosa karena tidak mengikuti kehendak ibunya untuk kembali kepada agama syirik. Hukum ini berlaku pula untuk seluruh umat Nabi Muhammad yang tidak boleh taat kepada orang tuanya mengikuti agama syirik dan perbuatan dosa yang lain.\n\nAyat ini menerangkan bahwa dalam hal tertentu, seorang anak dilarang menaati ibu bapaknya jika mereka memerintahkannya untuk menyekutukan Allah, yang dia sendiri memang tidak mengetahui bahwa Allah mempunyai sekutu, karena memang tidak ada sekutu bagi-Nya. Sepanjang pengetahuan manusia, Allah tidak mempunyai sekutu. Karena menurut naluri, manusia harus mengesakan Tuhan.\n\nSelanjutnya Allah memerintahkan agar seorang anak tetap bersikap baik kepada kedua ibu bapaknya dalam urusan dunia, seperti menghormati, menyenangkan hati, serta memberi pakaian dan tempat tinggal yang layak baginya, walaupun mereka memaksanya mempersekutukan Tuhan atau melakukan dosa yang lain.\n\nPada ayat lain diperingatkan bahwa seseorang anak wajib mengucapkan kata-kata yang baik kepada ibu bapaknya. Jangan sekali-kali bertindak atau mengucapkan kata-kata yang menyinggung hatinya, sekalipun hanya kata-kata \u0022ah\u0022. Allah berfirman:\n\n\u0622\u00A6maka sekali-kali janganlah engkau mengatakan kepada keduanya perkataan \u0022ah\u0022. (al-Isra\u0027/17: 23) \n\nPada akhir ayat ini kaum Muslimin diperintahkan agar mengikuti jalan orang yang menuju kepada Allah, Tuhan Yang Maha Esa, dan tidak mengikuti jalan orang yang menyekutukan-Nya dengan makhluk. Kemudian ayat ini ditutup dengan peringatan dari Allah bahwa hanya kepada-Nya manusia kembali, dan Ia akan memberitahukan apa-apa yang telah mereka kerjakan selama hidup di dunia."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 3485,
+          "inSurah": 16,
+          "Jommal_classic": " 1809 5409 5418 1809 2709 6318 3627 4500 4527 5409 2700 3636 2709 2700 7245 2709 2700 4536 3618 2718 5409 1000 3609 5409 5409 3627",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t1\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 21,
+          "page": 412,
+          "manzil": 5,
+          "ruku": 356,
+          "hizbQuarter": 164,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u0679\u0638\u0698\u0637\u00A7 \u0637\u00A8\u0638\u0688\u0638\u2020\u0638\u0698\u0638\u0679\u0638\u2018\u0638\u0698 \u0637\u00A5\u0638\u06AF\u0638\u2020\u0638\u2018\u0638\u0698\u0638\u2021\u0638\u0698\u0637\u00A7 \u0637\u00A5\u0638\u06AF\u0638\u2020 \u0637\u06BE\u0638\u0698\u0638\u0192\u0638\u0688 \u0638\u2026\u0638\u06AF\u0637\u00AB\u0638\u2019\u0638\u201A\u0638\u0698\u0637\u00A7\u0638\u201E\u0638\u0698 \u0637\u00AD\u0638\u0698\u0637\u00A8\u0638\u2018\u0638\u0698\u0637\u00A9\u0638\u0686 \u0638\u2026\u0638\u2018\u0638\u06AF\u0638\u2020\u0638\u2019 \u0637\u00AE\u0638\u0698\u0637\u00B1\u0638\u2019\u0637\u00AF\u0638\u0698\u0638\u201E\u0638\u0686 \u0638\u067E\u0638\u0698\u0637\u06BE\u0638\u0698\u0638\u0192\u0638\u0688\u0638\u2020 \u0638\u067E\u0638\u06AF\u0638\u0679 \u0637\u00B5\u0638\u0698\u0637\u00AE\u0638\u2019\u0637\u00B1\u0638\u0698\u0637\u00A9\u0638\u0686 \u0637\u00A3\u0638\u0698\u0638\u02C6\u0638\u2019 \u0638\u067E\u0638\u06AF\u0638\u0679 \u0637\u00A7\u0638\u201E\u0637\u00B3\u0638\u2018\u0638\u0698\u0638\u2026\u0638\u0698\u0637\u00A7\u0638\u02C6\u0638\u0698\u0637\u00A7\u0637\u06BE\u0638\u06AF \u0637\u00A3\u0638\u0698\u0638\u02C6\u0638\u2019 \u0638\u067E\u0638\u06AF\u0638\u0679 \u0637\u00A7\u0638\u201E\u0638\u2019\u0637\u00A3\u0638\u0698\u0637\u00B1\u0638\u2019\u0637\u00B6\u0638\u06AF \u0638\u0679\u0638\u0698\u0637\u00A3\u0638\u2019\u0637\u06BE\u0638\u06AF \u0637\u00A8\u0638\u06AF\u0638\u2021\u0638\u0698\u0637\u00A7 \u0637\u00A7\u0638\u201E\u0638\u201E\u0638\u2018\u0638\u0698\u0638\u2021\u0638\u0688 \u063A\u0691 \u0637\u00A5\u0638\u06AF\u0638\u2020\u0638\u2018\u0638\u0698 \u0637\u00A7\u0638\u201E\u0638\u201E\u0638\u2018\u0638\u0698\u0638\u2021\u0638\u0698 \u0638\u201E\u0638\u0698\u0637\u00B7\u0638\u06AF\u0638\u0679\u0638\u067E\u0638\u0152 \u0637\u00AE\u0638\u0698\u0637\u00A8\u0638\u06AF\u0638\u0679\u0637\u00B1\u0638\u0152",
+          "transliteration": {
+            "en": "Ya bunaiya innahaaa in taku misqaala habbatim min khardalin fatakun fee sakhratin aw fis samaawaati aw fil ardi yaati bihal laa; innal laaha lateefun Khabeer",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "[And Luqman said], \u0022O my son, indeed if wrong should be the weight of a mustard seed and should be within a rock or [anywhere] in the heavens or in the earth, Allah will bring it forth. Indeed, Allah is Subtle and Acquainted.",
+          "id": "(Lukman berkata), \u00E2\u20AC\u200CWahai anakku! Sungguh, jika ada (sesuatu perbuatan) seberat biji sawi, dan berada dalam batu atau di langit atau di bumi, niscaya Allah akan memberinya (balasan). Sesungguhnya Allah Mahahalus, Mahateliti."
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/3485",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3485.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3485.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Lukman melanjutkan nasihatnya, \u00E2\u20AC\u0153Wahai anakku! Sungguh, jika ada suatu perbuatan yang sangat kecil dan tersembunyi, layaknya benda yang bobotnya hanya seberat biji sawi dan berada dalam batu atau berada di langit atau di perut bumi, niscaya Allah akan memberinya balasan. Sesungguhnya Allah Mahahalus, Mahateliti. Ilmu Allah meliputi segala sesuatu, betapa pun kecil dan halus.",
+            "long": "Lukman berwasiat kepada anaknya agar beramal dengan baik karena apa yang dilakukan manusia, dari yang besar sampai yang sekecil-kecilnya, yang tampak dan yang tidak tampak, yang terlihat dan yang tersembunyi, baik di langit maupun di bumi, pasti diketahui Allah. Oleh karena itu, Allah pasti akan memberikan balasan yang setimpal dengan perbuatan manusia itu. Perbuatan baik akan dibalas dengan surga, sedang perbuatan jahat dan dosa akan dibalas dengan neraka. Pengetahuan Allah meliputi segala sesuatu dan tidak ada yang luput sedikit pun dari pengetahuan-Nya. \n\nAllah kemudian melukiskan dalam firman-Nya tentang penimbangan perbuatan manusia:\n\nDan Kami akan memasang timbangan yang tepat pada hari Kiamat, maka tidak seorang pun dirugikan walau sedikit. (al-Anbiya\u0027/21: 47)"
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 3486,
+          "inSurah": 17,
+          "Jommal_classic": " 1809 5409 4509 5436 5418 9036 5409 2709 7218 4536 4509 1809 4536 1000 3609 5409 3600 3618 6327",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t9\t\t1\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 21,
+          "page": 412,
+          "manzil": 5,
+          "ruku": 356,
+          "hizbQuarter": 164,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u0679\u0638\u0698\u0637\u00A7 \u0637\u00A8\u0638\u0688\u0638\u2020\u0638\u0698\u0638\u0679\u0638\u2018\u0638\u0698 \u0637\u00A3\u0638\u0698\u0638\u201A\u0638\u06AF\u0638\u2026\u0638\u06AF \u0637\u00A7\u0638\u201E\u0637\u00B5\u0638\u2018\u0638\u0698\u0638\u201E\u0638\u0698\u0637\u00A7\u0637\u00A9\u0638\u0698 \u0638\u02C6\u0638\u0698\u0637\u00A3\u0638\u2019\u0638\u2026\u0638\u0688\u0637\u00B1\u0638\u2019 \u0637\u00A8\u0638\u06AF\u0637\u00A7\u0638\u201E\u0638\u2019\u0638\u2026\u0638\u0698\u0637\u00B9\u0638\u2019\u0637\u00B1\u0638\u0688\u0638\u02C6\u0638\u067E\u0638\u06AF \u0638\u02C6\u0638\u0698\u0637\u00A7\u0638\u2020\u0638\u2019\u0638\u2021\u0638\u0698 \u0637\u00B9\u0638\u0698\u0638\u2020\u0638\u06AF \u0637\u00A7\u0638\u201E\u0638\u2019\u0638\u2026\u0638\u0688\u0638\u2020\u0638\u0192\u0638\u0698\u0637\u00B1\u0638\u06AF \u0638\u02C6\u0638\u0698\u0637\u00A7\u0637\u00B5\u0638\u2019\u0637\u00A8\u0638\u06AF\u0637\u00B1\u0638\u2019 \u0637\u00B9\u0638\u0698\u0638\u201E\u0638\u0698\u0638\u2030\u0638\u00B0 \u0638\u2026\u0638\u0698\u0637\u00A7 \u0637\u00A3\u0638\u0698\u0637\u00B5\u0638\u0698\u0637\u00A7\u0637\u00A8\u0638\u0698\u0638\u0192\u0638\u0698 \u063A\u2013 \u0637\u00A5\u0638\u06AF\u0638\u2020\u0638\u2018\u0638\u0698 \u0637\u00B0\u0638\u0698\u0638\u00B0\u0638\u201E\u0638\u06AF\u0638\u0192\u0638\u0698 \u0638\u2026\u0638\u06AF\u0638\u2020\u0638\u2019 \u0637\u00B9\u0638\u0698\u0637\u00B2\u0638\u2019\u0638\u2026\u0638\u06AF \u0637\u00A7\u0638\u201E\u0638\u2019\u0637\u00A3\u0638\u0688\u0638\u2026\u0638\u0688\u0638\u02C6\u0637\u00B1\u0638\u06AF",
+          "transliteration": {
+            "en": "Yaa bunaiya aqimis-Salaata waamur bilma\u0027roofi wanha \u0027anil munkari wasbir \u0027alaa maaa asaabaka inna zaalika min \u0027azmil umoor",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "O my son, establish prayer, enjoin what is right, forbid what is wrong, and be patient over what befalls you. Indeed, [all] that is of the matters [requiring] determination.",
+          "id": "Wahai anakku! Laksanakanlah salat dan suruhlah (manusia) berbuat yang makruf dan cegahlah (mereka) dari yang mungkar dan bersabarlah terhadap apa yang menimpamu, sesungguhnya yang demikian itu termasuk perkara yang penting."
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/3486",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3486.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3486.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Wahai anakku! Laksanakanlah salat secara sempurna dan konsisten, jangan sekali pun engkau meninggalkannya, dan suruhlah manusia berbuat yang makruf, yakni sesuatu yang dinilai baik oleh masyarakat dan tidak bertentangan dengan syariat, dan cegahlah mereka dari yang mungkar dan bersabarlah terhadap apa yang menimpamu sebab hal itu tidak lepas dari kehendak-Nya dan bisa jadi menaikkan derajat keimananmu. Sesungguhnya yang demikian itu termasuk perkara yang penting dan tidak boleh diabaikan.",
+            "long": "Pada ayat ini, Lukman mewasiatkan kepada anaknya hal-hal berikut:\n\na.Selalu mendirikan salat dengan sebaik-baiknya, sehingga diridai Allah. Jika salat yang dikerjakan itu diridai Allah, perbuatan keji dan perbuatan mungkar dapat dicegah, jiwa menjadi bersih, tidak ada kekhawatiran terhadap diri orang itu, dan mereka tidak akan bersedih hati jika ditimpa cobaan, dan merasa dirinya semakin dekat dengan Tuhannya.\n\nNabi saw bersabda:\n\nSembahlah Allah seakan-akan engkau melihat-Nya, maka jika engkau tidak melihat-Nya, maka sesungguhnya Dia melihat engkau. (Riwayat al-Bukhari dan Muslim) \n\nb.Berusaha mengajak manusia mengerjakan perbuatan-perbuatan baik yang diridai Allah, berusaha membersihkan jiwa dan mencapai keberuntungan, serta mencegah mereka agar tidak mengerjakan perbuatan-perbuatan dosa. Allah berfirman:\n\nSungguh beruntung orang yang menyucikannya (jiwa itu), dan sungguh rugi orang yang mengotorinya. (asy-Syams/91: 9-10)\n\nc.Selalu bersabar dan tabah terhadap segala macam cobaan yang menimpa, akibat dari mengajak manusia berbuat baik dan meninggalkan perbuatan yang mungkar, baik cobaan itu dalam bentuk kesenangan dan kemegahan, maupun dalam bentuk ke-sengsaraan dan penderitaan.\n\nPada akhir ayat ini diterangkan bahwa Allah memerintahkan tiga hal tersebut di atas karena merupakan pekerjaan yang amat besar faedahnya bagi yang mengerjakannya dan memberi manfaat di dunia dan di akhirat."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 3487,
+          "inSurah": 18,
+          "Jommal_classic": " 3609 4536 4518 6318 3609 3618 2700 4536 3627 1000 3609 5409 1809 4518 4500 5427 4518",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t1\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 21,
+          "page": 412,
+          "manzil": 5,
+          "ruku": 356,
+          "hizbQuarter": 164,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u02C6\u0638\u0698\u0638\u201E\u0638\u0698\u0637\u00A7 \u0637\u06BE\u0638\u0688\u0637\u00B5\u0638\u0698\u0637\u00B9\u0638\u2018\u0638\u06AF\u0637\u00B1\u0638\u2019 \u0637\u00AE\u0638\u0698\u0637\u00AF\u0638\u2018\u0638\u0698\u0638\u0192\u0638\u0698 \u0638\u201E\u0638\u06AF\u0638\u201E\u0638\u2020\u0638\u2018\u0638\u0698\u0637\u00A7\u0637\u00B3\u0638\u06AF \u0638\u02C6\u0638\u0698\u0638\u201E\u0638\u0698\u0637\u00A7 \u0637\u06BE\u0638\u0698\u0638\u2026\u0638\u2019\u0637\u00B4\u0638\u06AF \u0638\u067E\u0638\u06AF\u0638\u0679 \u0637\u00A7\u0638\u201E\u0638\u2019\u0637\u00A3\u0638\u0698\u0637\u00B1\u0638\u2019\u0637\u00B6\u0638\u06AF \u0638\u2026\u0638\u0698\u0637\u00B1\u0638\u0698\u0637\u00AD\u0638\u2039\u0637\u00A7 \u063A\u2013 \u0637\u00A5\u0638\u06AF\u0638\u2020\u0638\u2018\u0638\u0698 \u0637\u00A7\u0638\u201E\u0638\u201E\u0638\u2018\u0638\u0698\u0638\u2021\u0638\u0698 \u0638\u201E\u0638\u0698\u0637\u00A7 \u0638\u0679\u0638\u0688\u0637\u00AD\u0638\u06AF\u0637\u00A8\u0638\u2018\u0638\u0688 \u0638\u0192\u0638\u0688\u0638\u201E\u0638\u2018\u0638\u0698 \u0638\u2026\u0638\u0688\u0637\u00AE\u0638\u2019\u0637\u06BE\u0638\u0698\u0637\u00A7\u0638\u201E\u0638\u0686 \u0638\u067E\u0638\u0698\u0637\u00AE\u0638\u0688\u0638\u02C6\u0637\u00B1\u0638\u0686",
+          "transliteration": {
+            "en": "Wa laa tusa\u0027-\u0027ir khaddaka linnaasi wa laa tamshi fil ardi maarahan innal laaha laa yuhibbu kulla mukhtaalin fakhoor",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "And do not turn your cheek [in contempt] toward people and do not walk through the earth exultantly. Indeed, Allah does not like everyone self-deluded and boastful.",
+          "id": "Dan janganlah kamu memalingkan wajah dari manusia (karena sombong) dan janganlah berjalan di bumi dengan angkuh. Sungguh, Allah tidak menyukai orang-orang yang sombong dan membanggakan diri."
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/3487",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3487.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3487.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Dan janganlah kamu sombong. Janganlah kamu memalingkan wajah dari manusia secara congkak dan janganlah berjalan di muka bumi dengan angkuh. Bersikaplah tawaduk dan rendah hati kepada siapa pun. Sungguh, Allah tidak menyukai dan tidak pula melimpahkan kasih sayang-Nya kepada orang-orang yang sombong lagi membanggakan diri.",
+            "long": "Ayat ini menerangkan lanjutan wasiat Lukman kepada anaknya, yaitu agar anaknya berbudi pekerti yang baik, dengan cara:\n\n1. Jangan sekali-kali bersifat angkuh dan sombong, membanggakan diri dan memandang rendah orang lain. Tanda-tanda seseorang yang bersifat angkuh dan sombong itu ialah:\n\n-Bila berjalan dan bertemu dengan orang lain, ia memalingkan mukanya, tidak mau menegur atau memperlihatkan sikap ramah.\n\n-Berjalan dengan sikap angkuh, seakan-akan ia yang berkuasa dan yang paling terhormat. Firman Allah:\n\nDan janganlah engkau berjalan di bumi ini dengan sombong, karena sesungguhnya engkau tidak akan dapat menembus bumi dan tidak akan mampu menjulang setinggi gunung. (al-Isra\u0027/17: 37)\n\nDalam sebuah hadis, Rasulullah bersabda:\n\nJanganlah kamu saling membenci, janganlah kamu saling membelakangi dan janganlah kamu saling mendengki, dan jadilah kamu hamba Allah yang bersaudara. Tidak boleh bagi seorang muslim memencilkan (tidak berbaik) dengan temannya lebih dari tiga hari. (Riwayat Malik dari Anas bin Malik)\n\n2. Hendaklah berjalan secara wajar, tidak dibuat-buat dan kelihatan angkuh atau sombong, dan lemah lembut dalam berbicara, sehingga orang yang melihat dan mendengarnya merasa senang dan tenteram hatinya. Berbicara dengan sikap keras, angkuh, dan sombong dilarang Allah karena gaya bicara yang semacam itu tidak enak didengar, menyakitkan hati dan telinga. Hal itu diibaratkan Allah dengan suara keledai yang tidak nyaman didengar.\n\nYahya bin Jabir ath-tha\u0027i meriwayatkan dari Gudhaif bin haris, ia berkata, \u0022Aku duduk dekat \u0027Abdullah bin \u0027Amr bin al-\u0027ash, maka aku mendengar ia berkata, \u0027Sesungguhnya kubur itu akan berbicara dengan orang yang dikuburkan di dalamnya, ia berkata, \u0027Hai anak Adam apakah yang telah memperdayakan engkau, sehingga engkau masuk ke dalam liangku? Tidakkah engkau mengetahui bahwa aku rumah tempat engkau berada sendirian? Tidakkah engkau mengetahui bahwa aku tempat yang gelap? Tidakkah engkau mengetahui bahwa aku rumah kebenaran? Apakah yang memperdayakan engkau sehingga engkau masuk ke dalam liangku? Sesungguhnya engkau waktu hidup menyombongkan diri.\u0022\n\nSederhana atau wajar dalam berjalan dan berbicara bukan berarti berjalan dengan menundukkan kepala dan berbicara dengan lunak. Akan tetapi, maksudnya ialah berjalan dan berbicara dengan sopan dan lemah lembut, sehingga orang merasa senang melihatnya. Adapun berjalan dengan sikap gagah dan wajar, serta berkata dengan tegas yang menunjukkan suatu pendirian yang kuat, tidak dilarang oleh agama.\n\nMenurut suatu riwayat dari \u0027Aisyah r.a. bahwa beliau melihat seorang laki-laki berjalan menunduk lemah, seakan-akan telah kehilangan kekuatan tubuhnya, maka beliau pun bertanya, \u0022Mengapa orang itu berjalan terlalu lemah dan lambat?\u0022 Seseorang menjawab, \u0022Dia adalah seorang fuqaha yang sangat alim.\u0022 Mendengar jawaban itu \u0027Aisyah berkata, \u0022Umar adalah penghulu fuqaha, tetapi apabila berjalan, ia berjalan dengan sikap yang gagah, apabila berkata, ia bersuara sedikit keras, dan apabila memukul, maka pukulannya sangat keras.\u0022"
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 3488,
+          "inSurah": 19,
+          "Jommal_classic": " 5427 2700 6309 4536 2700 5418 1000 3609 4518 6345 5418 6327",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t9\t\t1\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 21,
+          "page": 412,
+          "manzil": 5,
+          "ruku": 356,
+          "hizbQuarter": 164,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u02C6\u0638\u0698\u0637\u00A7\u0638\u201A\u0638\u2019\u0637\u00B5\u0638\u06AF\u0637\u00AF\u0638\u2019 \u0638\u067E\u0638\u06AF\u0638\u0679 \u0638\u2026\u0638\u0698\u0637\u00B4\u0638\u2019\u0638\u0679\u0638\u06AF\u0638\u0192\u0638\u0698 \u0638\u02C6\u0638\u0698\u0637\u00A7\u0637\u061B\u0638\u2019\u0637\u00B6\u0638\u0688\u0637\u00B6\u0638\u2019 \u0638\u2026\u0638\u06AF\u0638\u2020 \u0637\u00B5\u0638\u0698\u0638\u02C6\u0638\u2019\u0637\u06BE\u0638\u06AF\u0638\u0192\u0638\u0698 \u063A\u0691 \u0637\u00A5\u0638\u06AF\u0638\u2020\u0638\u2018\u0638\u0698 \u0637\u00A3\u0638\u0698\u0638\u2020\u0638\u0192\u0638\u0698\u0637\u00B1\u0638\u0698 \u0637\u00A7\u0638\u201E\u0638\u2019\u0637\u00A3\u0638\u0698\u0637\u00B5\u0638\u2019\u0638\u02C6\u0638\u0698\u0637\u00A7\u0637\u06BE\u0638\u06AF \u0638\u201E\u0638\u0698\u0637\u00B5\u0638\u0698\u0638\u02C6\u0638\u2019\u0637\u06BE\u0638\u0688 \u0637\u00A7\u0638\u201E\u0638\u2019\u0637\u00AD\u0638\u0698\u0638\u2026\u0638\u06AF\u0638\u0679\u0637\u00B1\u0638\u06AF",
+          "transliteration": {
+            "en": "Waqsid fee mashyika waghdud min sawtik; inna ankaral aswaati lasawtul hameer",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "And be moderate in your pace and lower your voice; indeed, the most disagreeable of sounds is the voice of donkeys.\u0022",
+          "id": "Dan sederhanakanlah dalam berjalan dan lunakkanlah suaramu. Sesungguhnya seburuk-buruk suara ialah suara keledai.\u00E2\u20AC\u200C"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/3488",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3488.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3488.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Dan jika engkau melangkahkan kakimu, sederhanakanlah dalam berjalan, jangan terlalu cepat atau terlalu lambat. Dan lunakkanlah suaramu ketika sedang berbicara agar tidak terdengar kasar seperti suara keledai, karena sesungguhnya seburuk-buruk suara ialah suara keledai.\u00E2\u20AC\u200C",
+            "long": "Ayat ini menerangkan lanjutan wasiat Lukman kepada anaknya, yaitu agar anaknya berbudi pekerti yang baik, dengan cara:\n\n1. Jangan sekali-kali bersifat angkuh dan sombong, membanggakan diri dan memandang rendah orang lain. Tanda-tanda seseorang yang bersifat angkuh dan sombong itu ialah:\n\n-Bila berjalan dan bertemu dengan orang lain, ia memalingkan mukanya, tidak mau menegur atau memperlihatkan sikap ramah.\n\n-Berjalan dengan sikap angkuh, seakan-akan ia yang berkuasa dan yang paling terhormat. Firman Allah:\n\nDan janganlah engkau berjalan di bumi ini dengan sombong, karena sesungguhnya engkau tidak akan dapat menembus bumi dan tidak akan mampu menjulang setinggi gunung. (al-Isra\u0027/17: 37)\n\nDalam sebuah hadis, Rasulullah bersabda:\n\nJanganlah kamu saling membenci, janganlah kamu saling membelakangi dan janganlah kamu saling mendengki, dan jadilah kamu hamba Allah yang bersaudara. Tidak boleh bagi seorang muslim memencilkan (tidak berbaik) dengan temannya lebih dari tiga hari. (Riwayat Malik dari Anas bin Malik)\n\n2. Hendaklah berjalan secara wajar, tidak dibuat-buat dan kelihatan angkuh atau sombong, dan lemah lembut dalam berbicara, sehingga orang yang melihat dan mendengarnya merasa senang dan tenteram hatinya. Berbicara dengan sikap keras, angkuh, dan sombong dilarang Allah karena gaya bicara yang semacam itu tidak enak didengar, menyakitkan hati dan telinga. Hal itu diibaratkan Allah dengan suara keledai yang tidak nyaman didengar.\n\nYahya bin Jabir ath-tha\u0027i meriwayatkan dari Gudhaif bin haris, ia berkata, \u0022Aku duduk dekat \u0027Abdullah bin \u0027Amr bin al-\u0027ash, maka aku mendengar ia berkata, \u0027Sesungguhnya kubur itu akan berbicara dengan orang yang dikuburkan di dalamnya, ia berkata, \u0027Hai anak Adam apakah yang telah memperdayakan engkau, sehingga engkau masuk ke dalam liangku? Tidakkah engkau mengetahui bahwa aku rumah tempat engkau berada sendirian? Tidakkah engkau mengetahui bahwa aku tempat yang gelap? Tidakkah engkau mengetahui bahwa aku rumah kebenaran? Apakah yang memperdayakan engkau sehingga engkau masuk ke dalam liangku? Sesungguhnya engkau waktu hidup menyombongkan diri.\u0022\n\nSederhana atau wajar dalam berjalan dan berbicara bukan berarti berjalan dengan menundukkan kepala dan berbicara dengan lunak. Akan tetapi, maksudnya ialah berjalan dan berbicara dengan sopan dan lemah lembut, sehingga orang merasa senang melihatnya. Adapun berjalan dengan sikap gagah dan wajar, serta berkata dengan tegas yang menunjukkan suatu pendirian yang kuat, tidak dilarang oleh agama.\n\nMenurut suatu riwayat dari \u0027Aisyah r.a. bahwa beliau melihat seorang laki-laki berjalan menunduk lemah, seakan-akan telah kehilangan kekuatan tubuhnya, maka beliau pun bertanya, \u0022Mengapa orang itu berjalan terlalu lemah dan lambat?\u0022 Seseorang menjawab, \u0022Dia adalah seorang fuqaha yang sangat alim.\u0022 Mendengar jawaban itu \u0027Aisyah berkata, \u0022Umar adalah penghulu fuqaha, tetapi apabila berjalan, ia berjalan dengan sikap yang gagah, apabila berkata, ia bersuara sedikit keras, dan apabila memukul, maka pukulannya sangat keras.\u0022"
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 3489,
+          "inSurah": 20,
+          "Jommal_classic": " 4509 3627 3609 5409 3627 4500 2709 2700 7245 3609 2700 4536 5436 8109 6309 4536 6336 1000 5400 4527 2700 5427 2700 5409 4527 4509 3609 3609 3609 3627 6309",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t1\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 21,
+          "page": 413,
+          "manzil": 5,
+          "ruku": 357,
+          "hizbQuarter": 164,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0637\u00A3\u0638\u0698\u0638\u201E\u0638\u0698\u0638\u2026\u0638\u2019 \u0637\u06BE\u0638\u0698\u0637\u00B1\u0638\u0698\u0638\u02C6\u0638\u2019\u0637\u00A7 \u0637\u00A3\u0638\u0698\u0638\u2020\u0638\u2018\u0638\u0698 \u0637\u00A7\u0638\u201E\u0638\u201E\u0638\u2018\u0638\u0698\u0638\u2021\u0638\u0698 \u0637\u00B3\u0638\u0698\u0637\u00AE\u0638\u2018\u0638\u0698\u0637\u00B1\u0638\u0698 \u0638\u201E\u0638\u0698\u0638\u0192\u0638\u0688\u0638\u2026 \u0638\u2026\u0638\u2018\u0638\u0698\u0637\u00A7 \u0638\u067E\u0638\u06AF\u0638\u0679 \u0637\u00A7\u0638\u201E\u0637\u00B3\u0638\u2018\u0638\u0698\u0638\u2026\u0638\u0698\u0637\u00A7\u0638\u02C6\u0638\u0698\u0637\u00A7\u0637\u06BE\u0638\u06AF \u0638\u02C6\u0638\u0698\u0638\u2026\u0638\u0698\u0637\u00A7 \u0638\u067E\u0638\u06AF\u0638\u0679 \u0637\u00A7\u0638\u201E\u0638\u2019\u0637\u00A3\u0638\u0698\u0637\u00B1\u0638\u2019\u0637\u00B6\u0638\u06AF \u0638\u02C6\u0638\u0698\u0637\u00A3\u0638\u0698\u0637\u00B3\u0638\u2019\u0637\u00A8\u0638\u0698\u0637\u061B\u0638\u0698 \u0637\u00B9\u0638\u0698\u0638\u201E\u0638\u0698\u0638\u0679\u0638\u2019\u0638\u0192\u0638\u0688\u0638\u2026\u0638\u2019 \u0638\u2020\u0638\u06AF\u0637\u00B9\u0638\u0698\u0638\u2026\u0638\u0698\u0638\u2021\u0638\u0688 \u0637\u00B8\u0638\u0698\u0637\u00A7\u0638\u2021\u0638\u06AF\u0637\u00B1\u0638\u0698\u0637\u00A9\u0638\u2039 \u0638\u02C6\u0638\u0698\u0637\u00A8\u0638\u0698\u0637\u00A7\u0637\u00B7\u0638\u06AF\u0638\u2020\u0638\u0698\u0637\u00A9\u0638\u2039 \u063A\u2014 \u0638\u02C6\u0638\u0698\u0638\u2026\u0638\u06AF\u0638\u2020\u0638\u0698 \u0637\u00A7\u0638\u201E\u0638\u2020\u0638\u2018\u0638\u0698\u0637\u00A7\u0637\u00B3\u0638\u06AF \u0638\u2026\u0638\u0698\u0638\u2020 \u0638\u0679\u0638\u0688\u0637\u00AC\u0638\u0698\u0637\u00A7\u0637\u00AF\u0638\u06AF\u0638\u201E\u0638\u0688 \u0638\u067E\u0638\u06AF\u0638\u0679 \u0637\u00A7\u0638\u201E\u0638\u201E\u0638\u2018\u0638\u0698\u0638\u2021\u0638\u06AF \u0637\u00A8\u0638\u06AF\u0637\u061B\u0638\u0698\u0638\u0679\u0638\u2019\u0637\u00B1\u0638\u06AF \u0637\u00B9\u0638\u06AF\u0638\u201E\u0638\u2019\u0638\u2026\u0638\u0686 \u0638\u02C6\u0638\u0698\u0638\u201E\u0638\u0698\u0637\u00A7 \u0638\u2021\u0638\u0688\u0637\u00AF\u0638\u2039\u0638\u2030 \u0638\u02C6\u0638\u0698\u0638\u201E\u0638\u0698\u0637\u00A7 \u0638\u0192\u0638\u06AF\u0637\u06BE\u0638\u0698\u0637\u00A7\u0637\u00A8\u0638\u0686 \u0638\u2026\u0638\u2018\u0638\u0688\u0638\u2020\u0638\u06AF\u0638\u0679\u0637\u00B1\u0638\u0686",
+          "transliteration": {
+            "en": "Alam taraw annal laaha sakhkhara lakum maa fis sa maawaati wa maa fil ardi wa asbaha \u0027alaikum ni\u0027amahoo zaahiratanw wa baatinah; wa minan naasi many yujaadilu fil laahi bighayri \u0027ilminw wa laa hudanw wa laa Kitaabim muneer",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "Do you not see that Allah has made subject to you whatever is in the heavens and whatever is in the earth and amply bestowed upon you His favors, [both] apparent and unapparent? But of the people is he who disputes about Allah without knowledge or guidance or an enlightening Book [from Him].",
+          "id": "Tidakkah kamu memperhatikan bahwa Allah telah menundukkan apa yang ada di langit dan apa yang ada di bumi untuk (kepentingan)mu dan menyempurnakan nikmat-Nya untukmu lahir dan batin. Tetapi di antara manusia ada yang membantah tentang (keesaan) Allah tanpa ilmu atau petunjuk dan tanpa Kitab yang memberi penerangan."
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/3489",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3489.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3489.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Titik berat nasihat-nasihat yang Lukman berikan kepada anaknya adalah larangan berbuat. Melaui ayat ini Allah mengecam mereka yang berlaku syirik padahal di depan matanya terhampar bukti-bukti keesaan-Nya. Tidakkah kamu memperhatikan dengan saksama bahwa Allah telah menundukkan apa yang ada di langit dan apa yang ada di bumi untuk kepentingan-mu dan memenuhi kebutuhanmu? Dia juga menyempurnakan nikmat-Nya untukmu yang bersifat lahir seperti harta dan jabatan, dan yang bersifat batin seperti ilmu, kesehatan, dan keimanan. Akan tetapi, di antara manusia ada yang membantah tentang risalah Nabi Muhammad, syariat, dan keesaan Allah dengan bantahan tanpa dasar ilmu atau petunjuk yang benar dan tanpa Kitab yang memberi penerangan dan bimbingan menuju kebenaran.",
+            "long": "Ayat ini mengingatkan manusia dengan menanyakan apakah mereka tidak memperhatikan tanda-tanda keesaan dan kekuasaan Allah di alam yang luas ini? Apakah mereka tidak memperhatikan bahwa Allah-lah yang menundukkan untuk mereka semua yang ada di alam ini, sehingga mereka dapat mengambil manfaat daripadanya. Dialah yang menjadikan matahari bersinar, sehingga siang menjadi terang benderang. Sinar matahari itu dapat menumbuhkan tumbuh-tumbuhan yang akan menjadi bahan makanan bagi manusia. \n\nBulan dan bintang dijadikan-Nya bercahaya, yang dapat menerangi malam yang gelap dan menjadi petunjuk bagi kapal yang mengarungi lautan. Diturunkannya hujan yang membasahi bumi dan menyuburkan tumbuh-tumbuhan, dan airnya untuk minuman manusia dan binatang, dan sebagian air itu disimpan dalam tanah sebagai persiapan musim kemarau. Dia menjadikan aneka ragam barang tambang, gas alam, dan sebagainya, yang semuanya itu dapat diambil manfaatnya oleh manusia. Tidaklah ada yang sanggup menghitung nikmat Allah yang telah dilimpahkan-Nya kepada manusia. \n\nDari Ibnu \u0027Abbas r.a., \u0022Saya bertanya kepada Nabi saw, \u0027Hai Rasulullah, apa makna nikmat lahiriah? Beliau menjawab, \u0027Budi baik seseorang. Dan nikmat batiniah adalah dia diberi hidayah beragama Islam.\u0022 (Riwayat al-Baihaqi)\n\nAda orang yang berpendapat bahwa adh-dhahirah ialah kesehatan dan budi pekerti yang luhur, dan al-bathinah ialah pengetahuan dan akal pikiran. Ada pula yang mengartikan adh-dhahirah dengan semua nikmat Allah yang tampak, seperti harta kekayaan, kemegahan, kecantikan, dan ketaatan, sedang al-bathinah ialah pengetahuan tentang Allah, keyakinan yang baik, pengetahuan tentang hakikat hidup yang sebenarnya, dan sebagainya. Sekalipun terdapat perbedaan tentang arti adh-dhahirah dan al-bathinah itu, namun dapat diambil kesimpulan bahwa keduanya merupakan nikmat-nikmat yang dilimpahkan Allah kepada manusia dan dapat dirasakannya.\n\nPada akhir ayat ini, Allah memperingatkan bahwa sekalipun Ia telah melimpahkan nikmat yang tidak terhingga kepada manusia, namun masih banyak manusia yang membantah dan mengingkari nikmat-nikmat itu, seperti Nadhar bin haris, Ubay bin Khalaf, dan lain-lain. Mereka membantah bukti yang dikemukakan Al-Qur\u0027an dan seruan Nabi dengan tidak berdasarkan pada ilmu pengetahuan, hujah yang benar, dan wahyu dan kitab yang diturunkan Allah."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 3490,
+          "inSurah": 21,
+          "Jommal_classic": " 3627 4500 5400 4545 1809 4518 5409 4518 2709 5427 1809 5427 6309 3645 1000 6309 3609 7236 8118 4509 2736 5436",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t1\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 21,
+          "page": 413,
+          "manzil": 5,
+          "ruku": 357,
+          "hizbQuarter": 164,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u02C6\u0638\u0698\u0637\u00A5\u0638\u06AF\u0637\u00B0\u0638\u0698\u0637\u00A7 \u0638\u201A\u0638\u06AF\u0638\u0679\u0638\u201E\u0638\u0698 \u0638\u201E\u0638\u0698\u0638\u2021\u0638\u0688\u0638\u2026\u0638\u0688 \u0637\u00A7\u0637\u06BE\u0638\u2018\u0638\u0698\u0637\u00A8\u0638\u06AF\u0637\u00B9\u0638\u0688\u0638\u02C6\u0637\u00A7 \u0638\u2026\u0638\u0698\u0637\u00A7 \u0637\u00A3\u0638\u0698\u0638\u2020\u0637\u00B2\u0638\u0698\u0638\u201E\u0638\u0698 \u0637\u00A7\u0638\u201E\u0638\u201E\u0638\u2018\u0638\u0698\u0638\u2021\u0638\u0688 \u0638\u201A\u0638\u0698\u0637\u00A7\u0638\u201E\u0638\u0688\u0638\u02C6\u0637\u00A7 \u0637\u00A8\u0638\u0698\u0638\u201E\u0638\u2019 \u0638\u2020\u0638\u0698\u0637\u06BE\u0638\u2018\u0638\u0698\u0637\u00A8\u0638\u06AF\u0637\u00B9\u0638\u0688 \u0638\u2026\u0638\u0698\u0637\u00A7 \u0638\u02C6\u0638\u0698\u0637\u00AC\u0638\u0698\u0637\u00AF\u0638\u2019\u0638\u2020\u0638\u0698\u0637\u00A7 \u0637\u00B9\u0638\u0698\u0638\u201E\u0638\u0698\u0638\u0679\u0638\u2019\u0638\u2021\u0638\u06AF \u0637\u00A2\u0637\u00A8\u0638\u0698\u0637\u00A7\u0637\u060C\u0638\u0698\u0638\u2020\u0638\u0698\u0637\u00A7 \u063A\u0691 \u0637\u00A3\u0638\u0698\u0638\u02C6\u0638\u0698\u0638\u201E\u0638\u0698\u0638\u02C6\u0638\u2019 \u0638\u0192\u0638\u0698\u0637\u00A7\u0638\u2020\u0638\u0698 \u0637\u00A7\u0638\u201E\u0637\u00B4\u0638\u2018\u0638\u0698\u0638\u0679\u0638\u2019\u0637\u00B7\u0638\u0698\u0637\u00A7\u0638\u2020\u0638\u0688 \u0638\u0679\u0638\u0698\u0637\u00AF\u0638\u2019\u0637\u00B9\u0638\u0688\u0638\u02C6\u0638\u2021\u0638\u0688\u0638\u2026\u0638\u2019 \u0637\u00A5\u0638\u06AF\u0638\u201E\u0638\u0698\u0638\u2030\u0638\u00B0 \u0637\u00B9\u0638\u0698\u0637\u00B0\u0638\u0698\u0637\u00A7\u0637\u00A8\u0638\u06AF \u0637\u00A7\u0638\u201E\u0637\u00B3\u0638\u2018\u0638\u0698\u0637\u00B9\u0638\u06AF\u0638\u0679\u0637\u00B1\u0638\u06AF",
+          "transliteration": {
+            "en": "Wa izaa qeela lahumut-tabi\u0027oo maaa anzalal laahu qaaloo bal nattabi\u0027u maa wajadnaa \u0027alaihi aabaaa\u0027anaa; awalaw kaanash Shaitaanu yad\u0027oohum ilaa \u0027azaabis sa\u0027eer",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "And when it is said to them, \u0022Follow what Allah has revealed,\u0022 they say, \u0022Rather, we will follow that upon which we found our fathers.\u0022 Even if Satan was inviting them to the punishment of the Blaze?",
+          "id": "Dan apabila dikatakan kepada mereka, \u00E2\u20AC\u200CIkutilah apa yang diturunkan Allah!\u00E2\u20AC\u200C Mereka menjawab, \u00E2\u20AC\u200C(Tidak), tetapi kami (hanya) mengikuti kebiasaan yang kami dapati dari nenek moyang kami.\u00E2\u20AC\u200C Apakah mereka (akan mengikuti nenek moyang mereka) walaupun sebenarnya setan menyeru mereka ke dalam azab api yang menyala-nyala (neraka)?"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/3490",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3490.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3490.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Dan apabila dikatakan kepada mereka yang membantah keesaan Allah, \u00E2\u20AC\u0153Ikutilah apa yang diturunkan Allah berupa syariat yang benar!\u00E2\u20AC\u200C Mereka menjawab, \u00E2\u20AC\u0153Tidak! Tetapi kami hanya mengikuti kebiasaan yang kami dapati dari nenek moyang kami.\u00E2\u20AC\u200C Jawaban ini menggambarkan buruknya akidah mereka. Apakah mereka tetap mengikuti keyakinan nenek moyang mereka walaupun sebenarnya mereka hanya mengikuti langkah setan yang menyeru mereka ke dalam azab api yang menyala-nyala? Mereka pasti tidak akan berbuat demikian andaikata mau menggunakan akal dan nurani yang sehat.",
+            "long": "Ayat ini menerangkan bahwa orang kafir seperti yang disebutkan ayat di atas tidak dapat diharapkan lagi untuk beriman karena mereka sangat ingkar dan pikiran mereka telah ditutupi oleh taklid buta kepada nenek moyang mereka. Oleh karena itu, mereka tidak lagi menghiraukan dalil-dalil yang dike-mukakan. Sifat dan sikap mereka digambarkan Allah dalam ayat ini dengan mengatakan, \u0022Apabila dikatakan kepada orang-orang yang membantah keesaan Allah itu, \u0027Ikutilah apa yang diturunkan Allah kepada Rasul-Nya, mereka menjawab, \u0027Kami mengikuti apa yang telah diajarkan kepada kami oleh bapak-bapak kami, dan mereka telah mengajarkan agama yang benar dan ketentuan-ketentuan yang baik bagi kami.\u0022\n\nPada akhir ayat ini diterangkan bahwa orang-orang musyrik itu tetap mengikuti agama nenek moyang mereka, walaupun orang-orang tua mereka itu tidak berpengetahuan dan tidak pernah mendapat petunjuk. Hal itu menunjukkan bahwa dalam hal kepercayaan, mereka tidak lagi menggunakan akal pikiran, tetapi telah diperbudak oleh hawa nafsu. Hawa nafsu yang demikian itu diembuskan dan ditanamkan oleh setan ke dalam hati orang-orang kafir, sehingga mereka tidak akan dapat melihat kebenaran. Akibat dari tindakan itu, mereka akan terjerumus ke dalam azab neraka Jahanam di akhirat nanti."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 3491,
+          "inSurah": 22,
+          "Jommal_classic": " 1000 4500 6309 6309 3609 5409 5400 5418 4509 6336 7245 8118 1000 5409 5409 4536 6327",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t1\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t1"
+        },
+        "meta": {
+          "juz": 21,
+          "page": 413,
+          "manzil": 5,
+          "ruku": 357,
+          "hizbQuarter": 165,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u063A\u200D \u0638\u02C6\u0638\u0698\u0638\u2026\u0638\u0698\u0638\u2020 \u0638\u0679\u0638\u0688\u0637\u00B3\u0638\u2019\u0638\u201E\u0638\u06AF\u0638\u2026\u0638\u2019 \u0638\u02C6\u0638\u0698\u0637\u00AC\u0638\u2019\u0638\u2021\u0638\u0698\u0638\u2021\u0638\u0688 \u0637\u00A5\u0638\u06AF\u0638\u201E\u0638\u0698\u0638\u2030 \u0637\u00A7\u0638\u201E\u0638\u201E\u0638\u2018\u0638\u0698\u0638\u2021\u0638\u06AF \u0638\u02C6\u0638\u0698\u0638\u2021\u0638\u0688\u0638\u02C6\u0638\u0698 \u0638\u2026\u0638\u0688\u0637\u00AD\u0638\u2019\u0637\u00B3\u0638\u06AF\u0638\u2020\u0638\u0152 \u0638\u067E\u0638\u0698\u0638\u201A\u0638\u0698\u0637\u00AF\u0638\u06AF \u0637\u00A7\u0637\u00B3\u0638\u2019\u0637\u06BE\u0638\u0698\u0638\u2026\u0638\u2019\u0637\u00B3\u0638\u0698\u0638\u0192\u0638\u0698 \u0637\u00A8\u0638\u06AF\u0637\u00A7\u0638\u201E\u0638\u2019\u0637\u00B9\u0638\u0688\u0637\u00B1\u0638\u2019\u0638\u02C6\u0638\u0698\u0637\u00A9\u0638\u06AF \u0637\u00A7\u0638\u201E\u0638\u2019\u0638\u02C6\u0638\u0688\u0637\u00AB\u0638\u2019\u0638\u201A\u0638\u0698\u0638\u2030\u0638\u00B0 \u063A\u2014 \u0638\u02C6\u0638\u0698\u0637\u00A5\u0638\u06AF\u0638\u201E\u0638\u0698\u0638\u2030 \u0637\u00A7\u0638\u201E\u0638\u201E\u0638\u2018\u0638\u0698\u0638\u2021\u0638\u06AF \u0637\u00B9\u0638\u0698\u0637\u00A7\u0638\u201A\u0638\u06AF\u0637\u00A8\u0638\u0698\u0637\u00A9\u0638\u0688 \u0637\u00A7\u0638\u201E\u0638\u2019\u0637\u00A3\u0638\u0688\u0638\u2026\u0638\u0688\u0638\u02C6\u0637\u00B1\u0638\u06AF",
+          "transliteration": {
+            "en": "Wa many yuslim wajha hooo ilal laahi wa huwa muhsinun faqadistamsaka bil\u0027ur watil wusqaa; wa ilal laahi \u0027aaqibatul umoor",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "And whoever submits his face to Allah while he is a doer of good - then he has grasped the most trustworthy handhold. And to Allah will be the outcome of [all] matters.",
+          "id": "Dan barangsiapa berserah diri kepada Allah, sedang dia orang yang berbuat kebaikan, maka sesungguhnya dia telah berpegang kepada buhul (tali) yang kokoh. Hanya kepada Allah kesudahan segala urusan."
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/3491",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3491.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3491.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Sungguh mengherankan jika seseorang mengingkari wujud dan keesaan-Nya, apalagi hal itu hanya didasarkan pada taklid buta. Ia tidak memiliki pegangan, berbeda halnya dengan orang yang berserah diri kepada Allah. Siapa saja yang berserah diri kepada Allah dengan penuh keikhlasan, sedang dia orang yang berbuat kebaikan dengan menebarkan kebajikan kepada siapa pun dan di mana pun, maka sesungguhnya dia telah berpegang kepada buhul tali yang kukuh. Di akhirat ia akan memperoleh balasannya karena hanya kepada Allah kesudahan segala urusan untuk diputuskan dan dibalas dengan sangat adil.",
+            "long": "Ayat ini menerangkan bahwa orang-orang yang menyembah Allah, tunduk dan merendahkan diri kepada-Nya, ikhlas dan sungguh-sungguh dalam melaksanakan perintah-perintah-Nya, dan meninggalkan semua perbuatan maksiat dan mungkar, berarti telah berpegang pada buhul tali yang kukuh.\n\nMaksud perkataan \u0022ihsan\u0022 dalam ayat ini ialah beribadah kepada Allah dengan sungguh-sungguh, sehingga merasakan seolah-olah berhadapan langsung dengan-Nya, sebagaimana yang diterangkan oleh hadis, bahwa Nabi saw ditanya Jibril:\n\nTerangkanlah kepadaku tentang ihsan, Nabi saw menjawab, \u0022Bahwa engkau menyembah Allah, seakan-akan engkau melihat-Nya, maka jika engkau tidak melihat-Nya, sesungguhnya Dia melihat engkau.\u0022 (Riwayat Muslim dari \u0027Umar) \n\nAllah mengibaratkan orang yang melakukan \u0022ihsan\u0022 yang benar-benar beriman kepada-Nya, taat melaksanakan perintah-perintah-Nya, dan menghentikan larangan-larangan-Nya adalah sebagai pendaki gunung, yang menggunakan tali yang dibundelkan pada tempat berpegang. Ia tidak usah khawatir karena ia menggunakan tali dengan buhul-buhul yang kuat dan kukuh tempat berpegang. Tidak ada kekhawatiran sedikit pun dalam hatinya akan jatuh.\n\nPada akhir ayat ini diterangkan bahwa semua makhluk kembali kepada Allah saja. Oleh karena itu, hanya Dialah yang memberikan penghargaan yang baik kepada orang yang bertawakal dengan memberikan pembalasan yang baik pula."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 3492,
+          "inSurah": 23,
+          "Jommal_classic": " 4500 4509 3609 6318 6309 1000 6318 8127 10818 2718 5418 1000 3609 5409 5409 2736 5436",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t9\t\t1\t\t9\t\t9\t\t9\t\t9\t\t9\t\t1\t\t9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 21,
+          "page": 413,
+          "manzil": 5,
+          "ruku": 357,
+          "hizbQuarter": 165,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u02C6\u0638\u0698\u0638\u2026\u0638\u0698\u0638\u2020 \u0638\u0192\u0638\u0698\u0638\u067E\u0638\u0698\u0637\u00B1\u0638\u0698 \u0638\u067E\u0638\u0698\u0638\u201E\u0638\u0698\u0637\u00A7 \u0638\u0679\u0638\u0698\u0637\u00AD\u0638\u2019\u0637\u00B2\u0638\u0688\u0638\u2020\u0638\u0192\u0638\u0698 \u0638\u0192\u0638\u0688\u0638\u067E\u0638\u2019\u0637\u00B1\u0638\u0688\u0638\u2021\u0638\u0688 \u063A\u0691 \u0637\u00A5\u0638\u06AF\u0638\u201E\u0638\u0698\u0638\u0679\u0638\u2019\u0638\u2020\u0638\u0698\u0637\u00A7 \u0638\u2026\u0638\u0698\u0637\u00B1\u0638\u2019\u0637\u00AC\u0638\u06AF\u0637\u00B9\u0638\u0688\u0638\u2021\u0638\u0688\u0638\u2026\u0638\u2019 \u0638\u067E\u0638\u0698\u0638\u2020\u0638\u0688\u0638\u2020\u0638\u0698\u0637\u00A8\u0638\u2018\u0638\u06AF\u0637\u00A6\u0638\u0688\u0638\u2021\u0638\u0688\u0638\u2026 \u0637\u00A8\u0638\u06AF\u0638\u2026\u0638\u0698\u0637\u00A7 \u0637\u00B9\u0638\u0698\u0638\u2026\u0638\u06AF\u0638\u201E\u0638\u0688\u0638\u02C6\u0637\u00A7 \u063A\u0691 \u0637\u00A5\u0638\u06AF\u0638\u2020\u0638\u2018\u0638\u0698 \u0637\u00A7\u0638\u201E\u0638\u201E\u0638\u2018\u0638\u0698\u0638\u2021\u0638\u0698 \u0637\u00B9\u0638\u0698\u0638\u201E\u0638\u06AF\u0638\u0679\u0638\u2026\u0638\u0152 \u0637\u00A8\u0638\u06AF\u0637\u00B0\u0638\u0698\u0637\u00A7\u0637\u06BE\u0638\u06AF \u0637\u00A7\u0638\u201E\u0637\u00B5\u0638\u2018\u0638\u0688\u0637\u00AF\u0638\u0688\u0638\u02C6\u0637\u00B1\u0638\u06AF",
+          "transliteration": {
+            "en": "Wa man kafara falaa yahzunka kufruh; ilainaa marji\u0027uhum fanunabbi\u0027uhum bimaa \u0027amiloo; innal laaha \u0027aleemum bizaatis sudoor",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "And whoever has disbelieved - let not his disbelief grieve you. To Us is their return, and We will inform them of what they did. Indeed, Allah is Knowing of that within the breasts.",
+          "id": "Dan barangsiapa kafir maka kekafirannya itu janganlah menyedihkanmu (Muhammad). Hanya kepada Kami tempat kembali mereka, lalu Kami beritakan kepada mereka apa yang telah mereka kerjakan. Sesungguhnya Allah Maha Mengetahui segala isi hati."
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/3492",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3492.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3492.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Wahai Nabi Muhammad, jika segala urusan kembali kepada Allah untuk diputuskan dengan adil maka siapa saja yang memilih jalan kafir maka kekafirannya itu janganlah menyedihkanmu. Hanya kepada Kami tempat kembali mereka di akhirat nanti, lalu Kami beritakan kepada mereka apa yang telah mereka kerjakan kemudian Kami balas dengan setimpal. Tidak ada yang bisa disembunyikan di akhirat nanti karena sesungguhnya Allah Maha Mengetahui segala sesuatu, bahkan yang tersirat dalam isi hati.",
+            "long": "Ayat ini merupakan hiburan kepada Nabi saw dan para sahabat yang merasa sedih oleh sikap dan tingkah laku orang-orang musyrik kepada mereka. Seakan-akan Allah mengatakan, \u0022Hai Nabi, janganlah engkau bersedih hati lantaran kekafiran mereka. Sebab, tugasmu hanya menyampaikan agama-Ku kepada mereka, bukan untuk menjadikan mereka beriman. Mereka semua akan kembali kepada-Ku pada hari Kiamat, lalu dikabarkan kepada mereka segala yang pernah mereka perbuat selama hidup di dunia. Aku akan mengadakan penilaian yang adil terhadapnya karena Aku mengetahui semua yang terkandung di dalam hati mereka.\u0022"
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 3493,
+          "inSurah": 24,
+          "Jommal_classic": " 9918 6309 3609 9027 4509 2736 4518",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 21,
+          "page": 413,
+          "manzil": 5,
+          "ruku": 357,
+          "hizbQuarter": 165,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u2020\u0638\u0688\u0638\u2026\u0638\u0698\u0637\u06BE\u0638\u2018\u0638\u06AF\u0637\u00B9\u0638\u0688\u0638\u2021\u0638\u0688\u0638\u2026\u0638\u2019 \u0638\u201A\u0638\u0698\u0638\u201E\u0638\u06AF\u0638\u0679\u0638\u201E\u0638\u2039\u0637\u00A7 \u0637\u00AB\u0638\u0688\u0638\u2026\u0638\u2018\u0638\u0698 \u0638\u2020\u0638\u0698\u0637\u00B6\u0638\u2019\u0637\u00B7\u0638\u0698\u0637\u00B1\u0638\u2018\u0638\u0688\u0638\u2021\u0638\u0688\u0638\u2026\u0638\u2019 \u0637\u00A5\u0638\u06AF\u0638\u201E\u0638\u0698\u0638\u2030\u0638\u00B0 \u0637\u00B9\u0638\u0698\u0637\u00B0\u0638\u0698\u0637\u00A7\u0637\u00A8\u0638\u0686 \u0637\u061B\u0638\u0698\u0638\u201E\u0638\u06AF\u0638\u0679\u0637\u00B8\u0638\u0686",
+          "transliteration": {
+            "en": "Numatti\u0027uhum qaleelan summa nadtarruhum ilaa \u0027azaabin ghaleez",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "We grant them enjoyment for a little; then We will force them to a massive punishment.",
+          "id": "Kami biarkan mereka bersenang-senang sebentar, kemudian Kami paksa mereka (masuk) ke dalam azab yang keras."
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/3493",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3493.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3493.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Semua akan mendapat balasan setimpal, karena itulah Kami biarkan mereka bersenang-senang di dunia yang hanya sebentar dan serba terbatas. Kemudian apabila masa yang telah Kami tentukan tiba, Kami paksa mereka masuk ke dalam azab yang keras.",
+            "long": "Ayat ini menerangkan kepada orang-orang kafir bahwa mereka hanya diberi kesenangan hidup yang sebentar dan bersifat sementara. Selama waktu yang sedikit itu, mereka dapat mempergunakan nikmat-nikmat yang disediakan Allah dan mengecap kesenangan hidup. Akan tetapi, kesenangan sementara itu tidak ada artinya sama sekali jika dibandingkan dengan kesenangan ukhrawi. Kesenangan sementara itu akan hilang, seakan-akan tidak pernah mereka alami, di saat mereka menemui azab yang pedih di alam neraka nanti. Hal ini dikuatkan oleh firman Allah yang lain:\n\nKatakanlah, \u0022Sesungguhnya orang-orang yang mengada-adakan kebohongan terhadap Allah tidak akan beruntung.\u0022 (Bagi mereka) kesenangan (sesaat) ketika di dunia, selanjutnya kepada Kamilah mereka kembali, kemudian Kami rasakan kepada mereka azab yang berat, karena kekafiran mereka. (Yunus/10: 69-70)"
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 3494,
+          "inSurah": 25,
+          "Jommal_classic": " 5409 7227 4500 4509 7245 6336 10800 5409 1000 3600 5427 6300 1000 2709 8127 1809 9009",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t1\t\t9\t\t9\t\t9\t\t1\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 21,
+          "page": 413,
+          "manzil": 5,
+          "ruku": 357,
+          "hizbQuarter": 165,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u02C6\u0638\u0698\u0638\u201E\u0638\u0698\u0637\u00A6\u0638\u06AF\u0638\u2020 \u0637\u00B3\u0638\u0698\u0637\u00A3\u0638\u0698\u0638\u201E\u0638\u2019\u0637\u06BE\u0638\u0698\u0638\u2021\u0638\u0688\u0638\u2026 \u0638\u2026\u0638\u2018\u0638\u0698\u0638\u2020\u0638\u2019 \u0637\u00AE\u0638\u0698\u0638\u201E\u0638\u0698\u0638\u201A\u0638\u0698 \u0637\u00A7\u0638\u201E\u0637\u00B3\u0638\u2018\u0638\u0698\u0638\u2026\u0638\u0698\u0637\u00A7\u0638\u02C6\u0638\u0698\u0637\u00A7\u0637\u06BE\u0638\u06AF \u0638\u02C6\u0638\u0698\u0637\u00A7\u0638\u201E\u0638\u2019\u0637\u00A3\u0638\u0698\u0637\u00B1\u0638\u2019\u0637\u00B6\u0638\u0698 \u0638\u201E\u0638\u0698\u0638\u0679\u0638\u0698\u0638\u201A\u0638\u0688\u0638\u02C6\u0638\u201E\u0638\u0688\u0638\u2020\u0638\u2018\u0638\u0698 \u0637\u00A7\u0638\u201E\u0638\u201E\u0638\u2018\u0638\u0698\u0638\u2021\u0638\u0688 \u063A\u0691 \u0638\u201A\u0638\u0688\u0638\u201E\u0638\u06AF \u0637\u00A7\u0638\u201E\u0638\u2019\u0637\u00AD\u0638\u0698\u0638\u2026\u0638\u2019\u0637\u00AF\u0638\u0688 \u0638\u201E\u0638\u06AF\u0638\u201E\u0638\u2018\u0638\u0698\u0638\u2021\u0638\u06AF \u063A\u0691 \u0637\u00A8\u0638\u0698\u0638\u201E\u0638\u2019 \u0637\u00A3\u0638\u0698\u0638\u0192\u0638\u2019\u0637\u00AB\u0638\u0698\u0637\u00B1\u0638\u0688\u0638\u2021\u0638\u0688\u0638\u2026\u0638\u2019 \u0638\u201E\u0638\u0698\u0637\u00A7 \u0638\u0679\u0638\u0698\u0637\u00B9\u0638\u2019\u0638\u201E\u0638\u0698\u0638\u2026\u0638\u0688\u0638\u02C6\u0638\u2020\u0638\u0698",
+          "transliteration": {
+            "en": "Wa la\u0027in sa altahum man khalaqas samaawaati wal arda la yaqoolunnal laah; qulil hamdu lillaah; bal aksaruhum laa ya\u0027lamoon",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "And if you asked them, \u0022Who created the heavens and earth?\u0022 they would surely say, \u0022Allah.\u0022 Say, \u0022[All] praise is [due] to Allah \u0022; but most of them do not know.",
+          "id": "Dan sungguh, jika engkau (Muhammad) tanyakan kepada mereka, \u00E2\u20AC\u200CSiapakah yang menciptakan langit dan bumi?\u00E2\u20AC\u200C Tentu mereka akan menjawab, \u00E2\u20AC\u200CAllah.\u00E2\u20AC\u200C Katakanlah, \u00E2\u20AC\u200CSegala puji bagi Allah,\u00E2\u20AC\u200C tetapi kebanyakan mereka tidak mengetahui."
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/3494",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3494.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3494.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Kesadaran manusia, bahkan orang musyrik, tentang eksistensi Tuhan sesungguhnya merupakan fitrah sehingga tidak bisa dihilangkan. Dan sebagai buktinya, sungguh jika engkau wahai Nabi Muhammad tanyakan kepada mereka, \u00E2\u20AC\u0153Siapakah yang menciptakan langit dan bumi?\u00E2\u20AC\u200C Tentu mereka mengakui dan akan menjawab, \u00E2\u20AC\u0153Allah.\u00E2\u20AC\u200C Meski demikian, adalah mengherankan bagaimana mereka tetap menyembah selain Allah. Jika demikian, katakanlah, wahai Nabi Muhammad, \u00E2\u20AC\u0153Segala puji bagi Allah bahwa mereka mengakui eksistensi Allah yang memang tidak bisa diingkari oleh siapa pun.\u00E2\u20AC\u200C Tetapi, kebanyakan mereka tidak mengetahui dan menyadari kesesatannya dalam menyekutukan Allah.",
+            "long": "Ayat ini menyatakan kebodohan dan kefanatikan orang-orang musyrik terhadap agama nenek moyang mereka. Bukti kebodohan mereka itu dinyatakan Allah, \u0022Dan jika engkau tanyakan kepada orang-orang musyrik itu, hai Muhammad, tentang siapa yang menciptakan langit dan bumi, mereka akan menjawab bahwa yang menciptakan keduanya itu dan apa yang terdapat di dalamnya adalah Allah.\u0022\n\nPengakuan mereka ini adalah pengakuan yang benar, dan mereka akan terpaksa menjawab demikian, karena memang sudah amat jelas bahwa yang menjadikan alam ini adalah Allah. Berdasarkan pengakuan itu seharusnya mereka menyembah dan menghambakan diri kepada Allah saja, karena Dialah Tuhan yang berhak disembah. Akan tetapi, perbuatan dan sikap mereka itu berlawanan dengan pengakuan mereka karena mempersekutukan Allah dengan sesuatu yang tidak memberi manfaat dan tidak pula memberi mudarat.\n\nKemudian Allah mengajarkan kepada Rasul-Nya bahwa di kala orang-orang musyrik itu menjawab demikian, maka ucapkanlah, \u0022Segala puji bagi Allah.\u0022 Karena dengan jawaban semacam itu, mereka telah mengakui kesalahan mereka menyembah apa yang sepatutnya tidak disembah. \n\nAllah memperingatkan pula bahwa jika mereka melakukan perbuatan yang berlawanan dengan pengakuan mereka sendiri, maka hal itu disebabkan karena kebanyakan dari orang-orang musyrik itu tidak mengetahui siapa yang berhak mendapat pujian dan ungkapan syukur manusia. Pada pengakuan kaum musyrik itu terdapat suatu kenyataan bahwa walaupun mereka mendustakan Nabi Muhammad, tetapi karena mereka percaya bahwa alam semesta ini adalah ciptaan Tuhan, maka pada hakikatnya mereka mengakui kerasulan. Menurut logika dan pikiran, Allah telah menciptakan alam ini, termasuk manusia, tentu Ia tidak akan melepaskannya begitu saja. Tuhan tentu mengirim rasul-rasul untuk memberi taufik dan hidayah-Nya kepada manusia."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 3495,
+          "inSurah": 26,
+          "Jommal_classic": " 6300 1809 2700 7245 6336 1000 3609 5409 3600 7218 6327",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t9\t\t1\t\t9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 21,
+          "page": 413,
+          "manzil": 5,
+          "ruku": 357,
+          "hizbQuarter": 165,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u201E\u0638\u06AF\u0638\u201E\u0638\u2018\u0638\u0698\u0638\u2021\u0638\u06AF \u0638\u2026\u0638\u0698\u0637\u00A7 \u0638\u067E\u0638\u06AF\u0638\u0679 \u0637\u00A7\u0638\u201E\u0637\u00B3\u0638\u2018\u0638\u0698\u0638\u2026\u0638\u0698\u0637\u00A7\u0638\u02C6\u0638\u0698\u0637\u00A7\u0637\u06BE\u0638\u06AF \u0638\u02C6\u0638\u0698\u0637\u00A7\u0638\u201E\u0638\u2019\u0637\u00A3\u0638\u0698\u0637\u00B1\u0638\u2019\u0637\u00B6\u0638\u06AF \u063A\u0691 \u0637\u00A5\u0638\u06AF\u0638\u2020\u0638\u2018\u0638\u0698 \u0637\u00A7\u0638\u201E\u0638\u201E\u0638\u2018\u0638\u0698\u0638\u2021\u0638\u0698 \u0638\u2021\u0638\u0688\u0638\u02C6\u0638\u0698 \u0637\u00A7\u0638\u201E\u0638\u2019\u0637\u061B\u0638\u0698\u0638\u2020\u0638\u06AF\u0638\u0679\u0638\u2018\u0638\u0688 \u0637\u00A7\u0638\u201E\u0638\u2019\u0637\u00AD\u0638\u0698\u0638\u2026\u0638\u06AF\u0638\u0679\u0637\u00AF\u0638\u0688",
+          "transliteration": {
+            "en": "Lilaahi ma fis samaa waati wal ard; innal laaha Huwal Ghaniyyul Hameed",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "To Allah belongs whatever is in the heavens and earth. Indeed, Allah is the Free of need, the Praiseworthy.",
+          "id": "Milik Allah-lah apa yang di langit dan di bumi. Sesungguhnya Allah, Dialah Yang Mahakaya, Maha Terpuji."
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/3495",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3495.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3495.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Hanya Allah yang berhak disembah dan ditaati, sebab hanya milik Allah-lah apa yang di langit dan di bumi. Sesungguhnya Allah, Dialah Yang Mahakaya; dia tidak butuh ibadah hamba-Nya. Dia pun Maha Terpuji meski tidak seorang pun memuji-Nya.",
+            "long": "Hanya Allah yang memiliki langit dan bumi beserta segala sesuatu yang ada di dalamnya, tidak ada yang lain karena Dialah yang menciptakannya. Dialah yang mengatur, menjaga, memelihara, dan menentukan akhir kejadiannya. Dia berbuat menurut apa yang dikehendaki-Nya. Oleh karena itu, pantaslah ia dipuji dan disanjung, serta pantas pula dipanjatkan syukur kepada-Nya. Dia tidak memerlukan sesuatu apa pun dari makhluk-Nya.\n\nDari ayat ini dapat dipahami bahwa menurut agama Islam, harta ini adalah milik Allah. Manusia hanya dipinjamkan dan diperbolehkan untuk memanfaatkannya, sesuai dengan ketentuan-ketentuan agama. Oleh karena itu, Allah bisa saja mengambil secara paksa seluruh milik manusia. Namun demikian, karena Allah tahu bahwa manusia mempunyai sifat kikir, maka Ia tidak melakukan hal itu. Allah hanya mengambil sebagian dari harta yang wajib dizakati. Dalam hal ini, waliyyul-amri (pemerintah) berhak mengambil, kalau perlu secara paksa, harta zakat yang ada pada kaum Muslimin, untuk disalurkan pada jalan Allah."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 3496,
+          "inSurah": 27,
+          "Jommal_classic": " 5400 5418 2700 4536 2700 3636 6318 6336 7209 2700 4527 3636 3636 2709 5418 6318 5409 1000 3609 5409 3627 5409",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t1\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 21,
+          "page": 413,
+          "manzil": 5,
+          "ruku": 357,
+          "hizbQuarter": 165,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u02C6\u0638\u0698\u0638\u201E\u0638\u0698\u0638\u02C6\u0638\u2019 \u0637\u00A3\u0638\u0698\u0638\u2020\u0638\u2018\u0638\u0698\u0638\u2026\u0638\u0698\u0637\u00A7 \u0638\u067E\u0638\u06AF\u0638\u0679 \u0637\u00A7\u0638\u201E\u0638\u2019\u0637\u00A3\u0638\u0698\u0637\u00B1\u0638\u2019\u0637\u00B6\u0638\u06AF \u0638\u2026\u0638\u06AF\u0638\u2020 \u0637\u00B4\u0638\u0698\u0637\u00AC\u0638\u0698\u0637\u00B1\u0638\u0698\u0637\u00A9\u0638\u0686 \u0637\u00A3\u0638\u0698\u0638\u201A\u0638\u2019\u0638\u201E\u0638\u0698\u0637\u00A7\u0638\u2026\u0638\u0152 \u0638\u02C6\u0638\u0698\u0637\u00A7\u0638\u201E\u0638\u2019\u0637\u00A8\u0638\u0698\u0637\u00AD\u0638\u2019\u0637\u00B1\u0638\u0688 \u0638\u0679\u0638\u0698\u0638\u2026\u0638\u0688\u0637\u00AF\u0638\u2018\u0638\u0688\u0638\u2021\u0638\u0688 \u0638\u2026\u0638\u06AF\u0638\u2020 \u0637\u00A8\u0638\u0698\u0637\u00B9\u0638\u2019\u0637\u00AF\u0638\u06AF\u0638\u2021\u0638\u06AF \u0637\u00B3\u0638\u0698\u0637\u00A8\u0638\u2019\u0637\u00B9\u0638\u0698\u0637\u00A9\u0638\u0688 \u0637\u00A3\u0638\u0698\u0637\u00A8\u0638\u2019\u0637\u00AD\u0638\u0688\u0637\u00B1\u0638\u0686 \u0638\u2026\u0638\u2018\u0638\u0698\u0637\u00A7 \u0638\u2020\u0638\u0698\u0638\u067E\u0638\u06AF\u0637\u00AF\u0638\u0698\u0637\u06BE\u0638\u2019 \u0638\u0192\u0638\u0698\u0638\u201E\u0638\u06AF\u0638\u2026\u0638\u0698\u0637\u00A7\u0637\u06BE\u0638\u0688 \u0637\u00A7\u0638\u201E\u0638\u201E\u0638\u2018\u0638\u0698\u0638\u2021\u0638\u06AF \u063A\u2014 \u0637\u00A5\u0638\u06AF\u0638\u2020\u0638\u2018\u0638\u0698 \u0637\u00A7\u0638\u201E\u0638\u201E\u0638\u2018\u0638\u0698\u0638\u2021\u0638\u0698 \u0637\u00B9\u0638\u0698\u0637\u00B2\u0638\u06AF\u0638\u0679\u0637\u00B2\u0638\u0152 \u0637\u00AD\u0638\u0698\u0638\u0192\u0638\u06AF\u0638\u0679\u0638\u2026\u0638\u0152",
+          "transliteration": {
+            "en": "Wa law annamaa fil ardi min shajaratin aqlaamunw wal bahru yamudduhoo mim ba\u0027dihee sab\u0027atu abhurim maa nafidat Kalimaatul laah; innal laaha \u0027azeezun Hakeem",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "And if whatever trees upon the earth were pens and the sea [was ink], replenished thereafter by seven [more] seas, the words of Allah would not be exhausted. Indeed, Allah is Exalted in Might and Wise.",
+          "id": "Dan seandainya pohon-pohon di bumi menjadi pena dan lautan (menjadi tinta), ditambahkan kepadanya tujuh lautan (lagi) setelah (kering)nya, niscaya tidak akan habis-habisnya (dituliskan) kalimat-kalimat Allah. Sesungguhnya Allah Mahaperkasa, Mahabijaksana."
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/3496",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3496.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3496.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Ayat ini menggambarkan betapa sempurna kuasa Allah dan betapa luas ilmu-Nya. Seandainya pohon-pohon di bumi menjadi pena dan lautan menjadi tinta, dan ditambahkan kepadanya tujuh lautan lagi untuk menjadi tinta setelah habis-nya lautan yang pertama, niscaya tidak akan habis-habisnya kalimat-kalimat Allah dituliskan. Sesungguhnya Allah Mahaperkasa, tidak ada satu pun yang sanggup mengalahkan-Nya Mahabijaksana dalam setiap pengaturan dan kebijakan-Nya (Lihat: al-Kahf/18: 109).",
+            "long": "Diriwayatkan bahwa tatkala Rasulullah masih berada di Mekah turunlah ayat:\n\nDan mereka bertanya kepadamu (Muhammad) tentang ruh. Katakanlah, \u0022Ruh itu termasuk urusan Tuhanku, sedangkan kamu diberi pengetahuan hanya sedikit.\u0022 (al- Isra\u0027/17: 85)\n\nTatkala berhijrah ke Medinah, Rasulullah datang kepada rahib-rahib Yahudi. Mereka berkata, \u0022Ya Muhammad, telah sampai kepada kami bahwa engkau berkata, \u0027dan tidaklah kamu diberi pengetahuan melainkan sedikit. Apakah kami yang kamu maksudkan dengan perkataan itu, atau kaummu?\u0022 Rasulullah menjawab, \u0022Semuanya yang aku maksudkan.\u0022 Mereka berkata, \u0022Bukankah telah engkau baca dalam kitab yang diturunkan kepadamu bahwa kepada kami telah diturunkan Taurat dan di dalamnya terdapat ilmu tentang segala sesuatu.\u0022 Rasulullah berkata, \u0022Ilmu dalam Taurat itu sedikit, jika dibandingkan dengan ilmu Allah, dan sesungguhnya Allah menurunkan kepadaku sesuatu, yang jika kamu amalkan, niscaya akan memberi manfaat kepadamu.\u0022 Mereka berkata, \u0022Ya Muhammad, kenapa kamu mengatakan demikian, sedang engkau mengatakan, \u0027dan barang siapa yang diberi hikmah, sungguh telah diberikan kebajikan yang banyak. Bagaimana mungkin berkumpul pada sesuatu, ilmu yang sedikit dan kebaikan yang banyak?\u0022 Maka Allah menurunkan ayat ini sebagai jawaban.\n\nAyat ini menerangkan tentang keluasan ilmu Allah. Hal ini diibaratkan bahwa seandainya seluruh pohon-pohon yang di muka bumi dijadikan pena untuk mencatat ilmu Allah itu, dan seluruh air laut dijadikan tintanya, kemudian ditambah dengan tujuh kali sebanyak itu, maka kalimat Allah itu belum juga habis tertulis. Dalam ayat lain, Allah berfirman:\n\nKatakanlah (Muhammad), \u0022Seandainya lautan menjadi tinta untuk (menulis) kalimat-kalimat Tuhanku, maka pasti habislah lautan itu sebelum selesai (penulisan) kalimat-kalimat Tuhanku, meskipun Kami datangkan tambahan sebanyak itu (pula).\u0022 (al- Kahf/18: 109)\n\nArti \u0022kalimat Allah\u0022 dalam ayat ini banyak sekali, termasuk di dalamnya kekuasaan Allah, hakikat segala sesuatu, ketentuan dan perkataan Allah, ilmu dan segala macam ciptaan-Nya. Di samping itu, juga termasuk ke dalamnya penciptaan langit dan bumi dengan segala macam yang ada di dalamnya, sejak dari yang besar sampai kepada yang halus, sejak dari binatang yang paling besar sampai kepada ribuan bakteri yang paling halus. Tumbuh-tumbuhan yang beraneka ragam, binatang-binatang yang ada di cakrawala dengan segala aturan-aturan dan banyak lagi yang lain yang tidak terhitung jumlahnya, semuanya termasuk dalam kalimat Allah.\n\nPada ayat ini ditegaskan bahwa Allah Mahakeras tuntutan-Nya. Segala kehendak dan keputusan-Nya pasti terlaksana dan Dia Maha Bijaksana dalam segala tindakan-Nya."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 3497,
+          "inSurah": 28,
+          "Jommal_classic": " 2709 8109 3609 6327 3618 6309 4536 1000 3609 5409 4518 3627",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t1\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 21,
+          "page": 413,
+          "manzil": 5,
+          "ruku": 357,
+          "hizbQuarter": 165,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u2026\u0638\u2018\u0638\u0698\u0637\u00A7 \u0637\u00AE\u0638\u0698\u0638\u201E\u0638\u2019\u0638\u201A\u0638\u0688\u0638\u0192\u0638\u0688\u0638\u2026\u0638\u2019 \u0638\u02C6\u0638\u0698\u0638\u201E\u0638\u0698\u0637\u00A7 \u0637\u00A8\u0638\u0698\u0637\u00B9\u0638\u2019\u0637\u00AB\u0638\u0688\u0638\u0192\u0638\u0688\u0638\u2026\u0638\u2019 \u0637\u00A5\u0638\u06AF\u0638\u201E\u0638\u2018\u0638\u0698\u0637\u00A7 \u0638\u0192\u0638\u0698\u0638\u2020\u0638\u0698\u0638\u067E\u0638\u2019\u0637\u00B3\u0638\u0686 \u0638\u02C6\u0638\u0698\u0637\u00A7\u0637\u00AD\u0638\u06AF\u0637\u00AF\u0638\u0698\u0637\u00A9\u0638\u0686 \u063A\u2014 \u0637\u00A5\u0638\u06AF\u0638\u2020\u0638\u2018\u0638\u0698 \u0637\u00A7\u0638\u201E\u0638\u201E\u0638\u2018\u0638\u0698\u0638\u2021\u0638\u0698 \u0637\u00B3\u0638\u0698\u0638\u2026\u0638\u06AF\u0638\u0679\u0637\u00B9\u0638\u0152 \u0637\u00A8\u0638\u0698\u0637\u00B5\u0638\u06AF\u0638\u0679\u0637\u00B1\u0638\u0152",
+          "transliteration": {
+            "en": "Maa khalqukum wa laa ba\u0027sukum illaa kanafsinw-waa hidah; innal laaha Samee\u0027um Baseer",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "Your creation and your resurrection will not be but as that of a single soul. Indeed, Allah is Hearing and Seeing.",
+          "id": "Menciptakan dan membangkitkan kamu (bagi Allah) hanyalah seperti (menciptakan dan membangkitkan) satu jiwa saja (mudah). Sesungguhnya Allah Maha Mendengar, Maha Melihat."
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/3497",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3497.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3497.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Jika kehendak dan kuasa-Nya bersifat mutlak, maka menciptakan dan membangkitkan kamu setelah kematanmu bagi Allah hanyalah seperti menciptakan dan membangkitkan satu jiwa saja; itu sama sekali bukan hal sulit bagi-Nya. Sesungguhnya Allah Maha Mendengar, Maha Melihat (Lihat pula: Y\u0623\u00A0s\u0623\u00ACn/36: 82).",
+            "long": "Ayat ini menerangkan bahwa menjadikan segala sesuatu merupakan hal yang mudah bagi Allah. Apakah menjadikan sesuatu yang besar, kecil, ruwet, atau menjadikan sesuatu dalam jumlah yang sedikit, semuanya sama saja bagi Allah. Begitu pula membangkitkan manusia dari dalam kuburnya di hari Kiamat adalah mudah bagi Allah. Membangkitkan seluruh manusia bagi Allah tidak ubahnya seperti membangkitkan seorang saja. Tidak ada sesuatu pun yang sukar bagi-Nya. Jika Allah berkehendak terjadinya sesuatu, cukuplah Dia mengucapkan, \u0022Kun\u0022 (jadilah), maka jadilah yang dikehendaki-Nya itu. Allah berfirman:\n\nSesungguhnya urusan-Nya apabila Dia menghendaki sesuatu Dia hanya berkata kepadanya, \u0022Jadilah!\u0022 Maka jadilah sesuatu itu. (Yasin/36: 82) \n\nDan firman Allah:\n\nDan perintah Kami hanyalah (dengan) satu perkataan seperti kejapan mata. (al-Qamar/54: 50)\n\nPada akhir ayat ini, Allah menyatakan bahwa Dia mendengar segala perkataan hamba-Nya dan Maha Melihat segala perbuatan mereka."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 3498,
+          "inSurah": 29,
+          "Jommal_classic": " 4509 1818 3609 5409 5409 7209 2700 6327 7209 6327 2700 7209 5427 5427 8118 4500 4518 4509 3618 7209 5409 5409 2718 8118 3627",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 21,
+          "page": 414,
+          "manzil": 5,
+          "ruku": 357,
+          "hizbQuarter": 165,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0637\u00A3\u0638\u0698\u0638\u201E\u0638\u0698\u0638\u2026\u0638\u2019 \u0637\u06BE\u0638\u0698\u0637\u00B1\u0638\u0698 \u0637\u00A3\u0638\u0698\u0638\u2020\u0638\u2018\u0638\u0698 \u0637\u00A7\u0638\u201E\u0638\u201E\u0638\u2018\u0638\u0698\u0638\u2021\u0638\u0698 \u0638\u0679\u0638\u0688\u0638\u02C6\u0638\u201E\u0638\u06AF\u0637\u00AC\u0638\u0688 \u0637\u00A7\u0638\u201E\u0638\u201E\u0638\u2018\u0638\u0698\u0638\u0679\u0638\u2019\u0638\u201E\u0638\u0698 \u0638\u067E\u0638\u06AF\u0638\u0679 \u0637\u00A7\u0638\u201E\u0638\u2020\u0638\u2018\u0638\u0698\u0638\u2021\u0638\u0698\u0637\u00A7\u0637\u00B1\u0638\u06AF \u0638\u02C6\u0638\u0698\u0638\u0679\u0638\u0688\u0638\u02C6\u0638\u201E\u0638\u06AF\u0637\u00AC\u0638\u0688 \u0637\u00A7\u0638\u201E\u0638\u2020\u0638\u2018\u0638\u0698\u0638\u2021\u0638\u0698\u0637\u00A7\u0637\u00B1\u0638\u0698 \u0638\u067E\u0638\u06AF\u0638\u0679 \u0637\u00A7\u0638\u201E\u0638\u201E\u0638\u2018\u0638\u0698\u0638\u0679\u0638\u2019\u0638\u201E\u0638\u06AF \u0638\u02C6\u0638\u0698\u0637\u00B3\u0638\u0698\u0637\u00AE\u0638\u2018\u0638\u0698\u0637\u00B1\u0638\u0698 \u0637\u00A7\u0638\u201E\u0637\u00B4\u0638\u2018\u0638\u0698\u0638\u2026\u0638\u2019\u0637\u00B3\u0638\u0698 \u0638\u02C6\u0638\u0698\u0637\u00A7\u0638\u201E\u0638\u2019\u0638\u201A\u0638\u0698\u0638\u2026\u0638\u0698\u0637\u00B1\u0638\u0698 \u0638\u0192\u0638\u0688\u0638\u201E\u0638\u2018\u0638\u0152 \u0638\u0679\u0638\u0698\u0637\u00AC\u0638\u2019\u0637\u00B1\u0638\u06AF\u0638\u0679 \u0637\u00A5\u0638\u06AF\u0638\u201E\u0638\u0698\u0638\u2030\u0638\u00B0 \u0637\u00A3\u0638\u0698\u0637\u00AC\u0638\u0698\u0638\u201E\u0638\u0686 \u0638\u2026\u0638\u2018\u0638\u0688\u0637\u00B3\u0638\u0698\u0638\u2026\u0638\u2018\u0638\u2039\u0638\u2030 \u0638\u02C6\u0638\u0698\u0637\u00A3\u0638\u0698\u0638\u2020\u0638\u2018\u0638\u0698 \u0637\u00A7\u0638\u201E\u0638\u201E\u0638\u2018\u0638\u0698\u0638\u2021\u0638\u0698 \u0637\u00A8\u0638\u06AF\u0638\u2026\u0638\u0698\u0637\u00A7 \u0637\u06BE\u0638\u0698\u0637\u00B9\u0638\u2019\u0638\u2026\u0638\u0698\u0638\u201E\u0638\u0688\u0638\u02C6\u0638\u2020\u0638\u0698 \u0637\u00AE\u0638\u0698\u0637\u00A8\u0638\u06AF\u0638\u0679\u0637\u00B1\u0638\u0152",
+          "transliteration": {
+            "en": "Alam tara annal laaha yoolijul laila fin nahaari wa yoolijun nahaara fil laili wa sakhkharash shamsa wal qamara kulluny yajreee ilaaa ajalim musammanw wa annal laaha bimaa ta\u0027malona Khabeer",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "Do you not see that Allah causes the night to enter the day and causes the day to enter the night and has subjected the sun and the moon, each running [its course] for a specified term, and that Allah, with whatever you do, is Acquainted?",
+          "id": "Tidakkah engkau memperhatikan, bahwa Allah memasukkan malam ke dalam siang dan memasukkan siang ke dalam malam dan Dia menundukkan matahari dan bulan, masing-masing beredar sampai kepada waktu yang ditentukan. Sungguh, Allah Mahateliti apa yang kamu kerjakan."
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/3498",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3498.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3498.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Allah menundukkan dan mengendalikan apa saja yang ada di langit dan bumi. Di antara bentuk pengendaliannya ditunjukkan dalam ayat berikut. Wahai manusia, tidakkah engkau memperhatikan bahwa Allah telah memasukkan malam ke dalam siang sehingga pada musim panas waktu siang lebih panjang, dan sebaliknya memasukkan siang ke dalam malam sehingga pada musim dingin waktu malam lebih panjang, dan Dia menundukkan matahari dan bulan agar sinar dan cahayanya memberi manfaat bagi makhluk hidup, di mana masing-masing terus beredar sampai kepada waktu yang ditentukan, yaitu hari kiamat. Sungguh, Allah Mahateliti terhadap apa yang kamu kerjakan dan akan membalasnya sesuai amal perbuatanmu.",
+            "long": "Dalam ayat ini, Allah menyuruh manusia memperhatikan dan memikirkan kekuasaan-Nya. Dia memasukkan malam kepada siang, dan memasukkan siang kepada malam. Maksudnya ialah bahwa Allah mengambil sebagian dari waktu malam, lalu ditambahkannya kepada waktu siang, maka terjadilah perpanjangan waktu siang itu, sebaliknya malam menjadi pendek, akan tetapi sehari semalam tetap 24 jam. Hal ini terjadi pada musim panas. Sementara itu, Allah juga mengambil sebagian dari waktu siang, lalu dimasukkan-Nya kepada waktu malam, maka menjadi panjanglah waktu malam itu, dan sebaliknya waktu siang menjadi pendek. Hal ini terjadi di musim dingin.\n\nKejadian seperti di atas amat jelas kelihatannya dan dialami oleh penduduk negeri-negeri yang terletak di daerah-daerah yang mempunyai empat macam musim dalam setahun, yaitu musim panas, musim gugur, musim dingin, dan musim semi, yaitu daerah Sedang Utara dan Sedang Selatan. Adapun di negeri-negeri yang berada di daerah khatulistiwa, maka dalam setahun hanya ada dua musim, yaitu musim kemarau dan musim hujan. Sedang pada saat-saat malam lebih panjang dari siang, atau siang lebih panjang dari malam, perbedaan itu tidak terasa karena perbedaan panjang pendeknya malam atau siang itu tidak seberapa.\n\nTerjadinya empat macam musim dalam setahun, dan terjadinya siang lebih panjang dari malam itu atau sebaliknya di daerah Sedang Utara dan Sedang Selatan, adalah karena Allah memiringkan letak bumi di garis lintang 22 \u0623\u201A\u0622\u00BD derajat, sebagaimana yang dikenal dalam Ilmu Falak. Semua itu mengandung hikmah-hikmah yang sangat besar.\n\nAllah juga menundukkan matahari dan bulan untuk kepentingan manusia. Sinar matahari merupakan lampu yang menerangi manusia di siang hari, sehingga mereka dapat bekerja dan berusaha. Sinar matahari juga menyuburkan tumbuh-tumbuhan, menimbulkan angin dan awan, serta berbagai kegunaan lainnya. Demikian pula bulan dan cahayanya serta berlainan bentuknya, amat banyak kegunaannya bagi manusia, tetapi sebagian kecil saja dari kegunaan itu yang diketahuinya.\n\nBulan dan matahari beredar di garis orbitnya masing-masing, sesuai dengan ketentuan yang telah ditentukan Allah, sampai kepada waktu yang telah ditentukan-Nya. Apabila waktu yang telah ditentukan itu datang, maka langit dan bumi akan digulung, sebagaimana firman Allah:\n\n(Ingatlah) pada hari langit Kami gulung seperti menggulung lembaran-lembaran kertas. (al-Anbiya\u0027/21: 104) \n\nPada akhir ayat ini dinyatakan bahwa Allah mengetahui segala perbuatan yang telah dikerjakan hamba-Nya, apakah itu perbuatan baik ataupun perbuatan buruk. Tidak ada yang luput dari pengetahuan-Nya. Allah akan memberinya pembalasan yang adil."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 3499,
+          "inSurah": 30,
+          "Jommal_classic": " 5409 4518 5409 3600 5418 5409 1809 6318 2700 5409 5436 5409 5409 3600 7218 6327",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 21,
+          "page": 414,
+          "manzil": 5,
+          "ruku": 357,
+          "hizbQuarter": 165,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0637\u00B0\u0638\u0698\u0638\u00B0\u0638\u201E\u0638\u06AF\u0638\u0192\u0638\u0698 \u0637\u00A8\u0638\u06AF\u0637\u00A3\u0638\u0698\u0638\u2020\u0638\u2018\u0638\u0698 \u0637\u00A7\u0638\u201E\u0638\u201E\u0638\u2018\u0638\u0698\u0638\u2021\u0638\u0698 \u0638\u2021\u0638\u0688\u0638\u02C6\u0638\u0698 \u0637\u00A7\u0638\u201E\u0638\u2019\u0637\u00AD\u0638\u0698\u0638\u201A\u0638\u2018\u0638\u0688 \u0638\u02C6\u0638\u0698\u0637\u00A3\u0638\u0698\u0638\u2020\u0638\u2018\u0638\u0698 \u0638\u2026\u0638\u0698\u0637\u00A7 \u0638\u0679\u0638\u0698\u0637\u00AF\u0638\u2019\u0637\u00B9\u0638\u0688\u0638\u02C6\u0638\u2020\u0638\u0698 \u0638\u2026\u0638\u06AF\u0638\u2020 \u0637\u00AF\u0638\u0688\u0638\u02C6\u0638\u2020\u0638\u06AF\u0638\u2021\u0638\u06AF \u0637\u00A7\u0638\u201E\u0638\u2019\u0637\u00A8\u0638\u0698\u0637\u00A7\u0637\u00B7\u0638\u06AF\u0638\u201E\u0638\u0688 \u0638\u02C6\u0638\u0698\u0637\u00A3\u0638\u0698\u0638\u2020\u0638\u2018\u0638\u0698 \u0637\u00A7\u0638\u201E\u0638\u201E\u0638\u2018\u0638\u0698\u0638\u2021\u0638\u0698 \u0638\u2021\u0638\u0688\u0638\u02C6\u0638\u0698 \u0637\u00A7\u0638\u201E\u0638\u2019\u0637\u00B9\u0638\u0698\u0638\u201E\u0638\u06AF\u0638\u0679\u0638\u2018\u0638\u0688 \u0637\u00A7\u0638\u201E\u0638\u2019\u0638\u0192\u0638\u0698\u0637\u00A8\u0638\u06AF\u0638\u0679\u0637\u00B1\u0638\u0688",
+          "transliteration": {
+            "en": "Zaalika bi annal laaha Huwal Haqqu wa anna maa yad\u0027oona min doonihil baatilu wa annal laaha Huwal \u0027Aliyyul Kabeer",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "That is because Allah is the Truth, and that what they call upon other than Him is falsehood, and because Allah is the Most High, the Grand.",
+          "id": "Demikianlah, karena sesungguhnya Allah, Dialah (Tuhan) yang sebenarnya dan apa saja yang mereka seru selain Allah adalah batil. Dan sesungguhnya Allah, Dialah Yang Mahatinggi, Mahabesar."
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/3499",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3499.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3499.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Allah menjelaskan tujuan dari penjelasan bukti-bukti kebesaran dan keesaan-Nya. Demikianlah, perjalanan alam semesta yang menakjubkan itu, karena sesungguhnya penciptanya adalah Allah; Dialah Tuhan Yang Maha Esa yang layak disembah dengan sebenarnya, dan apa saja yang mereka seru dan sembah selain Allah adalah batil. Dan sesungguhnya Allah, Dialah Yang Mahatinggi zat-Nya, Mahabesar kekuasaan-Nya.",
+            "long": "Ayat ini menerangkan bahwa tujuan Allah memperlihatkan tanda-tanda kekuasaan-Nya kepada manusia adalah untuk menjadi dalil dan bukti yang kuat bagi mereka bahwa manusia wajib beribadah kepada-Nya dan hanyalah Dia yang berhak disembah. Menyembah atau beribadah kepada selain Allah adalah tindakan yang batil karena semua yang selain Dia adalah fana, tidak kekal. Dia Mahakaya dan tidak memerlukan yang lain, sedangkan semua makhluk sangat tergantung kepada nikmat-Nya.\n\nAkhirnya ayat ini menegaskan bahwa Allah Mahatinggi, mengatasi segala sesuatu, Mahabesar, dan menguasai segala sesuatu. Semua tunduk dan patuh kepada-Nya.\n\n(31) Pada ayat ini, Allah memerintahkan agar manusia melihat tanda-tanda kekuasaan dan kebesaran-Nya yang ada di bumi dengan mengatakan, \u0022Apakah tidak engkau perhatikan, hai Muhammad, bahtera yang berlayar di lautan yang menghubungkan negeri-negeri yang berjauhan letaknya.\u0022 Dengan adanya hubungan itu, penduduk suatu negeri akan mengenal penduduk negeri lain. Keperluan dan kebutuhan rakyat yang tidak ada di negerinya dapat diambil dan diangkut oleh kapal-kapal dari negeri-negeri yang lain, seperti bahan makanan, pakaian, obat-obatan, perhiasan, mesin-mesin, dan sebagainya. Dengan adanya kapal-kapal itu, seakan-akan hubungan antara bangsa-bangsa dan negara-negara dewasa ini semakin dekat.\n\nKapal dibuat pertama kali oleh Nabi Nuh sesuai dengan perintah Allah dalam misi penyelamatan manusia beriman ditambah dengan sejumlah pasangan hewan (lebih lanjut baca Surah Hud/11: 40). Namun demikian, dengan kemampuan berpikir manusia, maka teknologi kapal berkembang. Kapal tidak saja dibuat dari bahan kayu saja bahkan sudah berkembang dengan menggunakan logam. Walaupun akhir-akhir ini dengan berkembangnya teknologi bahan, manusia telah mampu \u0022meramu\u0022 dari bahan yang tersedia menjadi bahan yang lebih ringan, kompak, mudah dibentuk, kuat, tahan cuaca, dan tahan benturan. Besi yang mestinya tenggelam, karena massa jenis logam jauh lebih besar di atas massa jenis air, tetapi dengan pemanfaatan ilmu pengetahuan dan teknologi (iptek), yakni dengan menerapkan hukum Archimides (fisika), maka besi tadi dapat mengapung di permukaan air. Hakikatnya hukum fisika itu adalah ketetapan Allah. Ketetapan Allah yang dapat dirasakan manfaatnya dalam kehidupan manusia. Itulah nikmat Allah yang sesungguhnya.\n\nSemua yang diterangkan Allah itu adalah bukti-bukti atas kekuasaan dan kebesaran-Nya yang nyata bagi orang-orang yang sabar dalam menghadapi segala macam cobaan dan kesukaran, serta bagi orang-orang yang mensyukuri nikmat-nikmat Allah yang telah dilimpahkan kepadanya. Tanda orang bersyukur kepada Allah itu ialah dengan menyatakan ungkapan syukur dalam bentuk perkataan atau perbuatan ketika menerima nikmat itu.\n\nAsy-Sya\u0027bi berkata, \u0022Sabar itu adalah sebagian dari iman, syukur itu adalah sebagian iman, dan yakin adalah iman seluruhnya. Tidakkah engkau perhatikan firman Allah yang terdapat pada akhir ayat ini dan firman-Nya: \u0022wa fi al-ardhi ayatun li al-muqinin\u0022 (dan pada bumi itu terdapat tanda-tanda kekuasaan Allah bagi orang-orang yang yakin) dan sabda Rasulullah saw:\n\nIman itu ada dua bagian, yaitu sebagian dalam sabar dan sebagian dalam syukur. (Riwayat al-Baihaqi dari Anas)"
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 3500,
+          "inSurah": 31,
+          "Jommal_classic": " 4509 1818 3609 7209 3627 2700 4536 6327 5409 9009 4500 4527 1000 3609 2700 5409 4527 7200 3636 4518",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t1\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 21,
+          "page": 414,
+          "manzil": 5,
+          "ruku": 357,
+          "hizbQuarter": 165,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0637\u00A3\u0638\u0698\u0638\u201E\u0638\u0698\u0638\u2026\u0638\u2019 \u0637\u06BE\u0638\u0698\u0637\u00B1\u0638\u0698 \u0637\u00A3\u0638\u0698\u0638\u2020\u0638\u2018\u0638\u0698 \u0637\u00A7\u0638\u201E\u0638\u2019\u0638\u067E\u0638\u0688\u0638\u201E\u0638\u2019\u0638\u0192\u0638\u0698 \u0637\u06BE\u0638\u0698\u0637\u00AC\u0638\u2019\u0637\u00B1\u0638\u06AF\u0638\u0679 \u0638\u067E\u0638\u06AF\u0638\u0679 \u0637\u00A7\u0638\u201E\u0638\u2019\u0637\u00A8\u0638\u0698\u0637\u00AD\u0638\u2019\u0637\u00B1\u0638\u06AF \u0637\u00A8\u0638\u06AF\u0638\u2020\u0638\u06AF\u0637\u00B9\u0638\u2019\u0638\u2026\u0638\u0698\u0637\u06BE\u0638\u06AF \u0637\u00A7\u0638\u201E\u0638\u201E\u0638\u2018\u0638\u0698\u0638\u2021\u0638\u06AF \u0638\u201E\u0638\u06AF\u0638\u0679\u0638\u0688\u0637\u00B1\u0638\u06AF\u0638\u0679\u0638\u0698\u0638\u0192\u0638\u0688\u0638\u2026 \u0638\u2026\u0638\u2018\u0638\u06AF\u0638\u2020\u0638\u2019 \u0637\u00A2\u0638\u0679\u0638\u0698\u0637\u00A7\u0637\u06BE\u0638\u06AF\u0638\u2021\u0638\u06AF \u063A\u0691 \u0637\u00A5\u0638\u06AF\u0638\u2020\u0638\u2018\u0638\u0698 \u0638\u067E\u0638\u06AF\u0638\u0679 \u0637\u00B0\u0638\u0698\u0638\u00B0\u0638\u201E\u0638\u06AF\u0638\u0192\u0638\u0698 \u0638\u201E\u0638\u0698\u0637\u00A2\u0638\u0679\u0638\u0698\u0637\u00A7\u0637\u06BE\u0638\u0686 \u0638\u201E\u0638\u2018\u0638\u06AF\u0638\u0192\u0638\u0688\u0638\u201E\u0638\u2018\u0638\u06AF \u0637\u00B5\u0638\u0698\u0637\u00A8\u0638\u2018\u0638\u0698\u0637\u00A7\u0637\u00B1\u0638\u0686 \u0637\u00B4\u0638\u0698\u0638\u0192\u0638\u0688\u0638\u02C6\u0637\u00B1\u0638\u0686",
+          "transliteration": {
+            "en": "Alam tara annal fulka tajree fil bahri bini\u0027matil laahi li yuriyakum min Aayaatih; inna fee zaalika la Aayaatil likulli sabbaarin shakoor",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "Do you not see that ships sail through the sea by the favor of Allah that He may show you of His signs? Indeed in that are signs for everyone patient and grateful.",
+          "id": "Tidakkah engkau memperhatikan bahwa sesungguhnya kapal itu berlayar di laut dengan nikmat Allah, agar diperlihatkan-Nya kepadamu sebagian dari tanda-tanda (kebesaran)-Nya. Sungguh, pada yang demikian itu terdapat tanda-tanda (kebesaran)-Nya bagi setiap orang yang sangat sabar dan banyak bersyukur."
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/3500",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3500.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3500.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Allah memaparkan fenomena-fenomena di bumi yang menjadi bukti kekuasaan dan keesaan-Nya. Wahai orang yang berakal, tidakkah engkau memperhatikan bahwa sesungguhnya kapal itu berlayar di laut dan tidak tenggelam dengan berkat rahmat Allah melalui pengetahuan yang Dia anugerahkan kepadamu sehingga bisa mengangkut barang-barang yang engkau butuhkan sebagai nikmat Allah, agar dengan itu semua diperlihatkan-Nya kepadamu sebagian dari tanda-tanda kebesaran-Nya. Sungguh, pada yang demikian itu terdapat tanda-tanda kebesaran-Nya bagi setiap orang yang sangat sabar dalam menghadapi ujian-Nya dan banyak bersyukur atas nikmat-Nya.",
+            "long": "Ayat ini menerangkan bahwa tujuan Allah memperlihatkan tanda-tanda kekuasaan-Nya kepada manusia adalah untuk menjadi dalil dan bukti yang kuat bagi mereka bahwa manusia wajib beribadah kepada-Nya dan hanyalah Dia yang berhak disembah. Menyembah atau beribadah kepada selain Allah adalah tindakan yang batil karena semua yang selain Dia adalah fana, tidak kekal. Dia Mahakaya dan tidak memerlukan yang lain, sedangkan semua makhluk sangat tergantung kepada nikmat-Nya.\n\nAkhirnya ayat ini menegaskan bahwa Allah Mahatinggi, mengatasi segala sesuatu, Mahabesar, dan menguasai segala sesuatu. Semua tunduk dan patuh kepada-Nya."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 3501,
+          "inSurah": 32,
+          "Jommal_classic": " 3627 6318 5409 8118 3627 5409 8118 3600 5418 6309 7218 3609 4527 8100 7227 1000 3609 4527 5445 3618 4500 3636 5409",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t1\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 21,
+          "page": 414,
+          "manzil": 5,
+          "ruku": 357,
+          "hizbQuarter": 165,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u02C6\u0638\u0698\u0637\u00A5\u0638\u06AF\u0637\u00B0\u0638\u0698\u0637\u00A7 \u0637\u061B\u0638\u0698\u0637\u00B4\u0638\u06AF\u0638\u0679\u0638\u0698\u0638\u2021\u0638\u0688\u0638\u2026 \u0638\u2026\u0638\u2018\u0638\u0698\u0638\u02C6\u0638\u2019\u0637\u00AC\u0638\u0152 \u0638\u0192\u0638\u0698\u0637\u00A7\u0638\u201E\u0637\u00B8\u0638\u2018\u0638\u0688\u0638\u201E\u0638\u0698\u0638\u201E\u0638\u06AF \u0637\u00AF\u0638\u0698\u0637\u00B9\u0638\u0698\u0638\u02C6\u0638\u0688\u0637\u00A7 \u0637\u00A7\u0638\u201E\u0638\u201E\u0638\u2018\u0638\u0698\u0638\u2021\u0638\u0698 \u0638\u2026\u0638\u0688\u0637\u00AE\u0638\u2019\u0638\u201E\u0638\u06AF\u0637\u00B5\u0638\u06AF\u0638\u0679\u0638\u2020\u0638\u0698 \u0638\u201E\u0638\u0698\u0638\u2021\u0638\u0688 \u0637\u00A7\u0638\u201E\u0637\u00AF\u0638\u2018\u0638\u06AF\u0638\u0679\u0638\u2020\u0638\u0698 \u0638\u067E\u0638\u0698\u0638\u201E\u0638\u0698\u0638\u2026\u0638\u2018\u0638\u0698\u0637\u00A7 \u0638\u2020\u0638\u0698\u0637\u00AC\u0638\u2018\u0638\u0698\u0637\u00A7\u0638\u2021\u0638\u0688\u0638\u2026\u0638\u2019 \u0637\u00A5\u0638\u06AF\u0638\u201E\u0638\u0698\u0638\u2030 \u0637\u00A7\u0638\u201E\u0638\u2019\u0637\u00A8\u0638\u0698\u0637\u00B1\u0638\u2018\u0638\u06AF \u0638\u067E\u0638\u0698\u0638\u2026\u0638\u06AF\u0638\u2020\u0638\u2019\u0638\u2021\u0638\u0688\u0638\u2026 \u0638\u2026\u0638\u2018\u0638\u0688\u0638\u201A\u0638\u2019\u0637\u06BE\u0638\u0698\u0637\u00B5\u0638\u06AF\u0637\u00AF\u0638\u0152 \u063A\u0691 \u0638\u02C6\u0638\u0698\u0638\u2026\u0638\u0698\u0637\u00A7 \u0638\u0679\u0638\u0698\u0637\u00AC\u0638\u2019\u0637\u00AD\u0638\u0698\u0637\u00AF\u0638\u0688 \u0637\u00A8\u0638\u06AF\u0637\u00A2\u0638\u0679\u0638\u0698\u0637\u00A7\u0637\u06BE\u0638\u06AF\u0638\u2020\u0638\u0698\u0637\u00A7 \u0637\u00A5\u0638\u06AF\u0638\u201E\u0638\u2018\u0638\u0698\u0637\u00A7 \u0638\u0192\u0638\u0688\u0638\u201E\u0638\u2018\u0638\u0688 \u0637\u00AE\u0638\u0698\u0637\u06BE\u0638\u2018\u0638\u0698\u0637\u00A7\u0637\u00B1\u0638\u0686 \u0638\u0192\u0638\u0698\u0638\u067E\u0638\u0688\u0638\u02C6\u0637\u00B1\u0638\u0686",
+          "transliteration": {
+            "en": "Wa izaa ghashiyahum mawjun kazzulali da\u0027a-wul laaha mukhliseena lahud deena fa lammaa najjaahum ilal barri faminhum muqtasid; wa maa yajhadu bi Aayaatinaa illaa kullu khattaarin kafoor",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "And when waves come over them like canopies, they supplicate Allah, sincere to Him in religion. But when He delivers them to the land, there are [some] of them who are moderate [in faith]. And none rejects Our signs except everyone treacherous and ungrateful.",
+          "id": "Dan apabila mereka digulung ombak yang besar seperti gunung, mereka menyeru Allah dengan tulus ikhlas beragama kepada-Nya. Tetapi ketika Allah menyelamatkan mereka sampai di daratan, lalu sebagian mereka tetap menempuh jalan yang lurus. Adapun yang mengingkari ayat-ayat Kami hanyalah pengkhianat yang tidak berterima kasih."
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/3501",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3501.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3501.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Ayat ini menjelaskan sifat dasar manusia, terutama mereka yang kufur atas nikmat-Nya. Apabila mereka digulung ombak yang besar seperti gunung dan hampir menenggelamkan kapal yang mereka tumpangi, mereka kembali ke fitrahnya, yakni menyeru Allah seraya memohon keselamatan dari-Nya dengan tulus ikhlas serta beragama, yakni pernyataan sikap tunduk dan patuh kepada-Nya, bahkan berjanji tidak menyekutukan-Nya. Tetapi, ketika Allah menyelamatkan mereka dari ombak besar itu sehingga mereka selamat sampai di daratan, maka sebagian mereka ada yang tetap menempuh jalan yang lurus dengan mengakui keesaan-Nya. Adapun yang mengingkari ayat-ayat Kami, padahal dia memohon pertolongan Kami saat tertimpa cobaan, sungguh mereka itu hanyalah pengkhianat yang tidak berterima kasih. Dari ayat ini dapat disimpulkan bahwa pengakuan tentang keesaan Allah merupakan fitrah manusia yang bisa disimpangkan dalam waktu tertentu, namun di saat kritis kesadaran tersebut akan muncul kembali.",
+            "long": "Pada ayat ini, Allah memerintahkan agar manusia melihat tanda-tanda kekuasaan dan kebesaran-Nya yang ada di bumi dengan mengatakan, \u0022Apakah tidak engkau perhatikan, hai Muhammad, bahtera yang berlayar di lautan yang menghubungkan negeri-negeri yang berjauhan letaknya.\u0022 Dengan adanya hubungan itu, penduduk suatu negeri akan mengenal penduduk negeri lain. Keperluan dan kebutuhan rakyat yang tidak ada di negerinya dapat diambil dan diangkut oleh kapal-kapal dari negeri-negeri yang lain, seperti bahan makanan, pakaian, obat-obatan, perhiasan, mesin-mesin, dan sebagainya. Dengan adanya kapal-kapal itu, seakan-akan hubungan antara bangsa-bangsa dan negara-negara dewasa ini semakin dekat.\n\nKapal dibuat pertama kali oleh Nabi Nuh sesuai dengan perintah Allah dalam misi penyelamatan manusia beriman ditambah dengan sejumlah pasangan hewan (lebih lanjut baca Surah Hud/11: 40). Namun demikian, dengan kemampuan berpikir manusia, maka teknologi kapal berkembang. Kapal tidak saja dibuat dari bahan kayu saja bahkan sudah berkembang dengan menggunakan logam. Walaupun akhir-akhir ini dengan berkembangnya teknologi bahan, manusia telah mampu \u0022meramu\u0022 dari bahan yang tersedia menjadi bahan yang lebih ringan, kompak, mudah dibentuk, kuat, tahan cuaca, dan tahan benturan. Besi yang mestinya tenggelam, karena massa jenis logam jauh lebih besar di atas massa jenis air, tetapi dengan pemanfaatan ilmu pengetahuan dan teknologi (iptek), yakni dengan menerapkan hukum Archimides (fisika), maka besi tadi dapat mengapung di permukaan air. Hakikatnya hukum fisika itu adalah ketetapan Allah. Ketetapan Allah yang dapat dirasakan manfaatnya dalam kehidupan manusia. Itulah nikmat Allah yang sesungguhnya.\n\nSemua yang diterangkan Allah itu adalah bukti-bukti atas kekuasaan dan kebesaran-Nya yang nyata bagi orang-orang yang sabar dalam menghadapi segala macam cobaan dan kesukaran, serta bagi orang-orang yang mensyukuri nikmat-nikmat Allah yang telah dilimpahkan kepadanya. Tanda orang bersyukur kepada Allah itu ialah dengan menyatakan ungkapan syukur dalam bentuk perkataan atau perbuatan ketika menerima nikmat itu.\n\nAsy-Sya\u0027bi berkata, \u0022Sabar itu adalah sebagian dari iman, syukur itu adalah sebagian iman, dan yakin adalah iman seluruhnya. Tidakkah engkau perhatikan firman Allah yang terdapat pada akhir ayat ini dan firman-Nya: \u0022wa fi al-ardhi ayatun li al-muqinin\u0022 (dan pada bumi itu terdapat tanda-tanda kekuasaan Allah bagi orang-orang yang yakin) dan sabda Rasulullah saw:\n\nIman itu ada dua bagian, yaitu sebagian dalam sabar dan sebagian dalam syukur. (Riwayat al-Baihaqi dari Anas)"
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 3502,
+          "inSurah": 33,
+          "Jommal_classic": " 1809 5418 4527 4527 6318 5436 5409 2709 4518 4518 1809 6309 3609 7209 3600 1827 1809 6318 3627 1000 3609 3618 5409 3609 1000 3609 9927 5436 6327 3609 9918 6318 5436",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t1\t\t9\t\t9\t\t9\t\t9\t\t1\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 21,
+          "page": 414,
+          "manzil": 5,
+          "ruku": 357,
+          "hizbQuarter": 165,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u0679\u0638\u0698\u0637\u00A7 \u0637\u00A3\u0638\u0698\u0638\u0679\u0638\u2018\u0638\u0688\u0638\u2021\u0638\u0698\u0637\u00A7 \u0637\u00A7\u0638\u201E\u0638\u2020\u0638\u2018\u0638\u0698\u0637\u00A7\u0637\u00B3\u0638\u0688 \u0637\u00A7\u0637\u06BE\u0638\u2018\u0638\u0698\u0638\u201A\u0638\u0688\u0638\u02C6\u0637\u00A7 \u0637\u00B1\u0638\u0698\u0637\u00A8\u0638\u2018\u0638\u0698\u0638\u0192\u0638\u0688\u0638\u2026\u0638\u2019 \u0638\u02C6\u0638\u0698\u0637\u00A7\u0637\u00AE\u0638\u2019\u0637\u00B4\u0638\u0698\u0638\u02C6\u0638\u2019\u0637\u00A7 \u0638\u0679\u0638\u0698\u0638\u02C6\u0638\u2019\u0638\u2026\u0638\u2039\u0637\u00A7 \u0638\u201E\u0638\u2018\u0638\u0698\u0637\u00A7 \u0638\u0679\u0638\u0698\u0637\u00AC\u0638\u2019\u0637\u00B2\u0638\u06AF\u0638\u0679 \u0638\u02C6\u0638\u0698\u0637\u00A7\u0638\u201E\u0638\u06AF\u0637\u00AF\u0638\u0152 \u0637\u00B9\u0638\u0698\u0638\u2020 \u0638\u02C6\u0638\u0698\u0638\u201E\u0638\u0698\u0637\u00AF\u0638\u06AF\u0638\u2021\u0638\u06AF \u0638\u02C6\u0638\u0698\u0638\u201E\u0638\u0698\u0637\u00A7 \u0638\u2026\u0638\u0698\u0638\u02C6\u0638\u2019\u0638\u201E\u0638\u0688\u0638\u02C6\u0637\u00AF\u0638\u0152 \u0638\u2021\u0638\u0688\u0638\u02C6\u0638\u0698 \u0637\u00AC\u0638\u0698\u0637\u00A7\u0637\u00B2\u0638\u0686 \u0637\u00B9\u0638\u0698\u0638\u2020 \u0638\u02C6\u0638\u0698\u0637\u00A7\u0638\u201E\u0638\u06AF\u0637\u00AF\u0638\u06AF\u0638\u2021\u0638\u06AF \u0637\u00B4\u0638\u0698\u0638\u0679\u0638\u2019\u0637\u00A6\u0638\u2039\u0637\u00A7 \u063A\u0691 \u0637\u00A5\u0638\u06AF\u0638\u2020\u0638\u2018\u0638\u0698 \u0638\u02C6\u0638\u0698\u0637\u00B9\u0638\u2019\u0637\u00AF\u0638\u0698 \u0637\u00A7\u0638\u201E\u0638\u201E\u0638\u2018\u0638\u0698\u0638\u2021\u0638\u06AF \u0637\u00AD\u0638\u0698\u0638\u201A\u0638\u2018\u0638\u0152 \u063A\u2013 \u0638\u067E\u0638\u0698\u0638\u201E\u0638\u0698\u0637\u00A7 \u0637\u06BE\u0638\u0698\u0637\u061B\u0638\u0688\u0637\u00B1\u0638\u2018\u0638\u0698\u0638\u2020\u0638\u2018\u0638\u0698\u0638\u0192\u0638\u0688\u0638\u2026\u0638\u0688 \u0637\u00A7\u0638\u201E\u0638\u2019\u0637\u00AD\u0638\u0698\u0638\u0679\u0638\u0698\u0637\u00A7\u0637\u00A9\u0638\u0688 \u0637\u00A7\u0638\u201E\u0637\u00AF\u0638\u2018\u0638\u0688\u0638\u2020\u0638\u2019\u0638\u0679\u0638\u0698\u0637\u00A7 \u0638\u02C6\u0638\u0698\u0638\u201E\u0638\u0698\u0637\u00A7 \u0638\u0679\u0638\u0698\u0637\u061B\u0638\u0688\u0637\u00B1\u0638\u2018\u0638\u0698\u0638\u2020\u0638\u2018\u0638\u0698\u0638\u0192\u0638\u0688\u0638\u2026 \u0637\u00A8\u0638\u06AF\u0637\u00A7\u0638\u201E\u0638\u201E\u0638\u2018\u0638\u0698\u0638\u2021\u0638\u06AF \u0637\u00A7\u0638\u201E\u0638\u2019\u0637\u061B\u0638\u0698\u0637\u00B1\u0638\u0688\u0638\u02C6\u0637\u00B1\u0638\u0688",
+          "transliteration": {
+            "en": "Yaaa ayyuhan naasuttaqoo Rabbakum wakhshaw Yawmal laa yajzee waalidun \u0027anw waladihee wa laa mawloodun huwa jaazin \u0027anw waalidihee shai\u0027aa; innaa wa\u0027dal laahi haqqun falaa taghurran nakumul hayaatud dunyaa wa laa yaghur rannakum billaahil gharoon",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "O mankind, fear your Lord and fear a Day when no father will avail his son, nor will a son avail his father at all. Indeed, the promise of Allah is truth, so let not the worldly life delude you and be not deceived about Allah by the Deceiver.",
+          "id": "Wahai manusia! Bertakwalah kepada Tuhanmu dan takutlah pada hari yang (ketika itu) seorang bapak tidak dapat menolong anaknya, dan seorang anak tidak dapat (pula) menolong bapaknya sedikit pun. Sungguh, janji Allah pasti benar, maka janganlah sekali-kali kamu teperdaya oleh kehidupan dunia, dan jangan sampai kamu teperdaya oleh penipu dalam (menaati) Allah."
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/3502",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3502.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3502.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Beralih dari pemaparan bukti-bukti keesaan dan kekuasaan-Nya, Allah dalam ayat ini memerintahkan manusia bertakwa kepada-Nya dan takut akan datangnya hari kiamat. Wahai manusia! Bertakwalah kepada Tuhanmu yang menciptakanmu dan memberimu rezeki serta menundukkan dan mengendalikan alam ini demi memenuhi kebutuhanmu, dan takutlah kamu pada hari yang ketika itu seorang bapak tidak dapat menolong anaknya, dan seorang anak tidak pula dapat menolong bapaknya sedikit pun. Bertakwalah dengan menunjukkan penghambaan yang tulus kepada-Nya. Sungguh, hari kebangkitan, pahala, dan siksa yang merupakan janji Allah pasti benar, maka janganlah sekali-kali kamu teperdaya oleh kehidupan dunia yang fana, dan jangan sampai kamu teperdaya oleh penipu yang salah dalam memahami Allah, seakan Dia membiarkan mereka sesat dengan tidak menurunkan azab, padahal turunnya azab itu hanya ditunda sesaat.",
+            "long": "Ayat ini menerangkan sifat-sifat orang-orang musyrik dengan melukiskan mereka, \u0022Apabila orang-orang musyrik penyembah patung dan pemuja dewa itu berlayar ke tengah lautan, tiba-tiba datang gelombang besar dan menghempaskan bahtera mereka ke kiri dan ke kanan, dan merasa bahwa mereka tidak akan selamat, bahkan akan mati ditelan gelombang, maka di saat itulah mereka kembali kepada fitrahnya, dengan berdoa kepada Tuhan Yang Maha Esa dengan setulus-tulusnya. Pada saat serupa itu mereka berkeyakinan bahwa tidak ada sesuatupun yang dapat menyelamatkan mereka kecuali Allah semata, seperti yang pernah dilakukan Fir\u0027aun di saat-saat ia akan tenggelam di laut.\n\nSetelah Allah menerima doa dan menyelamatkan mereka dari amukan gelombang itu, maka di antara mereka hanya sebagian saja yang tetap mengakui keesaan Allah, adapun yang lainnya kembali menyekutukan Tuhan. \n\nPada akhir ayat ini, Allah menegaskan bahwa yang mengingkari ayat-ayat-Nya itu dan kembali mempersekutukan Tuhan ialah orang-orang yang dalam hidupnya penuh dengan tipu daya dan kebusukan, serta mengingkari nikmat Allah.\n\n(33) Pada ayat ini, Allah memerintahkan kepada manusia untuk melaksanakan perintah-perintah dan menjauhkan diri dari hal-hal yang dilarang. Tuhan yang telah menciptakan manusia dan menciptakan langit dan bumi dengan segala isinya untuk kepentingannya. Manusia hendaklah takut pada hari dimana terjadi malapetaka yang dahsyat, tidak seorang pun yang dapat menyelamatkan dirinya dari malapetaka itu. Pada waktu itu, seorang ayah tidak kuasa menolong anaknya, demikian pula seorang anak tidak dapat menolong bapaknya, karena segala urusan waktu itu berada di tangan Allah. Tiap-tiap orang bertanggung jawab terhadap segala perbuatan yang telah dilakukannya. Mereka memikul dosanya masing-masing. Hanya perbuatan baik yang telah dilakukannya selama hidup di dunia yang dapat menolong manusia dari malapetaka itu.\n\nAllah memperingatkan bahwa janji-Nya membangkitkan manusia dari kubur adalah sesuatu yang benar-benar akan terjadi dan suatu kebenaran yang tidak dapat diragukan sedikit pun. Oleh karena itu, janganlah sekali-kali manusia tertipu oleh kesenangan hidup di dunia dan segala kenikmatan yang ada padanya, sehingga mereka berusaha dan menghabiskan seluruh waktu yang ada untuk memperoleh dan menikmati kesenangan-kesenangan duniawi. Akibatnya, tidak ada waktu lagi untuk beribadah kepada Allah, serta mengerjakan kebajikan dan amal saleh. Padahal kehidupan akhirat itulah kehidupan yang sebenarnya, kehidupan yang kekal dan lebih baik.\n\nDemikian pula Allah memperingatkan manusia akan tipu daya setan, yang selalu mencari-cari kesempatan untuk memperdaya manusia. Setan itu menjadikan kehidupan dunia itu indah dalam pandangan matanya, sehingga mereka lupa kepada tugas yang dipikulkan Allah kepada mereka sebagai khalifatullah fil ardh (makhluk yang diberi-Nya tugas memakmurkan bumi)."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 3503,
+          "inSurah": 34,
+          "Jommal_classic": " 3609 5409 4518 4509 4545 9009 5427 8109 1809 2700 6345 1000 3609 3627 4509 3627 4527 1827 1000 3609 3627 4509 4518 2727 4518 1000 3609 5409 5409 3627",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9\t\t1\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t1\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t1\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 21,
+          "page": 414,
+          "manzil": 5,
+          "ruku": 357,
+          "hizbQuarter": 165,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0637\u00A5\u0638\u06AF\u0638\u2020\u0638\u2018\u0638\u0698 \u0637\u00A7\u0638\u201E\u0638\u201E\u0638\u2018\u0638\u0698\u0638\u2021\u0638\u0698 \u0637\u00B9\u0638\u06AF\u0638\u2020\u0637\u00AF\u0638\u0698\u0638\u2021\u0638\u0688 \u0637\u00B9\u0638\u06AF\u0638\u201E\u0638\u2019\u0638\u2026\u0638\u0688 \u0637\u00A7\u0638\u201E\u0637\u00B3\u0638\u2018\u0638\u0698\u0637\u00A7\u0637\u00B9\u0638\u0698\u0637\u00A9\u0638\u06AF \u0638\u02C6\u0638\u0698\u0638\u0679\u0638\u0688\u0638\u2020\u0638\u0698\u0637\u00B2\u0638\u2018\u0638\u06AF\u0638\u201E\u0638\u0688 \u0637\u00A7\u0638\u201E\u0638\u2019\u0637\u061B\u0638\u0698\u0638\u0679\u0638\u2019\u0637\u00AB\u0638\u0698 \u0638\u02C6\u0638\u0698\u0638\u0679\u0638\u0698\u0637\u00B9\u0638\u2019\u0638\u201E\u0638\u0698\u0638\u2026\u0638\u0688 \u0638\u2026\u0638\u0698\u0637\u00A7 \u0638\u067E\u0638\u06AF\u0638\u0679 \u0637\u00A7\u0638\u201E\u0638\u2019\u0637\u00A3\u0638\u0698\u0637\u00B1\u0638\u2019\u0637\u00AD\u0638\u0698\u0637\u00A7\u0638\u2026\u0638\u06AF \u063A\u2013 \u0638\u02C6\u0638\u0698\u0638\u2026\u0638\u0698\u0637\u00A7 \u0637\u06BE\u0638\u0698\u0637\u00AF\u0638\u2019\u0637\u00B1\u0638\u06AF\u0638\u0679 \u0638\u2020\u0638\u0698\u0638\u067E\u0638\u2019\u0637\u00B3\u0638\u0152 \u0638\u2026\u0638\u2018\u0638\u0698\u0637\u00A7\u0637\u00B0\u0638\u0698\u0637\u00A7 \u0637\u06BE\u0638\u0698\u0638\u0192\u0638\u2019\u0637\u00B3\u0638\u06AF\u0637\u00A8\u0638\u0688 \u0637\u061B\u0638\u0698\u0637\u00AF\u0638\u2039\u0637\u00A7 \u063A\u2013 \u0638\u02C6\u0638\u0698\u0638\u2026\u0638\u0698\u0637\u00A7 \u0637\u06BE\u0638\u0698\u0637\u00AF\u0638\u2019\u0637\u00B1\u0638\u06AF\u0638\u0679 \u0638\u2020\u0638\u0698\u0638\u067E\u0638\u2019\u0637\u00B3\u0638\u0152 \u0637\u00A8\u0638\u06AF\u0637\u00A3\u0638\u0698\u0638\u0679\u0638\u2018\u0638\u06AF \u0637\u00A3\u0638\u0698\u0637\u00B1\u0638\u2019\u0637\u00B6\u0638\u0686 \u0637\u06BE\u0638\u0698\u0638\u2026\u0638\u0688\u0638\u02C6\u0637\u06BE\u0638\u0688 \u063A\u0691 \u0637\u00A5\u0638\u06AF\u0638\u2020\u0638\u2018\u0638\u0698 \u0637\u00A7\u0638\u201E\u0638\u201E\u0638\u2018\u0638\u0698\u0638\u2021\u0638\u0698 \u0637\u00B9\u0638\u0698\u0638\u201E\u0638\u06AF\u0638\u0679\u0638\u2026\u0638\u0152 \u0637\u00AE\u0638\u0698\u0637\u00A8\u0638\u06AF\u0638\u0679\u0637\u00B1\u0638\u0152",
+          "transliteration": {
+            "en": "Innal laaha \u0027indahoo \u0027ilmus saa\u0027ati wa yunazzilul ghaisa wa ya\u0027lamu maa fil arhaami wa maa tadree nafsum maazaa takisbu ghadaa; wa maa tadree nafsum bi ayyi ardin tamoot; innal laaha \u0027Aleemun Khabeer",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "Indeed, Allah [alone] has knowledge of the Hour and sends down the rain and knows what is in the wombs. And no soul perceives what it will earn tomorrow, and no soul perceives in what land it will die. Indeed, Allah is Knowing and Acquainted.",
+          "id": "Sesungguhnya hanya di sisi Allah ilmu tentang hari Kiamat; dan Dia yang menurunkan hujan, dan mengetahui apa yang ada dalam rahim. Dan tidak ada seorang pun yang dapat mengetahui (dengan pasti) apa yang akan dikerjakannya besok. Dan tidak ada seorang pun yang dapat mengetahui di bumi mana dia akan mati. Sungguh, Allah Maha Mengetahui, Maha Mengenal."
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/3503",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3503.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3503.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Ayat ini memaparkan lima hal gaib yang hanya diketahui Allah hakikatnya. Sesungguhnya hanya di sisi Allah ilmu tentang kapan hari Kiamat tiba; dan Dia yang menurunkan hujan pada waktu, tempat, dan kadar yang ditentukan-Nya; dan mengetahui apa yang ada dalam rahim, terutama jenis kelamin, karakter, dan sifat-sifatnya. Dan tidak ada seorang pun yang dapat mengetahui dengan pasti apa yang akan dikerjakannya atau didapatinya besok, namun mereka tetap wajib berusaha. Dan tidak ada seorang pun yang dapat mengetahui di bumi mana dia akan mati. Sungguh, Allah Maha Mengetahui dengan ilmu-Nya yang mutlak dan tidak terbatas pada lima hal gaib tersebut, Maha Mengenal karena ilmu-Nya meliputi hal-hal lahir dan batin.",
+            "long": "Pada ayat ini, Allah menerangkan lima perkara gaib yang hanya Dia yang mengetahuinya, yaitu:\n\n1. Hanya Allah yang mengetahui kapan datangnya Hari Kiamat. Tidak ada satu makhluk pun yang mengetahui meskipun itu malaikat, padahal malaikat adalah makhluk yang paling dekat dengan-Nya. Hal ini juga tidak diketahui oleh para nabi yang diutus.\n\nTidak ada (seorang pun) yang dapat menjelaskan waktu terjadinya selain Dia. (al-A\u0027raf/7: 187) \n\n2. Hanya Allah yang menurunkan hujan. Dia yang menetapkan kapan, dimana, dan berapa banyak kadar air yang akan dicurahkan-Nya. Ketetapan ini tidak seorang pun yang dapat mengetahuinya. \n\n3. Hanya Allah yang dapat mengetahui dengan pasti apa yang ada dalam kandungan seorang perempuan, apakah cacat atau sempurna, dan kapan ia akan dilahirkan.\n\n4. Hanya Dia pula yang mengetahui dengan pasti apa yang akan dikerjakan oleh seseorang esok harinya. Sekalipun manusia dapat merencanakan apa yang akan dikerjakannya itu, namun semuanya itu hanyalah bersifat rencana saja. Jika Allah menghendaki, pekerjaan itu akan terlaksana. Akan tetapi, jika Ia tidak menghendaki, tidak sukar bagi-Nya untuk menghalangi terlaksananya.\n\n5. Seseorang tidak mengetahui di mana ia akan meninggal dunia nanti. Apakah di daratan, di lautan, ataupun di udara. Apakah di negeri ini, atau di negeri yang lain. Hanya Allah saja yang dapat mengetahuinya dengan pasti.\n\nDiriwayatkan dari Ibnu Mundzir dari \u0027Ikrimah bahwa seorang laki-laki bernama al-Waris bin \u0027Amr bin harisah datang kepada Nabi saw, ia bertanya, \u0022Ya Muhammad, kapan akan datang hari Kiamat? Bumi kita telah kering, kapan akan menjadi subur? Sesungguhnya aku meninggalkan istriku dalam keadaan hamil, kapan ia akan melahirkan? Aku mengetahui apa yang aku kerjakan sekarang, maka apakah yang akan aku kerjakan esok harinya? Aku mengetahui tempat aku dilahirkan, maka di tempat manakah aku akan meninggal? Sebagai jawabannya, turunlah ayat ini.\n\nDiriwayatkan oleh al-Bukhari dan Muslim dari Ibnu \u0027Umar bahwa Rasulullah saw bersabda:\n\nKunci masalah yang gaib itu ada lima, \u0022Sesungguhnya hanya pada Allah sajalah pengetahuan tentang Hari Kiamat. Dialah yang menurunkan hujan, Dia mengetahui apa yang dalam rahim, seseorang tidak mengetahui apa yang akan dikerjakannya esok harinya, dan ia juga tidak mengetahui di bumi mana ia akan meninggal dunia. Sesungguhnya Allah Maha Mengetahui lagi Maha Penyayang.\u0022 (Riwayat al-Bukhari dan Muslim dari Ibnu \u0027Umar)"
+          }
+        }
+      }
+    ]
+  }
+}

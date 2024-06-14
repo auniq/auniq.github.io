@@ -1,0 +1,438 @@
+{
+  "code": 200,
+  "status": "OK.",
+  "message": "Success fetching surah.",
+  "data": {
+    "number": 104,
+    "sequence": 32,
+    "numberOfVerses": 9,
+    "name": {
+      "short": "\u0637\u00A7\u0638\u201E\u0638\u2021\u0638\u2026\u0637\u00B2\u0637\u00A9",
+      "long": "\u0637\u00B3\u0638\u02C6\u0637\u00B1\u0637\u00A9 \u0637\u00A7\u0638\u201E\u0638\u2021\u0638\u2026\u0637\u00B2\u0637\u00A9",
+      "transliteration": {
+        "en": "Al-Humaza",
+        "id": "Al-Humazah"
+      },
+      "translation": {
+        "en": "The Traducer",
+        "id": "Pengumpat"
+      }
+    },
+    "revelation": {
+      "arab": "\u0638\u2026\u0638\u0192\u0637\u00A9",
+      "en": "Meccan",
+      "id": "Makkiyyah"
+    },
+    "tafsir": {
+      "id": "Surat Al Humazah terdiri atas 9 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Al Qiyaamah. Dinamai Al Humazah (pengumpat) diambil dari perkataan Humazah yang terdapat pada ayat pertama surat ini."
+    },
+    "preBismillah": {
+      "text": {
+        "arab": "\u0637\u00A8\u0638\u06AF\u0637\u00B3\u0638\u2019\u0638\u2026\u0638\u06AF \u0637\u00A7\u0638\u201E\u0638\u201E\u0638\u2018\u0638\u0698\u0638\u2021\u0638\u06AF \u0637\u00A7\u0638\u201E\u0637\u00B1\u0638\u2018\u0638\u0698\u0637\u00AD\u0638\u2019\u0638\u2026\u0638\u0698\u0638\u00B0\u0638\u2020\u0638\u06AF \u0637\u00A7\u0638\u201E\u0637\u00B1\u0638\u2018\u0638\u0698\u0637\u00AD\u0638\u06AF\u0638\u0679\u0638\u2026\u0638\u06AF",
+        "transliteration": {
+          "en": "Bismillaahir Rahmaanir Raheem"
+        }
+      },
+      "translation": {
+        "en": "In the name of Allah, the Entirely Merciful, the Especially Merciful.",
+        "id": "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang."
+      },
+      "audio": {
+        "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1",
+        "secondary": [
+          "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1.mp3",
+          "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1.mp3"
+        ]
+      }
+    },
+    "verses": [
+      {
+        "number": {
+          "inQuran": 6180,
+          "inSurah": 1,
+          "Jommal_classic": " 5400 7200 5418 6318",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 601,
+          "manzil": 7,
+          "ruku": 546,
+          "hizbQuarter": 240,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u02C6\u0638\u0698\u0638\u0679\u0638\u2019\u0638\u201E\u0638\u0152 \u0638\u201E\u0638\u2018\u0638\u06AF\u0638\u0192\u0638\u0688\u0638\u201E\u0638\u2018\u0638\u06AF \u0638\u2021\u0638\u0688\u0638\u2026\u0638\u0698\u0637\u00B2\u0638\u0698\u0637\u00A9\u0638\u0686 \u0638\u201E\u0638\u2018\u0638\u0688\u0638\u2026\u0638\u0698\u0637\u00B2\u0638\u0698\u0637\u00A9\u0638\u0686",
+          "transliteration": {
+            "en": "Wai lul-li kulli hu mazatil-lumaza",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "Woe to every scorner and mocker",
+          "id": "Celakalah bagi setiap pengumpat dan pencela,"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6180",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6180.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6180.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Celakalah bagi setiap pengumpat atau pencaci, baik dengan ucapan atau isyarat, dan demikian pula pencela dengan menampilkan keburukan orang lain untuk menghinakannya. Perbuatan ini berdampak buruk dalam pergaulan karena mencoreng wibawa dan kehormatan seseorang, serta menghilangkan kepercayaan kepada orang tersebut.",
+            "long": "Dalam ayat ini, Allah mengancam bahwa kemurkaan dan azab-Nya akan ditimpakan kepada setiap orang yang mengumpat, mencela, dan menyakiti mereka baik di hadapan maupun di belakang mereka. Firman Allah:\n\nWahai orang-orang yang beriman! Jauhilah banyak dari prasangka, sesungguhnya sebagian prasangka itu dosa dan janganlah kamu mencari-cari kesalahan orang lain dan janganlah ada di antara kamu yang menggunjing sebagian yang lain. Apakah ada di antara kamu yang suka memakan daging saudaranya yang sudah mati? Tentu kamu merasa jijik. Dan bertakwalah kepada Allah, sesungguhnya Allah Maha Penerima tobat, Maha Penyayang. (al-hujurat/49: 12)"
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 6181,
+          "inSurah": 2,
+          "Jommal_classic": " 4518 3618 3618 7227",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 601,
+          "manzil": 7,
+          "ruku": 546,
+          "hizbQuarter": 240,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0637\u00A7\u0638\u201E\u0638\u2018\u0638\u0698\u0637\u00B0\u0638\u06AF\u0638\u0679 \u0637\u00AC\u0638\u0698\u0638\u2026\u0638\u0698\u0637\u00B9\u0638\u0698 \u0638\u2026\u0638\u0698\u0637\u00A7\u0638\u201E\u0638\u2039\u0637\u00A7 \u0638\u02C6\u0638\u0698\u0637\u00B9\u0638\u0698\u0637\u00AF\u0638\u2018\u0638\u0698\u0637\u00AF\u0638\u0698\u0638\u2021\u0638\u0688",
+          "transliteration": {
+            "en": "Al-lazi jama\u0027a maalaw wa\u0027addadah",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "Who collects wealth and [continuously] counts it.",
+          "id": "yang mengumpulkan harta dan menghitung-hitungnya,"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6181",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6181.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6181.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Celakalah orang yang sifatnya demikian, yang selalu menyibukkan diri dan berorientasi pada mengumpulkan harta benda dan menghitung-hitungnya. Dia merasa nyaman untuk menumpuk dan menghitung harta untuk menjamin kehidupannya di masa datang, dan enggan me-nunai\u0622\u00ADkan hak Allah dalam hartanya itu.",
+            "long": "Ayat ini menerangkan bahwa orang yang menimbun harta juga diancam neraka karena memperkaya diri sendiri serta selalu menghitung-hitung harta kekayaannya. Hal itu ia lakukan karena sangat cinta dan senangnya kepada harta seakan-akan tidak ada kebahagiaan dan kemuliaan dalam hidup kecuali dengan harta. Bila ia menoleh kepada hartanya yang banyak itu, ia merasakan bahwa kedudukannya sudah tinggi dari orang-orang sekelilingnya.\n\nDia tidak merasa khawatir akan ditimpa musibah karena mencerca dan merobek-robek kehormatan orang lain. Karena kecongkakannya, ia lupa dan tidak sadar bahwa maut selalu mengintainya, tidak memikirkan apa yang akan terjadi sesudah mati, dan tidak pula merenungkan apa-apa yang akan terjadi atas dirinya."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 6182,
+          "inSurah": 3,
+          "Jommal_classic": " 4527 3609 5409 6327",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 601,
+          "manzil": 7,
+          "ruku": 546,
+          "hizbQuarter": 240,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u0679\u0638\u0698\u0637\u00AD\u0638\u2019\u0637\u00B3\u0638\u0698\u0637\u00A8\u0638\u0688 \u0637\u00A3\u0638\u0698\u0638\u2020\u0638\u2018\u0638\u0698 \u0638\u2026\u0638\u0698\u0637\u00A7\u0638\u201E\u0638\u0698\u0638\u2021\u0638\u0688 \u0637\u00A3\u0638\u0698\u0637\u00AE\u0638\u2019\u0638\u201E\u0638\u0698\u0637\u00AF\u0638\u0698\u0638\u2021\u0638\u0688",
+          "transliteration": {
+            "en": "Yahsabu anna maalahu akhladah",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "He thinks that his wealth will make him immortal.",
+          "id": "dia (manusia) mengira bahwa hartanya itu dapat mengekalkannya."
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6182",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6182.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6182.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Dia senang dan sibuk mengumpulkan harta karena mengira bahwa hartanya itu dapat mengekalkan hidupnya di dunia. Dia terbuai oleh hartanya dan lupa bahwa harta sebanyak apa pun tidak akan dapat digunakan untuk menolak datangnya sesuatu yang tidak diinginkannya, yaitu kematian.",
+            "long": "Kemudian Allah menyatakan kesalahan anggapan pengumpat dan pencerca bahwa harta yang dimilikinya itu menjaminnya akan tetap hidup di dunia selamanya. Oleh karena itu, tindakannya sama dengan tindakan orang yang akan hidup selama-lamanya dan bila ia mati tidak akan hidup kembali untuk menerima balasan atas kejahatannya selama hidup di dunia."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 6183,
+          "inSurah": 4,
+          "Jommal_classic": " 4509 1000 9018 2700 6336",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t1\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 601,
+          "manzil": 7,
+          "ruku": 546,
+          "hizbQuarter": 240,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u0192\u0638\u0698\u0638\u201E\u0638\u2018\u0638\u0698\u0637\u00A7 \u063A\u2013 \u0638\u201E\u0638\u0698\u0638\u0679\u0638\u0688\u0638\u2020\u0637\u00A8\u0638\u0698\u0637\u00B0\u0638\u0698\u0638\u2020\u0638\u2018\u0638\u0698 \u0638\u067E\u0638\u06AF\u0638\u0679 \u0637\u00A7\u0638\u201E\u0638\u2019\u0637\u00AD\u0638\u0688\u0637\u00B7\u0638\u0698\u0638\u2026\u0638\u0698\u0637\u00A9\u0638\u06AF",
+          "transliteration": {
+            "en": "Kalla layum ba zanna fil hutamah",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "No! He will surely be thrown into the Crusher.",
+          "id": "Sekali-kali tidak! Pasti dia akan dilemparkan ke dalam (neraka) Hutamah."
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6183",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6183.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6183.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Sekali-kali tidak! Harta itu tidak akan menolak datangnya kematian kepadanya. Setelah mati dan dihisab atas perbuatan buruknya itu, pasti dia akan dilemparkan dan dicampakkan dengan hina ke dalam neraka Hutamah oleh para malaikat Zabaniah yang bengis, kasar, dan galak.",
+            "long": "Sesudah mengancam orang-orang yang bersifat demikian dengan siksaan yang pedih, Allah menyebutkan pula sebab yang membuat mereka mengerjakan sifat-sifat yang terkutuk itu. Penyebabnya adalah anggapan mereka bahwa semua harta yang dimiliki dapat menolong mereka dalam menghadapi kesulitan-kesulitan yang dihadapi. Ancaman dalam bentuk pertanyaan, \u0022Siapakah yang menyangka bahwa hartanya itu dapat menjamin dirinya dari mati?\u0022 Allah menjawab, \u0022Tidak! Sekali-kali tidak bahkan dia akan dilemparkan ke dalam neraka Huthamah, tidak ada yang memperhatikannya dan tidak pula yang mempedulikan.\u0022\n\n\u0027Ali bin Abi thalib pernah memberi nasihat kepada Kumail bahwa orang-orang penimbun harta akan binasa, padahal mereka masih hidup, sedangkan para ulama akan kekal abadi meskipun jasad mereka sudah hilang, karena sifat-sifat keutamaan mereka tetap dikenang dalam hati. Maksudnya, penimbunan harta dikutuk, dicela, dan dibenci karena manusia tidak mendapat apa-apa dari harta mereka. Sedang para sarjana dan ulama terus-menerus terpuji selama terdapat di bumi orang-orang yang mengambil manfaat dari ilmu mereka."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 6184,
+          "inSurah": 5,
+          "Jommal_classic": " 3609 4536 1809 6336",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 601,
+          "manzil": 7,
+          "ruku": 546,
+          "hizbQuarter": 240,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u02C6\u0638\u0698\u0638\u2026\u0638\u0698\u0637\u00A7 \u0637\u00A3\u0638\u0698\u0637\u00AF\u0638\u2019\u0637\u00B1\u0638\u0698\u0637\u00A7\u0638\u0192\u0638\u0698 \u0638\u2026\u0638\u0698\u0637\u00A7 \u0637\u00A7\u0638\u201E\u0638\u2019\u0637\u00AD\u0638\u0688\u0637\u00B7\u0638\u0698\u0638\u2026\u0638\u0698\u0637\u00A9\u0638\u0688",
+          "transliteration": {
+            "en": "Wa maa adraaka mal-hutamah",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "And what can make you know what is the Crusher?",
+          "id": "Dan tahukah kamu apakah (neraka) Hutamah itu?"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6184",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6184.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6184.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Dan tahukah kamu apakah neraka Hutamah itu? Demikian pertanyaan Allah guna menarik perhatian serius manusia terhadap apa yang disampaikan-Nya.",
+            "long": "Dalam ayat-ayat ini, Allah menggambarkan kedahsyatan neraka Huthamah dalam bentuk pertanyaan, \u0022Tahukah engkau apa Huthamah?\u0022 Allah menjelaskan sendiri bahwa Huthamah adalah api yang disediakan-Nya untuk menyiksa orang-orang yang durhaka dan berdosa. Tidak ada yang mampu mengetahui apa hakikatnya kecuali Allah penciptanya."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 6185,
+          "inSurah": 6,
+          "Jommal_classic": " 2718 5409 8127",
+          "Jommal_Moderen": "9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 601,
+          "manzil": 7,
+          "ruku": 546,
+          "hizbQuarter": 240,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u2020\u0638\u0698\u0637\u00A7\u0637\u00B1\u0638\u0688 \u0637\u00A7\u0638\u201E\u0638\u201E\u0638\u2018\u0638\u0698\u0638\u2021\u0638\u06AF \u0637\u00A7\u0638\u201E\u0638\u2019\u0638\u2026\u0638\u0688\u0638\u02C6\u0638\u201A\u0638\u0698\u0637\u00AF\u0638\u0698\u0637\u00A9\u0638\u0688",
+          "transliteration": {
+            "en": "Narul laahil-mooqada",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "It is the fire of Allah, [eternally] fueled,",
+          "id": "(Yaitu) api  (azab) Allah yang dinyalakan,"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6185",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6185.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6185.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Hutamah ialah api azab Allah yang dinyalakan,",
+            "long": "Dalam ayat-ayat ini, Allah menggambarkan kedahsyatan neraka Huthamah dalam bentuk pertanyaan, \u0022Tahukah engkau apa Huthamah?\u0022 Allah menjelaskan sendiri bahwa Huthamah adalah api yang disediakan-Nya untuk menyiksa orang-orang yang durhaka dan berdosa. Tidak ada yang mampu mengetahui apa hakikatnya kecuali Allah penciptanya."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 6186,
+          "inSurah": 7,
+          "Jommal_classic": " 4518 5427 3609 7245",
+          "Jommal_Moderen": "9\t\t9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 601,
+          "manzil": 7,
+          "ruku": 546,
+          "hizbQuarter": 240,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0637\u00A7\u0638\u201E\u0638\u2018\u0638\u0698\u0637\u06BE\u0638\u06AF\u0638\u0679 \u0637\u06BE\u0638\u0698\u0637\u00B7\u0638\u2018\u0638\u0698\u0638\u201E\u0638\u06AF\u0637\u00B9\u0638\u0688 \u0637\u00B9\u0638\u0698\u0638\u201E\u0638\u0698\u0638\u2030 \u0637\u00A7\u0638\u201E\u0638\u2019\u0637\u00A3\u0638\u0698\u0638\u067E\u0638\u2019\u0637\u00A6\u0638\u06AF\u0637\u00AF\u0638\u0698\u0637\u00A9\u0638\u06AF",
+          "transliteration": {
+            "en": "Al latee tat tali\u0027u \u0027alalafidah",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "Which mounts directed at the hearts.",
+          "id": "yang (membakar) sampai ke hati."
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6186",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6186.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6186.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "yang panasnya menembus dada manusia sampai ke hati lalu membakarnya. Hati adalah organ yang paling sensitif terhadap rasa sakit dalam kadar kecil sekalipun, lalu bagaimana bila api neraka itu sampai membakarnya hingga lebur?",
+            "long": "Allah lalu menyatakan bahwa api yang menyala-nyala itu berbeda dengan api dunia. Ia menjilat dan naik sampai ke hulu hati, kemudian masuk ke dalam rongga perut sampai ke dada dan membakar hati. Hati adalah yang merasa paling sakit dari anggota-anggota badan lainnya. Apabila api sampai membakar hati, berarti siksa yang dirasakannya sudah sampai ke puncaknya."
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 6187,
+          "inSurah": 8,
+          "Jommal_classic": " 5418 7209 6336",
+          "Jommal_Moderen": "9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 601,
+          "manzil": 7,
+          "ruku": 546,
+          "hizbQuarter": 240,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0637\u00A5\u0638\u06AF\u0638\u2020\u0638\u2018\u0638\u0698\u0638\u2021\u0638\u0698\u0637\u00A7 \u0637\u00B9\u0638\u0698\u0638\u201E\u0638\u0698\u0638\u0679\u0638\u2019\u0638\u2021\u0638\u06AF\u0638\u2026 \u0638\u2026\u0638\u2018\u0638\u0688\u0637\u00A4\u0638\u2019\u0637\u00B5\u0638\u0698\u0637\u00AF\u0638\u0698\u0637\u00A9\u0638\u0152",
+          "transliteration": {
+            "en": "Innaha \u0027alaihim moosada",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "Indeed, Hellfire will be closed down upon them",
+          "id": "Sungguh, api itu ditutup rapat atas (diri) mereka,"
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6187",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6187.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6187.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Sungguh, api itu ditutup rapat atas diri mereka yang suka mengumpat, mencela, mengumpul\u0622\u00ADkan harta, dan menghitung-hitungnya. Tidak ada celah sedikit pun yang memungkinkan udara dari luar merembes masuk. Akibatnya, kadar panas api itu tidak pernah turun, bahkan terus naik.",
+            "long": "Dalam ayat ini, Allah mengungkapkan bahwa api tersebut berlapis-lapis mengelilingi mereka. Mereka tidak dikeluarkan daripadanya dan tidak pula mampu keluar sendiri. Dalam ayat lain, Allah berfirman:\n\nSetiap kali mereka hendak keluar darinya (neraka) karena tersiksa, mereka dikembalikan (lagi) ke dalamnya. (al-hajj/22: 22)"
+          }
+        }
+      },
+      {
+        "number": {
+          "inQuran": 6188,
+          "inSurah": 9,
+          "Jommal_classic": " 2700 3618 8127",
+          "Jommal_Moderen": "9\t\t9\t\t9"
+        },
+        "meta": {
+          "juz": 30,
+          "page": 601,
+          "manzil": 7,
+          "ruku": 546,
+          "hizbQuarter": 240,
+          "sajda": {
+            "recommended": false,
+            "obligatory": false
+          }
+        },
+        "text": {
+          "arab": "\u0638\u067E\u0638\u06AF\u0638\u0679 \u0637\u00B9\u0638\u0698\u0638\u2026\u0638\u0698\u0637\u00AF\u0638\u0686 \u0638\u2026\u0638\u2018\u0638\u0688\u0638\u2026\u0638\u0698\u0637\u00AF\u0638\u2018\u0638\u0698\u0637\u00AF\u0638\u0698\u0637\u00A9\u0638\u0686",
+          "transliteration": {
+            "en": "Fee \u0027amadim-mu mad dadah",
+            "id": null
+          }
+        },
+        "translation": {
+          "en": "In extended columns.",
+          "id": "(sedang mereka itu) diikat pada tiang-tiang yang panjang."
+        },
+        "audio": {
+          "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6188",
+          "secondary": [
+            "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6188.mp3",
+            "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6188.mp3"
+          ]
+        },
+        "tafsir": {
+          "id": {
+            "short": "Para pendosa itu diikat dengan erat pada tiang-tiang yang panjang hingga mereka tidak dapat bergerak sedikit pun di Hutamah itu, apa lagi keluar darinya.",
+            "long": "Allah menjelaskan melalui ayat ini keadaan orang-orang penghuni neraka Huthamah. Menurut Muqatil, pintu-pintu neraka itu ditutup rapat, sedangkan para penghuninya diikat pada tiang-tiang besi. Pintu-pintu itu tidak pernah dibuka dan di sana penuh dengan segala macam penderitaan. Tujuannya adalah untuk menjadikan mereka putus asa karena tidak dapat keluar dari neraka Huthamah itu. Semoga Allah menyelamatkan kita dari kemurkaan-Nya dan memelihara kita dari kedahsyatan api neraka dengan anugerah dan karunia-Nya."
+          }
+        }
+      }
+    ]
+  }
+}
